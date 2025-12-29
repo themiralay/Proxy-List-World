@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|157.66.51.177|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
 |9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
-|11|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|8.212.160.196|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|103.245.204.90|1120|Bangladesh|Dhaka|Next Online Ltd.|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|15|144.125.164.158|8081|United States|Santa Clara|Google LLC|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|20|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
+|20|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
 
 
 
