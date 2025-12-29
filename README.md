@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81506** proxies at the latest update. Usable proxies are below.
+> Scraper found **81501** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38841|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38836|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41350|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|7|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
-|17|43.225.150.97|1120|Bangladesh|Dhaka|Next Online|
-|18|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|152.32.93.105|8082|Philippines|Quezon City|Converge Information and Communications Technology Solutions|
+|7|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|8|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|14.239.54.62|8080|Vietnam|Haiphong|VNPT|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|19|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|20|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
 
 
 
