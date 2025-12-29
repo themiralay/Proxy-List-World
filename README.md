@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|1|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
-|9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|14|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|17|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|18|43.224.118.130|1121|Bangladesh|Dhaka|Next Online|
+|5|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|43.225.148.210|1120|Bangladesh|Tongi|Next Online|
+|11|162.240.154.26|3128|United States|Provo|Unified Layer|
+|12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|13|167.206.113.248|3128|United States|Belleville|Cablevision Systems Corp.|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|43.225.151.30|1121|Bangladesh|Dhaka|Next Online|
+|20|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
 
 
 
