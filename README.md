@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|17|189.73.53.94|8080|Brazil|Curitiba|V tal|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|8.212.160.196|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|191.97.3.210|9992|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|176.100.60.249|3128|Russia|Volodarskiy|PE Scherban Evgeniy Aleksandrovich|
 
 
 
