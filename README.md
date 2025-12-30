@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|8.212.160.196|443|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.73.193.133|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|15|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|103.154.120.147|8080|Indonesia|Jakarta|MORATELINDONAP|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|47.251.57.165|1080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
+|16|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|115.127.179.154|2589|Bangladesh|Dhaka|BRACNet Limited|
+|19|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
+|20|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
