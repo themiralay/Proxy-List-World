@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|2|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
 |6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|43.224.118.206|1120|Bangladesh|Dhaka|Next Online|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|157.66.50.161|8181|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|202.191.124.141|25256|Bangladesh|Dhaka|Bijoy Online Ltd|
-|20|115.127.179.214|2589|Bangladesh|Dhaka|BRACNet Limited|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|200.59.191.163|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|18|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
