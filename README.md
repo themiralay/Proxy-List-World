@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|13|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
-|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|17|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
