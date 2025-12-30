@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
-|14|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|7|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|12|13.246.43.161|25212|South Africa|Johannesburg|Amazon Technologies Inc|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|85.208.200.185|8081|Italy|Milan|HAL Service SpA|
+|19|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
