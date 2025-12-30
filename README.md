@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 |9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|11|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|12|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|8.212.160.196|443|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|103.168.44.86|8088|Indonesia|Jakarta|PT CYB Media Group|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|14|151.245.215.22|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|115.127.180.36|2589|Bangladesh|Dhaka|BRACNet Limited|
+|19|115.127.182.126|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
