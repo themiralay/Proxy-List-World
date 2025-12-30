@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|101.255.120.98|8080|Indonesia|Jakarta|PT Remala Abadi|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|103.133.27.179|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
+|8|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
+|11|103.227.186.217|6080|Indonesia|Siderejo|PT Master Star Network|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|14|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|19|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|103.173.141.9|8080|Indonesia|Ngawi|DIAZANETWORKS|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|45.133.107.10|81|Armenia|Vedi|Art-net LLC|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
 
 
 
