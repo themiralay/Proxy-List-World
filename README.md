@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|5|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|43.208.240.77|12587|Thailand|Bangkok|Amazon.com, Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|13.246.43.161|25212|South Africa|Johannesburg|Amazon Technologies Inc|
-|15|185.74.222.94|8090|Hong Kong|Chai Wan|WorkTitans B.V.|
-|16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|17|62.133.63.236|1111|Türkiye|Istanbul|Global Connectivity Solutions LLP|
-|18|115.127.181.26|2026|Bangladesh|Dhaka|BRACNet Limited|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|45.133.107.64|81|Armenia|Vedi|Art-net LLC|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|103.15.214.20|8080|Indonesia|Gresik|PT. Java Digital Nusantara|
+|7|8.212.160.196|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|179.60.53.26|999|Ecuador|Gima|Stealth Telecom del Ecuador|
+|9|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
+|10|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
+|11|13.246.43.161|25212|South Africa|Johannesburg|Amazon Technologies Inc|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|204.199.140.25|999|Chile|Talca|Ingbell Chile SPA|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|190.97.239.99|999|Venezuela|Caracas||
+|20|8.212.160.196|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
