@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81076** proxies at the latest update. Usable proxies are below.
+> Scraper found **81060** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38697|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38681|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41095|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|114.119.175.241|8100|Singapore|Singapore|Huawei International Pte. LTD|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|114.119.175.241|8100|Singapore|Singapore|Huawei International Pte. LTD|
+|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|5.180.172.31|5050|Finland|Helsinki|Hostkey B.V.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|19|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|35.181.173.74|49204|France|Paris|Amazon.com, Inc.|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
