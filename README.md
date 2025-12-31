@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|4|114.119.175.241|8100|Singapore|Singapore|Huawei International Pte. LTD|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|3|114.119.175.241|8100|Singapore|Singapore|Huawei International Pte. LTD|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|14|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|15|103.106.78.178|7979|Indonesia|Depok|PT Quantum Tera Multimedia|
-|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|19|181.224.65.50|999|Chile|Santiago|Netv SPA|
-|20|103.190.101.1|83|India|Cuddalore|Dotnet Broadband Private Limited|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|103.106.78.178|7979|Indonesia|Depok|PT Quantum Tera Multimedia|
+|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|15|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|16|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
