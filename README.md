@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|185.200.191.44|16606|United States|New York|First Server Limited|
-|13|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|114.119.175.241|8100|Singapore|Singapore|Huawei International Pte. LTD|
+|3|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|185.200.191.44|16606|United States|New York|First Server Limited|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|185.200.191.44|16606|United States|New York|First Server Limited|
+|19|47.243.94.75|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
 
 
 
