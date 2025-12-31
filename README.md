@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.6.50|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|114.119.175.241|8100|Singapore|Singapore|Huawei International Pte. LTD|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|11|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|35.181.173.74|49204|France|Paris|Amazon.com, Inc.|
-|15|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|141.98.188.201|2080|United States|Los Angeles|Fast GEO Hosting S.R.L|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|154.12.41.175|12345|United States|Los Angeles|Cogent Communications|
+|8|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|154.12.41.175|12345|United States|Los Angeles|Cogent Communications|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|141.98.188.201|2080|United States|Los Angeles|Fast GEO Hosting S.R.L|
+|15|13.231.159.110|29799|Japan|Tokyo|Amazon Technologies Inc.|
+|16|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|5.180.172.31|5050|Finland|Helsinki|Hostkey B.V.|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
