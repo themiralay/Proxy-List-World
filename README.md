@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.243.94.75|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|89.187.163.133|9091|Singapore|Singapore|Datacamp Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|89.187.163.133|9091|Singapore|Singapore|Datacamp Limited|
+|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|47.243.94.75|8100|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|7|8.210.127.178|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|8|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
-|9|114.119.175.241|8100|Singapore|Singapore|Huawei International Pte. LTD|
-|10|114.119.173.202|8100|Singapore|Singapore|Huawei International Pte. LTD|
-|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|12|203.154.243.89|2543|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|114.119.173.202|8100|Singapore|Singapore|Huawei International Pte. LTD|
+|8|8.210.127.178|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|203.154.243.89|2543|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|11|47.254.56.147|43128|United States|Minkler|Alibaba Cloud LLC|
+|12|114.119.175.241|8100|Singapore|Singapore|Huawei International Pte. LTD|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|194.87.77.26|8800|Sweden|Stockholm|xorek.cloud International LTD|
-|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|18|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
-|19|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|17|194.87.77.26|8800|Sweden|Stockholm|xorek.cloud International LTD|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|185.200.191.44|16606|United States|New York|First Server Limited|
+|20|103.106.78.178|7979|Indonesia|Depok|PT Quantum Tera Multimedia|
 
 
 
