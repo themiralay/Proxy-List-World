@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|89.187.163.133|9091|Singapore|Singapore|Datacamp Limited|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|185.200.191.44|16606|United States|New York|First Server Limited|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|154.201.80.253|8888|Hong Kong|Hong Kong|High Family Technology Co|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|89.187.163.133|9091|Singapore|Singapore|Datacamp Limited|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|103.138.70.155|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|202.58.77.18|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|19|103.73.193.134|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|20|103.109.212.85|8428|Bangladesh|Farīdpur|Bismillah Telecom Service|
 
 
 
