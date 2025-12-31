@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
-|2|89.187.163.133|9091|Singapore|Singapore|Datacamp Limited|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|129.150.39.251|8000|Singapore|Singapore|Oracle Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|15|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|8.212.160.196|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|8|89.187.163.133|9091|Singapore|Singapore|Datacamp Limited|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|154.201.80.253|8888|Hong Kong|Hong Kong|High Family Technology Co|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
