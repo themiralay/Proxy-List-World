@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|8.210.127.178|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|62.210.37.74|8012|France|Paris|Online S.A.S.|
-|15|163.5.128.189|14270|United States|Chicago|CAMPLINK|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|204.199.139.75|999|Chile|Alhué|Ingbell Chile SPA|
-|19|38.158.83.129|999|Peru|Arequipa|Fiberred SAC|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
