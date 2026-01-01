@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81526** proxies at the latest update. Usable proxies are below.
+> Scraper found **81550** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38880|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38904|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|131|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41289|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|5|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|4|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|101.32.34.4|8118|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|20|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|11|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|8.210.127.178|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|20|144.125.164.222|8080|United States|Santa Clara|Google LLC|
 
 
 
