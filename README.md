@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
-|14|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|20|45.184.103.110|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|18|202.58.77.233|8977|Indonesia|Kediri|PT Data Buana Nusantara|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|103.154.77.192|8085|Indonesia|Sleman|T2NET|
 
 
 
