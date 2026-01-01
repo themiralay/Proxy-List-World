@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|2|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|8.210.127.178|8100|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|3.111.23.69|3305|India|Mumbai|Amazon Technologies Inc.|
-|12|190.97.241.102|999|Venezuela|Mérida|Viginet C.A|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |19|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|20|185.200.191.44|16606|United States|New York|First Server Limited|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
