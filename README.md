@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81245** proxies at the latest update. Usable proxies are below.
+> Scraper found **81277** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38875|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|103.222.255.140|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|43.224.118.130|1121|Bangladesh|Dhaka|Next Online|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|14|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|16|185.200.191.44|16606|United States|New York|First Server Limited|
+|7|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|185.200.191.44|16606|United States|New York|First Server Limited|
+|10|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
 |17|185.200.191.44|16606|United States|New York|First Server Limited|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|5.180.172.31|5050|Finland|Helsinki|Hostkey B.V.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
