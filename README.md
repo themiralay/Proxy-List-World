@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|1|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
-|7|103.189.123.110|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |8|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|9|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|78.188.230.81|3310|Turkey|Adana|Turk Telekomunikasyon A.S|
-|17|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|18|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|147.75.83.117|443|The Netherlands|Amsterdam||
+|17|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|18|45.229.30.174|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
+|19|120.240.110.145|22222|China|Guangzhou|China Mobile communications corporation|
+|20|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
 
 
 
