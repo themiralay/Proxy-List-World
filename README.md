@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|14|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|144.124.227.90|10808|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|72.10.164.178|25681|Canada|Montreal|GloboTech Communications|
-|20|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|72.10.164.178|25681|Canada|Montreal|GloboTech Communications|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|19|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|20|160.19.19.226|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
 
 
 
