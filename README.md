@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
+|10|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
 |11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|17|14.143.222.113|10154|India|Chennai|Tata Communications Limited|
-|18|43.167.247.248|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|17|113.192.12.78|9090|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|18|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|14.143.222.113|10154|India|Chennai|Tata Communications Limited|
 
 
 
