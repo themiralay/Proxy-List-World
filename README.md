@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|12|104.206.98.154|3128|United States|Dallas|Eonix Corporation|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
-|19|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
-|20|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
+|7|134.17.6.31|3128|Belarus|Minsk|Mobile TeleSystems JLLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|11|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|45.184.103.110|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
+|16|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|19|77.225.198.220|9812|Spain|Málaga|Comunitel Global|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
