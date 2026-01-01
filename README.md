@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|113.160.115.254|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
-|15|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
-|16|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|212.113.109.197|2080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|5.180.172.31|5050|Finland|Helsinki|Hostkey B.V.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|142.171.12.112|8118|United States|Los Angeles|Multacom Corporation|
+|14|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|15|49.151.102.98|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|14.143.222.113|10154|India|Chennai|Tata Communications Limited|
+|20|43.133.6.50|6006|Japan|Tokyo|Aceville Pte.ltd|
 
 
 
