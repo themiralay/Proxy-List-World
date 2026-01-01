@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|142.171.12.112|8118|United States|Los Angeles|Multacom Corporation|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|17|5.180.172.31|5050|Finland|Helsinki|Hostkey B.V.|
-|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|9|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|103.130.241.237|8080|Indonesia|South Tangerang|PT Maxindo Mitra Solusi|
+|13|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|5.180.172.31|5050|Finland|Helsinki|Hostkey B.V.|
+|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|18|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|212.113.109.197|2080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|20|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
 
 
 
