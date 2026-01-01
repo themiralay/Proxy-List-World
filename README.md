@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|1|43.167.247.248|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|9|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 |12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|14|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|201.230.121.86|999|Peru|San Borja|Telefonica Del Peru|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|20|45.190.78.20|999|Mexico|Zapopan|Meta Networks SA De CV|
 
 
 
