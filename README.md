@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|6|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|16|103.130.241.237|8080|Indonesia|South Tangerang|PT Maxindo Mitra Solusi|
-|17|36.50.112.174|8070|Indonesia|Jakarta|MYREPUBLIC|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|20|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
+|6|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|16|103.102.12.105|8080|Indonesia|Rembangan|FISNET|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|19|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
+|20|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
