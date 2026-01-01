@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|5.180.172.31|5050|Finland|Helsinki|Hostkey B.V.|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|14|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|15|103.130.241.237|8080|Indonesia|South Tangerang|PT Maxindo Mitra Solusi|
-|16|154.26.134.167|8080|Singapore|Singapore|Cogent Communications|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|190.97.226.134|999|Venezuela|Caracas|Viginet C.A|
+|11|5.180.172.31|5050|Finland|Helsinki|Hostkey B.V.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|20|77.225.198.220|9812|Spain|Málaga|Comunitel Global|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
