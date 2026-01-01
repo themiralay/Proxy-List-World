@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|2|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.171.241.18|1000|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|177.234.211.31|999|Ecuador|Naranjito|VUELATECHNOLOGY|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
