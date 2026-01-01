@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|12|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|14|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|157.20.98.62|1111|Indonesia|Jakarta|PT. KONNEK JAYA BERSAMA|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |20|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
