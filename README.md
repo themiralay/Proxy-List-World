@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|1|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|180.190.188.183|8082|Philippines|Lahug|Globe Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|142.171.12.112|8118|United States|Los Angeles|Multacom Corporation|
-|11|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
-|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|113.11.65.229|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|20|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|185.200.191.44|16606|United States|New York|First Server Limited|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|185.200.191.44|16606|United States|New York|First Server Limited|
+|13|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|45.174.191.19|20183|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|18|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|142.171.12.112|8118|United States|Los Angeles|Multacom Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
