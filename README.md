@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|9|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|11|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|35.152.252.253|8080|Italy|Milan|Amazon.com, Inc.|
+|9|45.174.191.19|20183|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|212.113.109.197|2080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|18|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
+|19|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
 |20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
