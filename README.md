@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|6|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|13|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|5|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|8|43.225.151.30|1121|Bangladesh|Dhaka|Next Online|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|11|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
-|18|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|136.112.110.16|8888|United States|Council Bluffs|Google LLC|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
