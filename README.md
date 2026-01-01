@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **81238** proxies at the latest update. Usable proxies are below.
+> Scraper found **81193** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38849|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38804|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|83|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|41080|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|8|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
-|16|85.9.122.63|12134|Iran|Tehran|PISHGAMAN|
-|17|177.93.36.74|3128|Colombia|Sandoná|TV AZTECA SUCURSAL COLOMBIA|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
-|20|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|35.74.70.4|18000|Japan|Tokyo|Amazon.com, Inc.|
+|6|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|185.200.191.44|16606|United States|New York|First Server Limited|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|43.224.118.130|1121|Bangladesh|Dhaka|Next Online|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|43.225.151.30|1121|Bangladesh|Dhaka|Next Online|
+|16|103.79.155.202|8080|Indonesia|Jakarta|MORATELINDO|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
