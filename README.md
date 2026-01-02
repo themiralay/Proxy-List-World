@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.21.48|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.133.5.65|6006|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.133.2.206|6006|Japan|Tokyo|Aceville Pte.ltd|
-|4|43.133.30.85|6006|Japan|Tokyo|Aceville Pte.ltd|
-|5|43.133.1.253|6006|Japan|Tokyo|Aceville Pte.ltd|
-|6|43.133.27.197|6006|Japan|Tokyo|Aceville Pte.ltd|
-|7|43.133.0.159|6006|Japan|Tokyo|Aceville Pte.ltd|
-|8|43.133.7.72|6006|Japan|Tokyo|Aceville Pte.ltd|
-|9|43.133.23.61|6006|Japan|Tokyo|Aceville Pte.ltd|
-|10|43.133.3.226|6006|Japan|Tokyo|Aceville Pte.ltd|
-|11|43.167.166.40|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.133.2.12|6006|Japan|Tokyo|Aceville Pte.ltd|
-|13|43.133.29.143|6006|Japan|Tokyo|Aceville Pte.ltd|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|43.133.0.26|6006|Japan|Tokyo|Aceville Pte.ltd|
-|16|43.133.1.6|6006|Japan|Tokyo|Aceville Pte.ltd|
-|17|43.133.0.222|6006|Japan|Tokyo|Aceville Pte.ltd|
-|18|43.133.1.74|6006|Japan|Tokyo|Aceville Pte.ltd|
-|19|43.133.2.81|6006|Japan|Tokyo|Aceville Pte.ltd|
-|20|43.133.5.67|6006|Japan|Tokyo|Aceville Pte.ltd|
+|2|43.133.1.22|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.133.1.74|6006|Japan|Tokyo|Aceville Pte.ltd|
+|4|43.133.0.2|6006|Japan|Tokyo|Aceville Pte.ltd|
+|5|43.133.1.108|6006|Japan|Tokyo|Aceville Pte.ltd|
+|6|43.133.2.60|6006|Japan|Tokyo|Aceville Pte.ltd|
+|7|43.133.10.181|6006|Japan|Tokyo|Aceville Pte.ltd|
+|8|43.133.0.61|6006|Japan|Tokyo|Aceville Pte.ltd|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|43.133.1.71|6006|Japan|Tokyo|Aceville Pte.ltd|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|43.167.184.169|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.133.28.232|6006|Japan|Tokyo|Aceville Pte.ltd|
+|14|43.167.206.107|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.133.2.206|6006|Japan|Tokyo|Aceville Pte.ltd|
+|16|43.133.1.253|6006|Japan|Tokyo|Aceville Pte.ltd|
+|17|43.133.29.143|6006|Japan|Tokyo|Aceville Pte.ltd|
+|18|43.133.29.125|6006|Japan|Tokyo|Aceville Pte.ltd|
+|19|43.133.3.226|6006|Japan|Tokyo|Aceville Pte.ltd|
+|20|43.133.30.224|6006|Japan|Tokyo|Aceville Pte.ltd|
 
 
 
