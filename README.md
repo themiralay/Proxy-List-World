@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.21.204|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.133.12.143|6006|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.133.28.224|6006|Japan|Tokyo|Aceville Pte.ltd|
+|2|43.133.10.191|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.133.12.143|6006|Japan|Tokyo|Aceville Pte.ltd|
 |4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|43.133.6.79|6006|Japan|Tokyo|Aceville Pte.ltd|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|43.133.7.6|6006|Japan|Tokyo|Aceville Pte.ltd|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|43.133.21.32|6006|Japan|Tokyo|Aceville Pte.ltd|
-|10|43.133.28.108|6006|Japan|Tokyo|Aceville Pte.ltd|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|43.133.28.200|6006|Japan|Tokyo|Aceville Pte.ltd|
-|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|15|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|43.133.28.200|6006|Japan|Tokyo|Aceville Pte.ltd|
+|6|43.133.6.79|6006|Japan|Tokyo|Aceville Pte.ltd|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|43.133.21.32|6006|Japan|Tokyo|Aceville Pte.ltd|
+|9|43.133.28.108|6006|Japan|Tokyo|Aceville Pte.ltd|
+|10|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|43.133.28.224|6006|Japan|Tokyo|Aceville Pte.ltd|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|43.133.7.6|6006|Japan|Tokyo|Aceville Pte.ltd|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |16|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|17|43.133.8.113|6006|Japan|Tokyo|Aceville Pte.ltd|
-|18|43.133.12.178|6006|Japan|Tokyo|Aceville Pte.ltd|
-|19|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|20|43.133.15.6|6006|Japan|Tokyo|Aceville Pte.ltd|
+|17|43.133.14.159|6006|Japan|Tokyo|Aceville Pte.ltd|
+|18|43.133.27.148|6006|Japan|Tokyo|Aceville Pte.ltd|
+|19|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
