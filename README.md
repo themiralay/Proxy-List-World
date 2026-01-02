@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.12.178|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.133.10.182|6006|Japan|Tokyo|Aceville Pte.ltd|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
-|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|7|52.78.193.98|157|South Korea|Seoul|Amazon Technologies Inc.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|43.133.7.95|6006|Japan|Tokyo|Aceville Pte.ltd|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
-|18|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|201.230.121.86|999|Peru|San Borja|Telefonica Del Peru|
+|1|43.133.28.108|6006|Japan|Tokyo|Aceville Pte.ltd|
+|2|43.133.10.106|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.133.10.191|6006|Japan|Tokyo|Aceville Pte.ltd|
+|4|43.133.8.113|6006|Japan|Tokyo|Aceville Pte.ltd|
+|5|43.133.10.93|6006|Japan|Tokyo|Aceville Pte.ltd|
+|6|43.133.28.236|6006|Japan|Tokyo|Aceville Pte.ltd|
+|7|43.133.21.32|6006|Japan|Tokyo|Aceville Pte.ltd|
+|8|43.133.5.80|6006|Japan|Tokyo|Aceville Pte.ltd|
+|9|43.133.10.182|6006|Japan|Tokyo|Aceville Pte.ltd|
+|10|43.167.252.164|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.167.252.113|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|43.133.7.95|6006|Japan|Tokyo|Aceville Pte.ltd|
+|14|43.167.254.111|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.167.254.43|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.133.26.140|6006|Japan|Tokyo|Aceville Pte.ltd|
+|17|43.133.12.231|6006|Japan|Tokyo|Aceville Pte.ltd|
+|18|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|43.133.10.180|6006|Japan|Tokyo|Aceville Pte.ltd|
+|20|43.133.10.237|6006|Japan|Tokyo|Aceville Pte.ltd|
 
 
 
