@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.254.110|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.167.246.107|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.14.126|6006|Japan|Tokyo|Aceville Pte.ltd|
 |3|43.133.28.200|6006|Japan|Tokyo|Aceville Pte.ltd|
-|4|43.133.10.157|6006|Japan|Tokyo|Aceville Pte.ltd|
-|5|43.133.2.198|6006|Japan|Tokyo|Aceville Pte.ltd|
-|6|43.133.10.104|6006|Japan|Tokyo|Aceville Pte.ltd|
-|7|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|8|43.133.12.143|6006|Japan|Tokyo|Aceville Pte.ltd|
-|9|43.133.14.126|6006|Japan|Tokyo|Aceville Pte.ltd|
-|10|43.133.27.67|6006|Japan|Tokyo|Aceville Pte.ltd|
-|11|43.167.246.83|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|144.125.164.158|8081|United States|Santa Clara|Google LLC|
-|13|43.133.0.234|6006|Japan|Tokyo|Aceville Pte.ltd|
-|14|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|43.133.6.199|6006|Japan|Tokyo|Aceville Pte.ltd|
-|18|43.133.12.69|6006|Japan|Tokyo|Aceville Pte.ltd|
-|19|43.133.15.135|6006|Japan|Tokyo|Aceville Pte.ltd|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|43.167.246.107|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.133.15.135|6006|Japan|Tokyo|Aceville Pte.ltd|
+|6|43.133.12.69|6006|Japan|Tokyo|Aceville Pte.ltd|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|9|43.167.245.130|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.133.3.141|6006|Japan|Tokyo|Aceville Pte.ltd|
+|11|43.133.28.81|6006|Japan|Tokyo|Aceville Pte.ltd|
+|12|43.133.12.143|6006|Japan|Tokyo|Aceville Pte.ltd|
+|13|144.125.164.158|8081|United States|Santa Clara|Google LLC|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|20|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
 
 
 
