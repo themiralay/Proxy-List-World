@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.10.191|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.133.21.32|6006|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.167.252.56|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.133.29.141|6006|Japan|Tokyo|Aceville Pte.ltd|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|43.133.7.95|6006|Japan|Tokyo|Aceville Pte.ltd|
-|8|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|1|43.167.252.199|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.167.252.56|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|43.133.10.184|6006|Japan|Tokyo|Aceville Pte.ltd|
+|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|6|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |10|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|13|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|16|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|11|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
 |17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.169.132.58|8085|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
