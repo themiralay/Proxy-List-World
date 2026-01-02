@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.28.236|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.133.26.104|6006|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.133.21.94|6006|Japan|Tokyo|Aceville Pte.ltd|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|43.133.21.4|6006|Japan|Tokyo|Aceville Pte.ltd|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|43.133.22.174|6006|Japan|Tokyo|Aceville Pte.ltd|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|144.125.164.222|8081|United States|Santa Clara|Google LLC|
-|11|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|43.133.10.182|6006|Japan|Tokyo|Aceville Pte.ltd|
-|14|43.133.28.108|6006|Japan|Tokyo|Aceville Pte.ltd|
-|15|43.133.22.16|6006|Japan|Tokyo|Aceville Pte.ltd|
-|16|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
-|17|43.133.23.9|6006|Japan|Tokyo|Aceville Pte.ltd|
-|18|120.240.110.145|22222|China|Guangzhou|China Mobile communications corporation|
-|19|43.133.11.81|6006|Japan|Tokyo|Aceville Pte.ltd|
-|20|43.167.252.56|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.21.94|6006|Japan|Tokyo|Aceville Pte.ltd|
+|2|43.133.12.178|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.133.26.104|6006|Japan|Tokyo|Aceville Pte.ltd|
+|4|43.133.21.232|6006|Japan|Tokyo|Aceville Pte.ltd|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|7|43.133.28.236|6006|Japan|Tokyo|Aceville Pte.ltd|
+|8|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|9|43.133.22.174|6006|Japan|Tokyo|Aceville Pte.ltd|
+|10|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|103.155.198.142|1080|Indonesia|Cileungsir|PT Lintas Jaringan Nusantara|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|43.133.11.81|6006|Japan|Tokyo|Aceville Pte.ltd|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
