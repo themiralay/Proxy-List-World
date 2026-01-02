@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|731|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|731|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|731|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|613|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|613|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|613|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.14.42|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.133.8.116|6006|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.167.243.165|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.167.240.103|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.167.246.107|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.167.234.30|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.167.234.57|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.167.237.148|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.167.233.149|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.167.235.9|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.167.235.47|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.167.234.163|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.167.242.96|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.133.10.157|6006|Japan|Tokyo|Aceville Pte.ltd|
-|15|43.167.234.150|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.133.21.204|6006|Japan|Tokyo|Aceville Pte.ltd|
-|17|43.133.6.50|6006|Japan|Tokyo|Aceville Pte.ltd|
-|18|43.167.236.35|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|43.167.244.75|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.167.243.165|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.167.244.10|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.167.235.47|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.167.232.127|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.167.233.251|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.167.234.41|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.167.234.150|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.167.240.103|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.167.234.163|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.167.233.149|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.133.22.215|6006|Japan|Tokyo|Aceville Pte.ltd|
+|13|43.133.28.200|6006|Japan|Tokyo|Aceville Pte.ltd|
+|14|43.133.29.125|6006|Japan|Tokyo|Aceville Pte.ltd|
+|15|43.133.3.70|6006|Japan|Tokyo|Aceville Pte.ltd|
+|16|43.167.237.28|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.167.235.9|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|43.167.254.34|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
