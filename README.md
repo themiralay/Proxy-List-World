@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.12.143|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.133.15.88|6006|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.133.26.233|6006|Japan|Tokyo|Aceville Pte.ltd|
-|4|43.133.30.158|6006|Japan|Tokyo|Aceville Pte.ltd|
-|5|43.133.13.197|6006|Japan|Tokyo|Aceville Pte.ltd|
-|6|43.133.30.67|6006|Japan|Tokyo|Aceville Pte.ltd|
-|7|43.133.27.90|6006|Japan|Tokyo|Aceville Pte.ltd|
-|8|43.133.12.238|6006|Japan|Tokyo|Aceville Pte.ltd|
-|9|43.133.26.104|6006|Japan|Tokyo|Aceville Pte.ltd|
-|10|43.133.29.141|6006|Japan|Tokyo|Aceville Pte.ltd|
-|11|43.133.26.140|6006|Japan|Tokyo|Aceville Pte.ltd|
-|12|43.133.28.224|6006|Japan|Tokyo|Aceville Pte.ltd|
-|13|43.133.28.108|6006|Japan|Tokyo|Aceville Pte.ltd|
-|14|43.133.28.200|6006|Japan|Tokyo|Aceville Pte.ltd|
-|15|43.133.28.81|6006|Japan|Tokyo|Aceville Pte.ltd|
-|16|43.133.29.128|6006|Japan|Tokyo|Aceville Pte.ltd|
-|17|43.133.26.245|6006|Japan|Tokyo|Aceville Pte.ltd|
-|18|43.133.27.148|6006|Japan|Tokyo|Aceville Pte.ltd|
-|19|43.133.6.236|6006|Japan|Tokyo|Aceville Pte.ltd|
-|20|43.133.28.131|6006|Japan|Tokyo|Aceville Pte.ltd|
+|1|43.133.13.197|6006|Japan|Tokyo|Aceville Pte.ltd|
+|2|43.133.27.90|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.133.12.238|6006|Japan|Tokyo|Aceville Pte.ltd|
+|4|43.133.29.212|6006|Japan|Tokyo|Aceville Pte.ltd|
+|5|43.133.28.232|6006|Japan|Tokyo|Aceville Pte.ltd|
+|6|43.133.29.141|6006|Japan|Tokyo|Aceville Pte.ltd|
+|7|43.133.15.88|6006|Japan|Tokyo|Aceville Pte.ltd|
+|8|43.133.12.143|6006|Japan|Tokyo|Aceville Pte.ltd|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|43.133.21.32|6006|Japan|Tokyo|Aceville Pte.ltd|
+|12|43.133.28.131|6006|Japan|Tokyo|Aceville Pte.ltd|
+|13|43.133.29.31|6006|Japan|Tokyo|Aceville Pte.ltd|
+|14|43.133.22.174|6006|Japan|Tokyo|Aceville Pte.ltd|
+|15|43.133.6.236|6006|Japan|Tokyo|Aceville Pte.ltd|
+|16|43.133.26.104|6006|Japan|Tokyo|Aceville Pte.ltd|
+|17|43.133.30.67|6006|Japan|Tokyo|Aceville Pte.ltd|
+|18|43.133.26.140|6006|Japan|Tokyo|Aceville Pte.ltd|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|43.133.28.224|6006|Japan|Tokyo|Aceville Pte.ltd|
 
 
 
