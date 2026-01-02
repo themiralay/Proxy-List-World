@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|4|43.167.252.56|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|144.125.164.222|8080|United States|Santa Clara|Google LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|43.133.13.102|6006|Japan|Tokyo|Aceville Pte.ltd|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|43.133.7.95|6006|Japan|Tokyo|Aceville Pte.ltd|
-|16|43.133.7.95|6006|Japan|Tokyo|Aceville Pte.ltd|
-|17|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
-|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|1|43.167.252.199|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.6.137|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|43.133.7.95|6006|Japan|Tokyo|Aceville Pte.ltd|
+|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|3.85.42.63|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|12|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|13|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|144.125.164.222|8080|United States|Santa Clara|Google LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
