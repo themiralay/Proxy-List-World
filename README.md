@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80464** proxies at the latest update. Usable proxies are below.
+> Scraper found **41714** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38750|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|195|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40293|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.12.178|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.133.10.136|6006|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.133.14.159|6006|Japan|Tokyo|Aceville Pte.ltd|
-|4|43.133.8.74|6006|Japan|Tokyo|Aceville Pte.ltd|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|7|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|43.133.9.88|6006|Japan|Tokyo|Aceville Pte.ltd|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|144.125.164.158|8080|United States|Santa Clara|Google LLC|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|43.133.10.180|6006|Japan|Tokyo|Aceville Pte.ltd|
-|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|19|43.133.7.95|6006|Japan|Tokyo|Aceville Pte.ltd|
-|20|144.125.164.222|8081|United States|Santa Clara|Google LLC|
+|1|43.133.9.88|6006|Japan|Tokyo|Aceville Pte.ltd|
+|2|43.133.10.180|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.133.6.181|6006|Japan|Tokyo|Aceville Pte.ltd|
+|4|43.133.14.159|6006|Japan|Tokyo|Aceville Pte.ltd|
+|5|43.133.10.136|6006|Japan|Tokyo|Aceville Pte.ltd|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|144.125.164.158|8080|United States|Santa Clara|Google LLC|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|43.133.10.148|6006|Japan|Tokyo|Aceville Pte.ltd|
+|19|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|20|103.106.78.193|7979|Indonesia|Depok|PT Quantum Tera Multimedia|
 
 
 
