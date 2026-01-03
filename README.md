@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.133.21.244|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.167.175.64|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.133.2.141|6006|Japan|Tokyo|Aceville Pte.ltd|
-|4|43.167.165.118|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.167.211.32|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.167.191.67|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.167.188.7|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.167.175.158|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.167.194.26|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.167.188.83|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.133.10.157|6006|Japan|Tokyo|Aceville Pte.ltd|
-|12|43.133.11.81|6006|Japan|Tokyo|Aceville Pte.ltd|
-|13|43.167.163.212|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.167.206.52|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.167.173.72|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.167.241.181|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.167.241.171|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.167.233.124|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.133.0.236|6006|Japan|Tokyo|Aceville Pte.ltd|
-|20|43.167.215.232|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.10.233|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.133.23.250|6006|Japan|Tokyo|Aceville Pte.ltd|
+|4|43.167.175.64|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.167.233.124|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.167.224.148|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.167.171.192|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.167.191.67|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.133.13.197|6006|Japan|Tokyo|Aceville Pte.ltd|
+|10|43.167.174.153|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.167.184.4|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.167.175.158|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.167.224.103|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.167.194.26|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.167.211.32|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.167.188.83|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.133.3.70|6006|Japan|Tokyo|Aceville Pte.ltd|
+|18|43.133.26.54|6006|Japan|Tokyo|Aceville Pte.ltd|
+|19|43.167.247.63|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.167.217.178|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
