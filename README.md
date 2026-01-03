@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1411|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.6.199|6006|Japan|Tokyo|Aceville Pte.ltd|
+|1|43.133.13.102|6006|Japan|Tokyo|Aceville Pte.ltd|
 |2|43.133.26.104|6006|Japan|Tokyo|Aceville Pte.ltd|
-|3|43.133.13.102|6006|Japan|Tokyo|Aceville Pte.ltd|
-|4|43.167.254.34|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.167.244.13|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.167.235.187|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.167.227.80|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.167.244.10|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.167.213.178|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.167.212.6|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.167.199.13|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.133.12.178|6006|Japan|Tokyo|Aceville Pte.ltd|
-|13|43.167.185.184|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.167.184.216|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.133.14.123|6006|Japan|Tokyo|Aceville Pte.ltd|
-|16|43.167.190.199|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.133.15.35|6006|Japan|Tokyo|Aceville Pte.ltd|
-|18|43.167.247.154|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.167.189.171|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.167.210.129|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.167.244.10|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.167.235.187|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.167.254.34|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.167.199.13|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.133.12.178|6006|Japan|Tokyo|Aceville Pte.ltd|
+|8|43.167.184.216|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.133.15.35|6006|Japan|Tokyo|Aceville Pte.ltd|
+|10|43.133.14.123|6006|Japan|Tokyo|Aceville Pte.ltd|
+|11|43.167.191.226|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.167.247.154|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.167.204.204|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.167.195.149|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.167.189.49|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.167.205.24|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.167.184.196|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.167.194.228|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.167.187.221|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.133.6.199|6006|Japan|Tokyo|Aceville Pte.ltd|
 
 
 
