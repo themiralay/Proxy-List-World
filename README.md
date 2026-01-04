@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|38.123.220.190|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|3|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
 |6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|11|119.92.75.252|8181|Philippines|Bulad|Philippine Long Distance Telephone Co.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|20.2.144.174|9998|Hong Kong|Hong Kong|Microsoft Corporation|
-|14|103.154.230.73|8090|Indonesia|Bilo|DIGITNET|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|180.232.171.210|8080|Philippines|Manila|Eastern Telecommunications Philippines, Inc.|
-|20|103.109.96.113|21225|Bangladesh|Shāhzādpur|Digi Jadoo Broadband Ltd|
+|7|103.109.96.113|21225|Bangladesh|Shāhzādpur|Digi Jadoo Broadband Ltd|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|210.87.125.146|8090|Indonesia|Temenggungan|CV Brawijaya Giga Network|
+|17|222.127.156.134|8082|Philippines|San Juan|Globe Telecom|
+|18|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|38.52.208.49|999|Guatemala|Purulhá|Central De Redes Y Comunicaciones De Guatemala S.A|
 
 
 
