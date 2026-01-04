@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|103.189.250.65|8080|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
-|7|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|103.102.12.105|8080|Indonesia|Rembangan|FISNET|
-|13|57.129.70.80|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|103.133.27.179|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|92.51.97.3|8080|Georgia|Tbilisi|T-net Network|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|20|103.148.45.59|8080|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|103.171.241.18|1000|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|13|131.72.69.209|8080|Brazil|Euclides da Cunha|TOP NET SERVIÇOS LTDA|
+|14|103.203.233.130|8585|Indonesia|Batu|PT Inti Data Guna|
+|15|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|18|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
 
 
 
