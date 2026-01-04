@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|4|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|103.230.63.66|1120|Bangladesh|Chittagong|Next Online Ltd|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|13|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|14|170.80.202.213|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|43.252.107.235|1111|Indonesia|Krajan Wetan Wonojoyo|PT Lintas Data Prima|
+|14|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|15.204.151.144|3128|United States|Reston|OVH SAS|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|103.172.120.111|8090|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|20|157.10.97.239|8087|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
 
 
 
