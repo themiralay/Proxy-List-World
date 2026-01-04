@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|103.118.85.144|8080|Bangladesh|Rangpur City|Abuzz IT Limited|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|115.127.179.158|2589|Bangladesh|Dhaka|BRACNet Limited|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
 |10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|12|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|13|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|14|115.127.179.190|2589|Bangladesh|Dhaka|BRACNet Limited|
-|15|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|16|103.46.186.57|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
-|17|154.19.38.197|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|18|14.103.168.150|18080|China|Beijing|BITNET|
-|19|177.242.137.182|999|Mexico|Acambay|Mega Cable, S.A. de C.V.|
-|20|101.255.208.18|8090|Indonesia|Bekasi|PT Remala Abadi|
+|11|103.109.96.109|21225|Bangladesh|Shāhzādpur|Digi Jadoo Broadband Ltd|
+|12|113.192.12.73|8085|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|13|119.18.144.12|8585|Bangladesh|Chittagong|BBTS Network|
+|14|164.77.40.101|8080|Chile|Temuco|Entel Chile S.A.|
+|15|103.82.246.17|6080|Indonesia|Wedoro|PT Master Star Network|
+|16|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|17|14.103.168.150|18080|China|Beijing|BITNET|
+|18|157.66.192.91|8080|Indonesia|Banjarnegara|PT Indotech Digitama Superlink|
+|19|122.3.139.85|8181|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|14.170.154.193|19132|Vietnam|Thái Nguyên|VNPT-VNNIC|
 
 
 
