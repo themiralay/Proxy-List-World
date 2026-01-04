@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|45.184.124.33|1985|Mexico|Chihuahua City|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|119.92.75.252|8181|Philippines|Bulad|Philippine Long Distance Telephone Co.|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|20|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|12|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|13|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|15|190.183.210.74|3129|Argentina|Paraná|Gigared S.A.|
+|16|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
+|17|120.240.110.145|22222|China|Guangzhou|China Mobile communications corporation|
+|18|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|181.78.9.50|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|20|179.57.215.99|999|Chile|Paillaco|Telefonica del Sur S.A.|
 
 
 
