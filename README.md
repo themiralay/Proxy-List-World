@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|43.167.212.110|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|43.133.6.137|6006|Japan|Tokyo|Aceville Pte.ltd|
+|1|43.133.14.162|6006|Japan|Tokyo|Aceville Pte.ltd|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|43.133.4.227|6006|Japan|Tokyo|Aceville Pte.ltd|
-|11|115.127.180.36|2589|Bangladesh|Dhaka|BRACNet Limited|
-|12|115.127.181.62|2026|Bangladesh|Dhaka|BRACNet Limited|
-|13|43.167.241.181|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|15|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|43.167.205.79|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.167.176.168|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.167.170.121|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.167.225.160|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|43.167.212.110|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|13|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|43.167.205.79|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|17|43.167.225.160|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|20|43.167.202.246|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
