@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|103.173.72.3|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |10|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|43.252.107.235|1111|Indonesia|Krajan Wetan Wonojoyo|PT Lintas Data Prima|
-|18|175.100.35.103|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
-|20|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|20|91.236.74.10|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
 
 
 
