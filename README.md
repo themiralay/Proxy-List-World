@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|121.141.22.174|8888|South Korea|Guro-gu|Korea Telecom|
-|5|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
