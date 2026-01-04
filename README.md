@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80432** proxies at the latest update. Usable proxies are below.
+> Scraper found **80464** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38747|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|43.133.23.250|6006|Japan|Tokyo|Aceville Pte.ltd|
-|8|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|14.103.168.150|18080|China|Beijing|BITNET|
-|11|116.90.224.50|8080|Nepal|Kathmandu|Websurfer Nepal Communication System Pvt. Ltd|
-|12|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|119.155.143.218|8080|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|15|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|16|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|17|103.82.23.118|5201|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|18|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|19|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|20|43.167.236.211|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|176.100.1.170|3128|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|6|115.127.180.146|2589|Bangladesh|Dhaka|BRACNet Limited|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|14.103.168.150|18080|China|Beijing|BITNET|
+|12|154.113.208.190|8082|Nigeria|Abuja|Mainone Cable Company|
+|13|103.139.138.14|8080|Indonesia|Blega|PT. TOBA JAYA NET|
+|14|202.73.27.43|8181|Indonesia|Jakarta|PT. Usaha Adisanggoro|
+|15|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
+|16|27.124.80.58|82|Indonesia|Jakarta|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|188.129.255.58|80|Georgia|Tbilisi|Caucasus Online LLC|
+|18|115.127.178.34|2589|Bangladesh|Dhaka|BRACNet Limited|
+|19|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
