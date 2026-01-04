@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|190.110.36.195|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
-|13|103.172.121.52|8083|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|16|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
-|19|181.48.39.89|8080|Colombia|Armenia|Telmex Colombia S.A.|
-|20|46.209.217.108|8088|Iran|Tehran|Respina Networks & Beyond PJSC|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|103.93.93.86|1111|Indonesia|Sitimerto|MYRISE|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|7|38.159.232.108|999|Dominican Republic|Santo Domingo|Lightwave USA LLC|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|103.171.194.52|84|India|Mangaluru|Udupi Fastnet Private Limited|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|19|202.58.73.246|1111|Indonesia|Kediri|PT Data Buana Nusantara|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
