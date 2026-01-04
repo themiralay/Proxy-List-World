@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|103.172.42.105|1111|Indonesia|Cikampek|PT Media Solusi Sukses|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|204.199.139.76|999|Chile|Alhué|Ingbell Chile SPA|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|115.127.179.158|2589|Bangladesh|Dhaka|BRACNet Limited|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|115.127.180.146|2589|Bangladesh|Dhaka|BRACNet Limited|
 |10|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|11|115.127.180.36|2589|Bangladesh|Dhaka|BRACNet Limited|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|103.227.187.11|6090|Indonesia|Penganjuran Krajan|PT Master Star Network|
-|14|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|49.0.27.175|1111|Indonesia|Bluri|SIMS Jabar Banten Medianet|
-|17|31.59.185.74|2525|The Netherlands|Amsterdam|CGI GLOBAL LIMITED|
-|18|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL - Vercara|
-|19|103.250.70.193|1121|Bangladesh|Gaibandha|Next Online Ltd|
-|20|163.5.128.117|14270|United States|Chicago|CAMPLINK|
+|11|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|12|115.127.180.36|2589|Bangladesh|Dhaka|BRACNet Limited|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|15|202.154.18.56|8080|Indonesia|Made|DIGITNET|
+|16|37.238.45.74|8080|Iraq|Baghdad|EarthLink Ltd. Communications&|
+|17|103.10.55.174|7653|Bangladesh|Rajshahi|Drik ICT Ltd|
+|18|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|19|49.145.255.195|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
