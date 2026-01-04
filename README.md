@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|103.189.116.138|1220|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
-|11|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|59.153.16.214|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
-|16|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|54.74.230.129|80|Ireland|Dublin|Amazon.com, Inc.|
-|19|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|54.74.230.129|80|Ireland|Dublin|Amazon.com, Inc.|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|11|124.106.116.34|1337|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|54.74.230.129|80|Ireland|Dublin|Amazon.com, Inc.|
+|13|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|54.74.230.129|80|Ireland|Dublin|Amazon.com, Inc.|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|17|177.136.44.194|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|18|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
+|19|147.75.83.117|443|The Netherlands|Amsterdam||
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
