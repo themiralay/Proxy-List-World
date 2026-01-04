@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80893** proxies at the latest update. Usable proxies are below.
+> Scraper found **41770** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38974|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|300|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|151|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40693|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.28.108|6006|Japan|Tokyo|Aceville Pte.ltd|
-|2|43.167.177.73|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.167.215.55|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.167.214.72|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.167.202.203|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.167.191.32|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.133.3.226|6006|Japan|Tokyo|Aceville Pte.ltd|
-|8|43.133.0.33|6006|Japan|Tokyo|Aceville Pte.ltd|
-|9|43.167.166.180|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.167.156.57|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.167.236.4|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.133.2.2|6006|Japan|Tokyo|Aceville Pte.ltd|
-|13|43.133.13.4|6006|Japan|Tokyo|Aceville Pte.ltd|
-|14|43.167.185.71|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|43.167.157.90|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.167.189.202|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|43.167.187.222|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.133.15.35|6006|Japan|Tokyo|Aceville Pte.ltd|
+|3|43.167.191.32|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.167.191.42|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.133.14.107|6006|Japan|Tokyo|Aceville Pte.ltd|
+|6|43.167.177.73|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.133.8.63|6006|Japan|Tokyo|Aceville Pte.ltd|
+|8|43.167.167.43|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.167.158.196|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.167.233.203|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.133.30.205|6006|Japan|Tokyo|Aceville Pte.ltd|
+|12|43.167.166.180|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.133.6.171|6006|Japan|Tokyo|Aceville Pte.ltd|
+|14|43.167.245.172|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.167.204.201|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.133.11.191|6006|Japan|Tokyo|Aceville Pte.ltd|
+|17|43.167.185.71|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.167.171.21|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.133.0.33|6006|Japan|Tokyo|Aceville Pte.ltd|
+|20|43.133.28.81|6006|Japan|Tokyo|Aceville Pte.ltd|
 
 
 
