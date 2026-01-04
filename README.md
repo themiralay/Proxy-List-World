@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|121.141.22.174|8888|South Korea|Guro-gu|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|121.141.22.174|8888|South Korea|Guro-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|18|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|19|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|20|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|43.225.148.130|1120|Bangladesh|Tongi|Next Online|
+|15|132.255.21.123|999|Colombia|Pereira|Media Commerce Partners S.A|
+|16|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|18|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
