@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.148.45.59|8080|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |6|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|165.101.102.30|8081|Philippines|Quezon City|iRateNet Solutions|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|9|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|10|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|19|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|20|103.172.120.111|8090|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|113.11.35.242|36909|Bangladesh|Dhaka|BDCOM Online Limited|
+|18|49.144.17.229|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|19|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|20|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
