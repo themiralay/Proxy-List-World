@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|115.127.180.146|2589|Bangladesh|Dhaka|BRACNet Limited|
-|7|14.103.168.150|18080|China|Beijing|BITNET|
-|8|43.153.176.94|6006|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|11|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|13|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
-|14|120.240.110.145|22222|China|Guangzhou|China Mobile communications corporation|
-|15|113.192.1.27|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|16|103.138.70.155|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
-|17|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|54.74.230.129|80|Ireland|Dublin|Amazon.com, Inc.|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|103.118.85.144|8080|Bangladesh|Rangpur City|Abuzz IT Limited|
+|9|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|10|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|11|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|12|120.240.110.145|22222|China|Guangzhou|China Mobile communications corporation|
+|13|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|14|54.74.230.129|80|Ireland|Dublin|Amazon.com, Inc.|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|190.90.252.241|999|Colombia|Popayán|Internexa S.a. E.S.P|
 
 
 
