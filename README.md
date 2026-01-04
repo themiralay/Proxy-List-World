@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 |8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|18|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|13|69.75.140.157|8080|United States|Garden Grove|Spectrum|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
