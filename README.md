@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|12|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|20|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|10|201.77.111.112|999|Mexico|Nuevo Casas Grandes|Nidix Networks S.a. De C.V.|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|47.81.14.7|3129|Thailand|Bangkok|Alibaba.com LLC|
+|15|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
