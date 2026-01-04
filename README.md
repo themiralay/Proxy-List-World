@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|8|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|154.26.134.167|8080|Singapore|Singapore|Cogent Communications|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|160.22.90.90|8818|Indonesia|Karangsembung|PT Lintas Data Kita|
+|14|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|160.22.90.90|8818|Indonesia|Karangsembung|PT Lintas Data Kita|
+|17|103.156.16.191|8080|Indonesia|Indramayu|RSTNET|
+|18|103.193.145.155|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
 
 
 
