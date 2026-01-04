@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80054** proxies at the latest update. Usable proxies are below.
+> Scraper found **80055** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38651|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38652|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40439|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|103.193.144.13|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|5|103.189.250.89|8090|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|79.106.33.26|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|14|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|16|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|79.106.108.132|8079|Albania|Gjirokastër|ONE ALBANIA SH.A.|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|199.66.157.89|8080|United States|Alex|SCT Broadband|
+|12|103.93.93.86|1111|Indonesia|Sitimerto|MYRISE|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
+|16|45.175.160.97|999|Argentina|Tunuyán|OSORIO SERGIO ANGELINO(NETVDU).|
+|17|62.193.118.57|1981|Egypt|Giza|Etisalat|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
