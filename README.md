@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|151.245.215.22|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|15|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
-|16|115.127.180.36|2589|Bangladesh|Dhaka|BRACNet Limited|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|102.209.18.96|8080|Kenya|Nairobi|Vennet Solutions Limited|
-|19|103.106.78.195|7070|Indonesia|Depok|PT Quantum Tera Multimedia|
-|20|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|9|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|103.133.27.229|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
+|13|182.253.109.96|8080|Indonesia|Semarang|Biznet Metronet|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|19|172.82.64.79|3128|United States|Secaucus|Massivegrid LTD|
+|20|115.127.180.36|2589|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
