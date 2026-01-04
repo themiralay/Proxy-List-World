@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80201** proxies at the latest update. Usable proxies are below.
+> Scraper found **80146** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38877|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38822|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40337|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|9|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|139.28.49.108|8080|Hong Kong|Tsing Yi|HGC Global Communications Limited|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|14|171.4.64.179|8080|Thailand|Thoen|Triple T Broadband Public Company Limited|
-|15|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|17|195.162.19.75|80|Spain|Madrid|Adam EcoTech, S.A|
-|18|170.245.132.80|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|19|181.119.67.133|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|20|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|115.127.178.34|2589|Bangladesh|Dhaka|BRACNet Limited|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|10|186.121.214.210|32650|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|13|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|186.5.94.216|999|Ecuador|Guayaquil|Telconet S.A|
+|17|54.74.230.129|80|Ireland|Dublin|Amazon.com, Inc.|
+|18|181.209.82.205|999|Argentina|Gualeguay|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|38.52.162.66|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
+|20|182.253.73.13|443|Indonesia|Labansari|BIZNET|
 
 
 
