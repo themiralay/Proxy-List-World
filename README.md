@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|5|150.107.245.57|8080|Indonesia|Soreang|Infrastruktur STARNET|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|10|203.175.103.97|8080|Indonesia|Cikananga|PT. Mitra Kita Brilian|
-|11|103.189.11.63|3838|Bangladesh|Chāndpur|Digicon Telecommunication Ltd|
-|12|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|101.47.17.165|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|160.22.90.90|8818|Indonesia|Karangsembung|PT Lintas Data Kita|
-|20|103.156.17.132|8070|Indonesia|Jatibarang|RSTNET|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|89.34.219.52|2080|Germany|Frankfurt am Main|Istqrar for Servers Services Ltd|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|124.217.78.149|8082|Philippines|Dagupan|Philippine Long Distance Telephone Co.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|18|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|19|203.175.103.97|8080|Indonesia|Cikananga|PT. Mitra Kita Brilian|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
