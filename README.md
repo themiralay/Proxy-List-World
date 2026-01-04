@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80597** proxies at the latest update. Usable proxies are below.
+> Scraper found **80583** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38800|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38786|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|71|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40800|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|10|49.0.32.50|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|11|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|18|169.63.230.169|8081|United States|Dallas|SoftLayer|
-|19|43.224.118.206|1120|Bangladesh|Dhaka|Next Online|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|18|154.201.80.253|8888|Hong Kong|Hong Kong|High Family Technology Co|
+|19|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
