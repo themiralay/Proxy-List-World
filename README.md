@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.242.105.70|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
+|7|144.124.235.6|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|43.231.249.145|9090|India|New Delhi|Spectra Technologies India Private Limited|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|210.16.160.222|7890|China|Beijing|Hubei Feixun Network Co., Ltd|
 
 
 
