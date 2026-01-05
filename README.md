@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80299** proxies at the latest update. Usable proxies are below.
+> Scraper found **80338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38668|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38707|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40652|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.160.205.38|8181|Indonesia|Pendaleman|PRIME|
-|15|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|16|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
+|19|181.78.202.28|8080|Ecuador|Vinces|Ufinet Panama S.A.|
+|20|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
 
 
 
