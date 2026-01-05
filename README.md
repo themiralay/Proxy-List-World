@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|212.175.61.31|8080|Turkey|Kayseri|Turk Telekomunikasyon Anonim Sirketi|
+|6|14.224.183.185|8080|Vietnam|Ho Chi Minh City|VNPT|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|45.229.56.64|999|Panama|El Coco|Geek Networks|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|188.132.222.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|14.103.168.150|18080|China|Beijing|BITNET|
+|18|49.145.255.195|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
+|19|115.127.179.190|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|194.87.43.46|8080|Russia|Moscow|TimeWeb LLC|
+
 
 
 ## Contributing
