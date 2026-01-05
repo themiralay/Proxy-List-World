@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|103.171.240.174|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|45.178.55.2|999|Argentina|Benito Juárez|Globalweb S.R.L.|
-|16|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|17|41.190.232.195|8080|DR Congo|Gandajika|Orioncom SPRL|
-|18|218.245.5.12|7890|China|Beijing|TopnewNET|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|124.158.160.61|8080|Indonesia|Jakarta|ICON+|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|113.176.118.255|7654|Vietnam|Điện Bàn|VNPT|
+|10|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|37.237.225.218|8081|Iraq|Baghdad|EarthLink Ltd.|
+|13|176.88.166.211|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|14|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|15|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
+|16|15.204.55.214|3128|United States|Hillsboro|OVH SAS|
+|17|115.127.178.206|2589|Bangladesh|Dhaka|BRACNet Limited|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
