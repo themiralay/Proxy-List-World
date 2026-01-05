@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|12|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|13|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|14|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|16|200.215.229.14|999|Peru|Cusco|Gpon Networks S.A.C.|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|20|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|9|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|14|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|45.190.76.16|999|Mexico|Zapopan|Meta Networks SA De CV|
+|17|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|18|103.155.64.131|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
