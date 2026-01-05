@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|8|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|15|202.191.127.106|1121|Bangladesh|Dhaka|BIJOY|
-|16|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|103.242.105.70|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|19|72.10.160.90|14913|Canada|Montreal|GloboTech Communications|
-|20|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|18|14.103.168.150|18080|China|Beijing|BITNET|
+|19|164.163.73.69|999|Honduras|Santa Rosa de Copán|Grupo Inma S.A|
+|20|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
 
 
 
