@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|13|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|14|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|14.103.168.150|18080|China|Beijing|BITNET|
-|20|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|16|200.188.112.139|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|18|103.247.23.37|1111|Indonesia|Wonosobo|PT wifian Solution|
+|19|36.93.56.58|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|20|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
 
 
 
