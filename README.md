@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|2|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|163.5.128.20|14270|United States|Chicago|CAMPLINK|
+|8|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
 |9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|12|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|12|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|16|103.156.75.81|8081|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|18|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|19|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|19|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|20|59.153.19.170|1120|Bangladesh|Dhaka|EUROtelbd Online Ltd.|
 
 
 
