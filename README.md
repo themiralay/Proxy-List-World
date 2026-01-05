@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79910** proxies at the latest update. Usable proxies are below.
+> Scraper found **79929** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38671|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38704|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40267|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|103.220.23.211|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|103.251.232.28|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|103.106.115.118|8097|Indonesia|Kedaton|SMSNET|
-|18|103.81.65.190|1111|Indonesia|Gedong Tataan|QIUNET|
-|19|103.178.21.160|3125|Indonesia|Malang|PT Trisna Mega Abadi|
-|20|103.82.23.118|5221|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|202.93.245.54|8080|Indonesia|Gadang|DWPNAP|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|49.151.15.49|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|14|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|187.251.230.15|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|17|157.10.97.129|1111|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|18|103.242.104.221|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|41.65.67.165|1976|Egypt|Cairo|Enterprise|
 
 
 
