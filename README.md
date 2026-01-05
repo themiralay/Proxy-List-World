@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|11|185.202.59.66|3128|Iran|Shahr-e Qods|satiareyertebat|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|178.217.101.90|3128|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
-|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|111.125.194.10|1452|India|Anand|INPL's|
-|18|202.77.127.101|8080|Indonesia|Jakarta|LINKNET|
-|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|103.82.23.118|5185|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|176.100.1.170|3128|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.153.149.200|8181|Indonesia|Pringalot|JARINGANKU|
+|14|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|95.84.164.92|8998|Russia|Moscow|NCNET|
+|17|103.82.23.118|5185|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|18|14.103.168.150|18080|China|Beijing|BITNET|
+|19|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|20|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
 
 
 
