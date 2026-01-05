@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|12|103.187.86.14|8085|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
 |15|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
 |18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|163.5.128.211|14270|United States|Chicago|CAMPLINK|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
