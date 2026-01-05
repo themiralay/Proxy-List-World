@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80256** proxies at the latest update. Usable proxies are below.
+> Scraper found **80198** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38669|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38611|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|37|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40624|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|11|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|14|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|37.237.225.218|8081|Iraq|Baghdad|EarthLink Ltd.|
-|18|101.255.119.26|8080|Indonesia|Jakarta|PT Remala Abadi|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|197.232.65.40|55443|Kenya|Nairobi|Jamii Telecommunications Limited|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|176.88.166.211|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|15|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|19|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
