@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|45.177.16.137|999|Paraguay|Ciudad del Este|MSW S.A.|
-|15|200.215.248.112|999|Peru|San Juan de Lurigancho|Compunetwork S.A.C.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|19|38.123.48.50|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|20|72.10.160.90|24147|Canada|Montreal|GloboTech Communications|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|14.103.168.150|18080|China|Beijing|BITNET|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.4.76.105|8585|Indonesia|Parung|PT Khazanah Net Indonesia|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|103.230.62.102|1120|Bangladesh|Chittagong|Next Online Ltd|
+|17|177.234.199.89|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|19|14.103.168.150|18080|China|Beijing|BITNET|
+|20|190.52.110.31|999|Venezuela|Chacao|Gold Data USA Inc|
 
 
 
