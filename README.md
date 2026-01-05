@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|190.52.107.85|999|Venezuela|Caracas|Gold Data USA Inc|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|103.172.120.102|8097|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|15|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
-|16|103.76.108.137|1111|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|49.0.32.50|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|14|165.16.2.254|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|15|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
+|16|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
+|20|103.171.150.205|8080|Indonesia|Pameungpeuk|MYREPUBLIC|
 
 
 
