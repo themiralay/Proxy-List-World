@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|103.156.14.227|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|185.200.191.44|16606|United States|New York|First Server Limited|
-|8|103.179.218.14|1080|Indonesia|Ciruas|WIMATE|
-|9|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
-|10|201.230.121.86|999|Peru|San Borja|Telefonica Del Peru|
-|11|223.206.44.235|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|12|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|13|181.78.202.28|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|19|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|20|103.175.46.162|8080|Indonesia|Sumber|PT Internet Keluarga Indonesia|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|185.200.191.44|16606|United States|New York|First Server Limited|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.179.218.14|1080|Indonesia|Ciruas|WIMATE|
+|11|8.242.212.220|999|Colombia|Medellín|Level 3 Communications, Inc.|
+|12|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|13|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|14.103.168.150|18080|China|Beijing|BITNET|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|81.196.74.147|8080|Romania|Dej|RCS & RDS|
+|20|177.39.72.73|8080|Brazil|Araranguá|Sul Online Telecom Ltda - EPP|
 
 
 
