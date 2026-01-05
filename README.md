@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80333** proxies at the latest update. Usable proxies are below.
+> Scraper found **80328** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38702|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40652|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|202.77.127.101|8080|Indonesia|Jakarta|LINKNET|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|15|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|16|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|19|66.211.155.34|8080|United States|Yarmouth|FirstLight Fiber|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|193.181.35.87|8118|Sweden|Stockholm|PVDataNet AB|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|7|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|13|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|14|119.245.81.208|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
+|16|120.92.88.147|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|67.43.228.250|7007|Canada|Montreal|GloboTech Communications|
+|19|202.73.27.43|8181|Indonesia|Jakarta|PT. Usaha Adisanggoro|
+|20|103.155.199.38|8080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
 
 
 
