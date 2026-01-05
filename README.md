@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|200.215.248.112|999|Peru|San Juan de Lurigancho|Compunetwork S.A.C.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|176.117.105.228|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|103.172.120.102|8097|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|15|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|16|103.76.108.137|1111|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|49.0.32.50|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
 |19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|20|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
 
 
 
