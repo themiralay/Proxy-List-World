@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80220** proxies at the latest update. Usable proxies are below.
+> Scraper found **80269** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38634|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38683|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|36|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40624|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|117.247.233.62|8080|India|Agra|BSNL Internet|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|19|164.77.40.101|8080|Chile|Temuco|Entel Chile S.A.|
-|20|123.113.96.67|1082|China|Beijing|China Unicom Beijing Province Network|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|8|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|176.119.16.40|8534|Russia|Abakan|Alfatel Ltd|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|17|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|18|190.242.58.99|999|Colombia|Cali|Liberty Networks De Colombia|
+|19|90.154.41.58|8080|Russia|Moscow|PJSC Rostelecom|
+|20|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
 
 
 
