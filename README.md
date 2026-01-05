@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79823** proxies at the latest update. Usable proxies are below.
+> Scraper found **79854** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38712|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38775|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|27|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40126|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|103.105.78.158|8080|Indonesia|Bojonegoro|PT. Garuda Media Telematika|
-|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|202.58.77.194|8031|Indonesia|Kediri|PT Data Buana Nusantara|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|194.29.60.220|8080|Ukraine|Vinnytsia|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|19|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
-|20|103.26.176.25|80|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|181.78.9.50|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|11|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|14.103.168.150|18080|China|Beijing|BITNET|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|49.0.32.13|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|16|137.59.50.1|1120|Bangladesh|Tongi|Bijoy Online Ltd|
+|17|197.155.64.226|8090|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|18|38.45.254.5|999|Mexico|Celaya|Cogent Communications|
+|19|72.10.160.170|31325|Canada|Montreal|GloboTech Communications|
+|20|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
 
 
 
