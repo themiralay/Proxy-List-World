@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|14|103.82.23.118|5195|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|124.217.74.145|8082|Philippines|Peñablanca|Philippine Long Distance Telephone Co.|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|38.199.65.143|999|Colombia|Bogotá|TV COLOMBIA DIGITAL SAS|
-|19|202.5.47.44|12225|Bangladesh|Chittagong|BBTS-NEW|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|181.119.111.59|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|15|103.82.23.118|5195|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|16|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|19|194.124.36.252|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
