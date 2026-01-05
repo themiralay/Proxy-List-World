@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|185.200.191.44|16606|United States|New York|First Server Limited|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|174.138.167.250|8800|United States|Phoenix|Secured Servers LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|13|174.138.167.250|8800|United States|Phoenix|Secured Servers LLC|
 |14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|176.100.1.170|3128|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|19|38.49.148.147|999|Mexico|Irapuato|IENTC S de RL de CV|
-|20|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|78.187.42.187|3310|Turkey|Trabzon|Turk Telekomunikasyon A.S|
+|17|195.87.136.2|5331|Türkiye|Istanbul|VFNET|
+|18|103.22.138.34|8080|Indonesia|Jakarta|Intelex Group|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|171.4.1.165|8080|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
 
 
 
