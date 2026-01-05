@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|12|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|13|101.255.119.26|8080|Indonesia|Jakarta|PT Remala Abadi|
-|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|45.175.59.0|61950|Brazil|Fortaleza|Infortec - Informatica & Tecnologia Ltda - ME|
-|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|18|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|19|117.247.233.62|8080|India|Agra|BSNL Internet|
-|20|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|101.255.136.42|80|Indonesia|Jakarta|PT Remala Abadi|
+|12|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|13|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|14|185.200.191.44|16606|United States|New York|First Server Limited|
+|15|109.69.77.33|8080|Russia|Ryazan|RU RZN Vidikon|
+|16|37.237.225.218|8081|Iraq|Baghdad|EarthLink Ltd.|
+|17|190.111.218.141|999|Argentina|San Juan Bautista|CPS|
+|18|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|19|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|20|103.122.1.93|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
 
 
 
