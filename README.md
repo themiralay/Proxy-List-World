@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|113.176.118.255|7654|Vietnam|Điện Bàn|VNPT|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|12|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|13|176.119.16.40|8534|Russia|Abakan|Alfatel Ltd|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|16|117.247.233.62|8080|India|Agra|BSNL Internet|
-|17|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
-|18|103.193.144.41|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|19|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
-|20|103.78.113.34|8080|Indonesia|Jakarta|MORATELINDO|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|13|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|14|103.22.138.34|8080|Indonesia|Jakarta|Intelex Group|
+|15|137.59.51.123|1120|Bangladesh|Dhaka|Bijoy Online Ltd|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|37.230.57.112|999|Paraguay|Ciudad del Este|Startelecom S.A.|
+|18|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
+|19|109.207.241.93|3130|Uzbekistan|Chust|Modern store group LLC|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
