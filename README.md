@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.174.236.88|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|202.58.77.19|3127|Indonesia|Kediri|PT Data Buana Nusantara|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|181.78.202.28|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|17|203.150.113.29|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|18|101.51.55.153|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|101.109.119.24|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|20|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
+|3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|185.200.191.44|16606|United States|New York|First Server Limited|
+|13|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|203.111.253.106|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|17|185.200.191.44|16606|United States|New York|First Server Limited|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|147.75.83.117|80|The Netherlands|Amsterdam||
+|20|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
 
 
 
