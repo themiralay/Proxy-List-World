@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|202.58.77.76|7777|Indonesia|Kediri|PT Data Buana Nusantara|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|90.156.194.71|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|186.96.160.219|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|20|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|103.147.134.115|8082|Indonesia|Jepon|PT.MURNI MAKMUR ABADI|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|103.19.58.151|8080|Indonesia|Sragen|BITSNET|
+|18|103.179.182.255|8080|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
 
 
 
