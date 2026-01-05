@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|7|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|122.52.213.79|62102|Philippines|Las Piñas|Philippine Long Distance Telephone Co.|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |14|3.250.56.194|80|Ireland|Dublin|Amazon Technologies Inc.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
-|19|147.75.83.117|443|The Netherlands|Amsterdam||
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|124.104.218.157|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|18|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
 
 
 
