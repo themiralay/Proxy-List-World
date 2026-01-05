@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|5|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
-|11|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|12|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|103.159.194.209|7777|Indonesia|Kudus|PT Giga Digital Nusantara|
-|14|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|92.119.126.229|8118|France|Strasbourg|velia.net Internetdienste GmbH|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|66.211.155.34|8080|United States|Yarmouth|FirstLight Fiber|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|18|38.52.135.96|8181|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|103.157.204.65|4012|Vietnam|Dại Mỗ|Viet Digital Technology Liability Company|
 
 
 
