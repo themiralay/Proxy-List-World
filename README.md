@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79845** proxies at the latest update. Usable proxies are below.
+> Scraper found **79839** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38658|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38652|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|21|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40240|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
-|9|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|194.26.141.202|3128|Estonia|Tallinn|BlueVPS OU|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
 |13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|15|103.156.233.19|8080|Indonesia|Cicurug|MULTIMEDIALINKTECH|
-|16|103.59.45.249|8080|Indonesia|Kota Agung|PT INDONESIA TRANS NETWORK|
-|17|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|18|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
-|19|222.209.184.122|1087|China|Chengdu|Chinanet|
-|20|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|14|103.82.23.118|5195|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|124.217.74.145|8082|Philippines|Peñablanca|Philippine Long Distance Telephone Co.|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|38.199.65.143|999|Colombia|Bogotá|TV COLOMBIA DIGITAL SAS|
+|19|202.5.47.44|12225|Bangladesh|Chittagong|BBTS-NEW|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
