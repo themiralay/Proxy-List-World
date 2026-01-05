@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|11|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|9|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|10|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
 |13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|45.117.63.190|8080|Bangladesh|Dhaka|Paradise Technologies Limited|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.125.154.1|8080|India|Tirupur|Live Fibernet|
+|20|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
