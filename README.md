@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
-|9|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
-|11|57.129.29.184|1080|Germany|Frankfurt am Main|OVH SAS|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|185.216.178.204|8888|Germany|Nuremberg|netcup GmbH|
-|14|193.181.35.87|8118|Sweden|Stockholm|PVDataNet AB|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
-|17|160.20.128.13|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|201.230.121.86|999|Peru|San Borja|Telefonica Del Peru|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|14|103.179.218.14|1080|Indonesia|Ciruas|WIMATE|
+|15|18.202.158.161|80|Ireland|Dublin|Amazon Technologies Inc.|
+|16|181.78.202.28|8080|Ecuador|Vinces|Ufinet Panama S.A.|
+|17|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
