@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|103.123.235.43|8080|India|Mumbai|Esto Broadband|
-|15|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|20|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|166.249.54.61|7234|United States|Chicago|Verizon Business|
+|16|115.127.178.34|2589|Bangladesh|Dhaka|BRACNet Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|20|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
 
 
 
