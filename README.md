@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|12|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|27.147.130.170|50000|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|34.48.171.130|33080|United States|Washington|Google LLC|
-|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|9|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|175.111.96.157|3128|Indonesia|Ngamprah|PT Wifipedia Sinergi Telematika|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|19|27.147.130.170|50000|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
 
 
 
