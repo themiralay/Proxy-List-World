@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|41.65.160.172|1976|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.147.250.233|82|India|Prayagraj|Prayag Broadband Pvt Ltd|
-|12|83.147.29.57|8080|United Kingdom|City of London|Eugamehost LTD|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|18|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|19|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|20|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|4|14.143.222.113|10179|India|Chennai|Tata Communications Limited|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|15|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|16|103.159.194.209|7777|Indonesia|Kudus|PT Giga Digital Nusantara|
+|17|72.10.164.178|4863|Canada|Montreal|GloboTech Communications|
+|18|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|20|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
 
 
 
