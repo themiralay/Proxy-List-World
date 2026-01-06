@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|188.0.167.195|8080|Russia|Grozny|Vainah Telecom|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|49.144.17.229|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|15|103.188.168.76|8097|Indonesia|Gunungrajak|PT Lintas Jaringan Nusantara|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
 
 
 
