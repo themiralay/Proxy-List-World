@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|9|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|119.18.144.12|8585|Bangladesh|Chittagong|BBTS Network|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.125.16.12|8080|Indonesia|Jakarta|JAVAMEDIA|
-|17|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
-|18|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
-|19|103.120.76.82|8080|Indonesia|Kresek|PT Haci Telekomunikasi Indonesia|
-|20|67.43.228.250|20911|Canada|Montreal|GloboTech Communications|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|201.88.213.118|8080|Brazil|Brasília|V tal|
+|15|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|102.219.231.22|8080|South Africa|Heidelberg|Soepa Soap Vervaardigers CC|
+|17|103.83.178.221|8080|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|36.255.84.69|83|India|Bengaluru|Gatik Business Solutions|
+|20|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
