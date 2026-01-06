@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|8|157.15.144.102|1111|Indonesia|Cilacap|IONET|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|103.129.92.244|8887|Indonesia|Malang|PT. Eka Mas Republik|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|46.28.88.19|8080|Russia|Moscow|Avantel Moscow set|
-|19|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|20|103.153.202.221|8080|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|6|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|190.60.61.53|999|Colombia|Nueva Granada|IFX NETWORKS COLOMBIA|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|210.79.141.126|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
+|14|49.147.70.206|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
+|15|161.49.85.63|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|16|102.210.106.1|83|Kenya|Kisumu|MCN KISUMU|
+|17|203.175.103.97|8080|Indonesia|Cikananga|PT. Mitra Kita Brilian|
+|18|186.156.147.243|999|Chile|Concón|VTR BANDA ANCHA S.A.|
+|19|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|20|103.173.72.34|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
 
 
 
