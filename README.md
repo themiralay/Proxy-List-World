@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80290** proxies at the latest update. Usable proxies are below.
+> Scraper found **80261** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38699|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38670|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40639|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|14.143.222.113|10179|India|Chennai|Tata Communications Limited|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|15|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|16|103.159.194.209|7777|Indonesia|Kudus|PT Giga Digital Nusantara|
-|17|72.10.164.178|4863|Canada|Montreal|GloboTech Communications|
-|18|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
-|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|9|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|41.65.160.172|1976|Egypt|Aş Şalāḩāt|Etisalat Misr Mobile BB|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
 
 
 
