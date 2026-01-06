@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|7|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|12|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|13|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|14|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
-|17|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|18|38.172.131.203|999|Peru|Lima|Conex TV E.I.R.L|
-|19|186.96.111.214|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|20|49.0.33.38|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|16|103.26.176.31|8080|Indonesia|Cilengkrang|PT Lintas Jaringan Nusantara|
+|17|162.240.154.26|3128|United States|Provo|Unified Layer|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|115.127.180.36|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|115.127.176.218|2589|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
