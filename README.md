@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|12|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|193.178.203.140|8080|Iran|Isfahan|AsmanFaraz ISDP|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|18|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|19|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+
 
 
 ## Contributing
