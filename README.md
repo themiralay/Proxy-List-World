@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|194.87.10.65|1234|Singapore|Singapore|Baxet Group Inc.|
+|8|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
-|13|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|16|103.242.104.221|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|176.100.1.170|3128|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|19|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
 
 
 
