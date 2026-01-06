@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|125.26.4.219|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|14|162.240.154.26|3128|United States|Provo|Unified Layer|
-|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|17|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|185.200.37.242|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|176.100.1.170|3128|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|11|116.203.139.209|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|12|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
+|19|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
