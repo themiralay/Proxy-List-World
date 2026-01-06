@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|103.188.173.152|8080|Indonesia|Jakarta|PT Satria Digital Media|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
