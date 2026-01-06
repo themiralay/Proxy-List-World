@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|115.127.178.74|2589|Bangladesh|Dhaka|BRACNet Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.156.248.14|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|17|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|18|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|19|115.127.178.62|2589|Bangladesh|Dhaka|BRACNet Limited|
-|20|43.225.148.130|1120|Bangladesh|Tongi|Next Online|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|67.43.236.20|26001|Canada|Montreal|GloboTech Communications|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|112.203.103.140|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|101.128.107.36|1111|Indonesia|Parung|CBN|
+|14|103.156.248.14|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|15|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
