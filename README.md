@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|10|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|164.77.40.101|8080|Chile|Temuco|Entel Chile S.A.|
-|17|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|14|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
+|15|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|16|24.152.53.3|999|Guatemala|Jalapa|TV CABLE UNIVERSAL S.A|
+|17|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|18|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|19|103.157.83.231|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|20|209.74.77.156|3128|United States|Los Angeles|Namecheap, Inc.|
 
 
 
