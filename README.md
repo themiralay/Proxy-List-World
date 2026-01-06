@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|203.190.44.106|8080|Indonesia|Ungaran|PT Jaring Lintas Utara|
-|14|163.5.128.114|14270|United States|Chicago|CAMPLINK|
-|15|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|18|103.165.157.107|8080|Indonesia|Purbalingga|MEGADATA-ISP|
-|19|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|20|190.183.210.74|3129|Argentina|Paraná|Gigared S.A.|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|103.227.186.217|6080|Indonesia|Siderejo|PT Master Star Network|
+|20|186.250.53.192|8080|Brazil|Guarulhos|Redfox Telecomunicações Ltda.|
 
 
 
