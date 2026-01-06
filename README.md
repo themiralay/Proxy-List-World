@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|103.187.136.20|3838|Bangladesh|Hājīganj|Times Communication|
-|9|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|190.145.227.114|999|Colombia|Cartago|Telmex Colombia S.A.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
-|16|120.92.88.147|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|103.96.79.75|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
-|18|103.48.69.173|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|67.43.228.253|13881|Canada|Montreal|GloboTech Communications|
-|20|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|103.104.15.184|8080|Indonesia|Bandung|STARNET-JTL|
+|18|179.189.48.253|8080|Brazil|Sinop|Avato Tecnologia S.A|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|103.110.10.162|1992|Indonesia|Pakuwon|PT Citra Jelajah Informatika|
 
 
 
