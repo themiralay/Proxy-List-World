@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.159.96.171|3122|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|15|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|190.93.191.19|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|19|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|10|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|15|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|188.132.221.189|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|103.107.84.191|8080|Indonesia|Colomadu|PT. Media Jaringan Indonesia|
+|19|115.178.49.111|8080|Indonesia|Margabakti|NOC SIMAYA|
 |20|107.173.111.110|7890|United States|Santa Clara|ColoCrossing|
 
 
