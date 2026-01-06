@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|36.67.114.94|8187|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|5.129.246.218|1081|Russia|Moscow|TimeWeb LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|194.87.77.22|80|Sweden|Stockholm|xorek.cloud International LTD|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|58.147.171.12|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|103.159.96.177|7777|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|18|27.147.137.90|6442|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
 |20|103.244.107.150|8080|Indonesia|Rengasdengklok|PT Sahabat Fiber Indonesia|
 
 
