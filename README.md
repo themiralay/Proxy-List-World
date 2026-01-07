@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
-|17|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|18|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|19|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|20|103.156.14.227|8080|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|163.5.128.135|14270|United States|Chicago|CAMPLINK|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|115.247.115.38|8080|India|Bhilai|Reliance Jio Infocomm Limited|
+|19|103.117.58.230|8085|Indonesia|Cirebon|PT Jaringan Multimedia Cirebon|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
