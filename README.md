@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79978** proxies at the latest update. Usable proxies are below.
+> Scraper found **79948** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38701|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38671|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40339|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|12|103.82.23.118|5178|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|13|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
-|14|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|176.235.182.71|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|18|61.29.96.146|8000|Australia|Hawthorn|AAPT Limited|
-|19|49.0.26.215|8080|Indonesia|Bonggol Satu|SIMS Jabar Banten Medianet|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|10|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
+|13|182.93.95.80|8080|Nepal|Kathmandu|Subisu Cablenet|
+|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|182.160.117.141|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
