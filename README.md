@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|89.117.130.19|80|United States|Los Angeles|Limestone Networks, Inc.|
-|5|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|181.119.86.177|999|Colombia|Ciénaga de Oro|IFX Networks Argentina S.R.L|
-|12|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|13|103.190.225.214|8080|Indonesia|Soreang|LINTASARTA|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|72.10.160.91|4465|Canada|Montreal|GloboTech Communications|
-|16|194.110.55.211|3130|Kazakhstan|Almaty|PS Internet Company LLP|
-|17|185.82.99.107|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
-|18|103.97.140.127|3125|Indonesia|Ngamprah|PT Jembatan Data Pangrango|
-|19|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
-|20|67.43.228.250|6835|Canada|Montreal|GloboTech Communications|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|13|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|17|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|18|103.132.52.32|8080|Indonesia|Wonopringgo|PT Adeaksa Indo Jayatama|
+|19|120.28.216.101|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|20|78.9.234.55|8080|Poland|Wroclaw|Netia SA|
 
 
 
