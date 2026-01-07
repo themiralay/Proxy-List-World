@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|11|176.88.168.120|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|15|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|115.127.179.138|2589|Bangladesh|Dhaka|BRACNet Limited|
-|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|103.82.23.118|5207|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|7|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|12|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|15|103.82.23.118|5207|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|16|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|103.154.230.73|8090|Indonesia|Bilo|DIGITNET|
+|20|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
