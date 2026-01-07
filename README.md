@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|81.16.9.51|8080|Armenia|Yerevan|Ucom CJSC|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|176.119.16.40|8534|Russia|Abakan|Alfatel Ltd|
+|19|102.219.231.22|8080|South Africa|Heidelberg|Soepa Soap Vervaardigers CC|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
