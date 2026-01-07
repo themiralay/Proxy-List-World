@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|43.208.240.77|423|Thailand|Bangkok|Amazon.com, Inc.|
-|10|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|11|103.19.58.151|8080|Indonesia|Sragen|BITSNET|
-|12|186.182.6.191|3129|Argentina|Catamarca|Techtel LMDS Comunicaciones Interactivas S.A.|
-|13|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
-|14|190.60.58.236|999|Colombia|Segovia|IFX NETWORKS COLOMBIA|
-|15|14.103.168.150|18080|China|Beijing|BITNET|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|103.163.134.99|7777|Indonesia|Songgon|PROVITEL|
-|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|14|43.208.240.77|423|Thailand|Bangkok|Amazon.com, Inc.|
+|15|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|16|156.38.26.245|8080|Botswana|Gaborone|VBNS-BF1NET|
+|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
+|19|115.127.187.157|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 
 
 
