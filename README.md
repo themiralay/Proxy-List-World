@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|10|201.245.201.18|3128|Colombia|Granada|ETB - Colombia|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|190.97.239.97|999|Venezuela|Caracas||
-|13|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|14|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|186.65.106.90|2024|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|223.206.53.20|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|141.98.188.201|2080|United States|Los Angeles|Fast GEO Hosting S.R.L|
+|8|103.123.168.202|3932|Bangladesh|Mātuail|Sajid Trading Ltd.|
+|9|121.100.19.82|7088|Indonesia|Pamulang|NAP.Net.id - Network Access Point|
+|10|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|181.78.75.84|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|13|45.190.76.18|999|Mexico|Zapopan|Meta Networks SA De CV|
+|14|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|14.103.168.150|18080|China|Beijing|BITNET|
+|17|223.206.53.20|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
