@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
-|13|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|45.168.236.54|3128|Mexico|San Juan del Río|Wantelco SAS de CV|
-|17|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|134.17.6.31|3128|Belarus|Minsk|Mobile TeleSystems JLLC|
+|10|103.120.76.54|8080|Indonesia|Kresek|PT Haci Telekomunikasi Indonesia|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|14|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|15|204.157.185.3|999|Peru|Nazca|Signal Peru S.A.C|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|18|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|19|147.75.83.117|80|The Netherlands|Amsterdam||
+|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
