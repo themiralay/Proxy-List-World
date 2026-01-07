@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|9|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|10|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|103.177.199.97|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|15|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|147.75.83.117|80|The Netherlands|Amsterdam||
+|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|20|27.147.248.58|7979|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
