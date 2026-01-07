@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|163.5.128.177|14270|United States|Chicago|CAMPLINK|
-|15|181.233.50.233|8787|Ecuador|Loja|Optilink CIA Ltda|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|12|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|13|115.127.181.86|2589|Bangladesh|Dhaka|BRACNet Limited|
+|14|200.125.169.162|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 |16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|147.45.179.180|1081|United Kingdom|City of Westminster|Global Connectivity Solutions LLP|
-|19|1.0.136.129|8080|Thailand|Pattaya|TOT Public Company Limited|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|67.43.228.250|13257|Canada|Montreal|GloboTech Communications|
+|20|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
