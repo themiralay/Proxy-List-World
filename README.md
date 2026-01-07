@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|49.146.238.76|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|160.19.19.139|8097|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|11|45.230.169.129|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|12|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|13|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|72.10.160.174|19477|Canada|Montreal|GloboTech Communications|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|43.231.78.205|8080|Bangladesh|Dhaka|Gateway Online Access Limited|
-|18|14.103.168.150|18080|China|Beijing|BITNET|
-|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.188.112.139|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|15|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|89.175.0.74|3129|Russia|Novosibirsk|MTS PJSC|
+|17|62.60.246.164|9080|France|Paris|Hypercore Ltd|
+|18|72.10.160.174|19477|Canada|Montreal|GloboTech Communications|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|190.60.44.109|999|Colombia|Clemencia|IFX NETWORKS COLOMBIA|
 
 
 
