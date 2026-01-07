@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|103.141.150.147|8080|Indonesia|Margahayukencana|PRIMACOM|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|202.154.37.162|8080|Indonesia|Contong|RADNET|
-|14|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|203.111.253.106|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|16|103.167.229.147|8080|Nepal|Bāgluṅ|Fiberworld Communication Pvt. Ltd|
-|17|138.117.230.131|999|Guatemala|La Democracia|Fibernet S.A|
-|18|45.189.252.243|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|19|180.191.23.95|8081|Philippines|Cabanatuan City|Globe Telecom|
-|20|210.201.86.72|8080|Taiwan|Taipei|Asia Pacific On-line Service Inc.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|12|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|13|194.48.198.135|7070|Iran|Zarrīn Shahr|Pars Parva System LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|103.133.26.45|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|18|200.29.232.230|8080|Colombia|Tuluá|Consulnetwork Ltda|
+|19|103.167.229.147|8080|Nepal|Bāgluṅ|Fiberworld Communication Pvt. Ltd|
+|20|102.68.129.54|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 
 
 
