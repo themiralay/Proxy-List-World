@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|13|51.16.209.246|8080|Israel|Tel Aviv|Amazon.com, Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|103.156.16.45|8080|Indonesia|Indramayu|RSTNET|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|17|186.96.180.17|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|18|187.103.105.20|8085|Brazil|Florianópolis|BR.Digital Provider|
+|19|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|20|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
