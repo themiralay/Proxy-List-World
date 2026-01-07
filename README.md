@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|189.148.9.181|8080|Mexico|Tapachula|UNINET|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|16|147.75.83.117|80|The Netherlands|Amsterdam||
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|115.190.91.223|7897|China|Beijing|GWBN-WUHAN's IP|
-|19|103.35.108.244|2024|Bangladesh|Sirajganj|Ranks ITT|
-|20|201.245.201.18|3128|Colombia|Granada|ETB - Colombia|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|11|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|182.253.221.147|8080|Indonesia|Surabaya|Biznet Networks|
+|14|119.95.174.163|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
+|15|113.11.35.242|36909|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|190.90.252.241|999|Colombia|Popayán|Internexa S.a. E.S.P|
+|18|45.70.201.184|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|19|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
+|20|14.103.168.150|18080|China|Beijing|BITNET|
 
 
 
