@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.139.98.69|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|20|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|14|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|34.216.224.9|40715|United States|Portland|Amazon.com, Inc.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
 
 
 
