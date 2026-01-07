@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|3|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
-|9|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
-|10|170.80.95.254|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.153.202.221|8080|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
-|14|115.127.180.34|2589|Bangladesh|Dhaka|BRACNet Limited|
-|15|38.156.234.98|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
-|16|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|182.160.111.33|50000|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|20|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|103.155.64.131|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
+|12|201.182.242.4|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
+|15|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|81.201.56.208|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
+|19|103.171.83.23|7777|Indonesia|Cikarang|PT Multi Network Indonesia|
+|20|8.243.197.202|999|Ecuador|Puerto López|CTL Ecuador|
 
 
 
