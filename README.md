@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|12|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|103.124.251.16|8081|Bangladesh|Jessore|Earth Telecommunication|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|103.102.12.67|8080|Indonesia|Rembangan|FISNET|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|13|103.143.197.41|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|14|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|15|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|103.76.108.137|1111|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
 |20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
