@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|14|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.160.205.208|8097|Indonesia|Pendaleman|PRIME|
-|17|115.127.181.10|2026|Bangladesh|Dhaka|BRACNet Limited|
-|18|171.245.255.172|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|103.147.77.82|7777|Indonesia|Madiun|TRIDATA|
-|20|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|16|103.153.202.221|8080|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
+|17|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|19|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|20|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
 
 
 
