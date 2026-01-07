@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79526** proxies at the latest update. Usable proxies are below.
+> Scraper found **79849** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38397|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38720|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|50|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40179|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|91.107.138.98|2255|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|20|38.159.36.38|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|13|90.154.41.58|8080|Russia|Moscow|PJSC Rostelecom|
+|14|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
+|15|91.228.217.195|8989|Ukraine|Verkhovyna|FOP Saiv Igor Stepanovich|
+|16|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
+|17|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|18|176.88.65.182|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|19|109.69.76.49|8080|Russia|Ryazan|RU RZN Vidikon|
+|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
 
 
 
