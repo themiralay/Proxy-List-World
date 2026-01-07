@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
 |9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|13|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|14|120.92.88.147|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|16|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
-|17|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|18|103.165.155.68|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|19|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|15|120.92.88.147|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|67.43.228.250|13257|Canada|Montreal|GloboTech Communications|
+|17|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|157.66.20.96|8090|Indonesia|Kebumen|PT. GEMILANG SARANA MANDIRI|
+|19|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
