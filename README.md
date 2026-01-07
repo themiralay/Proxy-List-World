@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|43.208.240.77|423|Thailand|Bangkok|Amazon.com, Inc.|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
-|14|45.189.252.93|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|115.190.91.223|7897|China|Beijing|GWBN-WUHAN's IP|
 |16|190.97.254.250|999|Venezuela|Higuerote|Viginet C.A|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.247.13.148|7777|Indonesia|Magelang|TERABIT|
+|17|45.190.78.20|999|Mexico|Zapopan|Meta Networks SA De CV|
+|18|189.73.53.94|8080|Brazil|Curitiba|V tal|
+|19|124.158.184.21|64999|Indonesia|Jakarta|PT Jala Lintas Media|
 |20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
