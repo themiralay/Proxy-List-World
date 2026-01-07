@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|10|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|11|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
-|15|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
-|16|203.146.80.235|8080|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|17|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|18|160.25.250.180|8080|Indonesia|Medan|PT Mms Digital Communication|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|38.159.232.109|999|Dominican Republic|Santo Domingo|Lightwave USA LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|16|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|17|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|19|14.103.168.150|18080|China|Beijing|BITNET|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
