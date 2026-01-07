@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|189.148.9.181|8080|Mexico|Tapachula|UNINET|
-|6|141.98.188.201|2080|United States|Los Angeles|Fast GEO Hosting S.R.L|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|38.45.254.5|999|Mexico|Celaya|Cogent Communications|
-|11|141.98.188.201|2080|United States|Los Angeles|Fast GEO Hosting S.R.L|
-|12|103.119.48.223|8080|Indonesia|South Tangerang|PT. Eka Mas Republik|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|103.145.34.145|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|15|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|16|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
-|17|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|18|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|14.103.168.150|18080|China|Beijing|BITNET|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|190.97.239.97|999|Venezuela|Caracas||
+|7|201.245.201.18|3128|Colombia|Granada|ETB - Colombia|
+|8|147.75.83.117|80|The Netherlands|Amsterdam||
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|11|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|12|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|15|115.244.181.122|8080|India|Lucknow|Reliance Jio Infocomm Limited|
+|16|14.103.168.150|18080|China|Beijing|BITNET|
+|17|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|18|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 
 
 
