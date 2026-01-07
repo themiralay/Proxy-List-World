@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
-|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|4|38.45.246.115|999|Mexico|Tancítaro|Jorge Luis Torres Fernandez|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|10|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|13|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|14|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
-|16|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|17|167.249.52.225|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|185.225.40.214|8085|Syria|Damascus|sy-samaweb|
-|19|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
-|20|45.167.124.238|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|65.109.177.138|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|11|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|14|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
+|15|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|16|203.146.80.235|8080|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
+|17|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|18|160.25.250.180|8080|Indonesia|Medan|PT Mms Digital Communication|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|38.159.232.109|999|Dominican Republic|Santo Domingo|Lightwave USA LLC|
 
 
 
