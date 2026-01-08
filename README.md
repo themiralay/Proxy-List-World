@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|9|185.20.216.230|8088|Ukraine|Kyiv|Protelecom LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
-|12|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
-|13|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|14|186.250.53.192|8080|Brazil|Guarulhos|Redfox Telecomunicações Ltda.|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|36.129.129.215|9000|China|Shenyang|China Mobile Communications Corporation|
-|17|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|18|36.95.17.15|80|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|19|119.148.39.30|8444|Bangladesh|Dhaka|Agni Systems Limited|
-|20|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|8|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|15|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|16|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|185.86.76.200|24572|Ukraine|Khmelnytskyi|Mulgin Alexander Sergeevich|
+|19|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
