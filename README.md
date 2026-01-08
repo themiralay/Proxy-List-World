@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|45.168.244.16|8080|Brazil|Passos|Maxima Internet Banda Larga|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|204.199.140.26|999|Chile|Talca|Ingbell Chile SPA|
-|16|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|17|138.59.11.192|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|18|200.92.201.126|999|Mexico|Dolores Hidalgo|Mega Cable, S.A. de C.V.|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|190.188.131.87|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|202.152.194.190|8000|Indonesia|Bandung|PT. Bakrie Telecom Tbk|
+|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|13|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|103.188.169.116|8081|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
+|16|126.209.104.9|8082|Philippines|Manila|Infinivan Incorporated|
+|17|36.95.245.7|8090|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|18|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|103.231.239.166|5214|Bangladesh|Dhaka|Systems Solutions & development Technologies Limited|
+|20|171.247.148.115|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
