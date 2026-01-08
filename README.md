@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|66.54.106.56|8104|United States|Greenwood|Mobile Communications, LLC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|16|49.151.102.98|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|17|103.154.77.192|8085|Indonesia|Sleman|T2NET|
-|18|103.126.119.110|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|19|72.10.160.90|19673|Canada|Montreal|GloboTech Communications|
-|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
+|10|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|11|115.127.181.26|2026|Bangladesh|Dhaka|BRACNet Limited|
+|12|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|103.97.140.127|3125|Indonesia|Ngamprah|PT Jembatan Data Pangrango|
+|15|185.82.99.204|92|Lebanon|Baalbek|NET 360 S.A.R.L|
+|16|154.19.38.123|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
+|17|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|18|181.78.79.57|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|20|182.160.109.166|50000|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
