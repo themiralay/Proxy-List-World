@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|66.54.106.56|8104|United States|Greenwood|Mobile Communications, LLC|
-|10|49.48.65.169|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|11|168.194.64.219|8888|Brazil|Recife|Julio Cesar DAS Neves - ME|
-|12|122.3.139.85|8181|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|13|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|176.117.106.126|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|102.212.44.137|12354|South Africa|Johannesburg|OM-SN-44/24|
-|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|20|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|36.156.142.27|8083|China|Chongqing|China Mobile Communications Corporation|
+|13|103.235.181.1|8080|Indonesia|Sindangsari|PT Top Class Universal|
+|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|109.224.242.151|8080|Turkey|Antakya|Mario Enrique Lopez Guzman|
+|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|17|36.92.24.12|9100|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|18|14.103.168.150|18080|China|Beijing|BITNET|
+|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|103.158.57.33|8080|Indonesia|Jakarta|PT. Uninet Media Sakti|
 
 
 
