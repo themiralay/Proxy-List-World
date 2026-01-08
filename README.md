@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|217.76.245.80|999|Dominican Republic|Santiago de los Caballeros|CENTRIC MOBILITY, S.R.L|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|13|14.103.168.150|18080|China|Beijing|BITNET|
-|14|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|15|165.16.2.250|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|16|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|17|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|19|49.0.32.36|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|20|147.75.83.117|80|The Netherlands|Amsterdam||
+|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|14.103.168.150|18080|China|Beijing|BITNET|
+|11|103.140.234.38|8080|Bangladesh|Nārāyanganj|Subrota Biswas|
+|12|200.125.169.164|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|13|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|14|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|15|103.251.232.40|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|16|60.54.47.75|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|17|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|18|45.189.252.93|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|19|102.39.157.235|8080|South Africa|Cape Town|Vox Telecommunications (Pty) Limited|
+|20|102.23.239.2|8080|South Africa|Potchefstroom|JENNY INTERNET (PTY) LTD|
 
 
 
