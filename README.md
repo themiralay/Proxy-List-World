@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|163.5.128.150|14270|United States|Chicago|CAMPLINK|
-|11|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
-|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|15|124.6.167.123|8085|Philippines|Lahug|INNOVE|
-|16|45.225.207.182|999|Chile|Pichidegua|Netdelsur Telecomunicaciones SPA|
-|17|103.172.120.111|8090|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|18|14.103.168.150|18080|China|Beijing|BITNET|
-|19|122.53.33.216|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|20|34.87.1.201|8888|Singapore|Singapore|Google LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|7|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
+|8|154.18.255.11|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|9|45.225.207.182|999|Chile|Pichidegua|Netdelsur Telecomunicaciones SPA|
+|10|187.190.114.57|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
+|11|14.103.168.150|18080|China|Beijing|BITNET|
+|12|212.252.73.42|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|13|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
+|14|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
+|15|157.66.192.91|8080|Indonesia|Banjarnegara|PT Indotech Digitama Superlink|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|18|154.19.38.169|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|103.160.205.208|8097|Indonesia|Pendaleman|PRIME|
 
 
 
