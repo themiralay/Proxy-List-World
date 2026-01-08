@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|8|200.215.248.112|999|Peru|San Juan de Lurigancho|Compunetwork S.A.C.|
-|9|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
-|10|49.147.70.206|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
-|11|190.52.110.31|999|Venezuela|Chacao|Gold Data USA Inc|
-|12|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
-|13|103.166.158.251|1111|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|186.46.238.250|8080|Ecuador|Pelileo|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|16|103.156.14.157|8181|Indonesia|Argamakmur|PT Lintas Jaringan Nusantara|
-|17|44.200.8.242|80|United States|Ashburn|Amazon.com|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|45.198.10.3|8090|Indonesia|Jakarta|PT Jaringan Lintas Artha|
-|20|84.51.0.57|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|103.159.195.183|1080|Indonesia|Jekulo|PT Giga Digital Nusantara|
+|7|212.252.71.9|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|8|115.244.181.122|8080|India|Lucknow|Reliance Jio Infocomm Limited|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
+|11|31.15.169.77|808|Slovenia|Ljubljana|Telemach Slovenija d.o.o.|
+|12|187.248.75.114|8081|Mexico|Poza Rica|Transtelco Inc|
+|13|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|14|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|15|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|16|89.43.132.75|8080|Syria|Damascus|Turk Telekom International HU Kft|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|103.122.64.139|8085|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
 
 
 
