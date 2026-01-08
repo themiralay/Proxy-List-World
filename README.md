@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|4.213.180.179|3128|India|Pune|Microsoft Corporation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|14|126.209.1.14|8082|Philippines|Manila|Infinivan Incorporated|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.188.169.202|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|19|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|20|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|7|103.140.234.38|8080|Bangladesh|Nārāyanganj|Subrota Biswas|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|103.144.102.231|8085|Indonesia|Karangsembung|PANDAWANET|
+|14|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|168.194.64.219|8888|Brazil|Recife|Julio Cesar DAS Neves - ME|
+|17|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
 
 
 
