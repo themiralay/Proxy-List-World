@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|92.247.12.136|9510|Bulgaria|Sofia|A1 Bulgaria EAD|
-|13|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|14|14.241.39.169|8080|Vietnam|Hanoi|VNPT|
-|15|103.133.27.229|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
-|16|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|13|103.242.104.191|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|16|94.183.165.63|1717|Iran|Tehran|Ali Monfared|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|201.77.110.245|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|19|147.75.83.117|80|The Netherlands|Amsterdam||
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
