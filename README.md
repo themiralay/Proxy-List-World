@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|189.50.45.46|1995|Brazil|Goiânia|Total Telecom LTDA-ME|
-|6|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|7|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|11|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|12|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|157.125.220.80|8080|United Kingdom|Pudsey|Gamma Telecom Holdings Ltd|
-|14|49.156.151.246|83|India|Kākināda|City Online|
-|15|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|16|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|181.119.67.133|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|11|182.160.107.205|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|13|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|187.248.75.114|8081|Mexico|Poza Rica|Transtelco Inc|
+|15|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|16|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|223.113.134.98|22222|China|Nanjing|China Mobile communications corporation|
 
 
 
