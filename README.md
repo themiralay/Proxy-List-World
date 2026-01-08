@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|113.192.30.217|8081|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|103.83.178.221|8080|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
-|14|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|15|103.106.78.195|7070|Indonesia|Depok|PT Quantum Tera Multimedia|
-|16|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|49.157.152.44|8083|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|113.11.35.242|36909|Bangladesh|Dhaka|BDCOM Online Limited|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|13|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|14|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|17|181.209.82.91|1994|Argentina|Gualeguay|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|18|103.83.178.221|8080|Indonesia|Curug|PT SOLUSI TRIMEGAH PERSADA|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
 
 
 
