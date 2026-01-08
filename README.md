@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80441** proxies at the latest update. Usable proxies are below.
+> Scraper found **80483** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38707|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38749|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40774|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|163.5.128.150|14270|United States|Chicago|CAMPLINK|
-|10|103.120.76.182|8080|Indonesia|Kresek|PT Haci Telekomunikasi Indonesia|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|14|162.240.154.26|3128|United States|Provo|Unified Layer|
-|15|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|16|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|17|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|117.18.20.66|8085|Indonesia|Blitar|PT ALUCIO|
-|19|181.209.82.205|999|Argentina|Gualeguay|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|187.103.105.20|8085|Brazil|Florianópolis|BR.Digital Provider|
+|14|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|16|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|17|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
 
 
 
