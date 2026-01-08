@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|110.235.136.71|8081|Philippines|Biñan|RADIUS TELECOMS, INC.|
+|8|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|9|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
 |10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|190.188.131.87|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
-|12|138.59.11.192|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|13|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|14|110.235.136.71|8081|Philippines|Biñan|RADIUS TELECOMS, INC.|
-|15|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|16|103.169.254.45|6080|Indonesia|Jekulo|PT Master Star Network|
-|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|182.160.109.166|50000|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|20|201.220.112.98|999|Chile|Temuco|Telefonica del Sur S.A.|
+|11|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|12|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|45.4.202.147|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|16|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|14.103.168.150|18080|China|Beijing|BITNET|
+|19|72.10.160.172|24185|Canada|Montreal|GloboTech Communications|
+|20|103.220.206.110|8585|Bangladesh|Tongi|KS Network|
 
 
 
