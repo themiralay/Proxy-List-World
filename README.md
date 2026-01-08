@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79791** proxies at the latest update. Usable proxies are below.
+> Scraper found **79795** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38722|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38726|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40123|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|119.2.45.105|8080|Indonesia|Cilandak|PT. Laxo Global Akses|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 |11|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|12|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|157.20.233.184|8080|Indonesia|Temanggung|PT Applewifi Selalu Lancar|
-|17|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|18|92.62.149.82|8080|Russia|Orenburg|FCOMM|
-|19|89.43.133.165|8080|Syria|Damascus|Turk Telekom International HU Kft|
-|20|217.76.245.24|999|Dominican Republic|Santiago de los Caballeros|CENTRIC MOBILITY, S.R.L|
+|15|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|114.31.15.190|2024|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|187.84.176.20|8080|Brazil|Brasília|Allrede Telecom Ltda|
 
 
 
