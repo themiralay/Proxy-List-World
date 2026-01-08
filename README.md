@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
-|11|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|12|190.94.212.64|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
-|14|209.14.98.5|8080|Colombia|Repelón|AGIS|
-|15|115.247.115.38|8080|India|Bhilai|Reliance Jio Infocomm Limited|
-|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|18|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|19|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|20|103.162.141.106|8080|Indonesia|Sekupang|PT Filltech Antar Nusa|
+|7|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|103.193.145.155|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|190.61.116.244|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|16|120.28.196.127|8181|Philippines|Davao City|Globe Telecom|
+|17|103.184.67.119|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
+|18|103.169.254.105|8080|Indonesia|Ciputat|PT Master Star Network|
+|19|115.127.176.182|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
 
 
 
