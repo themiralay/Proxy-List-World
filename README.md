@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|9|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|10|201.77.110.245|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|11|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|9|103.188.169.116|8081|Indonesia|Rengasdengklok|PT Lintas Jaringan Nusantara|
+|10|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|17|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
-|18|103.18.78.250|1111|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|103.171.255.178|8080|Indonesia|Godean|ZKI|
+|15|125.18.28.54|8080|India|New Delhi|Bharti Airtel Limited|
+|16|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|103.188.168.76|8097|Indonesia|Gunungrajak|PT Lintas Jaringan Nusantara|
+|18|103.123.235.43|8080|India|Mumbai|Esto Broadband|
+|19|41.128.72.132|1976|Egypt|Cairo|LINKdotNET AS number|
+|20|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
 
 
 
