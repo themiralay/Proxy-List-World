@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|124.197.21.223|3128|New Zealand|Auckland|Two Degrees Mobile Limited|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|12|119.93.252.134|1452|Philippines|Cavite City|Philippine Long Distance Telephone Co.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|41.190.232.195|8080|DR Congo|Gandajika|Orioncom SPRL|
-|17|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
-|18|103.156.16.45|8080|Indonesia|Indramayu|RSTNET|
-|19|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
-|20|183.88.214.44|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.156.16.45|8080|Indonesia|Indramayu|RSTNET|
+|11|45.4.58.223|8080|Brazil|Recife|VN TELECOM PROVEDORES A.R.C EIRELI|
+|12|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
+|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|162.240.154.26|3128|United States|Provo|Unified Layer|
+|15|147.75.83.117|80|The Netherlands|Amsterdam||
+|16|185.80.21.92|8080|Türkiye|Bursa|Ulunet Internet ve Iletisim Hizmetleri San. ve Tic. Ltd. Sti.|
+|17|103.56.206.67|4000|Indonesia|Jakarta|Argon Data Communication|
+|18|103.247.13.203|8090|Indonesia|Sangkalputung|TERABIT|
+|19|187.62.241.136|8080|Brazil|Rio de Janeiro|Metroflex Telecomunicacoes Ltda|
+|20|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
 
 
 
