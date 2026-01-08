@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|185.100.47.106|443|Iran|Tehran|Gilass Rayaneh Sirjan Co|
-|15|165.99.151.252|8080|Indonesia|Cibinong|PT Win Akselerasi Net Indonesia|
-|16|113.87.161.110|9797|China|Shenzhen|Chinanet|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|182.160.109.115|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|11|157.254.37.238|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|165.99.151.252|8080|Indonesia|Cibinong|PT Win Akselerasi Net Indonesia|
+|14|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|15|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|16|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|27.147.152.66|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
 |19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|43.252.236.158|8080|Indonesia|Caringin|NET|
+|20|103.126.28.14|9999|Indonesia|Bandung|PT Integra Kreasitama Solusindo|
 
 
 
