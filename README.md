@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|110.235.136.71|8081|Philippines|Biñan|RADIUS TELECOMS, INC.|
-|11|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|12|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|200.115.100.33|8080|Brazil|São Paulo|FiberPon telecom|
-|15|180.191.22.27|8082|Philippines|Cabanatuan City|Globe Telecom|
-|16|103.193.144.41|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|14.103.168.150|18080|China|Beijing|BITNET|
-|19|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
-|20|176.236.227.104|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|188.225.33.99|8382|Russia|St Petersburg|TimeWeb LLC|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
+|13|200.115.100.33|8080|Brazil|São Paulo|FiberPon telecom|
+|14|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|15|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|16|161.82.141.220|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.66.62.177|8080|Indonesia|Pauh|PT Buana Visualnet Sentra|
+|20|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
 
 
 
