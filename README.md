@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|7|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|11|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|12|156.38.26.245|8080|Botswana|Gaborone|VBNS-BF1NET|
-|13|103.215.36.88|15088|China|Yancheng|China Mobile Communications Corporation|
-|14|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|15|182.160.112.218|50000|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|157.20.233.184|8080|Indonesia|Temanggung|PT Applewifi Selalu Lancar|
-|17|120.28.221.86|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|18|154.113.208.190|8082|Nigeria|Abuja|Mainone Cable Company|
-|19|191.103.219.225|48612|Colombia|Betulia|EPM Telecomunicaciones S.A. E.S.P.|
-|20|187.49.149.49|9999|Brazil|Lauro de Freitas|SB CONECT LTDA|
+|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|10|204.199.140.19|999|Chile|Talca|Ingbell Chile SPA|
+|11|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|12|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|15|38.194.235.146|999|Mexico|Apizaco|IENTC S de RL de CV|
+|16|182.160.112.218|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|202.57.25.80|8080|Indonesia|Semarang|announced of WINET|
+|18|14.103.168.150|18080|China|Beijing|BITNET|
+|19|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|20|120.28.221.86|8082|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
