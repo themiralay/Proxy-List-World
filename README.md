@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|13|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|14|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|19|27.210.157.170|1081|China|Qingdao|China Unicom Shandong Province Network|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
