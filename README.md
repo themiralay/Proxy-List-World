@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|115.77.172.182|8080|Vietnam|Quận Bình Thạnh|Viettel Group|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|185.100.47.106|443|Iran|Tehran|Gilass Rayaneh Sirjan Co|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|103.160.205.208|8097|Indonesia|Pendaleman|PRIME|
-|18|147.75.83.117|80|The Netherlands|Amsterdam||
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|7|185.225.40.214|8085|Syria|Damascus|sy-samaweb|
+|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|103.193.144.41|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
+|15|182.160.110.58|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|17|36.133.208.130|8888|China|Guangzhou|China Mobile|
+|18|45.225.207.182|999|Chile|Pichidegua|Netdelsur Telecomunicaciones SPA|
 |19|94.183.165.63|1717|Iran|Tehran|Ali Monfared|
-|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|83.147.29.57|8080|United Kingdom|City of London|Eugamehost LTD|
 
 
 
