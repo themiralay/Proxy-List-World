@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|13|79.106.33.26|8079|Albania|Tirana|ONE ALBANIA SH.A.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|150.107.140.238|3128|Indonesia|Cibinong|PT. Jala Lintas Media|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|41.65.162.72|1981|Egypt|Sherbin|Etisalat Misr Mobile BB|
-|20|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|187.251.224.167|80|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|103.154.77.192|8085|Indonesia|Sleman|T2NET|
+|14|200.59.10.42|999|Argentina|Ricardo Rojas|COTELCAM|
+|15|185.19.4.22|3128|Ukraine|Kharkiv|Triolan|
+|16|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|17|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|20|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
