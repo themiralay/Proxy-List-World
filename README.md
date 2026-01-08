@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
-|9|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|103.176.97.223|3127|Indonesia|Cikampek|PT Global Sarana Elektronika|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|19|157.100.69.133|999|Ecuador|Guayaquil|Telconet S.A|
-|20|103.106.78.195|7070|Indonesia|Depok|PT Quantum Tera Multimedia|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
+|12|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|16|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|17|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|89.43.132.222|8080|Syria|Damascus|Turk Telekom International HU Kft|
+|20|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
 
 
 
