@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|8|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|9|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|12|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|13|49.0.32.13|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|14|125.190.229.159|9999|South Korea|Buk-gu|LG POWERCOMM|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|38.199.65.141|999|Colombia|Bogotá|TV COLOMBIA DIGITAL SAS|
-|17|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|43.252.236.165|8080|Indonesia|Caringin|NET|
-|19|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|10|189.50.45.46|1995|Brazil|Goiânia|Total Telecom LTDA-ME|
+|11|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|156.38.26.245|8080|Botswana|Gaborone|VBNS-BF1NET|
+|14|49.0.32.13|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|15|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|102.38.13.9|19000|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|18|36.95.27.225|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|19|161.82.141.221|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|20|14.103.168.150|18080|China|Beijing|BITNET|
 
 
 
