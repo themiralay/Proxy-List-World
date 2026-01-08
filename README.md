@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|9|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|202.180.21.213|80|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|103.226.232.205|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|19|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|20|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|126.209.1.14|8082|Philippines|Manila|Infinivan Incorporated|
+|11|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|13|115.127.178.34|2589|Bangladesh|Dhaka|BRACNet Limited|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
+|16|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
+|17|203.177.220.122|8080|Philippines|Taguig|Globe Telecom|
+|18|177.234.199.88|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|20|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
 
 
 
