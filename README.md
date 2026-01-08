@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|6|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|223.206.53.20|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|13|187.190.114.57|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
-|14|201.77.110.33|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|15|103.174.122.232|8089|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|16|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
-|17|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|18|45.174.250.10|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|19|49.48.82.231|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|103.242.104.221|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|14|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|15|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|186.96.180.17|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
