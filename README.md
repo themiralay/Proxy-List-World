@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|13|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|14|15.204.151.147|3128|United States|Reston|OVH SAS|
-|15|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|16|49.236.212.134|8888|Nepal|Patan|Classic Tech Pvt. Ltd|
-|17|167.99.171.156|443|United States|Santa Clara|DigitalOcean, LLC|
-|18|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
-|19|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|5|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|115.147.165.114|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|14|177.52.221.99|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|15|202.58.77.114|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|16|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|17|124.106.223.156|9999|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|18|137.59.49.1|1120|Bangladesh|Azimpur|Bijoy Online Ltd|
+|19|115.127.180.226|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
 
 
 
