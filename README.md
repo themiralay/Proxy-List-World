@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|6|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
-|7|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|8|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
-|9|125.18.28.54|8080|India|New Delhi|Bharti Airtel Limited|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
-|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|13|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|190.60.84.242|999|Colombia|Medellín|IFX Corporation|
-|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|18|212.252.166.119|443|Türkiye|Bornova|Superonline Iletisim Hizmetleri A.S.|
-|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|103.109.96.193|8080|Bangladesh|Shāhzādpur|Digi Jadoo Broadband Ltd|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|59.6.25.118|3128|South Korea|Jungnang-gu|Korea Telecom|
+|4|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|7|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
+|19|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
