@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|138.59.11.65|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|11|45.168.244.16|8080|Brazil|Passos|Maxima Internet Banda Larga|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|14|147.45.60.60|80|Estonia|Tallinn|GCS SER|
-|15|160.19.18.29|8080|Indonesia|Godean|PT Indo Telemedia Solusi|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|103.124.136.251|8080|Indonesia|Tigaraksa|Global Media Data Prima|
-|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|20|103.178.21.160|3125|Indonesia|Malang|PT Trisna Mega Abadi|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
+|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|202.58.77.19|3127|Indonesia|Kediri|PT Data Buana Nusantara|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|103.129.92.244|8887|Indonesia|Malang|PT. Eka Mas Republik|
+|14|138.59.11.192|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|212.108.115.59|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.247.14.25|9285|Indonesia|Mungkid|TERABIT|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|119.94.120.190|8081|Philippines|Santa Maria|Philippine Long Distance Telephone Co.|
+|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
 
