@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|1|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|2|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.168.207.42|8080|Bangladesh|Kushtia|DigiCon Telecommunication Ltd|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|15|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
-|16|183.89.250.148|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|14.103.168.150|18080|China|Beijing|BITNET|
-|19|103.156.96.67|8088|Indonesia|Wotu|PT Karya Panca Telekomunikasi|
-|20|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|13|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|14|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|18|147.75.83.117|80|The Netherlands|Amsterdam||
+|19|103.18.232.4|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
+|20|187.243.251.66|999|Mexico|Ahome|Mega Cable, S.A. de C.V.|
 
 
 
