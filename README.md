@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|113.176.118.255|7654|Vietnam|Điện Bàn|VNPT|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|122.52.157.209|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|9|190.60.52.184|999|Colombia|Buenavista|IFX NETWORKS COLOMBIA|
-|10|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|11|186.96.15.70|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|13|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|14|219.93.111.125|9412|Malaysia|Chemor|ADSL Streamyx Telekom Malaysia|
-|15|103.163.244.49|83|India|Panipat|Infolink System|
-|16|201.220.112.98|999|Chile|Temuco|Telefonica del Sur S.A.|
-|17|182.160.110.58|50000|Bangladesh|Dhaka|Aamra Networks Limited|
-|18|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|19|181.78.202.28|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|20|49.146.145.195|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|1|60.54.47.75|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|27.147.248.58|7979|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|189.50.45.46|1995|Brazil|Goiânia|Total Telecom LTDA-ME|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|10|115.147.165.113|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|11|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|12|103.222.255.161|8055|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|16|190.60.61.42|8080|Colombia|Prado-Sevilla|IFX NETWORKS COLOMBIA|
+|17|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|19|182.160.113.21|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|222.127.55.214|5050|Philippines|Lahug|INNOVE|
 
 
 
