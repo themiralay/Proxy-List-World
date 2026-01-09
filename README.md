@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79934** proxies at the latest update. Usable proxies are below.
+> Scraper found **79945** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38706|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38717|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40269|✅|
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.80.198|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|15|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|20|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+
 
 
 ## Contributing
