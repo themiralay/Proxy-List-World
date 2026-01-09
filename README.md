@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|103.87.169.176|32650|India|Alwar|Tejays Industries Pvt Ltd|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|12|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|10|104.251.81.175|14270|United States|San Jose|Frontier Communications of America, Inc.|
+|11|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|190.97.239.98|999|Venezuela|Caracas||
 |13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|15|45.5.119.70|999|Guatemala|Gualan|Infinitum S.A.|
-|16|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|17|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|18|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|19|182.160.113.21|50000|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|197.248.204.231|8080|Kenya|Nairobi|Safaricom Limited|
+|14|103.188.174.243|6060|Indonesia|Semarang|PT. Fiber Networks Indonesia|
+|15|45.225.207.183|999|Chile|Pichidegua|Netdelsur Telecomunicaciones SPA|
+|16|181.114.56.242|8080|Honduras|San Pedro Sula|Netsys|
+|17|194.124.36.130|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|19|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|20|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
 
 
 
