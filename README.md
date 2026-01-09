@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|43.252.236.158|8080|Indonesia|Caringin|NET|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|102.23.140.122|8080|Sierra Leone|Freetown|Fiber One (SL) LIMITED|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|103.254.27.110|8088|India|Panjim|Kedia Internet Private Limited|
-|16|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|17|103.171.183.222|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|18|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|19|103.82.23.118|5198|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|20|103.124.197.227|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|11|43.208.240.77|10034|Thailand|Bangkok|Amazon.com, Inc.|
+|12|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|13|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|14|190.120.255.167|999|Venezuela|Cumaná|CORPORACION FIBEX TELECOM, C.A.|
+|15|38.156.72.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
+|16|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|103.254.27.110|8088|India|Panjim|Kedia Internet Private Limited|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|36.95.82.69|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
 
 
 
