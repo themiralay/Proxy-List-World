@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
 |5|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
-|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|13|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|14|202.179.69.216|58080|India|Pune|Ankhnet|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|46.8.158.18|2080|Russia|Moscow|Chernyshov Aleksandr Aleksandrovich|
-|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|6|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|177.234.249.151|999|Ecuador|Ambato|Ufinet Panama S.A.|
+|13|103.178.194.133|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|14|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|15|45.162.132.9|999|Chile|Puente Alto|Lara Ingenieria EN Tecnologia Y Telecomunicaciones Limitada|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |18|171.22.8.140|80|Spain|Valdepeñas|Spotting Brands Technologies S.L|
 |19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|103.242.105.115|8080|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
+|20|176.236.227.106|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
 
 
 
