@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
-|16|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|17|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
 |18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|103.165.155.195|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|20|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
 
 
 
