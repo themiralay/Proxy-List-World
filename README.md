@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **79882** proxies at the latest update. Usable proxies are below.
+> Scraper found **79912** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38573|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38603|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|22|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40387|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|8.243.197.201|999|Ecuador|Puerto López|CTL Ecuador|
-|8|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|9|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|10|14.103.168.150|18080|China|Beijing|BITNET|
-|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|178.22.31.205|1082|Austria|Liezen District|Global Connectivity Solutions LLP|
-|13|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|14|190.60.52.190|999|Colombia|Buenavista|IFX NETWORKS COLOMBIA|
-|15|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
-|16|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|17|103.158.62.19|8080|Bangladesh|Maulavi Bāzār|SEARCH IT|
-|18|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|19|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|120.237.27.34|22222|China|Guangzhou|China Mobile communications corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|103.141.66.78|12125|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|103.87.169.176|32650|India|Alwar|Tejays Industries Pvt Ltd|
+|14|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|15|147.45.60.60|80|Estonia|Tallinn|GCS SER|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|19|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|181.78.202.28|8080|Ecuador|Vinces|Ufinet Panama S.A.|
 
 
 
