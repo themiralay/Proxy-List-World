@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41001** proxies at the latest update. Usable proxies are below.
+> Scraper found **79649** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38648|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40060|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
 |5|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|103.156.16.191|8080|Indonesia|Indramayu|RSTNET|
-|13|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
-|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
-|17|3.19.181.130|3128|United States|Dublin|Amazon.com, Inc.|
-|18|85.117.56.147|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|19|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.51|3172|Japan|Yokohama|InfoSphere|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
+|8|103.172.70.167|8088|Indonesia|Surakarta|AZNET|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|14.241.231.13|8080|Vietnam|Ho Chi Minh City|VNPT|
+|13|46.8.158.18|2080|Russia|Moscow|Chernyshov Aleksandr Aleksandrovich|
+|14|103.156.16.191|8080|Indonesia|Indramayu|RSTNET|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|17|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|18|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|19|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
