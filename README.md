@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|80.80.165.54|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|103.141.66.78|12125|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|8|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|9|5.78.129.58|9002|United States|Hillsboro|Hetzner Online GmbH|
 |10|14.103.168.150|18080|China|Beijing|BITNET|
-|11|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|11|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
 |12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|190.60.84.242|999|Colombia|Medellín|IFX Corporation|
-|14|138.0.207.3|8085|Brazil|Guararapes|Nets Telecomunicacoes Ltda|
-|15|103.154.224.227|8080|Indonesia|Jakarta|MORATELINDONAP|
+|13|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|14|190.60.84.242|999|Colombia|Medellín|IFX Corporation|
+|15|186.96.160.204|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 |16|212.108.115.59|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|103.171.83.49|8080|Indonesia|Cikarang|PT Multi Network Indonesia|
-|18|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|72.10.160.174|1693|Canada|Montreal|GloboTech Communications|
-|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|17|183.222.38.157|1082|China|Chengdu|China Mobile|
+|18|103.253.246.181|8090|Bangladesh|Tungipāra|Innovative Online Ltd.|
+|19|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 
 
 
