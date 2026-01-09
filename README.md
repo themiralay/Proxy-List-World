@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|116.80.80.198|3172|Japan|Yokohama|InfoSphere|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
-|11|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
+|9|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|15|222.127.55.149|8082|Philippines|Lahug|INNOVE|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|19|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|20|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
+|18|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|19|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|20|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
 
 
 
