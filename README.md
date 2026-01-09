@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|193.43.145.200|8080|Syria|Yabrūd|Syrian Telecom|
-|10|115.147.165.116|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|11|180.191.32.212|8082|Philippines|Cabanatuan City|Globe Telecom|
-|12|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
-|13|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|157.10.88.117|8080|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
-|15|103.175.46.162|8080|Indonesia|Sumber|PT Internet Keluarga Indonesia|
-|16|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|18|119.82.240.177|6060|Indonesia|Menara|Indonesia Network Information Center|
-|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|118.113.244.208|2324|China|Chengdu|Chinanet|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|9|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|10|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|36.67.208.60|32650|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|14|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|15|38.159.62.32|999|Venezuela|Barquisimeto|Boom Solutions C.A|
+|16|103.120.174.75|1818|Indonesia|Tangerang|PT. Eka Mas Republik|
+|17|125.99.114.146|8081|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|103.165.157.107|8080|Indonesia|Purbalingga|MEGADATA-ISP|
 
 
 
