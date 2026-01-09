@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|8|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|9|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|11|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|195.211.71.200|1433|Germany|Frankfurt am Main|Mizban Pardazesh Pouyan LLC|
-|14|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
-|15|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|177.220.230.71|8080|Brazil|Porto Alegre|Vogel Soluções em Telecom e Informática S/A|
-|18|38.159.62.7|999|Venezuela|Barquisimeto|Boom Solutions C.A|
-|19|60.54.47.75|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|20|177.229.197.230|999|Mexico|Tapachula|Mega Cable, S.A. de C.V.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
