@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41302** proxies at the latest update. Usable proxies are below.
+> Scraper found **41273** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38715|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38684|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1649|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|20.120.225.109|3128|United States|Quincy|Microsoft Corporation|
-|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
-|10|103.193.144.223|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|183.98.143.134|8091|South Korea|Gangnam-gu|Korea Telecom|
-|13|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|113.160.235.248|19132|Vietnam|Nha Trang|VietNam Post and Telecom Corporation|
-|16|45.189.252.93|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|17|203.172.201.226|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|18|162.255.110.107|8080|United States|Richland|Desert Winds Wireless|
-|19|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|20|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
+|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|3.19.181.130|3128|United States|Dublin|Amazon.com, Inc.|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
+|13|43.208.240.77|10034|Thailand|Bangkok|Amazon.com, Inc.|
+|14|38.45.242.45|999|Mexico|Dolores Hidalgo|Wifimax Connection S.a.s De C.V|
+|15|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|183.98.143.134|8091|South Korea|Gangnam-gu|Korea Telecom|
+|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|20|190.120.252.174|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
 
 
 
