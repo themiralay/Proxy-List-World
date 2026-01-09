@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|20|154.119.80.27|3128|Zimbabwe|Harare|Telecontract Pvt Ltd|
 
 
 
