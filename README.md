@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|8|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|9|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|10|3.19.181.130|3128|United States|Dublin|Amazon.com, Inc.|
-|11|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|12|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|13|36.95.22.27|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|14|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|80.80.165.54|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|13|185.32.6.131|8070|Poland|Ińsko|AS Consulting Sp. z o. o.|
+|14|103.156.75.81|8081|Indonesia|Banjar Pasekan|PT Trika Global Media|
 |15|43.160.207.171|8090|Singapore|Singapore|Aceville Pte.ltd|
-|16|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|17|154.127.78.16|44444|Libya|Waddān|Aljeel Aljadeed For Technology|
-|18|195.133.8.14|8080|Kazakhstan|Astana|MTFINANCE|
-|19|203.175.103.97|8080|Indonesia|Cikananga|PT. Mitra Kita Brilian|
-|20|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|17|103.172.70.167|8088|Indonesia|Surakarta|AZNET|
+|18|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|103.155.198.51|8080|Indonesia|Cileungsir|PT Lintas Jaringan Nusantara|
+|20|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
