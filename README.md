@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|43.252.236.158|8080|Indonesia|Caringin|NET|
-|6|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|3.19.181.130|3128|United States|Dublin|Amazon.com, Inc.|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|13|89.43.132.222|8080|Syria|Damascus|Turk Telekom International HU Kft|
-|14|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
-|15|201.182.20.16|999|Mexico|Tepatitlán de Morelos|Coeficiente Comunicaciones SA De CV|
-|16|181.78.49.207|999|Guatemala|Salcajá|Ufinet Panama S.A.|
-|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|18|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|103.56.206.67|4000|Indonesia|Jakarta|Argon Data Communication|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|20.120.225.109|3128|United States|Quincy|Microsoft Corporation|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|31.133.32.102|3128|Russia|Rostov-on-Don|S.U.E. DPR Republic Operator of Networks|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|36.88.137.114|443|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
+|10|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|11|84.36.35.198|1981|Egypt|Aş Şalāḩāt|Etisalat|
+|12|103.158.13.234|8080|Indonesia|Bojonegoro|PT.Global Media Data Prima|
+|13|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|160.25.196.12|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
+|16|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|17|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|161.49.89.217|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|19|182.253.73.13|443|Indonesia|Labansari|BIZNET|
+|20|165.16.2.254|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
 
 
 
