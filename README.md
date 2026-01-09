@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|91.230.65.202|8080|Russia|Moscow|Panin Kirill Evgenyevich|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|81.16.9.51|8080|Armenia|Yerevan|Ucom CJSC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|190.60.52.190|999|Colombia|Buenavista|IFX NETWORKS COLOMBIA|
-|17|38.3.162.129|999|Chile|Puente Alto|Servicios Integrales Metfy Telecom SPA|
-|18|103.171.83.49|8080|Indonesia|Cikarang|PT Multi Network Indonesia|
-|19|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|20|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|1|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|143.255.147.242|8080|Brazil|Sombrio|Pontonet Computadores e Redes Ltda Epp|
+|13|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|14|84.51.0.57|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
+|15|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|16|190.52.110.43|999|Venezuela|Chacao|Gold Data Colombia|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|20|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
 
 
 
