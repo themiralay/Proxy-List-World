@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
-|14|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|19|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
