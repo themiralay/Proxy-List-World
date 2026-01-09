@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|10|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|187.189.63.149|8080|Mexico|Juárez|Total Play Telecomunicaciones SA De CV|
-|13|181.78.202.28|8080|Ecuador|Vinces|Ufinet Panama S.A.|
-|14|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|15|103.137.84.17|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
-|16|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|17|179.1.234.30|999|Colombia|Arauca|Internexa S.a. E.S.P|
-|18|190.90.252.241|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|19|103.240.68.135|8097|Indonesia|Deli Tua|PT Parsaoran Global Datatrans|
-|20|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|185.247.80.10|8090|Russia|St Petersburg|JSC "Severen-Telecom"|
+|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|115.127.176.186|2589|Bangladesh|Dhaka|BRACNet Limited|
+|11|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|177.240.3.62|999|Mexico|Juchitán de Zaragoza|Mega Cable, S.A. de C.V.|
+|13|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
+|14|177.229.212.254|999|Mexico|San Cristóbal de las Casas|Mega Cable, S.A. de C.V.|
+|15|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|16|101.255.210.1|11116|Indonesia|Bekasi|PT Remala Abadi|
+|17|185.200.37.43|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|20|103.122.65.11|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
 
 
 
