@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|103.156.74.129|8081|Indonesia|Banjar Buayang|PT Trika Global Media|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|9|14.103.168.150|18080|China|Beijing|BITNET|
-|10|103.166.158.27|8181|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
-|11|45.225.207.182|999|Chile|Pichidegua|Netdelsur Telecomunicaciones SPA|
-|12|79.106.108.156|8079|Albania|Tepelenë|ONE ALBANIA SH.A.|
-|13|201.65.173.178|8080|Brazil|Brasília|Claro S.A.|
-|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|15|175.139.208.65|8080|Malaysia|Subang Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|16|49.205.160.115|8080|India|Nellore|ACT Fibernet|
-|17|116.80.94.188|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.80.186|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|147.45.179.180|1082|United Kingdom|City of Westminster|Global Connectivity Solutions LLP|
+|14|38.159.36.38|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|15|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|16|103.93.93.221|8181|Indonesia|Sempu|MYRISE|
+|17|103.251.232.15|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|18|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|19|115.244.181.122|8080|India|Lucknow|Reliance Jio Infocomm Limited|
+|20|182.160.111.250|50000|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
