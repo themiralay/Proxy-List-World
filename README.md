@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
 |9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|116.212.182.74|8081|India|Bengaluru|Microsense Private Limited|
-|17|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|18|157.10.97.75|3128|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|19|45.225.207.182|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|20|72.10.164.178|33201|Canada|Montreal|GloboTech Communications|
+|10|103.156.16.191|8080|Indonesia|Indramayu|RSTNET|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|15|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|19|103.156.96.71|8088|Indonesia|East Luwu Regency|PT Karya Panca Telekomunikasi|
+|20|187.102.211.253|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
 
 
 
