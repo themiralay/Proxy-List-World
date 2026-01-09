@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|103.82.23.118|5185|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|222.127.206.145|8085|Philippines|Makati City|GLBB|
-|9|157.20.207.29|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|10|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|11|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|103.175.80.202|8080|Indonesia|Purwodadi Grobogan|PT Panglima Kamayo Media|
-|13|14.103.168.150|18080|China|Beijing|BITNET|
-|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|15|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|16|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
-|17|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|18|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|3|170.239.205.74|8080|Colombia|Chigorodó|FIBERNET|
+|4|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|5|187.63.158.54|999|Dominican Republic|Santo Domingo|Derivalnet Y Comunicaciones SRL|
+|6|196.251.222.86|8104|South Africa|Brits|Info-Gro (PTY) Ltd|
+|7|103.172.24.166|8080|Indonesia|Sawangan|PT Integrasi Jaringan Ekosistem|
+|8|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|9|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|10|14.103.168.150|18080|China|Beijing|BITNET|
+|11|41.72.213.182|8090|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|13|37.220.83.49|8080|Germany|Frankfurt am Main|Timeweb, LLP|
+|14|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|15|103.133.27.42|8090|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|38.147.75.254|999|Venezuela|La Concepción|NAVEGANTE NETWORK, C.A.|
+|18|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
 |19|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|20|103.164.171.6|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
