@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|7|3.19.181.130|3128|United States|Dublin|Amazon.com, Inc.|
-|8|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|9|154.19.38.197|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|13|115.127.180.174|2589|Bangladesh|Dhaka|BRACNet Limited|
-|14|171.22.8.140|80|Spain|Valdepeñas|Spotting Brands Technologies S.L|
-|15|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|16|181.204.113.253|11211|Colombia|Barranquilla|Colombia Móvil|
-|17|175.106.15.186|8080|Indonesia|Setia Budi|Quantum Dist Cyber|
-|18|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|19|171.5.191.180|8080|Thailand|Chachoengsao|Triple T Broadband Public Company Limited|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|185.247.80.10|8090|Russia|St Petersburg|JSC "Severen-Telecom"|
+|17|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|18|181.119.67.133|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
