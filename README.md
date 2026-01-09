@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|43.208.240.77|10034|Thailand|Bangkok|Amazon.com, Inc.|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|15|102.23.140.122|8080|Sierra Leone|Freetown|Fiber One (SL) LIMITED|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|43.208.240.77|10034|Thailand|Bangkok|Amazon.com, Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|103.141.66.78|12125|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|103.82.246.23|6080|Indonesia|Segorotambak|PT Master Star Network|
+|15|181.209.110.27|999|Argentina|Quimilí|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 |16|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|17|104.168.10.224|8888|France|Paris|BrainStorm Network Inc|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|17|72.10.164.178|27203|Canada|Montreal|GloboTech Communications|
+|18|103.130.128.249|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|19|205.164.192.115|999|Mexico|Yurécuaro|AGIS|
+|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
 
 
 
