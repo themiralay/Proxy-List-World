@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|202.58.77.19|3127|Indonesia|Kediri|PT Data Buana Nusantara|
 |5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|103.82.23.118|5261|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|11|102.210.105.1|82|Kenya|Eldoret|MCN NAKURU|
-|12|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|13|103.126.119.110|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|14|14.103.168.150|18080|China|Beijing|BITNET|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|17|115.127.176.222|2589|Bangladesh|Dhaka|BRACNet Limited|
-|18|176.117.105.226|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|190.60.84.242|999|Colombia|Medellín|IFX Corporation|
-|20|200.59.186.177|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|103.109.212.29|2231|Bangladesh|Dhaka|Bismillah Telecom Service|
+|10|177.229.197.210|999|Mexico|Tapachula|Mega Cable, S.A. de C.V.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.154.77.192|8085|Indonesia|Sleman|T2NET|
+|16|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
+|17|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|18|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|19|115.127.176.222|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|154.117.154.194|8080|South Africa|Johannesburg|BitCo|
 
 
 
