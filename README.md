@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|36.37.86.26|9812|Indonesia|Jakarta Pusat|LINTASARTA|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|15|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|103.105.176.232|8080|India|Hyderabad|Rohan Media Private Ltd|
-|18|190.60.61.53|999|Colombia|Nueva Granada|IFX NETWORKS COLOMBIA|
-|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|103.63.26.123|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
+|8|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|103.175.46.162|8080|Indonesia|Sumber|PT Internet Keluarga Indonesia|
+|13|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|14|200.6.178.21|9992|Colombia|Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|15|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|16|209.14.98.6|8080|Colombia|Repelón|AGIS|
+|17|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|19|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|20|113.192.1.28|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
 
 
 
