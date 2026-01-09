@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.109.212.29|2231|Bangladesh|Dhaka|Bismillah Telecom Service|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|194.110.55.211|3130|Kazakhstan|Almaty|PS Internet Company LLP|
-|14|5.78.129.58|9002|United States|Hillsboro|Hetzner Online GmbH|
-|15|200.59.186.178|999|Venezuela|Mérida|TotalCom Venezuela C.A.|
-|16|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|17|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|18|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|20|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|8.243.197.201|999|Ecuador|Puerto López|CTL Ecuador|
+|12|202.58.77.19|3127|Indonesia|Kediri|PT Data Buana Nusantara|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|103.97.140.127|3125|Indonesia|Ngamprah|PT Jembatan Data Pangrango|
+|16|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|20|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
