@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80263** proxies at the latest update. Usable proxies are below.
+> Scraper found **80245** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38579|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38561|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40756|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|36.88.137.114|8080|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
-|7|38.194.246.34|999|Mexico|León|IENTC S de RL de CV|
-|8|49.48.82.231|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|157.66.192.115|8080|Indonesia|Banjarnegara|PT Indotech Digitama Superlink|
-|10|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|11|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|12|45.190.76.17|999|Mexico|Zapopan|Meta Networks SA De CV|
-|13|177.234.249.151|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|14|190.97.239.99|999|Venezuela|Caracas||
-|15|103.189.249.81|8090|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|16|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|17|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|18|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
+|5|80.80.165.54|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|103.141.66.78|12125|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|10|14.103.168.150|18080|China|Beijing|BITNET|
+|11|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|190.60.84.242|999|Colombia|Medellín|IFX Corporation|
+|14|138.0.207.3|8085|Brazil|Guararapes|Nets Telecomunicacoes Ltda|
+|15|103.154.224.227|8080|Indonesia|Jakarta|MORATELINDONAP|
+|16|212.108.115.59|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.171.83.49|8080|Indonesia|Cikarang|PT Multi Network Indonesia|
+|18|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|72.10.160.174|1693|Canada|Montreal|GloboTech Communications|
+|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
 
 
 
