@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
 |6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|181.204.113.253|11211|Colombia|Barranquilla|Colombia Móvil|
-|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|11|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|12|223.204.164.148|8080|Thailand|Suphan Buri|Triple T Broadband Public Company Limited|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|179.1.128.57|999|Colombia|Rivera|Internexa S.a. E.S.P|
-|15|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
-|16|200.35.34.134|999|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A|
-|17|190.83.15.2|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|18|36.93.56.58|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|19|45.70.236.194|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|12|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|13|160.22.31.3|8080|Indonesia|Jombang|PT Aufa Berkah Media|
+|14|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
+|15|38.159.232.108|999|Dominican Republic|Santo Domingo|Lightwave USA LLC|
+|16|200.188.112.142|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|17|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
