@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|175.99.220.171|80|Taiwan|Taipei|Taiwan Fixed Network|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|3.19.181.130|3128|United States|Dublin|Amazon.com, Inc.|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|167.249.52.246|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|15|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|5.78.129.58|9001|United States|Hillsboro|Hetzner Online GmbH|
+|13|31.173.247.205|8081|Russia|Novosibirsk|MegaFon|
+|14|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|15|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
 |16|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|202.58.77.28|7777|Indonesia|Kediri|PT Data Buana Nusantara|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|139.159.99.242|8080|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|20|182.160.115.42|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|139.159.99.242|8080|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|18|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|202.58.77.28|7777|Indonesia|Kediri|PT Data Buana Nusantara|
 
 
 
