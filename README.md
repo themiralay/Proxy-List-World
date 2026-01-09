@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|103.164.229.149|8080|Indonesia|Pecangaan|PT Muria Data Utama|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
-|17|115.127.187.157|2589|Bangladesh|Dhaka|BRACNet Limited|
-|18|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
-|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|115.127.187.157|2589|Bangladesh|Dhaka|BRACNet Limited|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
+|13|213.76.184.53|3128|Poland|Warsaw|Orange Polska Spolka Akcyjna|
+|14|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|15|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|19|176.236.227.98|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
 |20|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
 
 
