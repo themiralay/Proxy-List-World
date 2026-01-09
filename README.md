@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|11|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|17|116.80.80.198|3172|Japan|Yokohama|InfoSphere|
-|18|147.83.77.10|3128|Spain|Barcelona|Consorci de Serveis Universitaris de Catalunya|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
