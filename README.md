@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
 |12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|18|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|19|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|20|115.127.180.102|2589|Bangladesh|Dhaka|BRACNet Limited|
+|15|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
