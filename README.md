@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|72.10.160.90|1171|Canada|Montreal|GloboTech Communications|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|27.210.157.170|1081|China|Jinan|China Unicom Shandong Province Network|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|179.1.234.30|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|16|67.43.228.253|14249|Canada|Montreal|GloboTech Communications|
+|17|14.103.168.150|18080|China|Beijing|BITNET|
+|18|192.9.137.102|50000|United States|San Jose|Oracle Corporation|
+|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|182.160.107.205|50000|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
