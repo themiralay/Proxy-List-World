@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |14|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
 |15|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|16|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|17|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|14.103.168.150|18080|China|Beijing|BITNET|
-|20|177.200.80.174|8080|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|18|49.0.32.13|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|19|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|20|43.250.9.46|10088|Hong Kong|San Po Kong|SunnyVision Limited|
 
 
 
