@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|4|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|15|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
-|16|36.133.208.130|8888|China|Guangzhou|China Mobile|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|14|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 |17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|18|45.144.234.129|53922|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|179.49.201.196|999|Ecuador|Quito|ZAMBRANO CARREÑO HUMBERTO ALEJANDRO|
+|19|36.133.208.130|8888|China|Guangzhou|China Mobile|
+|20|95.111.194.14|6045|Singapore|Singapore|UpCloud Ltd|
 
 
 
