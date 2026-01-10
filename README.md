@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|103.110.10.166|8181|Indonesia|Pakuwon|PT Citra Jelajah Informatika|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.82.23.118|5201|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|193.181.41.9|8118|United Kingdom|London|Arelion Sweden AB|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|103.110.10.166|8181|Indonesia|Pakuwon|PT Citra Jelajah Informatika|
+|16|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|17|103.82.23.118|5201|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|18|125.18.28.54|8080|India|Mumbai|Bharti Airtel Limited|
+|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|20|83.147.29.57|8080|United Kingdom|City of London|Eugamehost LTD|
 
 
 
