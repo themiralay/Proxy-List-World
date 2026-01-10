@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|103.173.141.9|8080|Indonesia|Ngawi|DIAZANETWORKS|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|103.215.36.88|17100|China|Yancheng|China Mobile Communications Corporation|
-|11|14.103.168.150|18080|China|Beijing|BITNET|
-|12|177.200.80.174|8080|Brazil|Fortaleza|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|13|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
-|14|103.171.183.222|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|16|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|17|115.127.181.34|2589|Bangladesh|Dhaka|BRACNet Limited|
-|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|182.160.109.125|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|11|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
+|12|14.103.168.150|18080|China|Beijing|BITNET|
+|13|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|14|45.225.207.183|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|18|164.138.205.10|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|126.209.18.46|8082|Philippines|Davao City|Infinivan Incorporated|
 
 
 
