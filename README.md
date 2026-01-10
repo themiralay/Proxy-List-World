@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|2|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |7|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|178.115.236.219|8080|Austria|Laxenburg|customers with static IP|
-|19|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|20|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|12|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|103.82.23.118|5242|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|15|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|16|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|17|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|19|36.88.137.114|8080|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
+|20|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
