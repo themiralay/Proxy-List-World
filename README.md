@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|16|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|18|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|19|103.172.42.105|1111|Indonesia|Kabupaten Musi Banyuasin|PT Media Solusi Sukses|
-|20|14.103.168.150|18080|China|Beijing|BITNET|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|13|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|14|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|15|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|16|200.188.112.139|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|17|14.103.168.150|18080|China|Beijing|BITNET|
+|18|103.153.202.221|8080|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|189.72.85.254|8080|Brazil|Itajaí|V tal|
 
 
 
