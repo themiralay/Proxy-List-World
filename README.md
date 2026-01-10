@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|10|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|11|120.28.196.127|8181|Philippines|Davao City|Globe Telecom|
-|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|13|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|15|14.103.168.150|18080|China|Beijing|BITNET|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.226.232.205|8099|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|18|67.43.228.253|26279|Canada|Montreal|GloboTech Communications|
-|19|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|14|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
