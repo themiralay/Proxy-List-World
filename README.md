@@ -15,7 +15,7 @@ Click the file format that you want and copy the URL.
 |----|-------|-----|
 |[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
 |[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|43.210.30.230|237|Thailand|Bangkok|Amazon.com, Inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|14.103.168.150|18080|China|Beijing|BITNET|
+|19|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|103.245.109.70|21458|Bangladesh|Dhaka|ACE IT Networks Limited|
+
 
 
 ## Contributing
