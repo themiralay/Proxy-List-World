@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|103.82.23.118|5221|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|17|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|162.240.154.26|3128|United States|Provo|Unified Layer|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
