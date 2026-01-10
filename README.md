@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|11|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|180.191.16.105|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|16|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|17|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|45.188.125.49|999|Mexico|Nacajuca|Digy Networks S.A De C.V.|
+|20|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
 
 
 
