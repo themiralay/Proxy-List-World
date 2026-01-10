@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|44.200.8.242|80|United States|Ashburn|Amazon.com|
-|10|1.234.153.14|80|South Korea|Seocho-gu|SK Broadband Co Ltd|
-|11|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
-|13|103.18.78.250|1111|Indonesia|Cicurug|PT Usaha Adi Sanggoro|
-|14|49.0.32.27|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|15|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|200.125.169.163|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|192.9.137.102|50000|United States|San Jose|Oracle Corporation|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|183.88.214.84|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
+|12|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|103.155.166.150|8082|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
+|15|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|16|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|175.139.208.65|8080|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
 |19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|144.24.41.48|9999|United States|Phoenix|Oracle Corporation|
 
 
 
