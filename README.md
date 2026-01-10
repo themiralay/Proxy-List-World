@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|9|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|15|103.82.23.118|5195|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|182.53.243.213|8080|Thailand|Klaeng|TOT Public Company Limited|
 |16|14.103.168.150|18080|China|Beijing|BITNET|
-|17|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|18|44.200.8.242|80|United States|Ashburn|Amazon.com|
-|19|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|17|44.200.8.242|80|United States|Ashburn|Amazon.com|
+|18|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|19|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
 
 
 
