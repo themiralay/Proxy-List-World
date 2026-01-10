@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|16|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|91.216.48.8|8080|Russia|Moscow|Druzhba-Monolit LLC|
+|19|112.201.237.191|8080|Philippines|Valenzuela|Philippine Long Distance Telephone Co.|
+|20|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+
 
 
 ## Contributing
