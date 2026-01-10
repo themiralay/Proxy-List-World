@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|9|96.30.79.84|8081|Thailand|Bangkok|Symphony Communication Public Company Limited|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|162.240.154.26|3128|United States|Provo|Unified Layer|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
