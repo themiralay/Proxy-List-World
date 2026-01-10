@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80164** proxies at the latest update. Usable proxies are below.
+> Scraper found **80144** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38602|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38582|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40605|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|10|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|11|119.18.144.12|8585|Bangladesh|Chittagong|BBTS Network|
-|12|103.144.102.231|8085|Indonesia|Karangsembung|PANDAWANET|
-|13|115.127.179.150|2589|Bangladesh|Dhaka|BRACNet Limited|
-|14|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|188.132.222.164|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|200.188.112.141|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|36.67.99.31|7023|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|15|14.103.168.150|18080|China|Beijing|BITNET|
+|16|34.87.1.201|8888|Singapore|Singapore|Google LLC|
 |17|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|19|103.183.254.6|8080|Indonesia|Magetan|Lintas Data Prima, PT|
+|20|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
