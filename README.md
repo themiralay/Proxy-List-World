@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|45.144.234.129|53922|Finland|Helsinki|Baykov Ilya Sergeevich|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|18|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|45.144.234.129|53922|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
