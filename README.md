@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|36.67.99.31|7023|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|15|14.103.168.150|18080|China|Beijing|BITNET|
-|16|34.87.1.201|8888|Singapore|Singapore|Google LLC|
-|17|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|18|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|19|103.183.254.6|8080|Indonesia|Magetan|Lintas Data Prima, PT|
-|20|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|8|192.9.137.102|50000|United States|San Jose|Oracle Corporation|
+|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|89.43.133.197|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
+|11|14.103.168.150|18080|China|Beijing|BITNET|
+|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|13|177.220.230.71|8080|Brazil|Porto Alegre|Vogel Soluções em Telecom e Informática S/A|
+|14|45.188.108.6|8080|Mexico|Veracruz|Conectared SA De CV|
+|15|165.16.58.124|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|16|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|17|109.69.76.49|8080|Russia|Ryazan|RU RZN Vidikon|
+|18|138.0.88.213|999|Colombia|Popayán|Dobleclick Software E Ingeneria|
+|19|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|103.148.51.1|8090|Bangladesh|Ujalpur|C Net Broadband|
 
 
 
