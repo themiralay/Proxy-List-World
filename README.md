@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|15|112.203.103.140|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|13|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|15|126.209.2.229|8082|Philippines|Manila|Infinivan Incorporated|
 |16|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|17|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|43.229.254.221|8181|Indonesia|Kresek|PT. Media Antar Nusa|
-|19|67.43.228.253|26279|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|26279|Canada|Montreal|GloboTech Communications|
+|18|190.94.245.178|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|103.245.109.70|21458|Bangladesh|Dhaka|ACE IT Networks Limited|
 |20|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
 
 
