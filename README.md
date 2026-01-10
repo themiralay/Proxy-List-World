@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|45.188.125.49|999|Mexico|Nacajuca|Digy Networks S.A De C.V.|
-|12|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|103.82.135.154|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|58.69.120.117|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|103.159.194.209|7777|Indonesia|Kudus|PT Giga Digital Nusantara|
+|14|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|103.148.51.1|8090|Bangladesh|Ujalpur|C Net Broadband|
+|17|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
 
 
 
