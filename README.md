@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|47.83.112.49|1080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|103.133.60.12|8080|Indonesia|Punggur|TLINK|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |11|103.82.23.118|5178|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
 |12|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
 |13|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|14|175.140.232.165|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|15|72.10.160.170|20183|Canada|Montreal|GloboTech Communications|
-|16|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
-|17|14.103.168.150|18080|China|Beijing|BITNET|
-|18|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|14|72.10.160.170|20183|Canada|Montreal|GloboTech Communications|
+|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|16|115.127.181.26|2026|Bangladesh|Dhaka|BRACNet Limited|
+|17|83.147.29.57|8080|United Kingdom|City of London|Eugamehost LTD|
+|18|14.103.168.150|18080|China|Beijing|BITNET|
+|19|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|20|119.82.240.177|6060|Indonesia|Menara|Indonesia Network Information Center|
 
 
 
