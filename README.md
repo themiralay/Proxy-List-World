@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|12|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|13|223.204.164.148|8080|Thailand|Suphan Buri|Triple T Broadband Public Company Limited|
-|14|190.97.249.30|999|Venezuela|Barquisimeto|Viginet C.A|
-|15|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|16|223.204.19.3|8080|Thailand|Si Narong|Triple T Broadband Public Company Limited|
-|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|18|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|179.1.234.30|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|14|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.105.76.65|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|17|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|18|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|20|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
 
 
 
