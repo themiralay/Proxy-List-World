@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|115.127.182.130|2589|Bangladesh|Dhaka|BRACNet Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|115.127.181.10|2026|Bangladesh|Dhaka|BRACNet Limited|
-|15|196.216.132.43|8080|South Africa|Lichtenburg|HERO TELECOMS (PTY) LTD|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|18|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
-|19|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|2|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|115.127.182.126|2589|Bangladesh|Dhaka|BRACNet Limited|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|103.171.31.77|8080|Indonesia|Depok|MORATELINDONAP|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|16|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|19|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|20|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
