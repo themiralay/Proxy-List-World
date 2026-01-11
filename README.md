@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.155.168.178|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|5|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|103.247.14.138|7777|Indonesia|Temanggung|TERABIT|
-|9|182.253.221.147|8080|Indonesia|Jakarta|Biznet Networks|
-|10|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|102.212.44.151|12354|South Africa|Johannesburg|OM-SN-44/24|
-|14|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|15|113.192.3.66|8567|Indonesia|Wedi|PT Boombas Carlo Medianet|
-|16|116.80.64.118|3172|Japan|Yokohama|InfoSphere|
-|17|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL - Vercara|
-|18|181.204.104.245|999|Colombia|Barranquilla|Colombia Móvil|
-|19|103.158.242.62|82|India|Vempalli|Willaegis Online Private Limited|
-|20|36.93.163.219|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|116.80.64.118|3172|Japan|Yokohama|InfoSphere|
+|15|103.165.126.65|8080|Indonesia|Bandung|PT iForte Global Internet|
+|16|202.73.27.126|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
+|17|103.130.128.249|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|18|190.60.52.188|999|Colombia|Buenavista|IFX NETWORKS COLOMBIA|
+|19|203.111.253.146|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
