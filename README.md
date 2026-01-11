@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.173|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|36.92.60.234|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|200.10.31.202|999|Colombia|Pereira|Super Redes S.A.S|
-|12|164.163.42.38|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|89.200.217.250|8080|Türkiye|Antalya|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|116.80.62.96|3172|Japan|Yokohama|InfoSphere|
-|18|187.49.149.49|9999|Brazil|Lauro de Freitas|SB CONECT LTDA|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|163.5.128.221|14270|United States|Brooklyn|Windstream Communications LLC|
+|8|163.5.128.114|14270|United States|Brooklyn|Windstream Communications LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|8.212.157.10|8080|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|11|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|12|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.42.38|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|116.80.62.96|3172|Japan|Yokohama|InfoSphere|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|181.78.75.13|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
 
 
 
