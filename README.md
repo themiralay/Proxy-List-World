@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.92.148|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|7|103.180.118.174|6789|Indonesia|Made|PT Persada Data Multimedia|
-|8|103.145.30.46|1452|Indonesia|Utan|ICONPLN|
-|9|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|103.242.105.65|7200|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
-|14|116.68.115.74|8080|India|Kozhikode|Asianet Satellite Communications Pvt Ltd|
-|15|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|103.172.42.105|1111|Indonesia|Kabupaten Musi Banyuasin|PT Media Solusi Sukses|
-|20|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|163.5.128.37|14270|United States|Brooklyn|Windstream Communications LLC|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|12|121.101.129.72|3128|Indonesia|Temanggung|PT SELARAS CITRA TERABIT|
+|13|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|14.103.168.150|18080|China|Beijing|BITNET|
+|18|103.133.27.137|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
+|19|36.88.137.114|8080|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
