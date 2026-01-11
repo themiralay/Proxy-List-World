@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|157.66.198.193|39189|Vietnam|Da Nang|Cloud Data Technology and Communication Company Limited|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|18|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|19|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
+|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|179.1.126.78|999|Colombia|Quibdó|Internexa S.a. E.S.P|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
