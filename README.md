@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80075** proxies at the latest update. Usable proxies are below.
+> Scraper found **41397** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38678|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40439|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|124.104.218.157|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
 |6|164.163.42.35|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|8|78.12.143.148|498|Mexico|Querétaro City|Amazon.com|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|11|182.160.109.125|50000|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|212.108.115.59|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|13|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|14|103.147.134.115|8082|Indonesia|Pamekasan|PT.MURNI MAKMUR ABADI|
-|15|120.28.199.66|8085|Philippines|Davao City|Globe Telecom|
-|16|45.225.207.183|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|17|200.215.248.112|999|Peru|San Juan de Lurigancho|Compunetwork S.A.C.|
-|18|223.204.164.148|8080|Thailand|Suphan Buri|Triple T Broadband Public Company Limited|
-|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|20|181.78.49.207|999|Guatemala|Salcajá|Ufinet Panama S.A.|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|170.239.205.74|8080|Colombia|Chigorodó|FIBERNET|
+|11|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|12|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.47.61|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.43.205|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.62|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
 
 
 
