@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.148|3172|Japan|Yokohama|InfoSphere|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|9|115.127.178.10|2589|Bangladesh|Dhaka|BRACNet Limited|
-|10|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|188.132.222.246|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|38.159.37.17|999|Dominican Republic|Santo Domingo|Orbitek SRL|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|103.172.42.105|1111|Indonesia|Kabupaten Musi Banyuasin|PT Media Solusi Sukses|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|45.133.107.238|81|Armenia|Sisavan|Art-net LLC|
-|20|103.165.126.65|8080|Indonesia|Bandung|PT iForte Global Internet|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|103.154.224.227|8080|Indonesia|Jakarta|MORATELINDONAP|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
+|11|36.95.61.186|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|115.127.178.10|2589|Bangladesh|Dhaka|BRACNet Limited|
+|13|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|14|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|15|123.200.3.221|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|17|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|18|38.194.243.62|999|Mexico|Tepeji del Río de Ocampo|Cogent Communications|
+|19|103.191.254.245|1024|Indonesia|Rembang|PT Ayodya Data Internusa|
+|20|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
