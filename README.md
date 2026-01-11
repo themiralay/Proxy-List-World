@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
-|19|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|190.60.54.143|999|Colombia|Sitionuevo|IFX NETWORKS COLOMBIA|
+|16|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
+|17|103.167.219.82|8080|Indonesia|Bekasi|PT iForte Global Internet|
+|18|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A|
+|19|45.178.55.2|999|Argentina|Benito Juárez|Globalweb S.R.L.|
+|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 
 
 
