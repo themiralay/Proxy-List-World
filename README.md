@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|187.102.211.253|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|222.165.205.212|1452|Indonesia|Nusa Dua|PT NettoCyber Indonesia|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|205.237.104.203|3128|France|Paris|PUSHPKT OU|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|14.143.130.210|1111|India|New Delhi|Tata Communications Limited|
-|15|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
-|16|72.10.160.90|4185|Canada|Montreal|GloboTech Communications|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|210.87.125.146|8090|Indonesia|Pare|CV Brawijaya Giga Network|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|205.237.104.203|3128|France|Paris|PUSHPKT OU|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|103.130.241.237|8080|Indonesia|South Tangerang|PT Maxindo Mitra Solusi|
+|16|222.165.205.212|1452|Indonesia|Nusa Dua|PT NettoCyber Indonesia|
 |17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|193.43.145.227|8080|Syria|An Nabk|Syrian Telecom|
+|18|72.10.160.90|4185|Canada|Montreal|GloboTech Communications|
 |19|223.159.210.130|7890|China|Qingyuan|Chinanet|
 |20|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 
