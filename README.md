@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|205.237.104.203|3128|France|Paris|PUSHPKT OU|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.130.241.237|8080|Indonesia|South Tangerang|PT Maxindo Mitra Solusi|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|180.191.49.73|8090|Philippines|Tarlac City|Globe Telecom|
-|20|103.203.232.69|1080|Indonesia|Batu|PT Inti Data Guna|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|14|38.156.74.93|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
+|15|160.19.18.42|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
+|18|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|103.93.93.86|1111|Indonesia|Sitimerto|MYRISE|
 
 
 
