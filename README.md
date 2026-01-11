@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|113.192.30.217|8081|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
-|16|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|17|202.57.25.80|8080|Indonesia|Semarang|announced of WINET|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|10|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|11|109.224.242.244|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
+|12|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|103.170.46.245|8080|India|Sirohi|Vanshika Itlam India PVT LTD|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|103.160.205.12|8081|Indonesia|Timba Timuk|PRIME|
+|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|20|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
 
 
 
