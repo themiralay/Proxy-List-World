@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|45.144.234.129|54972|Finland|Helsinki|Baykov Ilya Sergeevich|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|45.144.234.129|53922|Finland|Helsinki|Baykov Ilya Sergeevich|
+|7|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
+|8|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|172.94.36.219|80|United States|Houston|Datacamp Limited|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|200.114.81.219|8080|Argentina|Santa Rosa|SIGOT ALEXIS RAUL (SPEED INTERNET)|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|18|103.122.65.11|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
-|19|177.184.195.168|8080|Brazil|Goiânia|Wireless Comm Services LTDA|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|177.184.195.168|8080|Brazil|Goiânia|Wireless Comm Services LTDA|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
