@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|14.143.130.210|1111|India|New Delhi|Tata Communications Limited|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|12|160.19.18.42|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|31.173.247.205|8081|Russia|Novosibirsk|MegaFon|
-|16|72.10.164.178|9521|Canada|Montreal|GloboTech Communications|
-|17|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|18|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|19|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|210.87.125.146|8090|Indonesia|Pare|CV Brawijaya Giga Network|
+|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|202.58.73.246|1111|Indonesia|Kediri|PT Data Buana Nusantara|
+|17|103.82.23.118|5221|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|18|157.66.50.161|8181|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|91.211.212.6|32650|Greece|Athens|ISP Inalan|
+|20|24.152.53.7|999|Guatemala|Jalapa|TV CABLE UNIVERSAL S.A|
 
 
 
