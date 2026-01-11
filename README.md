@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.92.148|3172|Japan|Yokohama|InfoSphere|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|93.177.126.79|8088|Russia|Balashikha|G COM Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
-|19|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|20|103.172.71.141|3127|Indonesia|Karawang|AZNET|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|36.93.163.219|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|41.254.48.54|19333|Libya|Tripoli|LTT Network Backbone and POPs|
+|9|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
+|10|190.52.107.85|999|Venezuela|Caracas|Gold Data USA Inc|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|101.255.107.85|1111|Indonesia|Jakarta|PT Remala Abadi|
+|17|103.169.41.221|8081|Indonesia|Medan|Telnet Indonesia|
+|18|36.253.18.38|8181|Nepal|Patan|Ncell Pty. Ltd.|
+|19|181.209.110.27|999|Argentina|Quimilí|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|20|139.180.138.188|5555|Singapore|Singapore|SGP VULTR|
 
 
 
