@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|116.80.93.54|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.92.153|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
 |6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.94.187|3172|Japan|Yokohama|InfoSphere|
+|9|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
 |10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|177.184.195.168|8080|Brazil|Goiânia|Wireless Comm Services LTDA|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|94.155.175.135|8080|Bulgaria|Stara Zagora|Bulgarian Telecommunication Group EOOD|
-|15|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|16|190.210.62.131|8080|Argentina|Buenos Aires|NSS S.A.|
-|17|103.172.70.191|8181|Indonesia|Kendal|AZNET|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|20|103.112.162.144|8080|Indonesia|Jakarta|24AS|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
