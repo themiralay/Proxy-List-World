@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80134** proxies at the latest update. Usable proxies are below.
+> Scraper found **80056** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38738|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40439|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.173|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.38|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|181.119.67.133|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|15|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|16|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|17|170.84.147.206|8087|Brazil|Tutóia|Direct Telecom Ltda|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|81.16.9.51|8080|Armenia|Yerevan|Ucom CJSC|
-|20|201.182.20.16|999|Mexico|San Ignacio Cerro Gordo|Coeficiente Comunicaciones|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|36.92.60.234|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|200.10.31.202|999|Colombia|Pereira|Super Redes S.A.S|
+|12|164.163.42.38|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|89.200.217.250|8080|Türkiye|Antalya|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|116.80.62.96|3172|Japan|Yokohama|InfoSphere|
+|18|187.49.149.49|9999|Brazil|Lauro de Freitas|SB CONECT LTDA|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
 
 
 
