@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|124.104.218.157|8082|Philippines|Marilao|Philippine Long Distance Telephone Co.|
-|6|164.163.42.35|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|170.239.205.74|8080|Colombia|Chigorodó|FIBERNET|
-|11|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|12|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.47.61|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.43.205|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.62|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|164.163.42.35|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|103.102.12.129|1452|Indonesia|Rembang|FISNET|
+|14|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|15|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.43.205|3172|Japan|Yokohama|InfoSphere|
 
 
 
