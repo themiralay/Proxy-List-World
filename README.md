@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|7|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|8|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|45.144.234.129|53922|Finland|Helsinki|Baykov Ilya Sergeevich|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|94.248.216.229|8080|Hungary|Kisharsány|Vidanet Cabletelevision Provider Ltd|
-|16|223.204.19.3|8080|Thailand|Si Narong|Triple T Broadband Public Company Limited|
-|17|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|18|181.209.118.252|999|Argentina|General Güemes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|200.114.81.219|8080|Argentina|Santa Rosa|SIGOT ALEXIS RAUL (SPEED INTERNET)|
-|20|102.212.45.58|12354|South Africa|Johannesburg|OM-SN-45/24|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
+|14|210.79.141.226|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|177.184.195.168|8080|Brazil|Goiânia|Wireless Comm Services LTDA|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
