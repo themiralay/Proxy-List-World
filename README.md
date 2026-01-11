@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.92.153|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.93.54|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.93.54|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.92.153|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.92.65|3172|Japan|Yokohama|InfoSphere|
 |5|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |7|116.80.94.187|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
-|9|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|10|124.105.69.124|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|104.251.81.87|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|17|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
+|11|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
