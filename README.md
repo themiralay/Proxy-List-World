@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.173|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|116.80.80.173|3172|Japan|Yokohama|InfoSphere|
 |6|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
-|7|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |9|164.163.42.38|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|11|200.10.31.202|999|Colombia|Pereira|Super Redes S.A.S|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|202.154.37.162|8080|Indonesia|Contong|RADNET|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|116.80.62.96|3172|Japan|Yokohama|InfoSphere|
-|16|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|103.133.63.149|8080|Indonesia|Metro|TLINK|
-|19|202.178.125.136|8080|Cambodia|Battambang|Cambodia Data Communication|
-|20|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|116.80.62.96|3172|Japan|Yokohama|InfoSphere|
+|15|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|16|45.225.207.182|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|17|36.92.199.158|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|185.200.37.245|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|113.183.72.33|8080|Vietnam|Hanoi|VNPT|
+|20|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
 
 
 
