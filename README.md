@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.62.96|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.47.62|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.62.96|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
 
 
 
