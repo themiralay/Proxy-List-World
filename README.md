@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|10|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|122.52.157.209|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|15|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|112.198.133.246|8181|Philippines|Nasugbu|Globe Telecom|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|122.54.151.122|8082|Philippines|Masiga|Philippine Long Distance Telephone Co.|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|18|101.255.151.25|8080|Indonesia|Tangerang|PT Remala Abadi|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
