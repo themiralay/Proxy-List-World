@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|116.80.92.153|3172|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|103.193.144.13|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|18|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|19|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
+|20|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+
 
 
 ## Contributing
