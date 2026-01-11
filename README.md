@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.118.124.137|6969|Indonesia|Jakarta|Tele|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|115.127.176.210|2589|Bangladesh|Dhaka|BRACNet Limited|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|14.143.130.210|1111|India|New Delhi|Tata Communications Limited|
-|17|103.203.232.69|1080|Indonesia|Batu|PT Inti Data Guna|
-|18|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|205.237.104.203|3128|France|Paris|PUSHPKT OU|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|113.11.127.179|64300|Bangladesh|Dhaka|BDCOM Online Limited|
+|18|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|19|36.94.39.101|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|20|170.84.147.206|8087|Brazil|Tutóia|Direct Telecom Ltda|
 
 
 
