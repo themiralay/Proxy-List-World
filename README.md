@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|6|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.153.149.140|8181|Indonesia|Weleri|JARINGANKU|
-|12|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|13|143.255.143.146|3128|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|12.89.166.42|8080|United States|Sacramento|AT&T Enterprises, LLC|
-|16|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|115.127.181.26|2026|Bangladesh|Dhaka|BRACNet Limited|
-|18|167.249.52.225|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
-|19|14.103.168.150|18080|China|Beijing|BITNET|
-|20|202.73.27.126|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|170.239.205.74|8080|Colombia|Chigorodó|FIBERNET|
+|10|189.126.66.189|8080|Brazil|Fortaleza|Provedornet Telecom. e Serviços de Internet Ltda|
+|11|78.12.143.148|498|Mexico|Querétaro City|Amazon.com|
+|12|115.127.179.190|2589|Bangladesh|Dhaka|BRACNet Limited|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|164.163.42.35|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|185.145.124.173|8080|Russia|Moscow|Sky Engineering LLC|
+|16|119.95.175.239|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
+|17|103.187.147.242|8181|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|18|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|160.25.35.211|8080|Indonesia|Pandeglang|PT AURORA SENTRAL INFORMATIKA|
 
 
 
