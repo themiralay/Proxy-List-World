@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|130.185.123.54|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
-|11|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|15|16.78.93.162|752|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|209.146.18.132|5050|Philippines|Davao City|Infinivan Incorporated|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
+|16|16.78.93.162|752|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
 
 
 
