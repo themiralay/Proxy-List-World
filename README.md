@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|14.143.130.210|1111|India|New Delhi|Tata Communications Limited|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|15|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|16|45.229.6.70|999|Ecuador|Pasaje|Mena Cornejo Hector Elias|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|45.4.0.59|999|Chile|San José de Tango|Tlink SPA|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|180.191.32.212|8082|Philippines|Cabanatuan City|Globe Telecom|
+|14|113.167.153.152|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|15|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|16|152.32.93.105|8082|Philippines|Quezon City|Converge Information and Communications Technology Solutions|
+|17|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|119.94.120.190|8081|Philippines|Santa Maria|Philippine Long Distance Telephone Co.|
+|20|160.19.18.29|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
 
 
 
