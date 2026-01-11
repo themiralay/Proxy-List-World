@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **41581** proxies at the latest update. Usable proxies are below.
+> Scraper found **41577** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38749|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38745|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1875|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|101.255.32.42|8080|Indonesia|Jakarta|PT Remala Abadi|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|17|36.212.210.57|8088|China|Guangzhou|China Mobile Communications Group Co., Ltd.|
-|18|181.204.113.253|11211|Colombia|Barranquilla|Colombia Móvil|
-|19|200.59.191.61|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|14|103.247.14.138|7777|Indonesia|Temanggung|TERABIT|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|182.160.110.206|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|163.227.146.10|8181|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|18|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|19|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|20|36.133.208.130|8888|China|Guangzhou|China Mobile|
 
 
 
