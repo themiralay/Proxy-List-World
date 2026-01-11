@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|7|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|8|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|160.22.90.90|8818|Indonesia|Cirebon|PT Lintas Data Kita|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|16|62.193.118.57|1981|Egypt|Giza|Etisalat|
-|17|116.254.113.86|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|18|103.126.87.203|8089|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|19|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|103.133.25.247|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|14|115.147.8.120|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|16|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|18|103.133.27.239|8080|Indonesia|Buaran|PT PHATRIA INTI PERSADA|
+|19|193.43.145.200|8080|Syria|Al Mulayḩah|Syrian Telecom|
+|20|191.7.216.134|8080|Brazil|Meruoca|Online Telecomunicacoes Ltda|
 
 
 
