@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|164.163.42.35|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|182.160.109.125|50000|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|16|115.147.8.120|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|110.159.123.225|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|19|115.127.180.126|2589|Bangladesh|Dhaka|BRACNet Limited|
-|20|167.249.52.66|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|190.60.48.212|999|Colombia|Barrancabermeja|IFX NETWORKS COLOMBIA|
+|9|164.163.42.35|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|85.112.65.130|8080|Lebanon|Beirut|TerraNet sal|
+|11|102.0.21.156|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|15|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
+|16|103.153.149.140|8181|Indonesia|Weleri|JARINGANKU|
+|17|102.210.56.58|8080|Kenya|Nairobi|Syokinet Solutions Limited|
+|18|14.103.168.150|18080|China|Beijing|BITNET|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|103.82.246.23|6080|Indonesia|Ciputat|PT Master Star Network|
 
 
 
