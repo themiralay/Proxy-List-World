@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|182.253.7.146|8180|Indonesia|Jakarta|Biznet Networks|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|45.188.108.6|8080|Mexico|Veracruz|Conectared SA De CV|
-|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|15|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
-|16|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|17|103.244.107.150|8080|Indonesia|Rengasdengklok|PT Sahabat Fiber Indonesia|
-|18|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|103.165.157.241|8090|Indonesia|Wonosobo|MEGADATA-ISP|
-|20|185.80.21.92|8080|Türkiye|Bursa|Ulunet Internet ve Iletisim Hizmetleri San. ve Tic. Ltd. Sti.|
+|4|13.231.11.85|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|103.93.93.178|8181|Indonesia|Kebomas|MYRISE|
+|11|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|12|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|13|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|14|115.127.178.42|2589|Bangladesh|Dhaka|BRACNet Limited|
+|15|49.146.145.195|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|16|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|17|181.78.202.28|8080|Ecuador|Quito|Ufinet Panama S.A.|
+|18|177.11.67.161|8999|Brazil|Natal|DIGICONTROL SERVIÇOS DE PROVEDORES LTDA|
+|19|116.105.20.228|9100|Vietnam|Hanoi|Viettel Group|
+|20|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
 
 
 
