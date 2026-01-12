@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.210.35.182|8080|Indonesia|Wonosari|Diskominfo DIY|
-|10|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|11|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|8.212.157.10|443|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|8|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|9|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|13|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |15|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|16|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|16|103.141.66.78|12125|Bangladesh|Dhaka|Link3 Technologies Limited|
 |17|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|103.92.218.121|9514|Bangladesh|Khulna|Md Rezaul Karim|
-|20|177.73.136.29|8080|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
+|18|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|113.11.35.242|36909|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
