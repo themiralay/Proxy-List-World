@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|115.127.180.102|2589|Bangladesh|Dhaka|BRACNet Limited|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|186.190.224.86|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|16|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|17|103.92.218.121|9514|Bangladesh|Khulna|Md Rezaul Karim|
-|18|190.60.47.82|999|Colombia|Galapa|IFX NETWORKS COLOMBIA|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|103.19.78.138|1111|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|38.45.246.210|999|Mexico|Apatzingán|Jorge Luis Torres Fernandez|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|190.102.246.94|999|Chile|Los Ángeles|Pacifico Cable SPA.|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|103.226.232.201|8890|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
 
 
 
