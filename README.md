@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|38.158.83.65|999|Peru|Arequipa|Fiberred SAC|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|16|190.60.61.241|999|Colombia|Pivijay|IFX NETWORKS COLOMBIA|
-|17|192.145.31.78|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|18|181.78.22.148|999|Colombia|La Esperanza|IFX Networks Argentina S.R.L|
-|19|103.174.122.244|1111|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|20|190.185.112.58|999|Honduras|Tegucigalpa|Redes y Telecomunicaciones|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|8|36.88.137.114|443|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
+|9|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|103.166.124.226|8080|Indonesia|Jakarta|PT Loveika Host Nusantara|
+|13|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|14|103.156.14.165|8085|Indonesia|Talang Ubi|PT Lintas Jaringan Nusantara|
+|15|197.232.158.189|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|16|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
+|17|103.147.134.115|8082|Indonesia|Pamekasan|PT.MURNI MAKMUR ABADI|
+|18|200.188.112.138|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
 
 
 
