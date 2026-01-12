@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|44.200.8.242|80|United States|Ashburn|Amazon.com|
-|13|116.80.64.118|3172|Japan|Yokohama|InfoSphere|
-|14|38.191.165.230|8080|Indonesia|Boyolali|PT CYB Media Group|
-|15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|77.235.31.24|8080|Kyrgyzstan|Bishkek|Mega-Line Ltd.|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|115.127.178.54|2589|Bangladesh|Dhaka|BRACNet Limited|
-|20|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|14|116.80.64.118|3172|Japan|Yokohama|InfoSphere|
+|15|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
+|16|103.172.70.167|8088|Indonesia|Surakarta|AZNET|
+|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|18|115.127.182.126|2589|Bangladesh|Dhaka|BRACNet Limited|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
