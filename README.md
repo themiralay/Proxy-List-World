@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|12|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
-|13|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|101.255.120.97|8080|Indonesia|Jakarta|PT Remala Abadi|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|7|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|101.255.148.2|8080|Indonesia|Tangerang|PT Remala Abadi|
+|10|103.167.23.140|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|13|101.108.54.138|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|115.127.181.10|2026|Bangladesh|Dhaka|BRACNet Limited|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|87.126.65.11|1388|Bulgaria|Sofia|Vivacom Bulgaria EAD|
+|18|202.58.77.114|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|19|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
 
 
 
