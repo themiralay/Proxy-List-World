@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80442** proxies at the latest update. Usable proxies are below.
+> Scraper found **80351** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38660|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38569|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40544|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|8|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|13|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|14|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|15|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|16|187.62.241.136|8080|Brazil|Rio de Janeiro|Metroflex Telecomunicacoes Ltda|
-|17|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
-|18|103.125.154.1|8080|India|Palladam|Live Fibernet|
-|19|186.96.160.219|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|20|49.0.32.50|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.210.35.182|8080|Indonesia|Wonosari|Diskominfo DIY|
+|10|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
+|11|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|8.212.157.10|443|Philippines|Manila|Alibaba.com Singapore E-Commerce Private Limited|
+|15|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|16|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|103.92.218.121|9514|Bangladesh|Khulna|Md Rezaul Karim|
+|20|177.73.136.29|8080|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
 
 
 
