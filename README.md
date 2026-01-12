@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|103.167.50.83|60080|Taiwan|Taipei|Zenlayer|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|103.167.50.83|60080|Taiwan|Taipei|Zenlayer|
-|7|200.188.112.142|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|15.204.151.144|3128|United States|Reston|OVH SAS|
-|11|72.10.164.178|20651|Canada|Montreal|GloboTech Communications|
-|12|45.114.144.74|32650|India|Jaipur|Tejays Dynamic Limited|
-|13|103.169.154.4|83|India|Bhubaneswar|Speedpulse Fibernet PVT LTD|
-|14|189.148.9.181|8080|Mexico|Tapachula|UNINET|
-|15|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|16|13.231.11.85|3129|Japan|Tokyo|Amazon Technologies Inc.|
-|17|195.87.136.2|5331|Türkiye|Istanbul|VFNET|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|177.10.44.190|8080|Brazil|Extrema|Stone Telecomunicações LTDA ME|
-|20|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|103.184.67.117|8080|Indonesia|Rokoy|PT Siber Tech Indonesia|
+|16|72.10.164.178|20651|Canada|Montreal|GloboTech Communications|
+|17|45.114.144.74|32650|India|Jaipur|Tejays Dynamic Limited|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|189.148.9.181|8080|Mexico|Tapachula|UNINET|
+|20|182.160.108.187|50000|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
