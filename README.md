@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80264** proxies at the latest update. Usable proxies are below.
+> Scraper found **80278** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38619|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38626|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|48|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40404|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|8|36.88.137.114|443|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
-|9|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|10|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|103.166.124.226|8080|Indonesia|Jakarta|PT Loveika Host Nusantara|
-|13|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|14|103.156.14.165|8085|Indonesia|Talang Ubi|PT Lintas Jaringan Nusantara|
-|15|197.232.158.189|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|16|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
-|17|103.147.134.115|8082|Indonesia|Pamekasan|PT.MURNI MAKMUR ABADI|
-|18|200.188.112.138|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|8|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|9|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
+|10|103.174.145.97|83|India|Gandhinagar|Vaidik Netsol OPC PVT LTD|
+|11|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|189.126.66.189|8080|Brazil|Fortaleza|Provedornet Telecom. e Serviços de Internet Ltda|
+|14|192.145.31.78|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|15|163.5.128.56|14270|United States|Brooklyn|Windstream Communications LLC|
+|16|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|113.87.161.110|9797|China|Shenzhen|Chinanet|
+|19|38.194.246.34|999|Mexico|León|Cogent Communications|
+|20|190.60.61.45|999|Colombia|Pivijay|IFX NETWORKS COLOMBIA|
 
 
 
