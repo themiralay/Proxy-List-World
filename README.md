@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|103.169.39.255|8080|Indonesia|Kebonarun|PT Boombas Carlo Medianet|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|171.231.2.60|10005|Vietnam|Pleiku|Viettel Corporation|
-|19|67.43.236.19|22949|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|23233|Canada|Montreal|GloboTech Communications|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|177.93.48.137|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|14|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|15|171.231.2.60|10005|Vietnam|Pleiku|Viettel Corporation|
+|16|202.57.25.80|8080|Indonesia|Semarang|announced of WINET|
+|17|67.43.228.250|23233|Canada|Montreal|GloboTech Communications|
+|18|200.34.227.28|8080|Brazil|Porto Alegre|UNIFIQUE TELECOMUNICACOES S/A|
+|19|103.244.107.150|8080|Indonesia|Rengasdengklok|PT Sahabat Fiber Indonesia|
+|20|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
