@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|103.162.221.166|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|115.127.179.114|2589|Bangladesh|Dhaka|BRACNet Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|190.60.61.53|999|Colombia|Nueva Granada|IFX NETWORKS COLOMBIA|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
+|16|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|17|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|103.117.58.230|8085|Indonesia|Cirebon|PT Jaringan Multimedia Cirebon|
+|20|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
 
 
 
