@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|15|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
 |16|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|17|103.21.68.49|83|India|Malkajgiri|Country Online Services PVT LTD|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|164.77.40.101|8080|Chile|Temuco|Entel Chile S.A.|
-|20|103.175.80.202|8080|Indonesia|Purwodadi Grobogan|PT Panglima Kamayo Media|
+|17|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|45.70.201.186|999|Ecuador|Yantzaza|Ufinet Panama S.A.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
