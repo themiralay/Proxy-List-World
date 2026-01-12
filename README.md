@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|202.62.67.209|53281|India|Hyderabad|CityOnline Services|
-|7|192.203.0.118|999|Puerto Rico|Trujillo Alto|Boom NET|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|201.159.99.37|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|13|113.192.30.35|8181|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|72.10.160.90|15661|Canada|Montreal|GloboTech Communications|
-|16|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|17|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|19|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|37.230.57.121|999|Paraguay|Ciudad del Este|Startelecom S.A.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
