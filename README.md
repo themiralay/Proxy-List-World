@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.158.188.161|3128|Japan|Tokyo|Amazon.com|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|34.87.1.201|8888|Singapore|Singapore|Google LLC|
-|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|14|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|172.94.36.219|80|United States|Houston|Datacamp Limited|
-|18|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|14|103.105.76.10|3125|Indonesia|Jombang|PT. Garuda Media Telematika|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
