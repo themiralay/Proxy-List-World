@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|194.124.36.251|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.171.255.60|8080|Indonesia|Godean|ZKI|
-|12|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|114.141.50.211|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
-|15|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|20|103.189.197.190|8181|Indonesia|Pekijing|PT Graha Sumber Teknologi|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|101.255.148.2|8080|Indonesia|Tangerang|PT Remala Abadi|
+|11|103.235.181.243|8080|Indonesia|Sindangsari|PT Top Class Universal|
+|12|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|103.66.62.177|8080|Indonesia|Pauh|PT Buana Visualnet Sentra|
+|18|49.0.32.50|60000|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|19|103.144.18.91|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|20|103.191.58.110|8080|Indonesia|Temenggungan|Panjalu Sarana Data Indonesia|
 
 
 
