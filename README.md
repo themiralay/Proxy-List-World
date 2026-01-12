@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|17|128.199.247.154|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|175.140.232.165|8123|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|19|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|17|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
