@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|101.255.208.18|8090|Indonesia|Bekasi|PT Remala Abadi|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|103.106.78.193|7979|Indonesia|Depok|PT Quantum Tera Multimedia|
-|11|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|36.67.114.94|8187|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|190.60.61.241|999|Colombia|Pivijay|IFX NETWORKS COLOMBIA|
-|16|38.159.62.32|999|Venezuela|Barquisimeto|Boom Solutions C.A|
-|17|67.43.228.250|17359|Canada|Montreal|GloboTech Communications|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|170.80.202.213|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|113.176.118.255|7654|Vietnam|Hanoi|VNPT|
+|10|222.127.77.167|8085|Philippines|Lahug|INNOVE|
+|11|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|12|181.78.202.28|8080|Ecuador|Quito|Ufinet Panama S.A.|
+|13|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|67.43.228.250|17359|Canada|Montreal|GloboTech Communications|
+|16|103.82.23.118|5242|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|17|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|18|102.23.140.122|8080|Sierra Leone|Freetown|Fiber One (SL) LIMITED|
+|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
 
 
 
