@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|14|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
-|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|18|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|19|103.165.247.74|8080|Indonesia|Taman|PT Maxindo Mitra Solusi|
-|20|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|8|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|17|202.40.179.33|9090|Bangladesh|Tongi|Ranks ITT|
+|18|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|36.37.155.160|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
 
 
 
