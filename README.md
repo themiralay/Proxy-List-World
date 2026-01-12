@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|4.213.180.179|3128|India|Pune|Microsoft Corporation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|222.127.77.167|8085|Philippines|Lahug|INNOVE|
-|14|131.72.68.160|40033|Brazil|Euclides da Cunha|TOP NET SERVIÇOS LTDA|
-|15|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|18|222.127.68.126|8080|Philippines|Lahug|INNOVE|
-|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|220.81.123.23|48678|South Korea|Suseong-gu|Korea Telecom|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|14|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|15|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|16|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|17|115.127.178.10|2589|Bangladesh|Dhaka|BRACNet Limited|
+|18|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|19|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
