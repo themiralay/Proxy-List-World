@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|103.181.255.156|8080|Indonesia|Jepara|PT Giga Digital Nusantara|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|9|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
-|10|157.20.207.29|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|11|177.184.195.168|8080|Brazil|Goiânia|Wireless Comm Services LTDA|
+|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|6|222.127.77.167|8085|Philippines|Lahug|INNOVE|
+|7|177.184.195.168|8080|Brazil|Goiânia|Wireless Comm Services LTDA|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|172.94.36.219|80|United States|Houston|Datacamp Limited|
+|10|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
+|11|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
 |12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|203.175.103.3|8088|Indonesia|Kuningan|PT. Mitra Kita Brilian|
-|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|15|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|16|45.225.207.182|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|17|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|20|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|13|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|14|187.190.127.212|80|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|15|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|43.161.250.102|8080|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
+|20|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
 
 
 
