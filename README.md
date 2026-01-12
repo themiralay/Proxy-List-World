@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
-|9|103.160.68.201|8085|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|166.249.54.64|7234|United States|Brooklyn|Verizon Business|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|5|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|11|118.97.30.42|8099|Indonesia|Jayapura|Telekomunikasi Indonesia|
+|12|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|45.174.174.44|999|Mexico|Pichucalco|Javier Tamayo Garcia|
+|16|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|17|204.199.120.18|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|18|160.19.18.209|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
+|19|201.230.121.126|999|Peru|San Borja|Telefonica Del Peru|
+|20|84.51.15.251|32650|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
 
 
 
