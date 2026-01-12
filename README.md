@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|202.152.142.99|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|10|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
-|11|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|192.145.31.78|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|16|83.171.252.150|8080|Russia|Moscow|Miranda-Media Ltd|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|157.15.186.71|8080|Indonesia|Krajan|PT Internusa Duta Makmur|
-|19|103.251.232.15|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|20|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|192.145.31.78|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|11|190.97.254.180|8080|Venezuela|San Cristóbal|Viginet C.A|
+|12|103.134.27.129|8080|Bangladesh|Dhaka|Md Abdur Rouf|
+|13|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|15|213.169.33.7|4000|Bulgaria|Sofia|A1 Bulgaria EAD|
+|16|179.60.53.26|999|Ecuador|Cuenca|Stealth Telecom del Ecuador|
+|17|212.108.115.79|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|18|103.156.14.15|8080|Indonesia|Talang Ubi|PT Lintas Jaringan Nusantara|
+|19|116.80.92.148|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
 
 
 
