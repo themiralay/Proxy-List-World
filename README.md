@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|200.125.170.221|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|14|38.199.71.84|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|103.167.229.147|8080|Nepal|Bāgluṅ|Fiberworld Communication Pvt. Ltd|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|45.5.93.30|999|Mexico|Ciudad Melchor Múzquiz|Señal Interactiva, S.A De C.V|
-|18|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|38.199.71.84|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|200.125.170.221|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|19|115.127.178.34|2589|Bangladesh|Dhaka|BRACNet Limited|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
