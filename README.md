@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|13|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|15|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|157.175.152.104|261|Bahrain|Manama|Amazon.com, Inc.|
+|12|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|13|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|38.191.211.238|999|Colombia|Tame|Servicios De Telecomunicaciones E Informatica S.A.S.|
+|16|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|17|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|18|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|20|103.175.46.162|8080|Indonesia|Sumber|PT Internet Keluarga Indonesia|
 
 
 
