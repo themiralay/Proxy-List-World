@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|202.73.27.126|8080|Indonesia|Bogor|PT. Usaha Adisanggoro|
+|18|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|19|46.185.34.136|8187|Ukraine|Poltava|Kyivstar UA|
+|20|67.43.236.19|11473|Canada|Montreal|GloboTech Communications|
+
 
 
 ## Contributing
