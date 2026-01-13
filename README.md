@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.80.180|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.47.61|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.47.59|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.94.187|3172|Japan|Yokohama|InfoSphere|
-|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|202.5.53.145|9355|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|157.15.62.23|8085|Indonesia|Malang|AMAN ISP Customer Malang|
+|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
