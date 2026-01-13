@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |8|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
+|9|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |13|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
 |14|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
