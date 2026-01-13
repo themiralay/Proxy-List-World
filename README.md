@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|200.24.138.73|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
+|19|197.248.75.221|8105|Kenya|Nairobi|Safaricom Limited|
+|20|36.66.130.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+
 
 
 ## Contributing
