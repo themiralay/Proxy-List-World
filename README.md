@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|15|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|36.94.27.65|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|18|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|13|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|45.231.101.97|9999|Brazil|Salvador|Velho Ponto Net -Telecom|
+|18|103.93.93.86|1111|Indonesia|Sitimerto|MYRISE|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|115.147.39.121|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
