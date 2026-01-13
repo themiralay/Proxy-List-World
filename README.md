@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|190.94.198.165|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.156.15.105|1111|Indonesia|Bojonegara|PT Lintas Jaringan Nusantara|
+|12|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
+|15|190.60.61.42|8080|Colombia|Prado-Sevilla|IFX NETWORKS COLOMBIA|
+|16|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|17|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
+|18|179.60.53.26|999|Ecuador|Cuenca|Stealth Telecom del Ecuador|
 |19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|183.89.250.148|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|20|1.4.167.118|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
