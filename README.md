@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|157.66.192.115|8080|Indonesia|Banjarnegara|PT Indotech Digitama Superlink|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|181.143.181.35|8080|Colombia|Cajicá|EPM Telecomunicaciones S.A. E.S.P.|
-|20|38.191.203.2|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
