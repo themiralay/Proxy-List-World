@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|154.12.41.175|12345|United States|Los Angeles|Cogent Communications|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |10|54.74.104.194|8299|Ireland|Dublin|Amazon.com, Inc.|
-|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|13|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|45.231.101.97|9999|Brazil|Salvador|Velho Ponto Net -Telecom|
-|18|103.93.93.86|1111|Indonesia|Sitimerto|MYRISE|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|115.147.39.121|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|20|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
 
 
 
