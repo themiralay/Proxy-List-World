@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|36.94.39.101|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|10|192.73.243.65|3128|United States|Miami|NetActuate, Inc|
-|11|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|12|103.193.144.41|8080|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
-|13|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
-|14|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|17|14.143.130.210|1111|India|New Delhi|Tata Communications Limited|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|103.60.138.5|8080|India|Chennai|Velocity Internet India Private Ltd|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|19|122.52.32.86|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|20|120.92.88.147|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
