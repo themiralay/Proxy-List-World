@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|15.160.134.84|238|Italy|Milan|Amazon Technologies Inc|
-|13|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|16|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|17|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|18|116.80.92.22|3172|Japan|Yokohama|InfoSphere|
-|19|103.124.136.251|8080|Indonesia|Kebumen Satu|Global Media Data Prima|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|5|103.124.139.196|8080|Indonesia|Kebumen Satu|Global Media Data Prima|
+|6|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|10|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|13|200.188.112.139|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
+|14|116.80.92.22|3172|Japan|Yokohama|InfoSphere|
+|15|103.13.204.11|8090|Indonesia|Jontro|PT JARINGANKU SARANA NUSANTARA|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|113.87.161.110|9797|China|Shenzhen|Chinanet|
+|18|45.204.208.22|60001|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|19|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|20|112.203.103.140|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 
 
 
