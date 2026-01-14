@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|103.105.76.49|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|18.183.141.82|332|Japan|Tokyo|Amazon Technologies Inc.|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|18.183.141.82|332|Japan|Tokyo|Amazon Technologies Inc.|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|124.108.19.6|9292|India|Mumbai|Advantus Corporate Infoserv Private Ltd|
-|17|177.52.221.99|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|18|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|19|103.193.144.13|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|124.108.19.6|9292|India|Mumbai|Advantus Corporate Infoserv Private Ltd|
 
 
 
