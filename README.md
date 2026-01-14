@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|104.251.81.224|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|14|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|49.12.212.161|2090|Germany|Falkenstein|Hetzner Online GmbH|
-|19|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|20|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|17|109.91.247.181|8080|Germany|Frankfurt am Main|Vodafone|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|20|118.97.30.42|8099|Indonesia|Jayapura|Telekomunikasi Indonesia|
 
 
 
