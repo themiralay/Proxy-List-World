@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|31.133.32.102|3128|Russia|Rostov-on-Don|S.U.E. DPR Republic Operator of Networks|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|103.191.196.155|8080|Indonesia|Jatiwangi|PT Pangkalan Lintas Data|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|17|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|18|103.203.232.69|1080|Indonesia|Batu|PT Inti Data Guna|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
