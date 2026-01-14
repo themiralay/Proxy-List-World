@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|16|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
 |17|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|20|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|18|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|19|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
