@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|9|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|157.175.152.104|261|Bahrain|Manama|Amazon.com, Inc.|
-|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|120.28.216.101|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|18|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|38.224.21.1|999|Colombia|El Carmen|U2red S.A.S|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|38.224.21.1|999|Colombia|El Carmen|U2red S.A.S|
+|16|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|116.80.58.162|3172|Japan|Yokohama|InfoSphere|
+|20|124.106.83.244|8083|Philippines|Trece Martires City|Philippine Long Distance Telephone Co.|
 
 
 
