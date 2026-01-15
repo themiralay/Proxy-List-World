@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
-|12|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|13|147.75.34.105|443|The Netherlands|IJmuiden|Equinix (EMEA) Acquisition Enterprises B.V.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|17|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|18|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
-|20|192.145.31.160|1080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
