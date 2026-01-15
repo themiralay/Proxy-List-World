@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
 |5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|103.93.93.95|8181|Indonesia|Kebomas|MYRISE|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|103.125.118.172|3125|Indonesia|Bandung|PT Baraya Telematika Nusantara|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|157.20.204.40|8080|Indonesia|Probolinggo|PT Berbaur Network Connected|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|16|114.31.8.202|2024|Bangladesh|Dhaka|BDCOM Online Limited|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
