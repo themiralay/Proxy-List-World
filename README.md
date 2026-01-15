@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80538** proxies at the latest update. Usable proxies are below.
+> Scraper found **80595** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38647|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38704|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|82|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40609|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|38.52.162.66|999|Dominican Republic|Santo Domingo Este|VISNETWORK SRL|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|103.193.144.16|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|181.188.203.96|999|Ecuador|Montalvo|Ufinet Panama S.A.|
-|19|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|20|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|46.16.229.254|8079|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|19|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|20|148.224.58.230|8080|Mexico|San José Iturbide|Guillermo Robles Ramirez|
 
 
 
