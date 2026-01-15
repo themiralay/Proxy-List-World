@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|200.59.10.42|999|Argentina|Ricardo Rojas|COTELCAM|
-|20|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|9|58.69.117.149|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|181.78.200.125|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|12|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|13|103.101.218.250|8080|Indonesia|Nganjuk|PT Sarana Media Cemerlang|
+|14|38.224.21.1|999|Colombia|El Carmen|U2red S.A.S|
+|15|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|16|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|17|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|157.66.20.96|8090|Indonesia|Kebumen|PT. GEMILANG SARANA MANDIRI|
+|20|124.121.2.132|8080|Thailand|Nakhon Ratchasima|TRUEBB|
 
 
 
