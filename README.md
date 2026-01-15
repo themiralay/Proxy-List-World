@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
+|15|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|16|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
