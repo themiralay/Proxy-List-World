@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|113.11.64.137|9107|Bangladesh|Dhanmondi|BDCOM Online Limited|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|20|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|19|147.45.60.60|80|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
