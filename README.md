@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|9|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|18.183.141.82|33227|Japan|Tokyo|Amazon Technologies Inc.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|16|103.179.182.255|8080|Indonesia|Gambiran Satu|PT Cahaya Solusindo Internusa|
-|17|46.185.34.136|8187|Ukraine|Poltava|Kyivstar UA|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|20|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|192.145.31.160|8888|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|12|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
+|13|102.219.231.22|8080|South Africa|Middelburg|Soepa Soap Vervaardigers CC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|192.145.31.160|8888|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|17|113.87.161.110|9797|China|Shenzhen|Chinanet|
+|18|92.86.207.198|8080|Romania|Târgovişte|Romtelecom|
+|19|182.160.121.21|50000|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|190.14.244.41|9992|Colombia|Bucaramanga|Media Commerce Partners S.A|
 
 
 
