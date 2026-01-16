@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.61.17.22|8080|Indonesia|Caringin|TWINSDATAPRATAMA|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|13|103.239.41.85|8080|Indonesia|Pamulang|PT Data Telematika Indonesia|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|169.63.230.169|8081|United States|Dallas|SoftLayer|
+|13|169.63.230.169|8081|United States|Dallas|SoftLayer|
+|14|43.252.107.235|1111|Indonesia|Krajan Wetan Wonojoyo|PT Lintas Data Prima|
+|15|192.145.31.78|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
 |16|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|190.60.56.226|999|Colombia|San Juan de Rioseco|IFX NETWORKS COLOMBIA|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|212.108.115.59|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|18|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|192.99.62.192|8888|Canada|Montreal|OVH SAS|
 
 
 
