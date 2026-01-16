@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|3|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
-|11|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|103.215.36.88|17853|China|Yancheng|China Mobile Communications Corporation|
-|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|202.58.77.112|8080|Indonesia|Kediri|PT Data Buana Nusantara|
-|20|103.70.93.70|8989|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|118.69.183.149|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|19|82.214.86.82|8080|Serbia|Belgrade|AKTON|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
