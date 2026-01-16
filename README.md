@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|91.107.154.88|80|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|103.191.254.2|8080|Indonesia|Rembang|PT Ayodya Data Internusa|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|192.145.31.160|1080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|202.40.177.46|8080|Bangladesh|Kāfrul|Ranks ITT|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
 |11|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
-|12|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|201.159.99.37|8081|Mexico|Apodaca|Jose Miguel Macias Contreras|
-|16|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|14|157.15.172.30|8080|Indonesia|Andoolo|PT Mitra Telekomunikasi Nusantara|
+|15|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|16|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
+|19|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
 
 
 
