@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|192.99.62.192|8888|Canada|Montreal|OVH SAS|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|157.15.144.82|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|91.107.154.88|80|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|17|202.40.177.46|8080|Bangladesh|Kāfrul|Ranks ITT|
-|18|201.182.248.149|8080|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|19|177.68.149.122|8080|Brazil|Barueri|Vivo|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|91.107.154.88|80|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|192.145.31.160|1080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|160.30.83.10|83|India|Chennai|Virtel Communications Private Limited|
+|15|177.68.149.122|8080|Brazil|Barueri|Vivo|
+|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|17|200.115.100.33|8080|Brazil|São Paulo|FiberPon telecom|
+|18|103.102.159.64|8082|Pakistan|Peshawar|Pace Telecom and Brodcasting Private Limited|
+|19|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|20|116.111.99.220|10001|Vietnam|Hanoi|Viettel Group|
 
 
 
