@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|91.107.154.88|80|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|192.145.31.160|1080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|36.64.86.11|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|13|91.142.79.166|8080|Russia|Moscow|Cloud assets LLC|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|16|91.107.154.88|80|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
