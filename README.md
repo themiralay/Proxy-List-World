@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 |3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|4.213.180.179|3128|India|Pune|Microsoft Corporation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|91.107.154.88|80|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|103.81.65.190|1111|Indonesia|Gedong Tataan|QIUNET|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
+|8|177.242.137.182|999|Mexico|Acambay|Mega Cable, S.A. de C.V.|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|181.174.231.26|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|11|103.183.19.34|3128|Indonesia|Karet Kuningan|PT iForte Global Internet|
+|12|4.213.180.179|3128|India|Pune|Microsoft Corporation|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|103.41.88.6|84|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|19|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
