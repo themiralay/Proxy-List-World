@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.125.154.1|8080|India|Palladam|Live Fibernet|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|45.174.191.19|20183|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|12|38.52.208.49|999|Guatemala|Guatemala City|Central De Redes Y Comunicaciones De Guatemala S.A|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|17|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
 |18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|18.183.141.82|33227|Japan|Tokyo|Amazon Technologies Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
