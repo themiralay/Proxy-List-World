@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80216** proxies at the latest update. Usable proxies are below.
+> Scraper found **80257** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38559|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|51|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40406|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|192.145.31.160|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|9|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
-|16|178.128.195.31|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|192.145.31.160|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|19|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|20|95.84.164.92|8998|Russia|Moscow|NCNET|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|157.175.152.104|261|Bahrain|Manama|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|19|103.165.157.107|8080|Indonesia|Wonosobo|MEGADATA-ISP|
+|20|178.128.195.31|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
