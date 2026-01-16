@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|14|91.107.154.88|80|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|115.127.176.210|2589|Bangladesh|Dhaka|BRACNet Limited|
-|17|36.66.211.7|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|19|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
-|20|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|43.167.197.13|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|186.26.92.180|58339|Brazil|São João de Meriti|SAT TELECOM E CONSULTORIA EM TI Ltda|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|195.133.250.173|3127|Russia|Moscow|JSC Mastertel|
+|18|181.78.202.28|8080|Ecuador|Quito|Ufinet Panama S.A.|
+|19|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|20|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
 
 
 
