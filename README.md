@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|6|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
+|11|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|12|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|178.128.195.31|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.171.255.59|8080|Indonesia|Godean|ZKI|
+|18|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+
 
 
 ## Contributing
