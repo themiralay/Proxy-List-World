@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|122.52.32.86|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|103.158.121.245|7777|Indonesia|Jatibarang|CDN|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|154.19.38.123|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
-|13|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|14|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|16|103.61.17.22|8080|Indonesia|Caringin|TWINSDATAPRATAMA|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|19|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|20|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|12|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|13|130.185.123.54|3128|Turkey|Istanbul|Arvancloud Global Technologies L.L.C|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|17|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|18|177.240.3.62|999|Mexico|Santa María Xadani|Mega Cable, S.A. de C.V.|
+|19|103.239.41.85|8080|Indonesia|Pamulang|PT Data Telematika Indonesia|
+|20|192.99.62.192|8888|Canada|Montreal|OVH SAS|
 
 
 
