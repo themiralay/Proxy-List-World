@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80335** proxies at the latest update. Usable proxies are below.
+> Scraper found **80327** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38593|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38585|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40482|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|6|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|181.204.113.253|11211|Colombia|Barranquilla|Colombia Móvil|
-|15|103.30.28.38|4126|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|16|84.205.28.220|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
-|17|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|18|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|19|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|102.212.44.137|12354|South Africa|Johannesburg|OM-SN-44/24|
+|1|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|192.145.31.160|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|9|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
+|16|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|17|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|18|103.125.174.85|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|19|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|20|103.247.21.229|3231|Indonesia|Purbalingga|PT wifian Solution|
 
 
 
