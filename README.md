@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|23.153.217.115|5555|United States|Miami|Gung HO LLC|
-|14|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|103.141.174.54|2727|Bangladesh|Dohār|ICC Communication Ltd|
+|3|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
 |17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|85.117.61.74|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|18|38.224.21.1|999|Colombia|El Carmen|U2red S.A.S|
 |19|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|41.191.228.214|8088|Kenya|Nairobi|Liquid Telecommunications Ltd|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
