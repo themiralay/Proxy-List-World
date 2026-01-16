@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|1|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|14|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|20|43.248.13.30|8182|Pakistan|Model Town|Ebone Network (PVT.) Limited|
 
 
 
