@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|116.111.97.92|10001|Vietnam|Hanoi|Viettel Group|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|15|43.248.13.30|8182|Pakistan|Model Town|Ebone Network (PVT.) Limited|
-|16|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|17|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|14|43.248.13.30|8182|Pakistan|Model Town|Ebone Network (PVT.) Limited|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|38.41.5.110|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|177.135.190.101|8080|Brazil|Natal|TELEFÔNICA BRASIL S.A|
+|19|43.248.13.30|8182|Pakistan|Model Town|Ebone Network (PVT.) Limited|
+|20|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
 
 
 
