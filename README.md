@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80238** proxies at the latest update. Usable proxies are below.
+> Scraper found **80255** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38642|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38659|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40289|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|122.52.32.86|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|8|103.159.249.145|8080|India|Kurnool|Dvr Broadband Services|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|12|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|13|103.61.17.22|8080|Indonesia|Caringin|TWINSDATAPRATAMA|
-|14|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|17|91.142.79.166|8080|Russia|Moscow|Cloud assets LLC|
-|18|103.122.65.11|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
-|19|89.248.164.155|443|The Netherlands|Amsterdam|IP Volume inc|
-|20|103.163.13.36|1111|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|2|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|103.158.121.245|7777|Indonesia|Jatibarang|CDN|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|154.19.38.123|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|45.204.208.22|60002|Hong Kong|Hong Kong|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|
+|14|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|16|103.61.17.22|8080|Indonesia|Caringin|TWINSDATAPRATAMA|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|19|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|20|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
 
 
 
