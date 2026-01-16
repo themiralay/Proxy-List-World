@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|14|164.138.205.10|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|15|115.147.39.121|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|14.103.9.129|7890|China|Beijing|BITNET|
-|17|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|103.181.255.156|8080|Indonesia|Jepara|PT Giga Digital Nusantara|
+|14|115.147.39.121|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|17|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|103.158.242.62|83|India|Vempalli|Willaegis Online Private Limited|
+|20|49.148.51.169|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 
 
 
