@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|178.128.195.31|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|9|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|157.10.88.117|8080|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
-|18|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|180.191.23.95|8081|Philippines|Cabanatuan City|Globe Telecom|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|192.145.31.160|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|9|108.137.1.116|8880|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|13.115.193.75|9181|Japan|Tokyo|Amazon Technologies Inc|
+|16|178.128.195.31|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|192.145.31.160|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|19|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|20|95.84.164.92|8998|Russia|Moscow|NCNET|
 
 
 
