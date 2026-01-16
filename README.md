@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|6|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|103.172.120.102|8097|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|157.175.147.228|10011|Bahrain|Manama|Amazon.com, Inc.|
-|13|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|14|178.128.195.31|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|16|192.145.31.78|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|17|160.238.122.200|8080|Lebanon|Beirut|Data Plus SARL|
-|18|192.145.31.160|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|19|192.145.31.160|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|20|176.236.227.98|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|20|203.76.120.118|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
