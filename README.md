@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|6|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|12|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|15|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|18|43.208.16.9|9992|Thailand|Bangkok|Amazon.com, Inc.|
-|19|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|4|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|5|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|10|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|11|45.4.0.59|999|Chile|San José de Tango|Tlink SPA|
+|12|103.179.218.7|8080|Indonesia|Ciruas|WIMATE|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|43.208.16.9|9992|Thailand|Bangkok|Amazon.com, Inc.|
+|15|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|16|222.228.171.92|8080|Japan|Futako|ARTERIA Networks Corporation|
+|17|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|162.240.154.26|3128|United States|Provo|Unified Layer|
+|19|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|20|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
 
 
 
