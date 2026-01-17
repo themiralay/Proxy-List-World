@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.198.57.191|80|Japan|Tokyo|Amazon Technologies Inc.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.54.183.241|80|India|Navi Mumbai|Cnergee Cloud Technology Solutions LLP|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
