@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|15|203.142.74.115|8080|Indonesia|Jakarta|BIZNET|
-|16|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|18|92.180.22.224|8081|Romania|Turda|Orange Romania Network|
-|19|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|20|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|190.60.61.42|8080|Colombia|Prado-Sevilla|IFX NETWORKS COLOMBIA|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|36.88.141.105|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
