@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |6|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|7|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
-|8|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|11|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
-|12|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
-|17|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|20|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|7|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|8|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|16|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|19|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
+|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
