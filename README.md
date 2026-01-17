@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80177** proxies at the latest update. Usable proxies are below.
+> Scraper found **80214** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38589|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38616|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|63|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40335|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
-|3|222.228.171.92|8080|Japan|Futako|ARTERIA Networks Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |9|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|14|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|16|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|112.198.18.206|8080|Philippines|Taguig|Globe Telecom|
-|19|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|14|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|20|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
 
 
 
