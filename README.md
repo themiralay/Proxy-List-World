@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|119.92.75.252|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
-|16|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|20|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|43.208.16.9|9992|Thailand|Bangkok|Amazon.com, Inc.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|17|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|18|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|19|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|20|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
 
 
 
