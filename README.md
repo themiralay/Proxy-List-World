@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
 |13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|103.54.183.169|80|India|Navi Mumbai|Cnergee Cloud Technology Solutions LLP|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|18|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|17|160.19.18.77|8888|Indonesia|Sumedang|PT Indo Telemedia Solusi|
+|18|38.211.76.201|999|Colombia|Garzón|Fibernet TV SAS|
+|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|20|103.54.183.169|80|India|Navi Mumbai|Cnergee Cloud Technology Solutions LLP|
 
 
 
