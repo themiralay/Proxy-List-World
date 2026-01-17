@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|7|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+
 
 
 ## Contributing
