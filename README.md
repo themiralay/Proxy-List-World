@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|107.174.214.47|80|United States|Los Angeles|HostPapa|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|5|107.174.214.47|80|United States|Los Angeles|HostPapa|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|107.174.214.47|80|United States|Los Angeles|HostPapa|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|78.12.223.246|2724|Mexico|Querétaro City|Amazon.com|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|3.129.44.244|80|United States|Dublin|Amazon.com, Inc.|
+|10|107.174.214.47|80|United States|Los Angeles|HostPapa|
+|11|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|3.129.44.244|80|United States|Dublin|Amazon.com, Inc.|
+|19|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|68.183.74.46|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
