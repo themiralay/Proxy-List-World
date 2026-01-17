@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|15|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|16|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|17|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|12|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|13|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|14|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|15|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
+|18|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
