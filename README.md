@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|120.28.216.101|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|18|201.77.111.112|999|Mexico|Nuevo Casas Grandes|Nidix Networks S.a. De C.V.|
-|19|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
-|20|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
