@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|6|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
-|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|34.56.128.52|80|United States|Council Bluffs|Google LLC|
+|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|6|172.236.130.43|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 |18|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
 |19|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
