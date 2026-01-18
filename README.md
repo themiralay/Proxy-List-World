@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|177.12.91.194|999|Chile|San Carlos|AKY TELECOM SPA|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|202.58.73.246|1111|Indonesia|Kediri|PT Data Buana Nusantara|
-|12|124.6.164.126|8082|Philippines|Lahug|INNOVE|
-|13|190.61.40.165|999|Colombia|Prado-Sevilla|Ufinet Panama S.A.|
-|14|177.234.240.124|1993|Ecuador|Tambo|Ufinet Panama S.A.|
-|15|192.145.31.160|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|16|160.25.196.44|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
-|17|179.60.53.26|999|Ecuador|Cuenca|Stealth Telecom del Ecuador|
-|18|190.97.234.21|999|Venezuela|La Villa del Rosario|Viginet C.A|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|10|46.36.123.60|81|Armenia|Yerevan|LikeNet LLC|
+|11|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
+|12|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|13|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|101.255.122.82|8090|Indonesia|Jakarta|PT Remala Abadi|
+|16|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
+|18|102.210.106.1|82|Kenya|Kisumu|MCN KISUMU|
+|19|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
 |20|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
 
 
