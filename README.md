@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.208.100.74|7777|Indonesia|Mungkid|PT Tidar Lintas Nusa|
+|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 |13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|16|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|17|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|104.129.203.245|11522|United States|San Jose|ZSCALER, INC.|
+|14|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|18|139.255.74.124|8080|Indonesia|Karet Semanggi|PT. LINKNET|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
