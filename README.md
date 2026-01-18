@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|103.153.134.27|8090|Indonesia|Cikupa|WMINET|
 |6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|104.129.203.247|10541|United States|San Jose|ZSCALER, INC.|
-|17|104.129.203.247|10541|United States|San Jose|ZSCALER, INC.|
-|18|116.80.92.22|3172|Japan|Yokohama|InfoSphere|
-|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|20|123.200.9.254|4126|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|12|103.148.62.1|8080|India|Thāne|Rae Internet Service Provider Private Limited|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|116.80.92.22|3172|Japan|Yokohama|InfoSphere|
+|15|43.248.13.30|8182|Pakistan|Model Town|Ebone Network (PVT.) Limited|
+|16|123.200.9.254|4126|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|200.188.112.140|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
 
 
 
