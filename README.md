@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
 |8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|5.58.7.214|8080|Ukraine|Ternopil|Columbus|
-|12|41.139.234.127|8080|Kenya|Nairobi|Safaricom Limited|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|72.10.160.90|9503|Canada|Montreal|GloboTech Communications|
-|18|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|19|111.90.143.197|60808|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|20|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|123.24.206.123|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
