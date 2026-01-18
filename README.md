@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|80.93.187.238|80|Russia|St Petersburg|JSC Selectel|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
-|18|67.43.228.251|33081|Canada|Montreal|GloboTech Communications|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|15|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|16|181.78.202.28|8080|Ecuador|Quito|Ufinet Panama S.A.|
+|17|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
+|18|104.129.203.247|11123|United States|San Jose|ZSCALER, INC.|
 |19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|104.129.203.247|11483|United States|San Jose|ZSCALER, INC.|
+|20|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
 
 
 
