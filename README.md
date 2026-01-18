@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|34.56.128.52|80|United States|Council Bluffs|Google LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|34.56.128.52|80|United States|Council Bluffs|Google LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|7|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
-|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|157.20.244.77|8080|Indonesia|Tulungagung|PT.Global Media Data Prima|
-|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.247.23.28|9223|Indonesia|Purbalingga|PT wifian Solution|
-|20|41.65.55.10|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|6|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|34.56.128.52|80|United States|Council Bluffs|Google LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|17|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|18|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
+|19|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|20|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
