@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|10|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|11|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|181.78.202.28|8080|Ecuador|Quito|Ufinet Panama S.A.|
-|14|178.22.31.205|1082|Austria|Judenburg|Global Connectivity Solutions LLP|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|19|104.129.203.247|10002|United States|San Jose|ZSCALER, INC.|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
+|17|24.123.120.100|4228|United States|La Mirada|Spectrum|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|104.129.203.247|10001|United States|San Jose|ZSCALER, INC.|
+|20|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
 
 
 
