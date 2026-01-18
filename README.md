@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|104.129.203.247|10084|United States|San Jose|ZSCALER, INC.|
+|17|104.129.203.247|10084|United States|San Jose|ZSCALER, INC.|
+|18|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|104.129.203.247|10084|United States|San Jose|ZSCALER, INC.|
+|20|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+
 
 
 ## Contributing
