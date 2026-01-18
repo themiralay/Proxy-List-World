@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|202.179.13.161|443|Mongolia|Ulan Bator|Mongolia Telecom|
-|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|15|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
-|16|104.129.203.247|10414|United States|San Jose|ZSCALER, INC.|
-|17|103.162.221.162|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|18|202.133.66.196|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|19|104.129.203.245|10509|United States|San Jose|ZSCALER, INC.|
-|20|190.8.164.245|999|Venezuela|Porlamar|CORPORACION FIBEX TELECOM, C.A.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|103.163.80.70|8090|Indonesia|Madiun|PT Data Arta Sedaya|
+|15|102.218.40.67|8082|South Africa|Newcastle|Net01|
+|16|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|17|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|178.128.195.31|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
+|20|104.129.203.247|10139|United States|San Jose|ZSCALER, INC.|
 
 
 
