@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|192.145.31.160|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|15|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|20|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|162.223.89.83|3128|United States|Buffalo|ColoUp|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|181.204.104.245|999|Colombia|Barranquilla|Colombia Móvil|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|82.214.86.82|8080|Serbia|Belgrade|AKTON|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|162.223.89.83|3128|United States|Buffalo|ColoUp|
+|19|38.147.75.254|999|Venezuela|La Concepción|NAVEGANTE NETWORK, C.A.|
+|20|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
