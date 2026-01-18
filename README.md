@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|7|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|10|46.36.123.60|81|Armenia|Yerevan|LikeNet LLC|
-|11|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|104.129.203.247|11546|United States|San Jose|ZSCALER, INC.|
+|7|103.168.44.212|49151|Indonesia|Jakarta|PT CYB Media Group|
+|8|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|9|104.129.203.247|11546|United States|San Jose|ZSCALER, INC.|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|104.129.203.247|11546|United States|San Jose|ZSCALER, INC.|
 |12|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|13|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|101.255.122.82|8090|Indonesia|Jakarta|PT Remala Abadi|
-|16|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
-|18|102.210.106.1|82|Kenya|Kisumu|MCN KISUMU|
-|19|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
-|20|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
+|13|104.129.203.247|11546|United States|San Jose|ZSCALER, INC.|
+|14|177.234.211.63|999|Ecuador|Naranjito|VUELATECHNOLOGY|
+|15|104.129.203.247|11546|United States|San Jose|ZSCALER, INC.|
+|16|77.242.21.133|8080|Albania|Tirana|Business Custommers|
+|17|104.129.203.247|11546|United States|San Jose|ZSCALER, INC.|
+|18|104.129.203.245|11522|United States|San Jose|ZSCALER, INC.|
+|19|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
