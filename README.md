@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|104.129.203.245|10084|United States|San Jose|ZSCALER, INC.|
-|17|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|18|104.129.203.247|11123|United States|San Jose|ZSCALER, INC.|
-|19|104.129.203.245|10084|United States|San Jose|ZSCALER, INC.|
-|20|104.129.203.245|10084|United States|San Jose|ZSCALER, INC.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
