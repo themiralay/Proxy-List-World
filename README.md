@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
 |13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|16|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|17|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|20|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
+|14|66.211.155.34|8080|United States|Portland|FirstLight Fiber|
+|15|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|104.129.203.247|12000|United States|San Jose|ZSCALER, INC.|
+|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|19|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
+|20|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
 
 
 
