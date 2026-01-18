@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|178.22.31.205|1082|Austria|Judenburg|Global Connectivity Solutions LLP|
-|13|35.172.109.143|80|United States|Ashburn|Amazon.com, Inc.|
-|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|18|104.129.203.247|11522|United States|San Jose|ZSCALER, INC.|
-|19|104.129.203.245|10001|United States|San Jose|ZSCALER, INC.|
-|20|104.129.203.247|11522|United States|San Jose|ZSCALER, INC.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
