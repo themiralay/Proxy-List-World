@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|3|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|6|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|11|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|103.101.193.38|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|45.229.30.174|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|100.48.28.177|80|United States|Ashburn|Amazon.com, Inc.|
+|18|178.22.31.205|1082|Austria|Judenburg|Global Connectivity Solutions LLP|
+|19|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|20|34.56.128.52|80|United States|Council Bluffs|Google LLC|
 
 
 
