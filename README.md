@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|157.10.97.239|8096|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|202.152.142.99|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|18|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|19|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
-|20|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|19|103.48.71.166|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|202.152.142.99|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
 
 
 
