@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
+|11|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|67.43.236.18|3511|Canada|Montreal|GloboTech Communications|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|147.75.34.105|443|The Netherlands|IJmuiden|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|19|34.56.128.52|80|United States|Council Bluffs|Google LLC|
+|20|104.129.203.247|11123|United States|San Jose|ZSCALER, INC.|
+
 
 
 ## Contributing
