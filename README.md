@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
-|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|5|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|113.11.35.242|36909|Bangladesh|Dhaka|BDCOM Online Limited|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|43.217.141.124|36907|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|15|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|16|89.43.132.247|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|18|181.115.65.194|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|8|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|9|38.156.13.77|999|Colombia|Bogotá|Web Master Colombia|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
+|12|178.22.31.205|1082|Austria|Judenburg|Global Connectivity Solutions LLP|
+|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|17|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|20|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
 
 
 
