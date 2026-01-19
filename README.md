@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|8|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|9|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|190.104.134.145|3128|Paraguay|Asunción|Núcleo S.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|20|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
