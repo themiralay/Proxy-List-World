@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|172.236.130.43|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|9|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|12|157.254.37.238|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|17|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|103.171.240.77|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|20|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|11|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|45.4.202.146|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
