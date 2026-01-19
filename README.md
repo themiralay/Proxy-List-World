@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80702** proxies at the latest update. Usable proxies are below.
+> Scraper found **80699** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38739|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38736|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40711|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|5|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|6|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 |8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|15|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|13|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.247.22.84|8080|Indonesia|Purbalingga|PT wifian Solution|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|190.60.52.179|999|Colombia|Buenavista|IFX NETWORKS COLOMBIA|
+|18|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
