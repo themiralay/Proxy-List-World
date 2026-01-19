@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|192.99.62.192|8888|Canada|Montreal|OVH SAS|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|163.5.128.84|14270|United States|Brooklyn|Windstream Communications LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|104.251.81.87|14270|United States|San Jose|Frontier Communications of America, Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|103.193.145.137|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
