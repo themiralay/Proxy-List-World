@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80393** proxies at the latest update. Usable proxies are below.
+> Scraper found **80420** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38619|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38646|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40530|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|201.77.110.129|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|14|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|15|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
-|16|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|17|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|20|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|3|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|7|113.11.35.242|36909|Bangladesh|Dhaka|BDCOM Online Limited|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|13|46.185.34.136|8187|Ukraine|Poltava|Kyivstar UA|
+|14|120.28.199.66|8085|Philippines|Davao City|Globe Telecom|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|17|103.122.1.113|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|18|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|20|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
 
 
 
