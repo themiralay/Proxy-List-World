@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|103.120.76.82|8080|Indonesia|Kabupaten Tangerang|PT Haci Telekomunikasi Indonesia|
-|9|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|10|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|11|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
-|13|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|14|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
-|17|27.147.130.98|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|104.129.203.247|11383|United States|San Jose|ZSCALER, INC.|
-|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|7|113.11.64.137|9107|Bangladesh|Dhanmondi|BDCOM Online Limited|
+|8|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
+|13|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
+|15|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|104.129.203.247|10919|United States|San Jose|ZSCALER, INC.|
+|18|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
+|19|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
+|20|43.248.13.30|8182|Pakistan|Model Town|Ebone Network (PVT.) Limited|
 
 
 
