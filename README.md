@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|160.187.174.82|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|38.194.246.34|999|Mexico|León|Cogent Communications|
-|12|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|14|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
-|15|43.250.9.46|10088|Hong Kong|San Po Kong|SunnyVision Limited|
-|16|5.58.7.214|8080|Ukraine|Ternopil|Columbus|
-|17|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|18|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|19|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.190.78.20|999|Mexico|Zapopan|Meta Networks SA De CV|
+|8|162.240.154.26|3128|United States|Provo|Unified Layer|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|11|170.84.147.206|8087|Brazil|Tutóia|Direct Telecom Ltda|
+|12|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|13|188.132.222.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|152.70.84.108|8080|Japan|Osaka|Oracle Corporation|
+|15|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|16|103.133.27.11|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
+|17|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|18|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|20|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
