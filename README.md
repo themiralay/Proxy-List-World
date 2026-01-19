@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
-|5|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|3|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|4|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
-|17|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|8|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|9|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
+|12|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
+|13|34.56.128.52|80|United States|Council Bluffs|Google LLC|
+|14|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|17|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
