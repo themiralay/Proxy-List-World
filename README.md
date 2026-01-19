@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|192.99.62.192|8888|Canada|Montreal|OVH SAS|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|15|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|16|62.193.108.134|1976|Egypt|Cairo|Etisalat|
-|17|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
-|18|116.80.48.163|3172|Japan|Yokohama|InfoSphere|
-|19|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
-|20|116.80.48.211|3172|Japan|Yokohama|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
+|10|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
+|13|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|14|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|5.58.7.214|8080|Ukraine|Ternopil|Columbus|
+|19|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|20|187.190.127.212|80|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 
 
 
