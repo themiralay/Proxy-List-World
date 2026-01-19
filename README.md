@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|41.139.234.127|8080|Kenya|Nairobi|Safaricom Limited|
-|13|209.14.98.6|8080|Colombia|Mutatá|Cogent Communications|
-|14|103.156.16.105|8818|Indonesia|Indramayu|RSTNET|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|104.129.203.245|80|United States|San Jose|ZSCALER, INC.|
-|17|160.191.130.131|8080|Indonesia|Kebumen|PT Jaringan Lintas Maritim|
-|18|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|103.60.137.9|8080|India|Chennai|Velocity Internet India Private Ltd|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|8|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|9|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|10|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|31.133.32.102|3128|Russia|Rostov-on-Don|S.U.E. DPR Republic Operator of Networks|
+|13|162.240.154.26|3128|United States|Provo|Unified Layer|
+|14|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|15|5.58.7.214|8080|Ukraine|Ternopil|Columbus|
+|16|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|177.93.50.222|9992|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|19|209.14.98.6|8080|Colombia|Mutatá|Cogent Communications|
+|20|103.120.76.82|8080|Indonesia|Kabupaten Tangerang|PT Haci Telekomunikasi Indonesia|
 
 
 
