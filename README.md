@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|162.240.154.26|3128|United States|Provo|Unified Layer|
-|7|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|10|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|11|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|12|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|17|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|18|104.129.203.245|18080|United States|San Jose|ZSCALER, INC.|
-|19|104.129.203.247|12345|United States|San Jose|ZSCALER, INC.|
-|20|104.129.203.247|12345|United States|San Jose|ZSCALER, INC.|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|10|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|11|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|12|177.93.50.222|9992|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|13|45.190.78.20|999|Mexico|Zapopan|Meta Networks SA De CV|
+|14|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|15|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
+|16|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
+|17|191.103.219.225|48612|Colombia|Tolú|EPM Telecomunicaciones S.A. E.S.P.|
+|18|192.99.62.192|8888|Canada|Montreal|OVH SAS|
+|19|46.161.194.134|1718|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|20|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
 
 
 
