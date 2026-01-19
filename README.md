@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|43.217.141.124|36907|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|5|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|6|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|34.56.128.52|80|United States|Council Bluffs|Google LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |11|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|12|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|116.80.48.163|3172|Japan|Yokohama|InfoSphere|
-|19|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|20|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|12|43.217.141.124|36907|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|20|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
 
 
 
