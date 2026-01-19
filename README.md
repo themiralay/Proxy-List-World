@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|102.134.49.165|6005|Japan|Tokyo|SUN Network Company|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|113.11.35.242|36909|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|194.87.45.62|8888|Spain|Madrid|GCS SER|
-|17|78.12.143.148|20000|Mexico|Querétaro City|Amazon.com|
-|18|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|19|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|201.77.110.129|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|14|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|15|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
+|16|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|17|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|20|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
 
 
 
