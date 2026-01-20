@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|51.81.6.158|3128|United States|Reston|OVH SAS|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |7|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|209.14.98.6|8080|Colombia|Mutatá|Cogent Communications|
-|15|186.96.109.210|999|Colombia|Subachoque|TV AZTECA SUCURSAL COLOMBIA|
-|16|223.206.32.176|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|17|81.200.149.203|8725|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|19|109.207.241.93|3130|Uzbekistan|Chust|Modern store group LLC|
-|20|72.10.160.173|9775|Canada|Montreal|GloboTech Communications|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|151.242.116.67|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|104.129.203.247|10093|United States|San Jose|ZSCALER, INC.|
+|13|104.129.203.247|10093|United States|San Jose|ZSCALER, INC.|
+|14|104.129.203.247|10093|United States|San Jose|ZSCALER, INC.|
+|15|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|16|72.10.160.173|9775|Canada|Montreal|GloboTech Communications|
+|17|168.194.64.219|3128|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|18|116.80.92.22|3172|Japan|Yokohama|InfoSphere|
+|19|104.129.203.247|10093|United States|San Jose|ZSCALER, INC.|
+|20|157.20.252.15|8833|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
 
 
 
