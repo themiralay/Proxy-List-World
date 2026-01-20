@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|202.62.75.241|83|India|Hyderabad|CityOnline Services|
-|8|24.123.120.100|4228|United States|La Mirada|Spectrum|
-|9|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|104.129.203.245|10018|United States|San Jose|ZSCALER, INC.|
-|12|104.129.203.245|10018|United States|San Jose|ZSCALER, INC.|
-|13|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|104.129.203.247|11401|United States|San Jose|ZSCALER, INC.|
-|15|104.129.203.245|10018|United States|San Jose|ZSCALER, INC.|
-|16|104.129.203.245|10018|United States|San Jose|ZSCALER, INC.|
-|17|212.108.115.59|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|20|116.80.92.22|3172|Japan|Yokohama|InfoSphere|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|46.161.194.134|1718|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|5|51.81.6.158|3128|United States|Reston|OVH SAS|
+|6|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|7|115.147.165.114|8082|Philippines|De la Paz|Philippine Long Distance Telephone Co.|
+|8|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|10|177.234.217.84|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|104.129.203.245|10626|United States|San Jose|ZSCALER, INC.|
+|12|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|104.129.203.245|10626|United States|San Jose|ZSCALER, INC.|
+|14|104.129.203.245|10626|United States|San Jose|ZSCALER, INC.|
+|15|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|16|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|17|201.220.112.98|999|Chile|Temuco|Telefonica del Sur S.A.|
+|18|116.80.92.22|3172|Japan|Yokohama|InfoSphere|
+|19|168.194.64.219|3128|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
