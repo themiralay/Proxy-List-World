@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80999** proxies at the latest update. Usable proxies are below.
+> Scraper found **81127** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38744|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38929|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|240|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|183|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40815|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|1|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|94.184.25.71|240|Iran|Tehran|Cloudinow|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|94.184.25.26|242|Iran|Tehran|Cloudinow|
-|14|94.184.25.32|241|Iran|Tehran|Cloudinow|
-|15|94.184.25.17|242|Iran|Tehran|Cloudinow|
-|16|94.184.25.27|241|Iran|Tehran|Cloudinow|
-|17|94.184.25.69|240|Iran|Tehran|Cloudinow|
-|18|94.184.25.68|241|Iran|Tehran|Cloudinow|
-|19|94.184.25.62|240|Iran|Tehran|Cloudinow|
-|20|94.184.25.36|240|Iran|Tehran|Cloudinow|
+|6|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|94.184.25.23|242|Iran|Tehran|Cloudinow|
+|12|94.184.25.71|240|Iran|Tehran|Cloudinow|
+|13|94.184.25.61|240|Iran|Tehran|Cloudinow|
+|14|94.184.25.54|242|Iran|Tehran|Cloudinow|
+|15|94.184.25.73|240|Iran|Tehran|Cloudinow|
+|16|94.184.25.59|240|Iran|Tehran|Cloudinow|
+|17|94.184.25.33|241|Iran|Tehran|Cloudinow|
+|18|94.184.25.15|242|Iran|Tehran|Cloudinow|
+|19|94.184.25.17|240|Iran|Tehran|Cloudinow|
+|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 
 
 
