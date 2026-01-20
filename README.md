@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|203.190.46.31|8080|Indonesia|Pandak|PT Jaring Lintas Utara|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|94.184.25.73|241|Iran|Tehran|Cloudinow|
-|8|94.184.25.54|242|Iran|Tehran|Cloudinow|
-|9|94.184.25.68|243|Iran|Tehran|Cloudinow|
-|10|94.184.25.14|242|Iran|Tehran|Cloudinow|
-|11|94.184.25.53|242|Iran|Tehran|Cloudinow|
-|12|94.184.25.74|241|Iran|Tehran|Cloudinow|
-|13|94.184.25.43|242|Iran|Tehran|Cloudinow|
-|14|94.184.25.27|241|Iran|Tehran|Cloudinow|
-|15|94.184.25.19|242|Iran|Tehran|Cloudinow|
-|16|94.184.25.56|240|Iran|Tehran|Cloudinow|
-|17|94.184.25.15|242|Iran|Tehran|Cloudinow|
-|18|94.184.25.71|242|Iran|Tehran|Cloudinow|
-|19|94.184.25.66|242|Iran|Tehran|Cloudinow|
-|20|94.184.25.29|242|Iran|Tehran|Cloudinow|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.150.128.183|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|94.184.25.30|242|Iran|Tehran|Cloudinow|
+|7|94.184.25.27|241|Iran|Tehran|Cloudinow|
+|8|94.184.25.26|243|Iran|Tehran|Cloudinow|
+|9|94.184.25.19|242|Iran|Tehran|Cloudinow|
+|10|94.184.25.17|242|Iran|Tehran|Cloudinow|
+|11|94.184.25.21|242|Iran|Tehran|Cloudinow|
+|12|94.184.25.61|242|Iran|Tehran|Cloudinow|
+|13|94.184.25.65|242|Iran|Tehran|Cloudinow|
+|14|94.184.25.35|242|Iran|Tehran|Cloudinow|
+|15|94.184.25.25|240|Iran|Tehran|Cloudinow|
+|16|94.184.25.62|242|Iran|Tehran|Cloudinow|
+|17|94.184.25.74|241|Iran|Tehran|Cloudinow|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|94.184.25.20|242|Iran|Tehran|Cloudinow|
+|20|94.184.25.68|243|Iran|Tehran|Cloudinow|
 
 
 
