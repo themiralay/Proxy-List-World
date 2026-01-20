@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|103.9.158.100|3128|Vietnam|Ho Chi Minh City|Vnso Technology Company|
-|12|187.243.251.66|999|Mexico|Ahome|Mega Cable, S.A. de C.V.|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|94.184.25.16|242|Iran|Tehran|Cloudinow|
-|15|94.184.25.79|242|Iran|Tehran|Cloudinow|
-|16|94.184.25.69|240|Iran|Tehran|Cloudinow|
-|17|94.184.25.33|242|Iran|Tehran|Cloudinow|
-|18|94.184.25.74|241|Iran|Tehran|Cloudinow|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|103.9.158.100|3128|Vietnam|Ho Chi Minh City|Vnso Technology Company|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|94.184.25.61|242|Iran|Tehran|Cloudinow|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|94.184.25.64|241|Iran|Tehran|Cloudinow|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|94.184.25.58|242|Iran|Tehran|Cloudinow|
+|11|94.184.25.74|241|Iran|Tehran|Cloudinow|
+|12|59.153.16.92|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|94.184.25.65|240|Iran|Tehran|Cloudinow|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|94.184.25.15|240|Iran|Tehran|Cloudinow|
 
 
 
