@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|94.184.25.73|242|Iran|Tehran|Cloudinow|
-|6|94.184.25.21|242|Iran|Tehran|Cloudinow|
-|7|94.184.25.19|242|Iran|Tehran|Cloudinow|
-|8|94.184.25.70|242|Iran|Tehran|Cloudinow|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|94.184.25.62|242|Iran|Tehran|Cloudinow|
-|11|94.184.25.23|242|Iran|Tehran|Cloudinow|
-|12|94.184.25.54|240|Iran|Tehran|Cloudinow|
-|13|94.184.25.72|240|Iran|Tehran|Cloudinow|
-|14|94.184.25.24|242|Iran|Tehran|Cloudinow|
-|15|94.184.25.43|242|Iran|Tehran|Cloudinow|
-|16|94.184.25.60|242|Iran|Tehran|Cloudinow|
-|17|94.184.25.18|240|Iran|Tehran|Cloudinow|
-|18|94.184.25.30|242|Iran|Tehran|Cloudinow|
-|19|94.184.25.79|242|Iran|Tehran|Cloudinow|
-|20|94.184.25.53|242|Iran|Tehran|Cloudinow|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|94.184.25.68|240|Iran|Tehran|Cloudinow|
+|7|94.184.25.33|240|Iran|Tehran|Cloudinow|
+|8|94.184.25.72|240|Iran|Tehran|Cloudinow|
+|9|94.184.25.16|241|Iran|Tehran|Cloudinow|
+|10|94.184.25.29|243|Iran|Tehran|Cloudinow|
+|11|94.184.25.19|242|Iran|Tehran|Cloudinow|
+|12|94.184.25.34|240|Iran|Tehran|Cloudinow|
+|13|94.184.25.31|242|Iran|Tehran|Cloudinow|
+|14|94.184.25.53|242|Iran|Tehran|Cloudinow|
+|15|94.184.25.70|242|Iran|Tehran|Cloudinow|
+|16|94.184.25.27|242|Iran|Tehran|Cloudinow|
+|17|94.184.25.21|242|Iran|Tehran|Cloudinow|
+|18|94.184.25.71|242|Iran|Tehran|Cloudinow|
+|19|94.184.25.66|242|Iran|Tehran|Cloudinow|
+|20|94.184.25.62|242|Iran|Tehran|Cloudinow|
 
 
 
