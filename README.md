@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|9|85.117.61.74|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|10|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
-|11|103.124.139.196|8080|Indonesia|Kebumen Satu|Global Media Data Prima|
-|12|38.191.204.20|999|Colombia|Granada|Hola Telecomunicacines Colombia S.A.S|
-|13|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|14|104.129.203.245|10733|United States|San Jose|ZSCALER, INC.|
-|15|104.129.203.245|10733|United States|San Jose|ZSCALER, INC.|
-|16|104.129.203.245|10733|United States|San Jose|ZSCALER, INC.|
-|17|192.145.31.78|5678|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|18|104.129.203.245|10733|United States|San Jose|ZSCALER, INC.|
-|19|104.129.203.245|10733|United States|San Jose|ZSCALER, INC.|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|58.249.55.222|9797|China|Guangzhou|CNC Group CHINA169 Guangdong Province Network|
+|7|190.131.205.150|999|Colombia|Medellín|Liberty Networks De Colombia S.A.S|
+|8|104.129.203.247|443|United States|San Jose|ZSCALER, INC.|
+|9|104.129.203.247|443|United States|San Jose|ZSCALER, INC.|
+|10|104.129.203.245|10021|United States|San Jose|ZSCALER, INC.|
+|11|104.129.203.245|10021|United States|San Jose|ZSCALER, INC.|
+|12|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|13|104.129.203.245|10021|United States|San Jose|ZSCALER, INC.|
+|14|104.129.203.245|10021|United States|San Jose|ZSCALER, INC.|
+|15|104.129.203.245|10021|United States|San Jose|ZSCALER, INC.|
+|16|104.129.203.245|10021|United States|San Jose|ZSCALER, INC.|
+|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|18|104.129.203.245|10021|United States|San Jose|ZSCALER, INC.|
+|19|104.129.203.247|443|United States|San Jose|ZSCALER, INC.|
+|20|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
 
 
 
