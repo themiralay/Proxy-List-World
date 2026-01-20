@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|188.166.250.137|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|11|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|17|38.191.203.60|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|71.14.23.121|8080|United States|Auburn|Spectrum|
-|19|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|85.236.191.180|1080|Russia|Samara|Tahion ISP|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|188.166.250.137|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|16|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|163.5.128.56|14270|United States|Brooklyn|Windstream Communications LLC|
+|19|139.255.94.122|39635|Indonesia|Karet Semanggi|PT. LINKNET|
+|20|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
