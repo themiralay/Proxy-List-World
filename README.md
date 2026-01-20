@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|94.184.25.29|243|Iran|Tehran|Cloudinow|
-|12|94.184.25.27|242|Iran|Tehran|Cloudinow|
-|13|94.184.25.53|241|Iran|Tehran|Cloudinow|
-|14|94.184.25.61|242|Iran|Tehran|Cloudinow|
-|15|94.184.25.64|241|Iran|Tehran|Cloudinow|
-|16|94.184.25.15|241|Iran|Tehran|Cloudinow|
-|17|94.184.25.30|242|Iran|Tehran|Cloudinow|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|94.184.25.73|243|Iran|Tehran|Cloudinow|
-|20|94.184.25.22|241|Iran|Tehran|Cloudinow|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|94.184.25.79|242|Iran|Tehran|Cloudinow|
+|10|94.184.25.61|240|Iran|Tehran|Cloudinow|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|94.184.25.16|242|Iran|Tehran|Cloudinow|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|94.184.25.31|241|Iran|Tehran|Cloudinow|
+|15|94.184.25.17|242|Iran|Tehran|Cloudinow|
+|16|94.184.25.43|242|Iran|Tehran|Cloudinow|
+|17|94.184.25.30|243|Iran|Tehran|Cloudinow|
+|18|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|19|192.145.31.160|4145|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
