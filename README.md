@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80750** proxies at the latest update. Usable proxies are below.
+> Scraper found **80647** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38732|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38629|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40720|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|6|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|7|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|104.129.203.245|11211|United States|San Jose|ZSCALER, INC.|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|188.166.250.137|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|168.194.64.219|3128|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|15|200.24.138.73|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|17|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
-|18|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|19|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|9|103.80.98.31|7777|Indonesia|Purwodadi Grobogan|Advertise via PT Menaksopal|
+|10|188.129.255.58|8080|Georgia|Tbilisi|Caucasus Online LLC|
+|11|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|13|177.130.104.106|33333|Brazil|Presidente Bernardes|Vero S.A|
+|14|116.80.48.164|3172|Japan|Yokohama|InfoSphere|
+|15|181.129.185.130|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|16|116.80.48.162|3172|Japan|Yokohama|InfoSphere|
+|17|103.70.93.70|8989|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|18|104.129.203.247|10093|United States|San Jose|ZSCALER, INC.|
+|19|104.129.203.247|10093|United States|San Jose|ZSCALER, INC.|
+|20|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
 
 
 
