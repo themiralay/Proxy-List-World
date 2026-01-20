@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|525|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|525|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|525|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|94.184.25.23|241|Iran|Tehran|Cloudinow|
-|13|94.184.25.14|241|Iran|Tehran|Cloudinow|
-|14|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|15|94.184.25.64|241|Iran|Tehran|Cloudinow|
-|16|94.184.25.17|242|Iran|Tehran|Cloudinow|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|94.184.25.61|240|Iran|Tehran|Cloudinow|
-|19|94.184.25.26|243|Iran|Tehran|Cloudinow|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|94.184.25.71|240|Iran|Tehran|Cloudinow|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|94.184.25.26|242|Iran|Tehran|Cloudinow|
+|14|94.184.25.32|241|Iran|Tehran|Cloudinow|
+|15|94.184.25.17|242|Iran|Tehran|Cloudinow|
+|16|94.184.25.27|241|Iran|Tehran|Cloudinow|
+|17|94.184.25.69|240|Iran|Tehran|Cloudinow|
+|18|94.184.25.68|241|Iran|Tehran|Cloudinow|
+|19|94.184.25.62|240|Iran|Tehran|Cloudinow|
 |20|94.184.25.36|240|Iran|Tehran|Cloudinow|
 
 
