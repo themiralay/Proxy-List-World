@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.48.68.126|82|India|Hyderabad|Country Online Services PVT LTD|
-|9|46.161.194.134|1718|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|10|163.5.128.11|14270|United States|Brooklyn|Windstream Communications LLC|
-|11|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|12|116.80.48.162|3172|Japan|Yokohama|InfoSphere|
-|13|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|14|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|15|46.161.194.134|1718|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|16|104.129.203.247|11178|United States|San Jose|ZSCALER, INC.|
-|17|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
-|18|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|8|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|9|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
+|10|116.80.48.162|3172|Japan|Yokohama|InfoSphere|
+|11|222.209.184.122|1087|China|Chengdu|Chinanet|
+|12|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|13|192.145.31.78|1080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|14|104.129.203.245|10021|United States|San Jose|ZSCALER, INC.|
+|15|120.28.199.66|8085|Philippines|Davao City|Globe Telecom|
+|16|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
+|17|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|18|180.180.218.250|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
+|20|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
 
 
 
