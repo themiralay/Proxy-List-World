@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|188.166.250.137|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|45.94.72.13|8080|Ireland|Kilrane|Carnsore Broadband Limited|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|94.184.25.15|242|Iran|Tehran|Cloudinow|
+|9|94.184.25.35|242|Iran|Tehran|Cloudinow|
+|10|94.184.25.60|242|Iran|Tehran|Cloudinow|
+|11|94.184.25.28|242|Iran|Tehran|Cloudinow|
+|12|94.184.25.71|242|Iran|Tehran|Cloudinow|
+|13|94.184.25.29|242|Iran|Tehran|Cloudinow|
+|14|94.184.25.34|240|Iran|Tehran|Cloudinow|
+|15|94.184.25.16|240|Iran|Tehran|Cloudinow|
+|16|94.184.25.64|240|Iran|Tehran|Cloudinow|
+|17|94.184.25.74|241|Iran|Tehran|Cloudinow|
+|18|94.184.25.26|243|Iran|Tehran|Cloudinow|
+|19|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|20|94.184.25.18|240|Iran|Tehran|Cloudinow|
 
 
 
