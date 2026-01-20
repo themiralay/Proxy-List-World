@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80675** proxies at the latest update. Usable proxies are below.
+> Scraper found **41894** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38781|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40596|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|8|24.172.82.94|53281|United States|Indian Trail|Spectrum|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|13|49.151.178.41|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
-|14|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|15|181.48.39.89|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|16|181.209.72.170|999|Argentina|Empedrado|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|103.171.83.179|1111|Indonesia|Bekasi|PT Multi Network Indonesia|
-|19|116.80.48.163|3172|Japan|Yokohama|InfoSphere|
-|20|104.129.203.247|11483|United States|San Jose|ZSCALER, INC.|
+|6|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|7|116.80.47.51|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.48.162|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.43.205|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.48.164|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.94.188|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
+|18|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
