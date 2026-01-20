@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|94.184.25.30|242|Iran|Tehran|Cloudinow|
+|8|94.184.25.34|240|Iran|Tehran|Cloudinow|
+|9|94.184.25.31|240|Iran|Tehran|Cloudinow|
+|10|94.184.25.25|240|Iran|Tehran|Cloudinow|
+|11|94.184.25.54|242|Iran|Tehran|Cloudinow|
+|12|94.184.25.27|241|Iran|Tehran|Cloudinow|
+|13|94.184.25.26|243|Iran|Tehran|Cloudinow|
+|14|94.184.25.60|242|Iran|Tehran|Cloudinow|
+|15|94.184.25.28|242|Iran|Tehran|Cloudinow|
+|16|94.184.25.14|242|Iran|Tehran|Cloudinow|
+|17|94.184.25.56|240|Iran|Tehran|Cloudinow|
+|18|94.184.25.15|242|Iran|Tehran|Cloudinow|
+|19|94.184.25.20|242|Iran|Tehran|Cloudinow|
+|20|94.184.25.72|240|Iran|Tehran|Cloudinow|
+
 
 
 ## Contributing
