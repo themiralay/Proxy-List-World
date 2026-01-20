@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|209.14.98.6|8080|Colombia|Mutatá|Cogent Communications|
-|5|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|6|123.24.206.123|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
-|8|24.172.82.94|53281|United States|Indian Trail|Spectrum|
-|9|115.127.176.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|10|103.193.145.185|8181|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|11|178.22.31.205|1082|Austria|Judenburg|Global Connectivity Solutions LLP|
-|12|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|13|38.211.76.201|999|Colombia|Garzón|Fibernet TV SAS|
-|14|223.159.210.130|7890|China|Qingyuan|Chinanet|
-|15|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|104.129.203.245|11640|United States|San Jose|ZSCALER, INC.|
-|17|103.133.63.182|8181|Indonesia|Metro|TLINK|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|109.120.151.87|443|Finland|Helsinki|Aeza International LTD|
-|20|104.129.203.245|11640|United States|San Jose|ZSCALER, INC.|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|46.161.194.134|1718|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|4|24.123.120.100|4228|United States|La Mirada|Spectrum|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|24.172.82.94|53281|United States|Indian Trail|Spectrum|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|103.193.145.185|8181|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|13|36.95.173.90|8899|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|14|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
+|15|104.129.203.245|11478|United States|San Jose|ZSCALER, INC.|
+|16|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
+|17|223.159.210.130|7890|China|Qingyuan|Chinanet|
+|18|104.129.203.245|11478|United States|San Jose|ZSCALER, INC.|
+|19|104.129.203.245|11478|United States|San Jose|ZSCALER, INC.|
+|20|104.129.203.245|11478|United States|San Jose|ZSCALER, INC.|
 
 
 
