@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|94.184.25.59|242|Iran|Tehran|Cloudinow|
-|6|94.184.25.35|242|Iran|Tehran|Cloudinow|
-|7|94.184.25.30|240|Iran|Tehran|Cloudinow|
-|8|94.184.25.60|241|Iran|Tehran|Cloudinow|
-|9|94.184.25.15|242|Iran|Tehran|Cloudinow|
-|10|94.184.25.65|242|Iran|Tehran|Cloudinow|
-|11|94.184.25.43|242|Iran|Tehran|Cloudinow|
-|12|94.184.25.17|242|Iran|Tehran|Cloudinow|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|94.184.25.53|242|Iran|Tehran|Cloudinow|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|94.184.25.20|242|Iran|Tehran|Cloudinow|
-|18|94.184.25.21|242|Iran|Tehran|Cloudinow|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|59.153.18.74|20909|Bangladesh|Patuakhali|EUROtelbd Online Ltd.|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|94.184.25.61|240|Iran|Tehran|Cloudinow|
+|10|94.184.25.14|241|Iran|Tehran|Cloudinow|
+|11|94.184.25.72|242|Iran|Tehran|Cloudinow|
+|12|94.184.25.20|242|Iran|Tehran|Cloudinow|
+|13|94.184.25.15|242|Iran|Tehran|Cloudinow|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|94.184.25.22|242|Iran|Tehran|Cloudinow|
+|16|94.184.25.60|241|Iran|Tehran|Cloudinow|
+|17|94.184.25.56|242|Iran|Tehran|Cloudinow|
+|18|188.127.225.130|1080|Russia|Moscow|LLC Smart Ape|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
