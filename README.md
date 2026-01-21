@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80630** proxies at the latest update. Usable proxies are below.
+> Scraper found **41884** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38746|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|119|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40565|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
-|13|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|14|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|87.251.87.90|21102|Germany|Frankfurt am Main|International Hosting Company Limited|
-|17|142.132.165.124|41234|Germany|Nuremberg|Hetzner Online GmbH|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|212.34.144.46|27000|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
+|9|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
+|10|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|14|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|17|5.129.225.191|2083|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|185.184.120.1|29320|Germany|Frankfurt am Main|International Hosting Company Limited|
+|19|77.233.212.4|57339|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
 
 
 
