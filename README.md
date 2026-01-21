@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|185.184.120.1|29320|Germany|Frankfurt am Main|International Hosting Company Limited|
-|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|109.122.198.252|64383|Germany|Frankfurt am Main|WAIcore Ltd|
-|18|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|19|72.56.72.19|37335|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|11|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|146.103.103.183|35854|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|14|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|45.59.187.85|8080|United States|Los Angeles|DMIT Cloud Services|
 
 
 
