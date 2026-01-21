@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80412** proxies at the latest update. Usable proxies are below.
+> Scraper found **80484** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38625|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38683|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40520|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
-|11|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|17|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|18|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|19|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|12|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|13|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|14|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|15|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
+|19|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
