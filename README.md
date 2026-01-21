@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|6|165.76.149.67|80|Japan|Chiyoda City|SoftBank Corp.|
-|7|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|34.56.128.52|80|United States|Council Bluffs|Google LLC|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|192.145.31.160|1080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|17|151.242.116.67|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|18|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
 |19|34.194.110.189|80|United States|Ashburn|Amazon.com, Inc.|
-|20|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
