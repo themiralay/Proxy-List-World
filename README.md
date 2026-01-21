@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|163.5.128.135|14270|United States|Brooklyn|Windstream Communications LLC|
+|11|149.104.27.37|443|Singapore|Singapore|Cogent Communications|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|16|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|17|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
