@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|204.199.140.16|999|Chile|Talca|Ingbell Chile SPA|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|149.104.27.37|443|Singapore|Singapore|Cogent Communications|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|149.104.27.37|443|Singapore|Singapore|Cogent Communications|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|18|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|19|190.2.214.137|9992|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
+|20|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
