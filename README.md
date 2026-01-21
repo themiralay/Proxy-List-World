@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
-|14|94.159.110.237|11173|Germany|Frankfurt am Main|H2nexus LTD|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
-|17|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|19|144.31.12.141|13377|Germany|Frankfurt am Main|Gleb Didenco|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
+|11|91.84.111.87|42436|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|13|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|144.31.12.141|13377|Germany|Frankfurt am Main|Gleb Didenco|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|192.145.30.146|45077|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|72.56.72.19|33408|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
