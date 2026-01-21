@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|36.67.208.60|32650|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |9|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|10|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|192.203.0.250|999|Puerto Rico|Comunas|Boom NET|
-|16|149.104.27.37|443|Singapore|Singapore|Cogent Communications|
-|17|110.159.123.225|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|147.75.34.105|443|The Netherlands|IJmuiden|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|16|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Vibe Provedor De Internet Ltda|
+|17|190.128.134.66|999|Paraguay|Villarrica|Telecel S.A.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
