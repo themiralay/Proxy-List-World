@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|7|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|45.119.113.81|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|20|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|9|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|16|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
