@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|6|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|9|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|10|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|77.233.212.4|57339|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|18|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|19|77.246.157.65|10808|Russia|Khimki|JSC IOT|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|12|193.25.216.12|21329|Sweden|Stockholm|Play2go International Limited|
+|13|87.251.87.90|21102|Germany|Frankfurt am Main|International Hosting Company Limited|
+|14|77.233.212.4|57339|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|17|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|18|77.246.157.65|10808|Russia|Khimki|JSC IOT|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
