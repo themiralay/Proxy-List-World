@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 |6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|14|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|15|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|5.129.225.191|2083|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|89.19.216.214|26777|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|8|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|9|170.9.224.115|3128|United States|Chicago|Oracle Corporation|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|95.85.243.141|10808|Estonia|Tallinn|OC NETWORKS LIMITED|
+|14|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|18|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|19|195.133.40.89|47829|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|192.145.30.146|45077|Sweden|Stockholm|Baykov Ilya Sergeevich|
 
 
 
