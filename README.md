@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|570|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|570|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|570|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|94.141.123.95|24610|Germany|Frankfurt am Main|WAIcore Ltd|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|62.60.216.158|23681|Germany|Frankfurt am Main|Hypercore Ltd|
-|15|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|16|212.34.144.102|48249|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|87.251.86.95|41588|Germany|Frankfurt am Main|International Hosting Company Limited|
-|18|144.31.12.141|13377|Germany|Frankfurt am Main|Gleb Didenco|
-|19|142.132.165.124|41234|Germany|Nuremberg|Hetzner Online GmbH|
-|20|88.99.26.79|5071|Germany|Falkenstein|Hetzner Online GmbH|
+|9|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
+|10|193.32.178.160|57329|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|11|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|12|89.110.64.221|42230|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|14|212.34.144.102|48249|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|87.251.86.95|41588|Germany|Frankfurt am Main|International Hosting Company Limited|
+|16|95.163.153.116|59688|Austria|Vienna|Aeza International LTD|
+|17|91.84.110.186|42045|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|142.132.165.124|41234|Germany|Nuremberg|Hetzner Online GmbH|
+|19|162.55.179.100|12161|Germany|Nuremberg|Hetzner Online GmbH|
+|20|62.60.247.143|31843|The Netherlands|Amsterdam|Hypercore Ltd|
 
 
 
