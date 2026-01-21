@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|5|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|13|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|14|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|103.168.44.212|49151|Indonesia|Jakarta|PT CYB Media Group|
+|9|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
+|12|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|16|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
+|19|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
