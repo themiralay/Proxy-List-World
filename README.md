@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 |11|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|17|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|14|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|18|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|19|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|20|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
