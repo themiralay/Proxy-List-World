@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|3.216.111.113|80|United States|Ashburn|Amazon Technologies Inc.|
-|20|170.106.169.126|3128|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
+|19|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
