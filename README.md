@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|13|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|16|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|17|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
-|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|20|38.52.209.229|999|Guatemala|Guatemala City|Central De Redes Y Comunicaciones De Guatemala S.A|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|12|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|15|130.185.122.199|8090|The Netherlands|Dronten|Arvancloud Global Technologies L.L.C|
+|16|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
+|17|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|18|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|19|201.218.150.4|999|Peru|Arequipa|M & B Soluciones Peru S.A.C.|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
