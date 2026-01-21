@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|584|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|584|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|584|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|565|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|565|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|565|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|193.32.178.160|57329|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|109.122.198.252|64383|Germany|Frankfurt am Main|WAIcore Ltd|
-|11|88.99.26.79|5071|Germany|Falkenstein|Hetzner Online GmbH|
-|12|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
-|13|94.141.123.95|24610|Germany|Frankfurt am Main|WAIcore Ltd|
-|14|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|162.55.234.22|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|17|94.228.161.125|4080|Germany|Frankfurt am Main|International Hosting Company Limited|
-|18|142.132.165.124|41234|Germany|Nuremberg|Hetzner Online GmbH|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|135.181.107.134|41241|Finland|Helsinki|Hetzner Online GmbH|
+|6|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|89.110.64.221|42230|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
+|16|94.141.123.95|24610|Germany|Frankfurt am Main|WAIcore Ltd|
+|17|45.131.187.241|54552|The Netherlands|Dronten|Anton Levin|
+|18|77.239.99.32|55166|Germany|Frankfurt am Main|International Hosting Company Limited|
+|19|162.55.234.22|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.56.72.19|37335|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
