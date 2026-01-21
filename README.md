@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|45.59.187.85|8080|United States|Los Angeles|DMIT Cloud Services|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|45.59.187.85|8080|United States|Los Angeles|DMIT Cloud Services|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|47.176.240.250|4228|United States|Rowland Heights|Frontier Communications of America, Inc.|
-|20|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|19|223.206.136.197|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
