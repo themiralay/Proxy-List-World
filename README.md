@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.48.162|3172|Japan|Yokohama|InfoSphere|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|116.80.48.162|3172|Japan|Yokohama|InfoSphere|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|149.104.27.37|443|Singapore|Singapore|Cogent Communications|
 
 
 
