@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|168.194.64.219|3128|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
-|13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|14|201.230.121.86|999|Peru|Cupisa|Telefonica Del Peru|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|103.154.52.5|1111|Indonesia|Majenang|WIFIKITA|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
