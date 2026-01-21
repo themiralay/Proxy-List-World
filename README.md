@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80633** proxies at the latest update. Usable proxies are below.
+> Scraper found **80652** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38832|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38851|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40520|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|87.251.86.95|41588|Germany|Frankfurt am Main|International Hosting Company Limited|
-|10|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|72.56.72.19|33408|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|89.110.100.11|37486|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|146.103.98.171|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|103.195.252.161|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
-|15|94.141.123.95|24610|Germany|Frankfurt am Main|WAIcore Ltd|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|45.131.187.241|54552|The Netherlands|Dronten|Anton Levin|
-|18|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
-|19|212.192.217.101|53891|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|89.111.140.35|10808|Russia|Moscow|JSC "RU-CENTER"|
+|8|62.60.216.158|23681|Germany|Frankfurt am Main|Hypercore Ltd|
+|9|146.103.98.171|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|91.84.111.87|42436|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|89.110.64.221|42230|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|94.141.123.95|24610|Germany|Frankfurt am Main|WAIcore Ltd|
+|13|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|212.34.144.102|48249|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|37.220.84.251|12062|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|192.145.30.146|45077|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|20|89.110.104.188|38604|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
