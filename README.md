@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|10|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|172.236.161.47|80|India|Mumbai|Akamai Technologies, Inc.|
-|13|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |15|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|16|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|17|212.34.144.253|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|36.50.112.174|8070|Indonesia|Jakarta|MYREPUBLIC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |18|37.58.48.214|2255|Germany|Frankfurt am Main|LeaseWeb DE|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|20|168.194.64.219|8888|Brazil|Bezerros|Julio Cesar DAS Neves - ME|
 
 
 
