@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|20|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|11|162.55.179.100|54455|Germany|Nuremberg|Hetzner Online GmbH|
+|12|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|109.196.103.72|39192|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 
 
 
