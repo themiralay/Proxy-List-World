@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|12|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|13|217.18.62.209|39875|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|188.40.151.94|19013|Germany|Falkenstein|Hetzner Online GmbH|
-|18|109.196.103.72|39192|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|20|109.107.175.41|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|14|77.239.97.182|31994|Germany|Frankfurt am Main|International Hosting Company Limited|
+|15|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
+|16|217.18.62.209|39875|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
