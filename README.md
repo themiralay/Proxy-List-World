@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|9|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
-|14|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|77.239.97.182|31994|Germany|Frankfurt am Main|International Hosting Company Limited|
-|18|103.156.16.105|8818|Indonesia|Indramayu|RSTNET|
-|19|109.196.103.72|39192|Russia|St Petersburg|JSC "TIMEWEB"|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|5.129.225.191|2083|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|147.45.73.0|18288|Sweden|Stockholm|Aeza International LTD|
 
 
 
