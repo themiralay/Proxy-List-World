@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|9|89.19.216.214|26777|The Netherlands|Amsterdam|Timeweb, LLP|
-|10|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
-|11|150.241.116.112|17516|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|45.66.228.43|143|Germany|Frankfurt Am Main|PLAY2GO LTD|
-|13|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
-|14|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|109.107.175.41|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|77.91.78.157|42775|Finland|Helsinki|Hypercore Ltd|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|185.184.120.1|29320|Germany|Frankfurt am Main|International Hosting Company Limited|
-|19|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
-|20|195.133.25.43|17695|Russia|Moscow|JSC "TIMEWEB"|
+|9|93.185.156.195|28552|Germany|Frankfurt am Main|International Hosting Company Limited|
+|10|5.129.233.38|21569|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|185.184.120.1|29320|Germany|Frankfurt am Main|International Hosting Company Limited|
+|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|162.55.179.100|12161|Germany|Nuremberg|Hetzner Online GmbH|
+|14|195.133.25.43|17695|Russia|Moscow|JSC "TIMEWEB"|
+|15|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|89.110.64.221|42230|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|19|181.78.74.163|999|Colombia|Montecristo|IFX Networks Argentina S.R.L|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
