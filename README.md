@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|103.193.145.155|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|10|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|14|148.253.211.78|1734|Sweden|Stockholm|SEBEK sp. z o.o|
-|15|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
-|16|185.80.21.92|8080|Türkiye|Bursa|Ulunet Internet ve Iletisim Hizmetleri San. ve Tic. Ltd. Sti.|
-|17|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
-|18|193.25.216.12|21329|Sweden|Stockholm|Play2go International Limited|
-|19|58.69.78.115|8081|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|20|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|77.233.212.4|57339|The Netherlands|Amsterdam|Timeweb, LLP|
+|6|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|195.133.25.43|17695|Russia|Moscow|JSC "TIMEWEB"|
+|10|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|185.184.120.1|29320|Germany|Frankfurt am Main|International Hosting Company Limited|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|17|103.147.241.138|8283|Indonesia|Purwokerto|Institut Agama Islam Negeri Purwokerto|
+|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|19|148.253.211.78|1734|Sweden|Stockholm|SEBEK sp. z o.o|
+|20|5.129.233.38|21569|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
