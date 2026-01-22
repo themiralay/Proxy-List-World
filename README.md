@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
-|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|89.19.216.214|26777|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
-|17|24.123.120.100|4228|United States|La Mirada|Spectrum|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|36.95.82.69|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|9|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|89.19.216.214|26777|The Netherlands|Amsterdam|Timeweb, LLP|
+|15|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
+|16|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|147.45.73.0|18288|Sweden|Stockholm|Aeza International LTD|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
