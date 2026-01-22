@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|93.185.156.195|28552|Germany|Frankfurt am Main|International Hosting Company Limited|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|18|217.18.62.209|39875|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|11|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
+|12|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|19|89.19.216.214|26777|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 
 
 
