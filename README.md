@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.159.195.183|1080|Indonesia|Sumenep|PT Giga Digital Nusantara|
-|11|154.18.255.117|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|17|5.129.233.38|21569|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|72.56.75.35|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|12|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|13|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|14|89.110.64.221|42230|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|72.56.75.35|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|19|89.110.104.188|29526|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
