@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|45.66.228.43|143|Germany|Frankfurt Am Main|PLAY2GO LTD|
-|12|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|7|77.238.227.72|44656|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|72.56.75.35|10808|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|10|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|11|193.25.216.12|21329|Sweden|Stockholm|Play2go International Limited|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 |13|213.176.72.6|52770|United Kingdom|London|SERV.HOST GROUP LTD|
-|14|93.185.156.195|28552|Germany|Frankfurt am Main|International Hosting Company Limited|
-|15|77.238.227.72|44656|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|17|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|72.56.75.35|10808|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|203.202.249.5|11726|Bangladesh|Chittagong|Aamra Networks Limited|
+|19|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|20|146.103.109.231|48012|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
