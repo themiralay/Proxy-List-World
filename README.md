@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|7|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|11|185.184.120.1|29320|Germany|Frankfurt am Main|International Hosting Company Limited|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|5.129.225.191|2083|The Netherlands|Amsterdam|Timeweb, LLP|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|109.206.241.221|15031|Estonia|Tallin|Baykov Ilya Sergeevich|
-|17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|162.55.179.100|12161|Germany|Nuremberg|Hetzner Online GmbH|
+|4|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|6|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|7|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
+|8|217.18.62.209|39875|Russia|St Petersburg|JSC "TIMEWEB"|
+|9|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|15|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|162.240.154.26|3128|United States|Provo|Unified Layer|
+|17|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
+|18|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|5.129.225.191|2083|The Netherlands|Amsterdam|Timeweb, LLP|
 
 
 
