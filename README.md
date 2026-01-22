@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
-|13|162.55.234.22|5151|Germany|Falkenstein|Hetzner Online GmbH|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|217.18.62.209|39875|Russia|St Petersburg|JSC "TIMEWEB"|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
+|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|217.18.62.209|39875|Russia|St Petersburg|JSC "TIMEWEB"|
+|17|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
