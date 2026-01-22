@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
-|17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|77.233.212.4|57339|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
+|17|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|77.239.97.182|31994|Germany|Frankfurt am Main|International Hosting Company Limited|
+|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
