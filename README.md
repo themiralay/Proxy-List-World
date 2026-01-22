@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|4|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|5|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
 |14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|16|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|18|142.132.139.242|5143|Germany|Falkenstein|Hetzner Online GmbH|
-|19|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|18|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|19|217.76.243.2|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|20|36.95.82.69|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
