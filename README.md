@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|12|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
+|12|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|13|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|88.99.30.237|5063|Germany|Falkenstein|Hetzner Online GmbH|
+|15|162.55.234.22|5151|Germany|Falkenstein|Hetzner Online GmbH|
 |16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|17|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|217.18.62.209|39875|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|88.99.69.214|5031|Germany|Falkenstein|Hetzner Online GmbH|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|147.45.73.0|18288|Sweden|Stockholm|Aeza International LTD|
+|19|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
