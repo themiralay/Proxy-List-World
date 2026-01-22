@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **80748** proxies at the latest update. Usable proxies are below.
+> Scraper found **80768** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|38733|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|126|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|146|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|40689|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|45.59.187.85|8080|United States|Los Angeles|DMIT Cloud Services|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|7|162.55.179.100|12161|Germany|Nuremberg|Hetzner Online GmbH|
 |8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |9|65.109.217.101|3534|Finland|Helsinki|Hetzner Online GmbH|
-|10|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|11|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|12|91.84.110.89|13657|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|95.85.243.141|10808|Estonia|Tallinn|OC NETWORKS LIMITED|
-|14|162.55.179.100|12161|Germany|Nuremberg|Hetzner Online GmbH|
-|15|45.59.187.85|8080|United States|Los Angeles|DMIT Cloud Services|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
-|20|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
+|10|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|13|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|89.110.80.195|10149|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|109.196.103.72|39192|Russia|St Petersburg|JSC "TIMEWEB"|
 
 
 
