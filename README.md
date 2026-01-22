@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|203.190.44.106|8080|Indonesia|Ungaran|PT Jaring Lintas Utara|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|151.242.116.67|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|5.129.225.191|2083|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
-|15|162.55.179.100|12161|Germany|Nuremberg|Hetzner Online GmbH|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|18|142.132.165.124|41234|Germany|Nuremberg|Hetzner Online GmbH|
-|19|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|11|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
+|12|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
+|13|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|77.239.97.182|31994|Germany|Frankfurt am Main|International Hosting Company Limited|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|20|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
 
 
 
