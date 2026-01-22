@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|77.246.157.65|10808|Russia|Khimki|JSC IOT|
-|7|87.120.205.164|24898|Germany|Frankfurt am Main|WAIcore Ltd|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|9|83.219.243.223|12046|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|10|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|11|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|12|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
-|13|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|16|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|213.21.229.149|41238|Sweden|Stockholm|Aeza International LTD|
-|18|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|45.66.228.43|143|Germany|Frankfurt Am Main|PLAY2GO LTD|
+|9|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|10|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|11|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|5.129.233.38|21569|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|213.21.229.149|41238|Sweden|Stockholm|Aeza International LTD|
+|14|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|15|109.196.103.72|39192|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|18|185.184.120.1|29320|Germany|Frankfurt am Main|International Hosting Company Limited|
+|19|5.129.225.191|2083|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
