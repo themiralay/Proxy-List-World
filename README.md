@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|122.53.33.216|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
-|13|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|14|77.233.212.4|57339|The Netherlands|Amsterdam|Timeweb, LLP|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|17|148.253.211.78|1734|Sweden|Stockholm|SEBEK sp. z o.o|
-|18|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|195.133.25.43|17695|Russia|Moscow|JSC "TIMEWEB"|
+|5|103.193.145.155|8080|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|10|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|148.253.211.78|1734|Sweden|Stockholm|SEBEK sp. z o.o|
+|15|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|16|185.80.21.92|8080|Türkiye|Bursa|Ulunet Internet ve Iletisim Hizmetleri San. ve Tic. Ltd. Sti.|
+|17|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|18|193.25.216.12|21329|Sweden|Stockholm|Play2go International Limited|
+|19|58.69.78.115|8081|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|20|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
 
 
 
