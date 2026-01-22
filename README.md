@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|45.59.187.85|8080|United States|Los Angeles|DMIT Cloud Services|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|77.238.227.72|44656|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|93.185.156.195|28552|Germany|Frankfurt am Main|International Hosting Company Limited|
-|13|45.66.228.43|143|Germany|Frankfurt Am Main|PLAY2GO LTD|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|45.59.187.85|8080|United States|Los Angeles|DMIT Cloud Services|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|93.185.156.195|28552|Germany|Frankfurt am Main|International Hosting Company Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|91.84.110.89|13657|The Netherlands|Amsterdam|Servers Tech Fzco|
 |15|87.251.87.90|21102|Germany|Frankfurt am Main|International Hosting Company Limited|
-|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|17|62.60.245.202|10808|The Netherlands|Amsterdam|Hypercore Ltd|
+|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |19|91.84.111.87|42436|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|95.85.243.141|10808|Estonia|Tallinn|OC NETWORKS LIMITED|
 
 
 
