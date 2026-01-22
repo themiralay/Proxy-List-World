@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|77.246.157.65|10808|Russia|Khimki|JSC IOT|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|87.251.87.90|21102|Germany|Frankfurt am Main|International Hosting Company Limited|
-|18|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|89.19.216.214|26777|The Netherlands|Amsterdam|Timeweb, LLP|
+|6|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|185.184.120.1|29320|Germany|Frankfurt am Main|International Hosting Company Limited|
+|12|89.169.13.247|44864|The Netherlands|Amsterdam|SERV.HOST GROUP LTD|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|18|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|19|5.129.233.38|21569|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
