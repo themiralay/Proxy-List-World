@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|217.76.243.2|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|122.252.233.114|6666|India|Tumkūr|RailTel Corporation of India Ltd.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|8|122.3.121.231|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|10|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|14|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
 |15|88.99.30.148|5051|Germany|Falkenstein|Hetzner Online GmbH|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|19|65.109.217.101|3534|Finland|Helsinki|Hetzner Online GmbH|
+|16|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
+|17|65.109.217.101|3534|Finland|Helsinki|Hetzner Online GmbH|
+|18|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|19|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
 |20|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
