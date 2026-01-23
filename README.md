@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76303** proxies at the latest update. Usable proxies are below.
+> Scraper found **76286** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36698|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36681|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|121|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38284|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
 |2|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
-|7|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|3|102.134.48.240|6005|Japan|Tokyo|SUN Network Company|
+|4|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
+|11|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
+|12|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
 |13|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
-|14|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|19|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
+|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|17|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|20|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 
 
 
