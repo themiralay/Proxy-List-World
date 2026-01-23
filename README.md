@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|7|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
+|8|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|9|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|11|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|18|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|19|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+
 
 
 ## Contributing
