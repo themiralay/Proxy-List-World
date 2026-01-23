@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
 |3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 |5|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|17|47.79.40.185|12462|Japan|Tokyo|Alibaba.com LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
