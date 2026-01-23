@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.134.48.240|6005|Japan|Tokyo|SUN Network Company|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
 |5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|12|46.250.251.246|443|United Kingdom|London|Contabo Asia Private Limited|
-|13|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|19|168.119.126.160|35856|Germany|Nuremberg|Hetzner Online GmbH|
-|20|89.208.85.169|443|Russia|Moscow|LLC VK|
+|8|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|10|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|78.47.253.162|1083|Germany|Nuremberg|Hetzner Online GmbH|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|19|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 
 
 
