@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|5|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
 |7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
-|11|64.188.73.45|443|Finland|Helsinki|u1host ltd|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|188.40.151.94|19013|Germany|Falkenstein|Hetzner Online GmbH|
 |13|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|16|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
-|17|43.248.13.30|8182|Pakistan|Model Town|Ebone Network (PVT.) Limited|
-|18|47.76.113.85|1234|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|89.208.85.78|443|Russia|Moscow|LLC VK|
-|20|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|14|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
+|15|89.208.85.169|443|Russia|Moscow|LLC VK|
+|16|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|64.188.73.45|443|Finland|Helsinki|u1host ltd|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
 
 
 
