@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|4|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|6|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|11|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|12|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
-|13|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|17|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
-|18|89.208.85.78|443|Russia|Moscow|LLC VK|
-|19|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
+|11|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|12|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|13|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|93.185.156.195|28552|Germany|Frankfurt am Main|International Hosting Company Limited|
+|17|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|147.45.217.143|443|Lithuania|Vilnius|Global Connectivity Solutions LLP|
 
 
 
