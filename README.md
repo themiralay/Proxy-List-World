@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|162.240.154.26|3128|United States|Provo|Unified Layer|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|4|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|117.211.160.52|32650|India|Kozhikode|BSNL Internet|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|11|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|12|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|19|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|20|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
+|7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|10|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|14|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|18|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
+|19|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|20|162.240.154.26|3128|United States|Provo|Unified Layer|
 
 
 
