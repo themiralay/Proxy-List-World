@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|2|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|5|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |8|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|14|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|16|195.133.9.223|80|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|19|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|16|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|17|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
