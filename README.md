@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|1|222.228.171.92|8080|Japan|Futako|ARTERIA Networks Corporation|
 |2|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|8|47.80.70.47|80|Philippines|Manila|Alibaba.com LLC|
-|9|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|10|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|59.153.16.167|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|15|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|16|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|88.99.27.163|5093|Germany|Falkenstein|Hetzner Online GmbH|
-|18|101.255.32.42|8080|Indonesia|Jakarta|PT Remala Abadi|
-|19|64.188.73.45|443|Finland|Helsinki|u1host ltd|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|6|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|7|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|13|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|15|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
+|18|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|19|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
