@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|1|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|2|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|5|162.240.154.26|3128|United States|Provo|Unified Layer|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|8|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|9|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|14|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
-|19|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|20|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|88.99.27.163|5093|Germany|Falkenstein|Hetzner Online GmbH|
+|13|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|77.239.97.182|31994|Germany|Frankfurt am Main|International Hosting Company Limited|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
