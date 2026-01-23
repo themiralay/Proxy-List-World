@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.161|3172|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|222.228.171.92|8080|Japan|Futako|ARTERIA Networks Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
-|13|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|17|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|18|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|46.250.251.246|443|United Kingdom|London|Contabo Asia Private Limited|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|14|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|195.225.109.132|3128|Russia|Moscow|JSC Selectel|
+|17|47.86.53.59|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|19|119.18.145.50|4126|Bangladesh|Chittagong|BBTS Network|
 |20|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 
 
