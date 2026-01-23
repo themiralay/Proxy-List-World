@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|4|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|5|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|7|217.217.254.94|80|Singapore|Singapore|Contabo Asia Private Limited|
-|8|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
-|9|193.32.178.160|57329|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|10|31.28.30.169|443|Russia|Moscow|Citytelecom LLC|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|191.96.96.223|8080|The Netherlands|Ede|Triple Interactive B.V.|
-|13|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
-|14|83.219.243.223|12046|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|15|37.15.247.246|8080|Spain|Barcelona|Orange Spain|
-|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
