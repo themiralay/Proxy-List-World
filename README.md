@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|4|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|5|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|15|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|18|147.45.73.0|18288|Sweden|Stockholm|Aeza International LTD|
+|19|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+
 
 
 ## Contributing
