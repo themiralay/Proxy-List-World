@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
-|3|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|4|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|7|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|20|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|8|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|9|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|18|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 
 
 
