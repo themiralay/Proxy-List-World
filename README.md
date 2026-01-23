@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|10|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|15|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|13|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|20|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|17|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
