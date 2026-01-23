@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|8|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|7|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|18|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
