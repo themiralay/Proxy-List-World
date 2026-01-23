@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|5|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
-|6|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|162.55.179.100|12161|Germany|Nuremberg|Hetzner Online GmbH|
-|20|195.133.9.223|80|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|6|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|7|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|8|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|195.133.9.223|80|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
