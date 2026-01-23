@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|4|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
-|10|222.228.171.92|8080|Japan|Futako|ARTERIA Networks Corporation|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|13|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|94.103.93.14|53943|Russia|Moscow|Hosting technology LTD|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|20|200.71.190.60|8080|Venezuela|Sarare|TELEFONICA VENEZOLANA, C.A.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
