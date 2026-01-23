@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|102.134.48.240|6005|Japan|Tokyo|SUN Network Company|
 |2|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|211.75.210.107|1168|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|6|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|7|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|9|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
+|3|211.75.210.107|1168|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|118.163.198.107|1168|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |12|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|146.56.185.39|10900|South Korea|Seoul|Oracle Corporation|
-|14|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|47.76.113.85|1234|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
+|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|15|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|17|146.56.185.39|10900|South Korea|Seoul|Oracle Corporation|
 |18|149.56.135.136|3128|Canada|Montreal|OVH SAS|
-|19|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|20|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
+|19|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
+|20|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 
 
 
