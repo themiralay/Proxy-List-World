@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76951** proxies at the latest update. Usable proxies are below.
+> Scraper found **76812** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36858|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|109|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38784|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|5|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|88.99.29.50|5131|Germany|Falkenstein|Hetzner Online GmbH|
-|14|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|18|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
