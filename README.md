@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|7|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|9|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|15|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|89.208.85.78|443|Russia|Moscow|LLC VK|
-|18|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|12|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|13|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|17|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|18|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
+|19|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|72.10.164.178|27475|Canada|Montreal|GloboTech Communications|
 
 
 
