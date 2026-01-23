@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|102.134.48.240|6005|Japan|Tokyo|SUN Network Company|
-|2|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|1|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|2|102.134.48.240|6005|Japan|Tokyo|SUN Network Company|
 |3|47.80.70.47|8080|Philippines|Manila|Alibaba.com LLC|
 |4|47.80.71.214|8080|Philippines|Manila|Alibaba.com LLC|
-|5|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|7|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|6|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
 |11|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|12|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|38.95.76.79|6005|United States|Los Angeles|Cogent Communications|
-|15|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|16|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|20|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
 
 
 
