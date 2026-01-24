@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|3|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|16|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|6|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|10|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|203.111.253.146|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
 |17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|103.166.33.63|8080|Indonesia|Depok|PT Daniswara Citra Informatika|
-|20|103.163.135.57|7777|Indonesia|Gumuk Krajan|PROVITEL|
+|18|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
+|19|91.121.63.51|1080|France|Roubaix|OVH SAS|
+|20|103.13.204.11|8090|Indonesia|Jontro|PT JARINGANKU SARANA NUSANTARA|
 
 
 
