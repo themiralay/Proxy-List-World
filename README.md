@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|202.58.77.114|8080|Indonesia|Kediri|PT Data Buana Nusantara|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|4|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|7|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 |9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|12|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |14|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|15|122.54.193.69|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|18|88.99.29.50|5133|Germany|Falkenstein|Hetzner Online GmbH|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
