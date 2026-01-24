@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|8|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|9|103.162.221.4|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|103.147.246.134|8097|Indonesia|Curug|PLBNET|
-|14|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|201.77.110.33|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
 
 
 
