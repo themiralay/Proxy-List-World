@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|5|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
 |11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|13|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|64.188.73.45|443|Finland|Helsinki|u1host ltd|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|151.242.116.67|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|20|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|12|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
