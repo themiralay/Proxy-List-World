@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|10|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|11|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|12|103.169.132.58|8085|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|146.103.98.171|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
