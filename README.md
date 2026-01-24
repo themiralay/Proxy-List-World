@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|12|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|13|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|122.53.33.216|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|17|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|18|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|160.22.92.24|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
 
 
 
