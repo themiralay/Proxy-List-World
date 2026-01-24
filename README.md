@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
 |3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|8|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|180.191.59.119|8086|Philippines|Tarlac City|Globe Telecom|
-|10|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|163.227.252.25|8080|Indonesia|Wiralaga Mulya|PT DASA INFRA INDONESIA|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|222.254.88.102|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|12|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|19|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|20|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 
 
 
