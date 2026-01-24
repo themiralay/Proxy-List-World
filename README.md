@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|7|103.122.65.242|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|88.99.29.50|5132|Germany|Falkenstein|Hetzner Online GmbH|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|103.227.187.13|6080|Indonesia|Wirodayan|PT Master Star Network|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|88.99.29.50|5133|Germany|Falkenstein|Hetzner Online GmbH|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|13|103.127.133.132|1080|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|14|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|15|122.252.233.114|6666|India|Tumkūr|RailTel Corporation of India Ltd.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
