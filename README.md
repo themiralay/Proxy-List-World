@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|12|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|16|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|64.188.73.45|443|Finland|Helsinki|u1host ltd|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|5|116.80.61.94|3172|Japan|Yokohama|InfoSphere|
+|6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|103.139.99.202|8080|Indonesia|Labuhanmaringgai|Digital Network Setiawan|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
