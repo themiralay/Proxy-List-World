@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|64.188.73.45|443|Finland|Helsinki|u1host ltd|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|11|64.188.73.45|443|Finland|Helsinki|u1host ltd|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
