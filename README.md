@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|6|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|7|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
-|11|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|13|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|1|38.191.200.250|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|2|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|4|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|5|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|88.99.26.76|5101|Germany|Falkenstein|Hetzner Online GmbH|
+|9|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|10|103.159.195.183|1080|Indonesia|Sumenep|PT Giga Digital Nusantara|
+|11|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
+|20|103.125.174.85|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
 
 
 
