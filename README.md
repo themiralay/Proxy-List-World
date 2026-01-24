@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|3|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
-|5|181.79.92.28|999|Colombia|Florencia|IFX Networks Argentina S.R.L|
-|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|11|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
-|12|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|13|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|16|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|123.200.10.46|8081|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
+|1|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|2|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
+|10|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
+|11|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|12|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|13|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|14|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|64.188.73.45|443|Finland|Helsinki|u1host ltd|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 
 
 
