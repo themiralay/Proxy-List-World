@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|113.192.30.35|8181|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
