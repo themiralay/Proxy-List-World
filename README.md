@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|7|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|200.10.30.18|999|Colombia|La Virginia|Super Redes S.A.S|
-|11|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|12|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|13|192.145.29.38|54633|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|20|160.22.198.4|8082|Indonesia|Sukadana|GOHOMENET|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
