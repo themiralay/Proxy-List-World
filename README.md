@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|2|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|19|43.248.13.30|8182|Pakistan|Model Town|Ebone Network (PVT.) Limited|
-|20|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|59.153.19.34|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|9|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|17|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|147.45.217.143|443|Lithuania|Vilnius|Global Connectivity Solutions LLP|
 
 
 
