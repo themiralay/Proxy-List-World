@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|14|169.63.230.169|8081|United States|Dallas|SoftLayer|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
 |15|93.185.156.195|28552|Germany|Frankfurt am Main|International Hosting Company Limited|
-|16|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|1.1.189.58|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|147.45.217.143|443|Lithuania|Vilnius|Global Connectivity Solutions LLP|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 
 
 
