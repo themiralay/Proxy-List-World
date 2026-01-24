@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|9|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|14|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|8|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|9|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|11|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|12|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
+|15|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
