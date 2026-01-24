@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|88.99.29.50|5133|Germany|Falkenstein|Hetzner Online GmbH|
-|15|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|20|91.98.232.106|10808|Germany|Nuremberg|Hetzner Online GmbH|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|9|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|147.45.73.0|18288|Sweden|Stockholm|Aeza International LTD|
+|12|150.241.115.108|47364|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|203.142.74.115|8080|Indonesia|Jakarta|BIZNET|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
+|20|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
 
 
 
