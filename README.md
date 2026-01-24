@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76313** proxies at the latest update. Usable proxies are below.
+> Scraper found **76264** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36638|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36589|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38419|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|3|222.228.171.92|8080|Japan|Futako|ARTERIA Networks Corporation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
-|17|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
-|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|124.83.101.25|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|6|47.76.113.85|1234|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|8|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
+|9|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A|
+|10|103.178.21.160|3125|Indonesia|Malang|PT Trisna Mega Abadi|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|13|64.188.73.45|443|Finland|Helsinki|u1host ltd|
+|14|147.45.73.0|18288|Sweden|Stockholm|Aeza International LTD|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|19|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|20|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
 
 
 
