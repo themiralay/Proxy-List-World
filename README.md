@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 |4|54.255.169.231|3128|Singapore|Singapore|Amazon Technologies Inc.|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|7|103.215.60.46|8097|Indonesia|Pontianak|PT Uwais Borneo Group|
-|8|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 |9|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|13|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|15|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|18|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|19|38.183.146.29|7080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|20|134.236.10.196|8080|Thailand|Pattaya|CAT-BB|
+|10|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|11|103.97.198.253|8080|Indonesia|Sekadau|PT Borneo Global Persada|
+|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
+|16|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|17|69.75.140.157|8080|United States|North Hollywood|Spectrum|
+|18|45.167.20.31|999|Argentina|Cruz del Eje|Fiorani Alejandro|
+|19|147.45.217.143|443|Lithuania|Vilnius|Global Connectivity Solutions LLP|
+|20|212.108.115.146|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
 
 
 
