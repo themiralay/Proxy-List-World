@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
-|18|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
-|19|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|89.208.85.169|443|Russia|Moscow|LLC VK|
+|17|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
+|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|91.84.113.225|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|146.103.104.48|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
