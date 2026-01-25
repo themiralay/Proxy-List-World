@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
-|11|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
-|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|14|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|43.209.130.76|16826|Thailand|Bangkok|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|6|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
