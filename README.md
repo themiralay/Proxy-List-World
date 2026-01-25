@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|7|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|6|47.76.113.85|1234|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|13|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|12|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
+|13|88.99.29.50|5132|Germany|Falkenstein|Hetzner Online GmbH|
 |14|8.243.68.12|8080|Colombia|Bogotá|CTL Colombia|
-|15|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
 |16|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
-|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
+|17|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 
 
 
