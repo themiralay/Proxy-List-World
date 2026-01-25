@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
-|10|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|11|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|12|88.99.29.50|5133|Germany|Falkenstein|Hetzner Online GmbH|
-|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|190.60.45.79|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|103.156.16.119|8080|Indonesia|Sinarbakti|RSTNET|
-|19|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
-|20|138.59.151.162|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|3|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|4|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|5|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|7|88.99.69.214|5031|Germany|Falkenstein|Hetzner Online GmbH|
+|8|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|103.144.102.60|8181|Indonesia|Karangsembung|PANDAWANET|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|17|94.155.175.135|8080|Bulgaria|Stara Zagora|Bulgarian Telecommunication Group EOOD|
+|18|14.99.215.106|1111|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
