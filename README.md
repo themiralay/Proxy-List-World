@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|10|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|11|43.252.158.170|8989|Indonesia|Pugeran Maguwoharjo|PT Blip Integrator Provider|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |12|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|16|94.156.236.221|8888|Estonia|Tallin|Baykov Ilya Sergeevich|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|157.20.253.163|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|20|157.66.2.100|1111|Indonesia|Cikarang|PT Ashyla Karya Abadi|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|38.51.207.91|999|Venezuela|Maracaibo|Tecnoven Services C.A|
+|15|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|200.34.227.28|8080|Brazil|Porto Alegre|UNIFIQUE TELECOMUNICACOES S/A|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|82.129.233.4|1976|Egypt|Banī Suwayf|Vodafone Data - Egypt|
+|20|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
