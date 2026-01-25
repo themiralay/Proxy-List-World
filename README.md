@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|8|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|9|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|9|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
 |14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|64.188.73.45|443|Finland|Helsinki|u1host ltd|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|192.145.31.78|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|18|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
