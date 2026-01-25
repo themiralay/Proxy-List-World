@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76729** proxies at the latest update. Usable proxies are below.
+> Scraper found **76754** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36480|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|246|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36506|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39044|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 |3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|6|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|7|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|8.243.68.12|8080|Colombia|Bogotá|CTL Colombia|
-|11|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|12|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|17|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|9|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|64.188.73.45|443|Finland|Helsinki|u1host ltd|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
+|19|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 
 
