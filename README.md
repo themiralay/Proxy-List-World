@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
-|9|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|64.4.160.17|80|United States|New York|A2 Hosting, Inc.|
-|14|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|17|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|190.60.52.22|999|Colombia|San Jacinto|IFX NETWORKS COLOMBIA|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
