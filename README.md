@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|47.86.53.59|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|12|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|15|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|19|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|20|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|6|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|19|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
