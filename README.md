@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|8|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|9|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|88.99.29.50|5133|Germany|Falkenstein|Hetzner Online GmbH|
-|16|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|18|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|19|195.133.77.82|14223|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|16|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|17|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|18|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|19|59.33.33.155|7890|China|Zhongshan|Chinanet|
+|20|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
