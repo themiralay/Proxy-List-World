@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|6|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|9|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|103.191.196.155|8080|Indonesia|Jatiwangi|PT Pangkalan Lintas Data|
-|19|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|20|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|4|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|10|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
+|11|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|43.252.238.166|8080|Indonesia|Gunungkalong|PT Usaha Adi Sanggoro|
+|17|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|18|147.45.73.0|18288|Sweden|Stockholm|Aeza International LTD|
+|19|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
