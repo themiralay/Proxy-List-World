@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|8|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|13|188.127.225.130|1080|Russia|Moscow|LLC Smart Ape|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|94.156.236.221|8888|Estonia|Tallin|Baykov Ilya Sergeevich|
+|14|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|146.103.104.48|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
