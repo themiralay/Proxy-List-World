@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|36.92.22.13|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|12|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|14|202.5.60.68|4126|Bangladesh|Chittagong|BBTS-NEW|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|146.103.104.48|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|91.84.113.225|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|157.66.16.68|8686|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|7|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|15|43.252.158.170|8989|Indonesia|Pugeran Maguwoharjo|PT Blip Integrator Provider|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|146.103.104.48|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
