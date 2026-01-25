@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|6|154.197.69.137|8888|Thailand|Bangkok|NZ Network Enterprise CO|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|160.187.174.170|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|38.183.146.29|7080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|8|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |11|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
-|12|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|113.167.196.223|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|15|134.236.10.196|8080|Thailand|Pattaya|CAT-BB|
+|16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|17|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
 
 
 
