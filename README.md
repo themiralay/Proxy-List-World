@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |10|91.107.170.243|6825|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|47.176.240.250|4228|United States|Rowland Heights|Frontier Communications of America, Inc.|
-|12|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|11|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 |13|88.99.29.50|5133|Germany|Falkenstein|Hetzner Online GmbH|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|16|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|20|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
+|17|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|149.51.63.127|8080|United States|Ashburn|Cogent Communications|
+|20|16.78.93.162|338|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
