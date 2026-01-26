@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|4|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
-|5|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|6|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|12|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
-|13|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
-|14|190.97.241.102|999|Venezuela|Valera|Viginet C.A|
-|15|182.66.78.205|80|India|Bengaluru|Bharti Airtel|
-|16|43.161.218.111|80|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|18|103.70.122.37|8181|Indonesia|Kudus|PT Menara Digital Salama|
-|19|59.153.16.167|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|20|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|10|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|11|84.21.172.174|8080|Latvia|Riga|Baykov Ilya Sergeevich|
+|12|45.186.208.34|8080|Venezuela|Caracas|Viginet C.A|
+|13|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|103.70.122.37|8181|Indonesia|Kudus|PT Menara Digital Salama|
+|15|151.242.116.245|80|Singapore|Singapore|PT Perwira Media Solusi|
+|16|84.21.172.174|8080|Latvia|Riga|Baykov Ilya Sergeevich|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|37.230.57.112|999|Paraguay|Ciudad del Este|Startelecom S.A.|
+|19|122.52.34.247|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|20|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
