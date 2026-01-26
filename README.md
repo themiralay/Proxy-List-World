@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|190.242.58.99|999|Colombia|Cali|Liberty Networks De Colombia|
-|10|200.48.35.125|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|11|188.132.222.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
-|16|88.99.27.163|5091|Germany|Falkenstein|Hetzner Online GmbH|
-|17|181.204.39.202|26312|Colombia|Bucaramanga|Colombia Móvil|
-|18|89.248.164.155|443|The Netherlands|Amsterdam|IP Volume inc|
-|19|103.167.229.147|8080|Nepal|Bāgluṅ|Fiberworld Communication Pvt. Ltd|
-|20|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|12|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|13|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
+|16|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|17|181.129.185.130|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|18|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|19|88.99.27.163|5091|Germany|Falkenstein|Hetzner Online GmbH|
+|20|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
 
 
 
