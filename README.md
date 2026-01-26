@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|4|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
-|5|14.241.39.169|8080|Vietnam|Bắc Ninh|VNPT|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|45.189.252.240|999|Mexico|Alvarado|Tracered SA De CV|
-|16|202.148.12.114|8083|Indonesia|Kebomas|DNET-SBY|
-|17|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|202.93.247.51|8090|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|117.103.71.77|8715|Indonesia|Malang|NARATEL|
+|9|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|17|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
+|18|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
