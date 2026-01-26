@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|88.99.26.79|5073|Germany|Falkenstein|Hetzner Online GmbH|
-|19|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|20|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|190.60.45.83|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|203.223.89.185|8080|Bangladesh|Tongi|Md Rofikul Islam|
+|18|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|19|78.12.223.246|294|Mexico|Querétaro City|Amazon.com|
+|20|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
 
 
 
