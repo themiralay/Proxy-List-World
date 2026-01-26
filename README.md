@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|47.86.53.59|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|193.221.203.121|8888|Finland|Helsinki|Baykov Ilya Sergeevich|
-|12|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|16|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|17|43.167.193.58|3129|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|18|72.10.160.90|23049|Canada|Montreal|GloboTech Communications|
-|19|113.192.12.177|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
-|20|43.167.193.58|3129|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|124.121.2.226|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|47.86.53.59|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|14|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|19|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
+|20|212.252.73.51|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
 
 
 
