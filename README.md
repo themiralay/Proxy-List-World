@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|103.112.162.144|8080|Indonesia|Jakarta|24AS|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|11|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|14|103.137.35.2|80|Indonesia|Subang|PT Parsaoran Global Datatrans|
-|15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|16|188.134.85.189|8118|Russia|St Petersburg|Interzet|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|58.8.137.10|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|19|103.247.13.148|7777|Indonesia|Magelang|TERABIT|
-|20|103.59.45.249|8080|Indonesia|Kota Agung|PT INDONESIA TRANS NETWORK|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|7|193.221.203.121|5678|Finland|Helsinki|Baykov Ilya Sergeevich|
+|8|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|9|58.8.137.10|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|10|38.199.71.84|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|12|195.133.77.82|65535|The Netherlands|Amsterdam|Timeweb, LLP|
+|13|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|190.83.15.2|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|16|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|17|193.221.203.121|5678|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|19|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
