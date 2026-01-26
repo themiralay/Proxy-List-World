@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|5|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
-|6|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|7|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
 |14|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
-|15|137.184.14.135|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|94.156.236.221|4145|Estonia|Tallin|Baykov Ilya Sergeevich|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|19|45.229.6.75|999|Ecuador|Pasaje|Mena Cornejo Hector Elias|
-|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|15|94.156.236.221|4145|Estonia|Tallin|Baykov Ilya Sergeevich|
+|16|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|38.194.246.34|999|Mexico|León|Cogent Communications|
+|20|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
 
 
 
