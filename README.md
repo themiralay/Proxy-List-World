@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|10|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
 |11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|13|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
-|14|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
-|17|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
-|18|88.99.69.103|5023|Germany|Falkenstein|Hetzner Online GmbH|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|12|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
+|13|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|88.99.69.214|5033|Germany|Falkenstein|Hetzner Online GmbH|
+|18|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|19|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 
 
 
