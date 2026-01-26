@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |7|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|10|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|14|94.156.236.221|8888|Estonia|Tallin|Baykov Ilya Sergeevich|
-|15|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|20|38.194.246.34|999|Mexico|León|Cogent Communications|
+|8|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|38.194.235.146|999|Mexico|Mineral de la Reforma|Cogent Communications|
+|12|160.250.197.49|8080|Bangladesh|Tungipāra|Digicon Telecommunication Ltd|
+|13|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|103.145.30.46|1452|Indonesia|Utan|ICONPLN|
+|16|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|17|176.117.106.149|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
+|19|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
