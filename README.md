@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|4|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|5|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
 |6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|31.28.30.169|443|Russia|Moscow|Citytelecom LLC|
-|9|103.191.58.110|8080|Indonesia|Temenggungan|Panjalu Sarana Data Indonesia|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|103.82.23.118|5195|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|13|176.117.106.133|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|103.18.113.5|1111|Indonesia|Sedinginan|PT Kangen Network Solusindo|
-|16|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
-|17|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|59.153.18.230|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|7|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|146.103.104.48|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|44.200.8.242|80|United States|Ashburn|Amazon.com|
+|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|190.242.58.99|999|Colombia|Cali|Liberty Networks De Colombia|
+|17|103.82.23.118|5195|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|19|195.133.77.82|9963|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
