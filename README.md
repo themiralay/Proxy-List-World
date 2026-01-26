@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|8|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|9|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|13|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|8.243.68.12|8080|Colombia|Bogotá|CTL Colombia|
-|20|126.209.18.46|8082|Philippines|Davao City|Infinivan Incorporated|
+|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
+|8|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.243.68.12|8080|Colombia|Bogotá|CTL Colombia|
+|10|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|11|150.241.115.108|47364|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|88.99.26.76|5101|Germany|Falkenstein|Hetzner Online GmbH|
+|13|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.70.122.37|8181|Indonesia|Kudus|PT Menara Digital Salama|
+|15|88.99.27.22|5081|Germany|Falkenstein|Hetzner Online GmbH|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|59.36.239.108|21133|China|Guangzhou|Chinanet|
+|18|49.151.178.41|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
+|19|88.99.30.148|5053|Germany|Falkenstein|Hetzner Online GmbH|
+|20|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
