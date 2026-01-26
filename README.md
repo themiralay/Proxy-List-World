@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
 |9|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|185.218.202.182|8080|Ukraine|Irpin|"DOMINET" LLC|
-|16|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|17|103.21.68.137|84|India|Malkajgiri|Country Online Services PVT LTD|
-|18|38.211.76.201|999|Colombia|Garzón|Fibernet TV SAS|
-|19|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|188.132.222.206|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|15|103.162.221.162|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
+|16|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|17|103.222.255.140|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
+|18|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|212.34.144.46|58961|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
