@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|6|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|88.99.30.237|5063|Germany|Falkenstein|Hetzner Online GmbH|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|88.99.27.163|5093|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.144.232.249|54105|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|12|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
+|13|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|14|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |16|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|17|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|103.159.96.75|8081|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|19|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|45.189.252.218|999|Mexico|Alvarado|Tracered SA De CV|
+|17|65.109.217.101|3534|Finland|Helsinki|Hetzner Online GmbH|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|20|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
 
 
 
