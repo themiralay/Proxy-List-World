@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
 |4|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|38.194.246.34|999|Mexico|León|Cogent Communications|
-|7|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|8|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
-|9|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|13|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|14|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|15|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|16|88.99.30.148|5053|Germany|Falkenstein|Hetzner Online GmbH|
-|17|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
-|19|36.88.137.114|443|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
-|20|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|7|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|9|88.99.69.103|5023|Germany|Falkenstein|Hetzner Online GmbH|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|185.247.80.10|8090|Russia|St Petersburg|JSC "Severen-Telecom"|
+|12|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|157.20.244.242|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|103.133.25.119|8080|Indonesia|Bogor|PT PHATRIA INTI PERSADA|
+|16|200.48.35.122|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
+|19|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
