@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|2|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|4|188.134.85.189|8118|Russia|St Petersburg|Interzet|
-|5|170.80.202.213|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|6|94.130.24.194|3534|Germany|Nuremberg|Hetzner Online GmbH|
-|7|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|8|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|150.107.104.67|3125|Indonesia|Jakarta|PT Graha Multimedia Nusantara|
-|13|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|14|95.163.153.116|26305|Austria|Vienna|Aeza International LTD|
-|15|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
-|16|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|178.63.72.110|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|19|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|20|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|103.191.92.157|1009|Indonesia|Semarang|PT Cloud Hosting Indonesia|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|19|103.38.104.164|7777|Indonesia|Wonosobo|PT Tunas Media Data|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
