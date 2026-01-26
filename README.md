@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|193.168.198.216|16777|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|9|91.107.160.34|5050|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|142.132.139.242|5141|Germany|Falkenstein|Hetzner Online GmbH|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|15|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|17|103.155.190.250|8080|Indonesia|Blitar|Trisula Media Data|
+|18|132.255.21.123|999|Colombia|Pereira|Media Commerce Partners S.A|
+|19|91.84.113.225|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|192.145.31.78|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
 
 
 
