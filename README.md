@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|163.5.128.37|14270|United States|Brooklyn|Windstream Communications LLC|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|212.34.144.46|58961|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|12|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|103.247.13.203|8090|Indonesia|Magelang|TERABIT|
-|14|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|15|190.102.246.94|999|Chile|Los Ángeles|Pacifico Cable SPA.|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|19|146.103.104.48|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|13|212.34.144.46|58961|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|103.188.173.152|8080|Indonesia|Jakarta|PT Satria Digital Media|
+|15|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|103.247.13.203|8090|Indonesia|Magelang|TERABIT|
+|17|103.182.189.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|18|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
+|19|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|20|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
