@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|199.38.85.122|40004|United States|Franklin|Wisconsin CyberLynk Network, Inc.|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|47.86.53.59|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |8|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|193.221.203.121|8888|Finland|Helsinki|Baykov Ilya Sergeevich|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|103.82.23.118|5201|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|14|95.84.164.92|8998|Russia|Moscow|NCNET|
-|15|38.224.21.1|999|Colombia|El Carmen|U2red S.A.S|
-|16|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|17|103.153.149.140|8181|Indonesia|Weleri|JARINGANKU|
-|18|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|124.121.2.226|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|11|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |19|193.221.203.121|8888|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|193.221.203.121|8888|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
 
 
 
