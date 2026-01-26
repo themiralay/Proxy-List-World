@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|124.121.2.226|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|18|67.43.228.253|25987|Canada|Montreal|GloboTech Communications|
-|19|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|20|192.145.31.78|8080|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|103.133.27.11|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
+|12|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|18|45.225.207.183|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
+|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|20|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
