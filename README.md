@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|5|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|142.132.139.242|5143|Germany|Falkenstein|Hetzner Online GmbH|
-|12|202.93.247.51|8090|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
-|13|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|14|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|15|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|16|116.105.18.160|9062|Vietnam|An Hải|Viettel Group|
-|17|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|18|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|10|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|183.98.143.134|8663|South Korea|Songpa-gu|Korea Telecom|
+|16|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|17|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|8.243.68.12|8080|Colombia|Bogotá|CTL Colombia|
+|19|88.99.30.148|5053|Germany|Falkenstein|Hetzner Online GmbH|
+|20|88.99.26.76|5103|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
