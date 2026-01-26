@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|7|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|67.43.228.253|24755|Canada|Montreal|GloboTech Communications|
 |11|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|12|154.19.38.197|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|14|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|15|202.62.75.38|83|India|Hyderabad|CityOnline Services|
-|16|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|17|193.221.203.121|5678|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|67.43.228.253|24755|Canada|Montreal|GloboTech Communications|
-|19|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|13|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|14|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|15|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|171.4.177.114|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|17|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
+|18|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.106.78.193|7979|Indonesia|Depok|PT Quantum Tera Multimedia|
+|20|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
 
 
 
