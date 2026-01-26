@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.112.162.144|8080|Indonesia|Jakarta|24AS|
-|12|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|13|193.221.203.121|8888|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|103.48.71.50|82|India|Hyderabad|Country Online Services PVT LTD|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|72.10.160.90|9503|Canada|Montreal|GloboTech Communications|
-|20|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|102.212.45.34|12354|South Africa|Johannesburg|OM-SN-45/24|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|36.88.137.114|443|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
+|17|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|72.10.160.90|9503|Canada|Montreal|GloboTech Communications|
+|19|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
