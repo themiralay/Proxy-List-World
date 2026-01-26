@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|149.2.83.6|8080|Dominican Republic|Enriquillo|TELECABLE DOMINICANO, S.A.|
-|9|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|84.21.172.174|8080|Latvia|Riga|Baykov Ilya Sergeevich|
-|11|103.132.91.190|1080|Bangladesh|Mymensingh|Matrix BD|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|18|43.167.193.58|3129|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|212.34.144.46|58961|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|179.60.53.26|999|Ecuador|Cuenca|Stealth Telecom del Ecuador|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|10|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|16|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|147.75.34.105|443|The Netherlands|IJmuiden|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|20|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
 
 
 
