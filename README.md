@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|11|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
-|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|13|65.109.217.101|3534|Finland|Helsinki|Hetzner Online GmbH|
-|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|15|72.10.160.94|32547|Canada|Montreal|GloboTech Communications|
-|16|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
-|17|45.225.207.183|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|177.234.217.44|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Sandclock Service Trading Company Limited|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|11|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|72.10.160.94|32547|Canada|Montreal|GloboTech Communications|
+|14|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
+|15|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|16|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|17|38.190.100.107|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
+|18|72.10.164.178|9859|Canada|Montreal|GloboTech Communications|
+|19|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|20|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
 
 
 
