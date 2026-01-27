@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
+|4|88.214.10.187|80|Ukraine|Odesa|TENET Scientific Production Enterprise LLC|
+|5|15.204.231.254|3128|United States|Reston|OVH SAS|
+|6|181.79.92.28|999|Colombia|Florencia|IFX Networks Argentina S.R.L|
+|7|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
+|8|103.26.110.209|9256|India|Chennai|Niss Networks|
+|9|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
+|13|34.172.17.9|213|United States|Council Bluffs|Google LLC|
+|14|38.224.21.1|999|Colombia|El Carmen|U2red S.A.S|
+|15|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|17|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|18|205.237.104.203|3128|France|Paris|PUSHPKT OU|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|88.99.69.103|5021|Germany|Falkenstein|Hetzner Online GmbH|
+
 
 
 ## Contributing
