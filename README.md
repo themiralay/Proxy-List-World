@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|5|34.172.17.9|213|United States|Council Bluffs|Google LLC|
-|6|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|7|103.215.36.88|15088|China|Yancheng|China Mobile Communications Corporation|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|11|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|103.167.229.147|8080|Nepal|Bāgluṅ|Fiberworld Communication Pvt. Ltd|
-|14|192.203.0.118|999|Puerto Rico|Trujillo Alto|Boom NET|
-|15|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|16|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|101.255.76.66|8080|Indonesia|Jakarta|PT Remala Abadi|
-|20|110.76.145.22|89|Indonesia|Krajan|PT Pika Media Komunika|
+|3|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|4|34.172.17.9|213|United States|Council Bluffs|Google LLC|
+|5|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|6|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|8|177.234.249.151|999|Ecuador|Ambato|Ufinet Panama S.A.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|103.120.174.75|1818|Indonesia|Tangerang|PT. Eka Mas Republik|
+|12|85.117.56.115|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|13|103.174.122.244|1111|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|14|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|103.172.17.28|8080|Indonesia|Panulisan|PT Media Access Telematika|
+|18|38.159.37.17|999|Dominican Republic|Santo Domingo|Orbitek SRL|
+|19|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|20|46.185.34.136|8187|Ukraine|Poltava|Kyivstar UA|
 
 
 
