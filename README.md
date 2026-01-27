@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|8|145.220.190.13|1081|The Netherlands|Utrecht|SURFnet III d|
-|9|145.220.190.5|8118|The Netherlands|Utrecht|SURFnet III d|
-|10|145.220.190.1|1081|The Netherlands|Utrecht|SURFnet III d|
-|11|145.220.190.12|8080|The Netherlands|Utrecht|SURFnet III d|
-|12|145.220.190.8|1081|The Netherlands|Utrecht|SURFnet III d|
-|13|145.220.190.15|8118|The Netherlands|Utrecht|SURFnet III d|
-|14|145.220.190.7|9050|The Netherlands|Utrecht|SURFnet III d|
-|15|145.220.190.12|8080|The Netherlands|Utrecht|SURFnet III d|
-|16|145.220.190.2|1081|The Netherlands|Utrecht|SURFnet III d|
-|17|145.220.190.13|1081|The Netherlands|Utrecht|SURFnet III d|
-|18|145.220.190.14|8118|The Netherlands|Utrecht|SURFnet III d|
-|19|145.220.190.9|8080|The Netherlands|Utrecht|SURFnet III d|
-|20|145.220.190.7|9050|The Netherlands|Utrecht|SURFnet III d|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|145.220.190.3|8118|The Netherlands|Utrecht|SURFnet III d|
+|5|145.220.190.1|1081|The Netherlands|Utrecht|SURFnet III d|
+|6|145.220.190.12|8080|The Netherlands|Utrecht|SURFnet III d|
+|7|145.220.190.3|8118|The Netherlands|Utrecht|SURFnet III d|
+|8|145.220.190.13|8080|The Netherlands|Utrecht|SURFnet III d|
+|9|145.220.190.13|8080|The Netherlands|Utrecht|SURFnet III d|
+|10|145.220.190.7|9050|The Netherlands|Utrecht|SURFnet III d|
+|11|145.220.190.2|8118|The Netherlands|Utrecht|SURFnet III d|
+|12|145.220.190.14|1081|The Netherlands|Utrecht|SURFnet III d|
+|13|145.220.190.8|1081|The Netherlands|Utrecht|SURFnet III d|
+|14|145.220.190.4|1081|The Netherlands|Utrecht|SURFnet III d|
+|15|145.220.190.7|9050|The Netherlands|Utrecht|SURFnet III d|
+|16|145.220.190.7|9050|The Netherlands|Utrecht|SURFnet III d|
+|17|145.220.190.3|8118|The Netherlands|Utrecht|SURFnet III d|
+|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|19|145.220.190.6|1081|The Netherlands|Utrecht|SURFnet III d|
+|20|145.220.190.9|8080|The Netherlands|Utrecht|SURFnet III d|
 
 
 
