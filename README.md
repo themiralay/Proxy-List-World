@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|194.44.177.225|8080|Ukraine|Lviv|LLC EKSINTECH|
-|10|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|11|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|15|209.14.108.97|999|United States|Lima|Corporacion Tarazona Catv S.A.C|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|111.68.26.237|8080|Indonesia|Magelang|GMEDIA|
-|18|103.193.145.185|8181|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
-|19|38.158.83.233|999|Peru|Arequipa|Fiberred SAC|
-|20|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|8|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|9|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|14|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|110.49.53.69|8081|Thailand|Mueang Samut Prakan|Advanced Wireless Network Company Limited|
+|19|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
+|20|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
