@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|43.252.158.170|8989|Indonesia|Pugeran Maguwoharjo|PT Blip Integrator Provider|
-|7|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
-|8|209.14.117.53|999|Colombia|Paz de Ariporo|Cogent Communications|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|162.240.154.26|3128|United States|Provo|Unified Layer|
-|15|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|45.70.201.184|999|Ecuador|Yantzaza|Ufinet Panama S.A.|
-|18|103.189.250.89|8090|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
-|19|92.180.22.224|8081|Romania|Turda|Orange Romania Network|
-|20|185.218.202.182|8080|Ukraine|Irpin|"DOMINET" LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|103.189.249.196|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.154.214.50|3128|Indonesia|Cibinong|PT Mora Telematika Indonesia|
+|7|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|8|45.122.122.71|8080|India|Delhi|FusionNet|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|11|43.252.158.170|8989|Indonesia|Pugeran Maguwoharjo|PT Blip Integrator Provider|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|124.120.49.101|8080|Thailand|Phuket|TRUEBB|
+|20|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
