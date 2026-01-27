@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|222.127.206.145|8085|Philippines|Makati City|GLBB|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|15|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|16|144.208.127.181|3128|United States|New York|Shock Hosting LLC|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|124.120.49.101|8080|Thailand|Phuket|TRUEBB|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|103.154.214.50|3128|Indonesia|Cibinong|PT Mora Telematika Indonesia|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|11|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
+|12|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|45.122.122.71|8080|India|Delhi|FusionNet|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|144.208.127.181|3128|United States|New York|Shock Hosting LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
