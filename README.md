@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|175.106.14.126|3128|Indonesia|Jakarta|Quantum Dist POP GC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|185.80.21.92|8080|Türkiye|Bursa|Ulunet Internet ve Iletisim Hizmetleri San. ve Tic. Ltd. Sti.|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|163.227.144.240|8080|Bangladesh|Nowlamary|Bright Technologies Limited|
-|13|223.206.50.242|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|17|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|103.238.232.38|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|202.5.32.228|1101|Bangladesh|Chittagong|BBTS-NEW|
+|7|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
+|8|15.204.231.254|3128|United States|Reston|OVH SAS|
+|9|15.204.231.254|3128|United States|Reston|OVH SAS|
+|10|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|11|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|12|202.43.122.156|1111|India|Wardha|RailTel Corporation|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|164.138.205.10|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
 
 
 
