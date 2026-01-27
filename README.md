@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|7|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|88.99.26.79|5072|Germany|Falkenstein|Hetzner Online GmbH|
-|9|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|12|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|14|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|11|146.103.104.48|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|64.188.73.45|443|Finland|Helsinki|u1host ltd|
 |17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|154.197.69.137|8888|Thailand|Bangkok|NZ Network Enterprise CO|
+|19|147.45.179.180|1081|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
