@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|3|36.95.142.35|8080|Indonesia|South Tangerang|Telekomunikasi Indonesia|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|43.165.195.107|8888|Indonesia|Jakarta|Aceville Pte.ltd|
-|6|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
-|9|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|10|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|190.145.227.114|999|Colombia|Medellín|Telmex Colombia S.A.|
-|12|38.41.12.89|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|13|103.172.42.175|8084|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|15|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
-|16|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|17|185.82.99.219|50066|Lebanon|Baalbek|NET 360 S.A.R.L|
-|18|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|19|103.120.174.75|1818|Indonesia|Tangerang|PT. Eka Mas Republik|
-|20|186.96.67.36|999|Venezuela|Charallave|Gold Data USA Inc|
+|5|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|8|72.10.160.90|10575|Canada|Montreal|GloboTech Communications|
+|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|10|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|11|103.154.224.227|8080|Indonesia|Jakarta|MORATELINDONAP|
+|12|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|13|195.133.77.82|34815|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|15|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|16|45.124.15.90|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|17|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|103.120.174.75|1818|Indonesia|Tangerang|PT. Eka Mas Republik|
+|19|186.156.147.243|999|Chile|Concón|VTR BANDA ANCHA S.A.|
+|20|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
