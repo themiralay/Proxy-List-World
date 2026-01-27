@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|4|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
-|10|65.109.217.101|3534|Finland|Helsinki|Hetzner Online GmbH|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|13|116.197.129.117|8080|Indonesia|Jakarta|FIBERNET|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
-|17|116.105.18.160|9062|Vietnam|An Hải|Viettel Group|
-|18|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|19|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|11|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|12|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|15|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|17|190.242.58.99|999|Colombia|Cali|Liberty Networks De Colombia|
+|18|190.97.239.98|999|Venezuela|Maracaibo||
+|19|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|20|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
 
 
 
