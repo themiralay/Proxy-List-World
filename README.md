@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **70498** proxies at the latest update. Usable proxies are below.
+> Scraper found **70626** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|33381|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|33509|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|35871|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|103.102.12.105|8080|Indonesia|Rembang|FISNET|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|5|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|6|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|7|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|9|182.253.69.95|8080|Indonesia|Jakarta|BIZNET|
-|10|38.194.246.34|999|Mexico|León|Cogent Communications|
-|11|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|12|146.103.98.171|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|204.199.139.75|999|Chile|Alhué|Ingbell Chile SPA|
-|14|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|72.10.160.170|18789|Canada|Montreal|GloboTech Communications|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|4|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|5|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
+|6|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|45.184.124.33|1985|Mexico|Chihuahua City|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
+|11|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|36.94.39.146|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|16|150.241.115.108|47364|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|20|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
