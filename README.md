@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|8|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|9|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|15|104.248.195.47|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|190.14.244.41|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|18|193.221.203.121|8888|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|193.221.203.121|8888|Finland|Helsinki|Baykov Ilya Sergeevich|
+|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|11|103.105.76.10|3125|Indonesia|Jombang|PT. Garuda Media Telematika|
+|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|15|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|118.97.137.68|8080|Indonesia|Utan|PT. TELKOM INDONESIA|
+|18|103.168.44.212|49151|Indonesia|Jakarta|PT CYB Media Group|
+|19|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|20|59.153.19.34|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
