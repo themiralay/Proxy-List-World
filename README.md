@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **71108** proxies at the latest update. Usable proxies are below.
+> Scraper found **70867** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|33704|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|33463|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|36150|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|78.12.223.246|294|Mexico|Querétaro City|Amazon.com|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|9|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|150.241.115.108|47364|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
-|17|91.84.113.225|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|142.132.139.242|5142|Germany|Falkenstein|Hetzner Online GmbH|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|150.241.115.108|47364|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|78.12.223.246|294|Mexico|Querétaro City|Amazon.com|
+|15|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|147.75.34.105|443|The Netherlands|IJmuiden|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|19|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|20|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
 
 
 
