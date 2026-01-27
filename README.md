@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **70459** proxies at the latest update. Usable proxies are below.
+> Scraper found **70463** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|33659|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|33663|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|35561|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|101.255.107.58|1111|Indonesia|Jakarta|PT Remala Abadi|
-|7|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|8|15.204.231.254|3128|United States|Reston|OVH SAS|
-|9|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|88.99.69.103|5022|Germany|Falkenstein|Hetzner Online GmbH|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|15|123.25.234.143|8090|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|119.93.14.61|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|101.255.107.58|1111|Indonesia|Jakarta|PT Remala Abadi|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
+|10|103.125.174.85|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|14|202.43.122.156|1111|India|Wardha|RailTel Corporation|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|17|202.146.230.102|8080|Indonesia|Jagirsidosermo|PT Centrin Utama|
+|18|103.122.65.11|8080|Indonesia|Denpasar|PT. Jinom Network Indonesia|
+|19|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
