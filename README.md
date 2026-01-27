@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|2|34.172.17.9|213|United States|Council Bluffs|Google LLC|
-|3|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|34.172.17.9|213|United States|Council Bluffs|Google LLC|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|34.172.17.9|213|United States|Council Bluffs|Google LLC|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|13|88.99.27.22|5081|Germany|Falkenstein|Hetzner Online GmbH|
-|14|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|16|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|67.43.236.20|29505|Canada|Montreal|GloboTech Communications|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|6|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|34.172.17.9|213|United States|Council Bluffs|Google LLC|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|88.99.26.79|5071|Germany|Falkenstein|Hetzner Online GmbH|
+|13|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|14|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|15|103.124.137.68|8080|Indonesia|Kebumen Satu|Global Media Data Prima|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|182.253.73.13|443|Indonesia|Labansari|BIZNET|
+|18|103.251.232.28|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|38.52.208.49|999|Guatemala|Guatemala City|Central De Redes Y Comunicaciones De Guatemala S.A|
 
 
 
