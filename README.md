@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4789** proxies at the latest update. Usable proxies are below.
+> Scraper found **4785** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|745|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|741|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2783|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|8|212.108.115.59|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|9|124.122.134.152|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|10|103.174.145.46|83|India|Gandhinagar|Vaidik Netsol OPC PVT LTD|
-|11|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|12|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|13|190.61.116.253|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|16|38.194.246.34|999|Mexico|León|Cogent Communications|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|47.86.53.59|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|103.105.176.232|8080|India|Hyderabad|Rohan Media Private Ltd|
-|20|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|157.90.207.48|5121|Germany|Falkenstein|Hetzner Online GmbH|
+|7|142.132.139.242|5143|Germany|Falkenstein|Hetzner Online GmbH|
+|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|9|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
+|10|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|181.78.71.171|999|Colombia|Nilo|IFX Networks Argentina S.R.L|
+|15|186.167.112.91|999|Venezuela|Valencia|Corporacion Digitel C.A|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|103.166.158.251|1111|Indonesia|Pangkalan|PT Timor Lintas Nusantara|
+|18|202.5.60.68|4126|Bangladesh|Chittagong|BBTS-NEW|
+|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|20|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
 
 
 
