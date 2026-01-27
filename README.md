@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **70684** proxies at the latest update. Usable proxies are below.
+> Scraper found **70562** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|33884|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|33762|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|35561|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|202.5.32.228|1101|Bangladesh|Chittagong|BBTS-NEW|
-|7|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
-|8|15.204.231.254|3128|United States|Reston|OVH SAS|
-|9|15.204.231.254|3128|United States|Reston|OVH SAS|
-|10|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|11|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|12|202.43.122.156|1111|India|Wardha|RailTel Corporation|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|164.138.205.10|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.204.231.254|3128|United States|Reston|OVH SAS|
+|7|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|8|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|13|119.93.14.61|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|44.200.8.242|80|United States|Ashburn|Amazon.com|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
+|20|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
