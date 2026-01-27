@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|10|119.95.175.239|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|164.138.205.10|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|101.255.107.58|1111|Indonesia|Jakarta|PT Remala Abadi|
-|17|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|18|212.108.115.79|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|19|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|103.133.27.143|8080|Indonesia|Kedungwuni|PT PHATRIA INTI PERSADA|
+|12|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|13|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|14|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|67.43.236.20|2699|Canada|Montreal|GloboTech Communications|
+|19|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|20|45.133.107.10|81|Armenia|Sisavan|Art-net LLC|
 
 
 
