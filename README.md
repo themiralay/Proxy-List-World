@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
+|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|4|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
 |5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|6|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|10|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|11|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|12|49.48.141.153|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|13|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|16|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|19|181.48.39.89|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|20|88.99.26.79|5073|Germany|Falkenstein|Hetzner Online GmbH|
+|6|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|11|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|15|213.169.33.7|8001|Bulgaria|Sofia|A1 Bulgaria EAD|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|18|103.247.15.53|7777|Indonesia|Kutoarjo|TERABIT|
+|19|167.249.52.246|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|20|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
 
 
 
