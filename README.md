@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|4|124.120.49.101|8080|Thailand|Phuket|TRUEBB|
-|5|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|45.122.122.71|8080|India|Delhi|FusionNet|
-|12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|13|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|14|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|17|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|18|15.204.231.254|3128|United States|Reston|OVH SAS|
-|19|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|2|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|124.120.49.101|8080|Thailand|Phuket|TRUEBB|
+|8|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|17|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|103.142.254.101|1111|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 
 
 
