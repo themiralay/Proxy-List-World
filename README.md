@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|5|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|10|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|17|103.171.182.229|8080|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|18|103.102.12.105|8080|Indonesia|Rembang|FISNET|
-|19|217.217.254.94|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|103.105.76.65|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|14|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|193.221.203.121|8888|Finland|Helsinki|Baykov Ilya Sergeevich|
+|17|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|103.124.137.99|8080|Indonesia|Kebumen Satu|Global Media Data Prima|
+|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
