@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|101.255.107.58|1111|Indonesia|Jakarta|PT Remala Abadi|
-|5|202.140.62.212|8080|India|Bengaluru|Karuturi Telecom Pvt Ltd|
-|6|152.32.93.105|8082|Philippines|Quezon City|Converge Information and Communications Technology Solutions|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.125.174.85|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|11|24.152.58.22|999|Colombia|Bucaramanga|Atenea Telecomunicaciones|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|14|164.138.205.70|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|15|103.147.98.122|8080|India|Bengaluru|Onquee Networks Pvt Ltd|
-|16|212.108.115.79|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|17|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|18|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|113.53.61.217|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|223.206.50.242|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|13|89.125.98.88|8080|Germany|Frankfurt am Main|RCS Technologies FZE LLC|
+|14|112.203.103.140|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|15|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|16|160.187.204.14|8090|Indonesia|Kendal|PT Bena Bentala Services|
+|17|102.213.216.98|8080|Kenya|Garissa|Celcom Networks Limited|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|123.25.234.143|8090|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|163.5.128.250|14270|United States|Brooklyn|Windstream Communications LLC|
 
 
 
