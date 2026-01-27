@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|4|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|14|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|16|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|17|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|202.5.53.145|9355|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|2|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
+|7|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|200.39.152.193|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|12|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|13|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|14|88.99.30.148|5052|Germany|Falkenstein|Hetzner Online GmbH|
+|15|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|16|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|17|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|150.241.116.247|2080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
