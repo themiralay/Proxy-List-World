@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4645** proxies at the latest update. Usable proxies are below.
+> Scraper found **4716** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|718|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2738|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|38.194.246.34|999|Mexico|León|Cogent Communications|
-|13|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|8.243.197.201|999|Ecuador|Puerto López|CTL Ecuador|
-|15|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|3|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|6|103.184.67.117|8080|Indonesia|Rokoy|PT Siber Tech Indonesia|
+|7|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|202.154.18.56|8080|Indonesia|Mojokerto|DIGITNET|
+|10|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
+|11|181.78.202.28|8080|Ecuador|Quito|Ufinet Panama S.A.|
+|12|1.0.170.50|8080|Thailand|Suphan Buri|TOT Public Company Limited|
+|13|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|190.8.164.245|999|Venezuela|Porlamar|CORPORACION FIBEX TELECOM, C.A.|
+|16|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |18|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
-|20|103.130.128.249|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|19|202.5.60.68|4126|Bangladesh|Chittagong|BBTS-NEW|
+|20|181.204.104.245|999|Colombia|Barranquilla|Colombia Móvil|
 
 
 
