@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|4|103.247.13.148|7777|Indonesia|Magelang|TERABIT|
-|5|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|6|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|77.225.198.220|9812|Spain|Madrid|Comunitel Global|
-|9|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|3|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|7|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|8|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|146.103.98.171|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|103.102.12.105|8080|Indonesia|Rembang|FISNET|
-|15|61.29.96.146|8000|Australia|Albury|AAPT Limited|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|20|190.60.37.243|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
 
 
 
