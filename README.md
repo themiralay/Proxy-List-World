@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|16|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|17|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|19|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|9|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|14|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
+|17|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
