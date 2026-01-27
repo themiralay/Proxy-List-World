@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|36.88.141.105|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|5|103.154.214.50|3128|Indonesia|Cibinong|PT Mora Telematika Indonesia|
-|6|124.83.118.106|8082|Philippines|Bocaue|Philippine Long Distance Telephone Co.|
-|7|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|8|103.216.94.66|8000|India|Mumbai|Yotta Network Services Private Limited|
+|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|203.20.42.13|8082|Philippines|Valenzuela|RNDS Network|
+|4|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|11|103.134.220.145|8080|Indonesia|Mungkid|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|12|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|190.94.212.228|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|27.147.163.188|40544|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|18|50.29.238.9|8888|United States|Mountain Top|PenTeleData Inc.|
-|19|142.132.139.242|5142|Germany|Falkenstein|Hetzner Online GmbH|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|11|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|12|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|45.70.201.184|999|Ecuador|Yantzaza|Ufinet Panama S.A.|
+|17|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|116.105.18.160|9063|Vietnam|An Hải|Viettel Group|
+|20|46.250.251.246|443|United Kingdom|London|Contabo Asia Private Limited|
 
 
 
