@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
 |3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|103.152.238.93|1080|Indonesia|Cikarang|APRIN|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|11|202.5.37.91|8090|Bangladesh|Comilla|BBTS-NEW|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|176.105.220.74|3129|Ukraine|Kremenchug|RPC HomeNet Ltd.|
-|15|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|223.206.13.132|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|19|185.82.99.198|8724|Lebanon|Baalbek|NET 360 S.A.R.L|
-|20|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
+|8|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|9|190.238.171.190|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|10|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|11|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|223.206.13.132|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|115.244.181.122|8080|India|Lucknow|Reliance Jio Infocomm Limited|
+|19|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
 
 
 
