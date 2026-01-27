@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|5|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|16|103.156.96.238|8088|Indonesia|North Luwu Regency|PT Karya Panca Telekomunikasi|
-|17|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|18|77.110.97.209|8080|Sweden|Stockholm|Aeza International LTD|
-|19|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|146.103.98.171|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|4|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|7|43.209.8.12|93|Thailand|Bangkok|Amazon.com, Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|77.105.138.163|54101|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|103.182.79.137|8085|Indonesia|Driyorejo|PT Cybernet Data Multimedia|
+|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|16|202.57.25.42|8080|Indonesia|Semarang|announced of WINET|
+|17|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
 
 
 
