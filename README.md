@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|202.154.37.162|8080|Indonesia|Contong|RADNET|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|103.191.196.33|8080|Indonesia|Jatiwangi|PT Pangkalan Lintas Data|
-|8|103.156.96.238|8088|Indonesia|North Luwu Regency|PT Karya Panca Telekomunikasi|
-|9|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
-|12|188.166.222.51|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|150.241.115.108|47364|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|202.5.53.145|9355|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|15|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|88.99.27.22|5083|Germany|Falkenstein|Hetzner Online GmbH|
+|1|47.86.53.59|80|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|4|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|7|103.187.86.14|8085|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|183.91.80.194|8089|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|10|38.194.246.34|999|Mexico|León|Cogent Communications|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|17|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|18|36.94.39.146|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|19|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
 |20|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
