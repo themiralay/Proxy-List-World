@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |5|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
-|6|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|46.172.36.213|8080|Russia|Belgorod|MTS PJSC|
-|11|78.12.230.52|9400|Mexico|Querétaro City|Amazon.com|
-|12|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|45.230.169.129|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|15.204.151.148|3128|United States|Reston|OVH SAS|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|192.203.0.210|999|Puerto Rico|Comunas|Boom NET|
 |15|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|16|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|18|187.84.176.20|8080|Brazil|Brasília|Allrede Telecom Ltda|
-|19|210.79.141.126|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
-|20|88.99.26.79|5071|Germany|Falkenstein|Hetzner Online GmbH|
+|16|101.255.151.25|8080|Indonesia|Tangerang|PT Remala Abadi|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
+|19|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|190.111.218.141|999|Argentina|San Juan Bautista|CPS|
 
 
 
