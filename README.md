@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|3|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|7|43.252.158.170|8989|Indonesia|Pugeran Maguwoharjo|PT Blip Integrator Provider|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
-|11|44.200.8.242|80|United States|Ashburn|Amazon.com|
-|12|14.143.130.210|1111|India|New Delhi|Tata Communications Limited|
-|13|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|14|103.190.101.1|83|India|Bhubaneswar|Dotnet Broadband Private Limited|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|222.127.206.145|8085|Philippines|Makati City|GLBB|
+|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|160.20.55.230|8080|Hong Kong|Wan Chai|Gateway Technology Development Company Limited|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
 |16|72.10.160.90|14719|Canada|Montreal|GloboTech Communications|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|181.204.81.182|999|Colombia|Pereira|Colombia Móvil|
-|19|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
-|20|103.154.214.50|3128|Indonesia|Cibinong|PT Mora Telematika Indonesia|
+|17|38.180.189.145|80|Hong Kong|Hong Kong|M247 Europe SRL|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|123.200.23.121|4126|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
