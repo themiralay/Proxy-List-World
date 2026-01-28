@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|88.99.29.50|5131|Germany|Falkenstein|Hetzner Online GmbH|
+|5|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|7|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
 |8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|14|88.99.26.79|5071|Germany|Falkenstein|Hetzner Online GmbH|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|121.141.161.242|1080|South Korea|Gangseo-gu|Korea Telecom|
-|17|88.99.69.214|5031|Germany|Falkenstein|Hetzner Online GmbH|
-|18|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|19|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|20|40.192.100.189|7809|India|Hyderabad|Amazon.com, Inc.|
+|9|34.14.143.185|3128|India|Mumbai|Google LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|13|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|14|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|15|40.192.100.189|7809|India|Hyderabad|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|38.46.233.248|3127|Indonesia|Boyolali|PT CYB Media Group|
+|19|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
