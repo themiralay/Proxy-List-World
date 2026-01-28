@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|6|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|7|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|16|103.56.93.16|1935|Indonesia|Semarang|Argon Data Communication|
-|17|34.14.143.185|3128|India|Mumbai|Google LLC|
-|18|88.99.27.22|5083|Germany|Falkenstein|Hetzner Online GmbH|
-|19|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
-|20|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|103.156.14.26|8080|Indonesia|Talang Ubi|PT Lintas Jaringan Nusantara|
+|10|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|11|103.162.221.4|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|14|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|17|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
+|18|181.78.48.237|999|Guatemala|Rabinal|Ufinet Panama S.A.|
+|19|103.56.93.16|1935|Indonesia|Semarang|Argon Data Communication|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
