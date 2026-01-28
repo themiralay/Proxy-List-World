@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|6|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|17|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|18|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
+|10|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
+|11|202.5.32.72|8090|Bangladesh|Chittagong|BBTS-NEW|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|202.57.25.80|8080|Indonesia|Semarang|announced of WINET|
+|18|154.59.59.89|999|Venezuela|Caracas|Cogent Communications|
+|19|38.194.246.34|999|Mexico|León|Cogent Communications|
+|20|202.5.60.68|4126|Bangladesh|Chittagong|BBTS-NEW|
 
 
 
