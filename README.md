@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|121.141.161.242|1080|South Korea|Gangseo-gu|Korea Telecom|
-|3|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|8|185.172.3.70|8081|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|103.166.158.251|1111|Indonesia|Pangkalan|PT Timor Lintas Nusantara|
-|11|45.144.232.249|54562|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|12|103.158.62.130|8080|Bangladesh|Sylhet|SEARCH IT|
-|13|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|14|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|222.165.205.212|1452|Indonesia|Nusa Dua|PT NettoCyber Indonesia|
-|17|187.251.230.15|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|18|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|45.227.195.121|8082|Brazil|Concórdia|Mhnet Telecom|
-|20|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|123.200.6.153|4126|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|180.180.175.11|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|15|190.119.90.114|8080|Peru|Las Nazarenas|America Movil Peru S.A.C.|
+|16|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|19|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 
 
 
