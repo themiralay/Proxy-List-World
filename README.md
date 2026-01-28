@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5024** proxies at the latest update. Usable proxies are below.
+> Scraper found **5018** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|37|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3207|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|3|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
 |6|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|10|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|11|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|40.192.100.189|7809|India|Hyderabad|Amazon.com, Inc.|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|9|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|40.192.100.189|7809|India|Hyderabad|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|137.59.49.205|22122|Bangladesh|Azimpur|Bijoy Online Ltd|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|163.5.128.190|14270|United States|Brooklyn|Windstream Communications LLC|
+|16|185.172.3.70|8081|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|222.209.184.122|1087|China|Chengdu|Chinanet|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
 
 
 
