@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
-|4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|6|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
-|7|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|11|123.200.6.153|4126|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
-|16|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
-|17|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
-|18|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
-|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|20|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|34.14.143.185|3128|India|Mumbai|Google LLC|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|157.90.207.48|5122|Germany|Falkenstein|Hetzner Online GmbH|
+|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|88.99.27.163|5093|Germany|Falkenstein|Hetzner Online GmbH|
+|11|45.144.232.249|54562|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|12|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|16|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|18|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|19|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
+|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
