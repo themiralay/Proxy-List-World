@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|5|103.155.199.104|8080|Indonesia|Cibenda|PT Lintas Jaringan Nusantara|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|11|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|38.156.233.194|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|186.96.67.40|999|Venezuela|Cúa|Gold Data USA Inc|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|6|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|141.11.187.163|8080|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|186.96.67.40|999|Venezuela|Cúa|Gold Data USA Inc|
+|16|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|203.146.80.235|8080|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
+|18|119.148.14.201|60724|Bangladesh|Dhaka|Agni Systems Ltd. SUB|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|38.45.242.45|999|Mexico|Dolores Hidalgo|Wifimax Connection S.a.s De C.V|
 
 
 
