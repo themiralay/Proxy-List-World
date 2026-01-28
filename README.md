@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|103.133.27.239|8080|Indonesia|Buaran|PT PHATRIA INTI PERSADA|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
+|14|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
+|15|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|16|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|19|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+
 
 
 ## Contributing
