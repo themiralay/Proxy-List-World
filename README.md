@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|11|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|13|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|19|213.169.33.7|8001|Bulgaria|Sofia|A1 Bulgaria EAD|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|88.99.27.17|5112|Germany|Falkenstein|Hetzner Online GmbH|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|10|202.51.198.1|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|11|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|103.138.70.155|8080|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|15|186.250.53.192|8080|Brazil|Guarulhos|Redfox Telecomunicações Ltda.|
+|16|103.154.230.74|8090|Indonesia|Bilo|DIGITNET|
+|17|102.219.231.22|8080|South Africa|Middelburg|Soepa Soap Vervaardigers CC|
+|18|103.155.64.131|8080|Indonesia|Desa Mangkubumi|PT Media Access Telematika|
+|19|59.153.17.46|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|20|38.224.21.1|999|Colombia|El Carmen|U2red S.A.S|
 
 
 
