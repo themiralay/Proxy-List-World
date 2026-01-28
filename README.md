@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.178.3.248|8080|Indonesia|Tuliskriyo|RSTNET|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|6|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|9|103.104.15.184|8080|Indonesia|Cimahi|STARNET-JTL|
-|10|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|11|203.192.217.6|8080|India|Ratnagiri|Entire In2Cable|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|157.125.220.80|8080|United Kingdom|Pudsey|Gamma Telecom Holdings Ltd|
-|16|190.188.131.87|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
-|17|203.150.113.163|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|7|88.99.26.76|5102|Germany|Falkenstein|Hetzner Online GmbH|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|10|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|91.107.157.68|20143|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|14|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|17|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|18|103.172.71.209|1080|Indonesia|Karawang|AZNET|
+|19|222.127.156.134|8082|Philippines|San Juan|Globe Telecom|
+|20|38.194.246.34|999|Mexico|León|Cogent Communications|
 
 
 
