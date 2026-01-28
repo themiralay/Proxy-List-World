@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|190.60.61.42|8080|Colombia|Prado-Sevilla|IFX NETWORKS COLOMBIA|
-|9|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|12|94.103.93.14|53943|Russia|Moscow|Hosting technology LTD|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
-|18|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
-|19|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|157.100.69.133|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|12|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|13|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|16|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|17|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
