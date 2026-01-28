@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|34.14.143.185|3128|India|Mumbai|Google LLC|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|103.83.80.68|8080|India|Bhānpura|Syntego Technologies India Private Limited|
-|18|181.114.62.1|8085|Argentina|Villa Ramallo|INTERAIR|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|38.156.15.156|999|Mexico|Teocaltiche|Wistarip Networks|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|112.78.181.90|3128|Indonesia|Jakarta|BIZNET|
+|6|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|15|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|18|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|19|34.14.143.185|3128|India|Mumbai|Google LLC|
+|20|38.224.97.12|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
 
 
 
