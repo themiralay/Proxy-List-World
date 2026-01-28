@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|7|202.93.247.42|8090|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|12|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|17|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|223.205.200.232|8081|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
-|20|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|13|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|14|200.92.201.126|999|Mexico|Dolores Hidalgo|Mega Cable, S.A. de C.V.|
+|15|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
