@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|103.171.183.222|8097|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|157.15.66.97|8082|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|10|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|16|202.58.77.170|8081|Indonesia|Kediri|PT Data Buana Nusantara|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|15|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |17|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|18|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|20|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|18|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|20|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
 
 
 
