@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
-|6|103.165.231.43|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|190.12.150.244|999|Ecuador|Rosa Zarate|Servitelconet Cia. Ltda.|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|15|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
-|16|103.215.36.88|19626|China|Yancheng|China Mobile Communications Corporation|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|19|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|103.125.118.172|3125|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|19|103.162.221.4|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
