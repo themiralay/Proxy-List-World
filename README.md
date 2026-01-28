@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|195.201.2.238|56005|Germany|Nuremberg|Hetzner Online GmbH|
-|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|17|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|20|45.170.128.120|999|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|2|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|88.99.30.237|5062|Germany|Falkenstein|Hetzner Online GmbH|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|158.160.133.16|8087|Russia|Moscow|Yandex.Cloud LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|103.189.11.63|3838|Bangladesh|Chāndpur|Digicon Telecommunication Ltd|
+|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|103.18.77.24|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|34.14.143.185|3128|India|Mumbai|Google LLC|
 
 
 
