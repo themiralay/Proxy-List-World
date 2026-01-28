@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|8|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
 |9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|11|34.14.143.185|3128|India|Mumbai|Google LLC|
-|12|193.221.203.121|5678|Finland|Helsinki|Baykov Ilya Sergeevich|
-|13|38.191.200.85|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|193.221.203.121|5678|Finland|Helsinki|Baykov Ilya Sergeevich|
-|17|193.221.203.121|5678|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|193.221.203.121|5678|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|193.221.203.121|5678|Finland|Helsinki|Baykov Ilya Sergeevich|
+|10|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
+|11|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
+|12|211.217.231.234|8080|South Korea|Mapo-gu|Korea Telecom|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|89.117.130.19|80|United States|Los Angeles|Limestone Networks, Inc.|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|223.205.200.232|8081|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
+|17|103.48.70.105|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
