@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.76.107.2|8085|Indonesia|Patuk|PT Geka Solusi Utama|
-|4|103.112.54.21|58080|Bangladesh|Dhaka|Systems Solutions & development Technologies Limited|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|103.242.105.111|8080|Indonesia|Cikarang|PT Lintas Jaringan Nusantara|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.153.63.146|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|8|203.223.89.185|8080|Bangladesh|Tongi|Md Rofikul Islam|
 |9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|103.169.38.93|8080|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
-|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|12|179.60.53.26|999|Ecuador|Cuenca|Stealth Telecom del Ecuador|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|103.129.175.43|8080|Indonesia|Soreang|PT. Eka Mas Republik|
-|16|152.70.84.108|8080|Japan|Osaka|Oracle Corporation|
-|17|193.221.203.121|8080|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|38.191.200.85|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|203.20.42.66|8082|Philippines|Valenzuela|RNDS Network|
+|11|179.60.53.26|999|Ecuador|Cuenca|Stealth Telecom del Ecuador|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|16|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|103.193.144.99|8080|Indonesia|Sarimatondang|PT Lintas Jaringan Nusantara|
+|19|103.193.145.22|8082|Indonesia|Deli Tua|PT Lintas Jaringan Nusantara|
+|20|202.93.247.42|8090|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
 
 
 
