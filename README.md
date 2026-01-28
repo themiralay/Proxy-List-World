@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|8|40.192.100.189|7809|India|Hyderabad|Amazon.com, Inc.|
-|9|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|10|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|11|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|12|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|13|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
+|7|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
+|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|9|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|10|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|13|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 |14|116.80.58.162|3172|Japan|Yokohama|InfoSphere|
-|15|57.128.188.167|9233|United Kingdom|Erith|OVH SAS|
-|16|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|159.195.84.83|443|Germany|Nuremberg|netcup GmbH|
-|20|36.91.220.132|8080|Indonesia|Gandaria Utara|PT. Telekomunikasi Indonesia|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|18|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|19|223.25.100.42|2222|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
