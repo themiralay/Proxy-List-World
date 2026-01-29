@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|10|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|11|34.14.143.185|3128|India|Mumbai|Google LLC|
-|12|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|103.133.26.11|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|11|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|163.5.128.250|14270|United States|Brooklyn|Windstream Communications LLC|
+|15|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 |16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|103.179.182.185|8181|Indonesia|Gambiran Satu|PT Cahaya Solusindo Internusa|
-|18|116.105.18.160|9062|Vietnam|An Hải|Viettel Group|
+|17|103.175.49.222|8080|Indonesia|Purwodadi Grobogan|PT. Trans Indonesia Superkoridor|
+|18|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
 |19|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
 
 
 
