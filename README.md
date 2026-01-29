@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|34.14.143.185|3128|India|Mumbai|Google LLC|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|172.94.36.219|80|United States|Houston|Datacamp Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|172.94.36.219|80|United States|Houston|Datacamp Limited|
-|10|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|16|103.189.197.105|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|14|165.101.254.25|8088|Philippines|Cainta|DC FIBER NETWORK WIRED INTERNET SERVICES|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|31.133.32.102|3128|Russia|Rostov-on-Don|S.U.E. DPR Republic Operator of Networks|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|84.21.172.174|8080|Latvia|Riga|Baykov Ilya Sergeevich|
 
 
 
