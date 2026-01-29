@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|11|34.14.143.185|3128|India|Mumbai|Google LLC|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
 |17|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|38.172.128.104|999|Peru|Lima|Conex TV E.I.R.L|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.172.70.10|8080|Indonesia|Tangerang|AZNET|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
