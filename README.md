@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|34.14.143.185|3128|India|Mumbai|Google LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|43.252.236.158|8080|Indonesia|Caringin|NET|
-|11|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|13|96.227.245.221|999|United States|Philadelphia|Verizon Business|
-|14|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|15|103.82.23.118|5195|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|16|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|6|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|78.12.220.164|117|Mexico|Querétaro City|Amazon.com|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|15|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|17|103.82.23.118|5195|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
 
 
 
