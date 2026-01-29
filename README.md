@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|5|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|72.10.164.178|27435|Canada|Montreal|GloboTech Communications|
-|15|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.160.171|26129|Canada|Montreal|GloboTech Communications|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|10|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|13|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|14|95.163.153.116|20184|Austria|Vienna|Aeza International LTD|
+|15|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
