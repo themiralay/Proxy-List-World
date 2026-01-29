@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|7|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|10|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|193.221.203.121|4145|Finland|Helsinki|Baykov Ilya Sergeevich|
+|12|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|13|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|19|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
