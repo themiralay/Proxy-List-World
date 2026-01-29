@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4710** proxies at the latest update. Usable proxies are below.
+> Scraper found **4691** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|534|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|515|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|29|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2947|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|2|64.225.40.90|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|185.104.112.137|51262|Germany|Frankfurt am Main|Timeweb, LLP|
-|9|154.73.28.79|8080|Libya|Tripoli|Rawafed|
-|10|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|11|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|186.96.15.70|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|18|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
-|19|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
+|7|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|8|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|9|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|12|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|72.10.160.173|14955|Canada|Montreal|GloboTech Communications|
+|16|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|185.195.26.44|8080|Russia|Moscow|First Server Limited|
+|20|190.237.238.53|999|Peru|Lima|TDP-GRS|
 
 
 
