@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|11|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
-|16|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|17|180.190.243.74|5050|Philippines|Iloilo City|Globe Telecom|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|190.94.212.64|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|84.21.172.174|8080|Latvia|Riga|Baykov Ilya Sergeevich|
 
 
 
