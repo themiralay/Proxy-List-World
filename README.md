@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4576** proxies at the latest update. Usable proxies are below.
+> Scraper found **4594** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|50|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2722|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2740|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|8|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|5|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|7|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|8|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
 |9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |10|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
-|11|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
-|12|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|13|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|14|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|180.191.16.105|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |17|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|19|27.124.75.77|8080|Philippines|Cebu City|PT Arsa Work Indonesia|
-|20|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|191.7.196.128|8080|Brazil|Chapadinha|Online Telecomunicacoes Ltda|
 
 
 
