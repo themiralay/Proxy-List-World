@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.58.162|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|12|103.231.239.6|58080|Bangladesh|Dhaka|Systems Solutions & development Technologies Limited|
-|13|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|17|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|18|61.19.145.66|8080|Thailand|Khlong San|National Telecom Public Company Limited|
-|19|103.191.196.33|8080|Indonesia|Jatiwangi|PT Pangkalan Lintas Data|
-|20|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
+|1|116.80.58.162|3172|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|160.19.19.226|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|7|103.19.78.138|1111|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|157.20.239.223|8080|Indonesia|Sidodadi|PT Era Network Indonesia|
+|15|185.74.222.94|8090|Hong Kong|Chai Wan|WorkTitans B.V.|
+|16|160.19.19.59|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|17|117.18.20.66|8085|Indonesia|Blitar|PT ALUCIO|
+|18|222.252.144.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
