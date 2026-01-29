@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.112.125.130|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|57.180.58.114|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|13.231.104.180|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|13.231.104.180|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|3.112.125.130|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|3|57.180.58.114|3128|Japan|Tokyo|Amazon.com, Inc.|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |6|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|7|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|64.225.40.90|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|64.225.40.90|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|15|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|104.129.194.45|11401|United States|Reston|ZSCALER, INC.|
-|18|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|13|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|154.19.38.197|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
 
 
 
