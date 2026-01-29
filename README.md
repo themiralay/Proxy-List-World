@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5088** proxies at the latest update. Usable proxies are below.
+> Scraper found **5097** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|745|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|754|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|104|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3039|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|11|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|84.21.172.174|8080|Latvia|Riga|Baykov Ilya Sergeevich|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|11|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|17|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|202.58.77.28|7777|Indonesia|Kediri|PT Data Buana Nusantara|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|103.122.64.139|8085|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
 
 
 
