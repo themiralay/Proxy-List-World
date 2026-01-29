@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.58.162|3172|Japan|Yokohama|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|103.66.197.2|8080|Indonesia|Serpong|PT. Mora Telematika Indonesia|
-|15|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|16|102.209.18.96|8080|Kenya|Nairobi|Vennet Solutions Limited|
-|17|89.110.124.101|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|103.190.113.123|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|20|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
+|5|103.93.93.178|8181|Indonesia|Kebomas|MYRISE|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|14|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
