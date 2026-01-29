@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|57.180.58.114|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|13.231.104.180|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|3.112.125.130|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|7|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|15|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|34.14.143.185|3128|India|Mumbai|Google LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+
 
 
 ## Contributing
