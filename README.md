@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|104.129.194.45|11190|United States|Reston|ZSCALER, INC.|
-|12|104.129.194.45|11190|United States|Reston|ZSCALER, INC.|
-|13|104.129.194.45|11190|United States|Reston|ZSCALER, INC.|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|104.129.194.45|11190|United States|Reston|ZSCALER, INC.|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|8|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|104.129.194.45|10819|United States|Reston|ZSCALER, INC.|
+|18|104.129.194.45|10819|United States|Reston|ZSCALER, INC.|
+|19|104.129.194.45|10819|United States|Reston|ZSCALER, INC.|
+|20|104.129.194.45|10819|United States|Reston|ZSCALER, INC.|
 
 
 
