@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|110.172.29.131|3128|India|Ahmedabad|Spidigo Wireless|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|34.14.143.185|3128|India|Mumbai|Google LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |18|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
 |19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
