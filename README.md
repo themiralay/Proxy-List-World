@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|8|51.48.124.225|8724|Spain|Zaragoza|Amazon.com, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|103.255.66.109|8080|Pakistan|Islamabad|Transworld Enterprise Services|
-|16|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|170.205.70.163|80|Switzerland|Bösingen|Swisscom (Schweiz) AG|
+|2|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|47.86.53.59|443|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|14|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|15|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|16|45.174.56.21|999|Mexico|Uriangato|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|17|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|18|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
+|19|175.100.35.103|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
