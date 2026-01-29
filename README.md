@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|5|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|14|38.172.131.203|999|Peru|Lima|Conex TV E.I.R.L|
-|15|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|67.43.228.252|17723|Canada|Montreal|GloboTech Communications|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|10|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|11|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|124.105.186.206|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|45.133.107.238|81|Armenia|Sisavan|Art-net LLC|
+|18|34.14.143.185|3128|India|Mumbai|Google LLC|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
