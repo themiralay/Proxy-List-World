@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|9|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|103.156.16.45|8080|Indonesia|Indramayu|RSTNET|
+|15|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
