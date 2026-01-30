@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|10|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|13|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|8|166.249.154.135|3128|United States|Utica|Verizon Business|
+|9|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|49.147.70.206|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
 |16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|166.249.154.135|3128|United States|Utica|Verizon Business|
-|20|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|17|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|18|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
