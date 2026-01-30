@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|202.162.195.157|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|6|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|7|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|11|110.16.77.101|8082|China|Zhangzhou|China Unicom CHINA169 Neimeng Province Network|
-|12|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|13|202.5.37.155|8090|Bangladesh|Comilla|BBTS-NEW|
-|14|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|120.28.221.86|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|5|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|6|119.148.14.201|60724|Bangladesh|Dhaka|Agni Systems Ltd. SUB|
+|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|161.49.89.217|8081|Philippines|Pasig|Converge ICT Solution Inc|
+|9|154.19.38.123|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
+|10|137.59.49.205|22122|Bangladesh|Azimpur|Bijoy Online Ltd|
+|11|209.14.98.5|8080|Colombia|Mutatá|Cogent Communications|
+|12|103.178.21.160|3125|Indonesia|Malang|PT Trisna Mega Abadi|
+|13|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|14|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|15|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
 |16|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|17|188.132.222.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|200.106.165.77|999|Mexico|San Juan del Río|Cybernetworks S.A De C.V|
-|19|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
-|20|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|17|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|18|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|19|188.132.222.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
