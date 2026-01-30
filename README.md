@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |4|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|7|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|8|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|16|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|64.225.40.90|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|12|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
