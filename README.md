@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|8|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|9|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|16|34.14.143.185|3128|India|Mumbai|Google LLC|
+|17|46.172.36.213|8080|Russia|Belgorod|MTS PJSC|
+|18|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|19|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|20|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+
 
 
 ## Contributing
