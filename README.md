@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
+|6|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|11|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+
 
 
 ## Contributing
