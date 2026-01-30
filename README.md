@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|8|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|9|64.225.40.90|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|11|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|12|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|14|152.69.229.220|3128|South Korea|Chuncheon|Oracle Corporation|
-|15|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|163.5.128.114|14270|United States|Brooklyn|Windstream Communications LLC|
-|18|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|19|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|10|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|18|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 
 
 
