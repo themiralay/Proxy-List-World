@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|1|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
-|8|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|5|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|6|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|7|126.209.1.14|8082|Philippines|Manila|Infinivan Incorporated|
+|8|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|9|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
 |10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|13|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|12|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|13|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
 |14|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|15|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|16|170.106.169.126|3128|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|20|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|15|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|20|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
 
 
 
