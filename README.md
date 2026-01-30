@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5504** proxies at the latest update. Usable proxies are below.
+> Scraper found **5543** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|796|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|825|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|97|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3379|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
-|5|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|6|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|7|126.209.1.14|8082|Philippines|Manila|Infinivan Incorporated|
-|8|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|9|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|12|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|13|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|15|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|3|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|13|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|14|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|15|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|18|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|19|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
