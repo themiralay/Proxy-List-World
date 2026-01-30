@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5244** proxies at the latest update. Usable proxies are below.
+> Scraper found **5178** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|669|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|621|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|90|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3253|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|103.18.77.24|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|7|45.43.137.24|30000|Poland|Warsaw|Newserverlife LLC|
-|8|113.255.59.226|8080|Hong Kong|Hang Hau|HGC Global Communications Limited|
-|9|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|13|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|14|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|218.85.5.108|597|China|Fuzhou|Chinanet|
-|17|103.188.169.202|7777|Indonesia|Purwakarta|PT Lintas Jaringan Nusantara|
-|18|202.58.77.18|8080|Indonesia|Kediri|PT Data Buana Nusantara|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|103.240.68.135|8097|Indonesia|Deli Tua|PT Parsaoran Global Datatrans|
+|4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|5|116.80.58.162|3172|Japan|Yokohama|InfoSphere|
+|6|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|7|103.82.23.118|5198|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|10|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|11|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|12|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|15|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|16|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|103.242.104.209|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
+|18|36.37.155.160|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
