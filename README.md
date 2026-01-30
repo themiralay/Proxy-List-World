@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|103.251.232.2|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|9|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|10|163.5.128.15|14270|United States|Brooklyn|Windstream Communications LLC|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|13|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
-|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|15|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|16|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|19|89.110.124.101|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|6|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
