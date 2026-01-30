@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|103.78.215.250|8080|Indonesia|Jakarta|MORATELINDO|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|103.155.198.253|8006|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|103.215.36.88|15088|China|Yancheng|China Mobile Communications Corporation|
-|13|103.133.63.182|8181|Indonesia|Metro|TLINK|
-|14|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|202.58.77.77|1111|Indonesia|Kediri|PT Data Buana Nusantara|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|103.78.215.250|8080|Indonesia|Jakarta|MORATELINDO|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|43.251.84.243|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|14|103.215.36.88|15088|China|Yancheng|China Mobile Communications Corporation|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|185.20.216.230|8088|Ukraine|Kyiv|Protelecom LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|122.52.34.247|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
 
 
 
