@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
-|13|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|104.129.194.38|11198|United States|Reston|ZSCALER, INC.|
-|16|104.129.194.45|10833|United States|Reston|ZSCALER, INC.|
-|17|104.129.194.38|11198|United States|Reston|ZSCALER, INC.|
-|18|104.129.194.38|11198|United States|Reston|ZSCALER, INC.|
-|19|104.129.194.45|10833|United States|Reston|ZSCALER, INC.|
-|20|104.129.194.38|11198|United States|Reston|ZSCALER, INC.|
+|4|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|95.163.153.116|26305|Austria|Vienna|Aeza International LTD|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|13|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|95.163.153.116|26305|Austria|Vienna|Aeza International LTD|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|95.163.153.116|26305|Austria|Vienna|Aeza International LTD|
 
 
 
