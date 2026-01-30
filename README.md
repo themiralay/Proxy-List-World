@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5234** proxies at the latest update. Usable proxies are below.
+> Scraper found **5244** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|659|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|669|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|90|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3253|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|4|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|103.173.138.151|8080|Indonesia|Kota Agung|PT Serayu Multi Connection|
-|8|223.206.50.242|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|9|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
-|10|38.159.37.154|999|Dominican Republic|Santo Domingo|Orbitek SRL|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|122.54.119.79|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|13|112.198.179.39|8082|Philippines|Carmona|Globe Telecom|
-|14|103.156.16.119|8080|Indonesia|Sinarbakti|RSTNET|
-|15|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|176.236.227.104|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
-|19|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
-|20|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|2|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|3|101.255.76.66|8080|Indonesia|Jakarta|PT Remala Abadi|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|6|202.58.77.18|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|103.240.68.135|8097|Indonesia|Deli Tua|PT Parsaoran Global Datatrans|
+|9|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|10|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|11|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|120.28.216.101|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|15|103.154.77.192|8085|Indonesia|Sleman|T2NET|
+|16|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|95.163.153.116|20184|Austria|Vienna|Aeza International LTD|
+|18|103.234.125.19|7777|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|19|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|20|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
