@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|70.63.90.245|8080|United States|Wilmington|Spectrum|
 |8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
 |10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|13|5.61.62.24|8118|United Kingdom|Manchester|M247 Europe SRL|
-|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Vibe Provedor De Internet Ltda|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|18|95.163.153.116|26305|Austria|Vienna|Aeza International LTD|
-|19|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|18|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
