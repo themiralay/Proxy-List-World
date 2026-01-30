@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|5|183.91.80.194|8089|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|15|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|16|34.14.143.185|3128|India|Mumbai|Google LLC|
-|17|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|17|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|116.80.58.162|3172|Japan|Yokohama|InfoSphere|
+|19|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
