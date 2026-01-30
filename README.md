@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|47.86.53.59|8080|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|195.133.11.246|1081|Russia|Moscow|LLC Baxet|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|18|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
 
 
 
