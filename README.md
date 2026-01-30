@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|9|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|103.189.116.138|1220|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|12|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|104.129.194.38|11737|United States|Reston|ZSCALER, INC.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|177.234.217.236|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
