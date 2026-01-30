@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|34.14.143.185|3128|India|Mumbai|Google LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
 |6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|8|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|9|149.202.47.125|3128|France|Strasbourg|OVH SAS|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
+|19|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
