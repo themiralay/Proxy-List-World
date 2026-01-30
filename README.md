@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|34.14.143.185|3128|India|Mumbai|Google LLC|
-|18|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|19|104.129.194.43|10094|United States|Reston|ZSCALER, INC.|
-|20|104.129.194.43|10094|United States|Reston|ZSCALER, INC.|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|19|34.14.143.185|3128|India|Mumbai|Google LLC|
+|20|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
 
 
 
