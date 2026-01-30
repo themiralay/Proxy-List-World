@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
