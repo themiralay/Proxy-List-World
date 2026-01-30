@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.109.143|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|43.207.197.249|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|35.77.88.178|3128|Japan|Tokyo|Amazon.com, Inc.|
-|4|54.249.70.102|3128|Japan|Tokyo|Amazon.com, Inc.|
-|5|13.112.65.60|3128|Japan|Tokyo|Amazon Technologies Inc|
-|6|3.112.248.73|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|7|18.179.196.61|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|13.112.126.224|3128|Japan|Tokyo|Amazon Technologies Inc|
-|9|54.95.252.10|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
