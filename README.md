@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|4|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|123.200.23.121|4126|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|13|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|14|27.124.75.77|8080|Philippines|Cebu City|PT Arsa Work Indonesia|
-|15|137.59.49.205|22122|Bangladesh|Azimpur|Bijoy Online Ltd|
-|16|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|17|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|3|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|103.215.36.88|15963|China|Yancheng|China Mobile Communications Corporation|
+|9|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|10|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|11|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|12|37.230.57.112|999|Paraguay|Ciudad del Este|Startelecom S.A.|
+|13|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|14|201.182.150.184|999|Ecuador|Otavalo|Ufinet Panama S.A.|
+|15|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|16|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|17|45.190.78.20|999|Mexico|Zapopan|Meta Networks SA De CV|
 |18|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|19|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
