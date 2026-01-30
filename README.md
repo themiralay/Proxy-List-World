@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|2|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|116.80.58.162|3172|Japan|Yokohama|InfoSphere|
-|5|103.180.118.109|8090|Indonesia|Made|PT Persada Data Multimedia|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|8|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
-|9|154.19.38.123|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
-|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|11|164.138.205.70|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|12|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
-|13|103.215.36.88|16894|China|Yancheng|China Mobile Communications Corporation|
-|14|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
-|15|145.220.178.4|1080|The Netherlands|Utrecht|SURFnet III d|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|186.96.160.204|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|18|145.220.178.4|1080|The Netherlands|Utrecht|SURFnet III d|
-|19|145.220.178.3|1081|The Netherlands|Utrecht|SURFnet III d|
-|20|145.220.178.8|1080|The Netherlands|Utrecht|SURFnet III d|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|10|64.225.40.90|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
+|12|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|15|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|16|36.88.137.114|8080|Indonesia|Citeureup|PT. Telekomunikasi Indonesia|
+|17|45.224.22.63|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|18|103.180.118.109|8090|Indonesia|Made|PT Persada Data Multimedia|
+|19|145.220.178.14|4145|The Netherlands|Utrecht|SURFnet III d|
+|20|204.199.139.57|999|Chile|Isla de Maipo|Ingbell Chile SPA|
 
 
 
