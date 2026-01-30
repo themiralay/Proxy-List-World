@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4643** proxies at the latest update. Usable proxies are below.
+> Scraper found **4735** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|731|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2720|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|7|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
-|16|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|17|67.43.228.254|7097|Canada|Montreal|GloboTech Communications|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|10|111.92.173.3|8080|Indonesia|Yogyakarta|IP JogjaMedianet 4|
+|11|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|15|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
 
