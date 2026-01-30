@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|202.58.77.19|3127|Indonesia|Kediri|PT Data Buana Nusantara|
-|8|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|10|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|80.78.128.94|8080|Spain|Finestrat|CLOUDWIFI, SL|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|18|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|6|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|10|166.249.154.135|3128|United States|Utica|Verizon Business|
+|11|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|103.163.13.36|1111|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|14|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|15|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
 
 
 
