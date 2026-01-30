@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|3|101.255.76.66|8080|Indonesia|Jakarta|PT Remala Abadi|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|202.58.77.18|8080|Indonesia|Kediri|PT Data Buana Nusantara|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|103.240.68.135|8097|Indonesia|Deli Tua|PT Parsaoran Global Datatrans|
-|9|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|10|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|11|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|120.28.216.101|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
-|15|103.154.77.192|8085|Indonesia|Sleman|T2NET|
-|16|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|95.163.153.116|20184|Austria|Vienna|Aeza International LTD|
-|18|103.234.125.19|7777|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|19|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
-|20|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|103.18.77.24|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|45.43.137.24|30000|Poland|Warsaw|Newserverlife LLC|
+|8|113.255.59.226|8080|Hong Kong|Hang Hau|HGC Global Communications Limited|
+|9|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|10|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|14|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|218.85.5.108|597|China|Fuzhou|Chinanet|
+|17|103.188.169.202|7777|Indonesia|Purwakarta|PT Lintas Jaringan Nusantara|
+|18|202.58.77.18|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|20|103.240.68.135|8097|Indonesia|Deli Tua|PT Parsaoran Global Datatrans|
 
 
 
