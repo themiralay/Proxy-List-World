@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|34.14.143.185|3128|India|Mumbai|Google LLC|
-|4|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|7|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
 |8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|95.163.153.116|26305|Austria|Vienna|Aeza International LTD|
-|15|34.14.143.185|3128|India|Mumbai|Google LLC|
-|16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|104.129.194.43|10006|United States|Reston|ZSCALER, INC.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|13|95.163.153.116|20184|Austria|Vienna|Aeza International LTD|
+|14|195.133.11.246|1080|Russia|Moscow|LLC Baxet|
+|15|119.148.14.201|60724|Bangladesh|Dhaka|Agni Systems Ltd. SUB|
+|16|34.14.143.185|3128|India|Mumbai|Google LLC|
+|17|104.129.194.43|11661|United States|Reston|ZSCALER, INC.|
 |18|104.129.194.44|11698|United States|Reston|ZSCALER, INC.|
-|19|104.129.194.45|11500|United States|Reston|ZSCALER, INC.|
-|20|104.129.194.45|11500|United States|Reston|ZSCALER, INC.|
+|19|104.129.194.43|11661|United States|Reston|ZSCALER, INC.|
+|20|104.129.194.43|11661|United States|Reston|ZSCALER, INC.|
 
 
 
