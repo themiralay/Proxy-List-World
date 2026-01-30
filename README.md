@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|4|40.177.106.156|8080|Canada|Calgary|Amazon.com, Inc.|
-|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|12|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|15|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|18|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|7|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|10|52.47.164.226|1194|France|Paris|Amazon Technologies Inc.|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|163.5.128.135|14270|United States|Brooklyn|Windstream Communications LLC|
+|15|3.21.106.186|81|United States|Dublin|Amazon.com, Inc.|
+|16|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|200.215.248.112|999|Peru|San Juan de Lurigancho|Compunetwork S.A.C.|
+|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|19|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|20|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
 
 
 
