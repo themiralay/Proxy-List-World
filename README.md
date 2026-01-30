@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|3|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|6|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|7|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|8|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
-|15|59.153.16.92|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|200.48.35.124|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|13|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|103.18.77.24|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|19|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
