@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|7|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|9|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|11|47.80.66.35|80|Philippines|Manila|Alibaba.com LLC|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|1|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
+|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|8|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |15|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
 |16|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
-|20|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 
 
 
