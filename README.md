@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|67.43.236.18|21477|Canada|Montreal|GloboTech Communications|
-|5|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|43.230.131.157|8080|Indonesia|Gubengairlangga|Internet Ini Saja|
-|8|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|9|45.174.250.10|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|10|190.97.254.250|999|Venezuela|San Cristóbal|Viginet C.A|
-|11|202.140.62.212|8080|India|Bengaluru|Karuturi Telecom Pvt Ltd|
-|12|157.15.66.97|8082|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|13|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|38.226.202.222|8080|Kenya|Imara Daima Estate|Cogent Communications|
-|15|112.198.146.94|8082|Philippines|General Trias|Globe Telecom|
-|16|103.188.173.152|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|17|197.248.37.31|8104|Kenya|Nairobi|Safaricom Limited|
-|18|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|19|49.48.82.231|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|20|103.168.254.26|1111|Indonesia|Jekulo|PT Fahasa Tri Data|
+|2|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|103.194.175.181|7777|Indonesia|Sempu|MYNET|
+|5|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|6|103.177.199.111|1111|Indonesia|Lebaksiu|PT Eyza Kausa Sinergi Abadi|
+|7|38.194.231.70|999|Mexico|Cuapiaxtla de Madero|Cogent Communications|
+|8|115.147.165.113|8082|Philippines|De la Paz|Philippine Long Distance Telephone Co.|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|190.97.249.30|999|Venezuela|Barquisimeto|Viginet C.A|
+|11|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|177.136.32.202|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
+|13|103.165.247.34|8080|Indonesia|Taman|PT Maxindo Mitra Solusi|
+|14|67.43.236.18|21477|Canada|Montreal|GloboTech Communications|
+|15|47.176.240.250|4228|United States|Rowland Heights|Frontier Communications of America, Inc.|
+|16|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|17|201.88.213.118|8080|Brazil|Brasília|V tal|
+|18|190.111.218.139|999|Argentina|San Juan Bautista|CPS|
+|19|94.136.143.92|8888|Slovakia|Michalovce|Minet-sk|
+|20|177.234.211.175|999|Ecuador|Naranjito|VUELATECHNOLOGY|
 
 
 
