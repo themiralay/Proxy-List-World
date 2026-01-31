@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|11|8.220.177.199|443|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|17|59.153.18.230|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|18|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|3|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|8|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|17|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|20.33.68.30|3128|Ireland|Dublin|Microsoft Corporation|
+|19|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
