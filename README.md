@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|7|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|9|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|10|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|11|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|103.84.176.98|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|16|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|34.14.143.185|3128|India|Mumbai|Google LLC|
-|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|19|200.114.81.219|8080|Argentina|Santa Rosa|SIGOT ALEXIS RAUL (SPEED INTERNET)|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
