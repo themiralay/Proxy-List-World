@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|4|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
 |5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|12|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|13|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|15|103.251.232.28|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|18|103.156.75.124|1111|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|19|95.163.153.116|40575|Austria|Vienna|Aeza International LTD|
-|20|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|13|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|14|141.11.187.163|8080|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|20|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
 
 
 
