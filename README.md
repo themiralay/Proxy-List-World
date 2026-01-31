@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|46.250.251.246|8080|United Kingdom|London|Contabo Asia Private Limited|
-|3|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|2|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|12|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
-|13|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|186.188.109.125|8080|Venezuela|Puerto Ordaz and San Felix|Corporación Telemic C.A.|
-|15|162.240.154.26|3128|United States|Provo|Unified Layer|
-|16|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|17|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|18|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|20|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|6|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
+|10|45.5.119.70|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|12|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|14|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|16|162.240.154.26|3128|United States|Provo|Unified Layer|
+|17|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.61.16.50|8080|Indonesia|Suryabakti|TWINSDATAPRATAMA|
+|20|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
