@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|12|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|16|107.173.141.163|8080|United States|Elk Grove Village|HostPapa|
-|17|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|23.108.27.158|80|United States|Edison|Leaseweb USA, Inc.|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|18|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
 
 
 
