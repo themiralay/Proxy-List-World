@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|4|58.94.39.150|3128|Japan|Yoshizuka|NTT Communications Corporation|
-|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|172.234.240.191|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|10|101.108.13.153|80|Thailand|Bangkok|TOT Public Company Limited|
-|11|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
-|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|13|110.138.131.255|80|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|49.49.138.18|8080|Thailand|Chachoengsao|Triple T Broadband Public Company Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|58.94.39.150|3128|Japan|Yoshizuka|NTT Communications Corporation|
+|6|172.234.240.191|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|9|14.177.53.30|8080|Vietnam|Hanoi|VNPT|
+|10|110.138.131.255|80|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|38.191.165.230|8080|Indonesia|Boyolali|PT CYB Media Group|
+|12|101.108.13.153|80|Thailand|Bangkok|TOT Public Company Limited|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|18|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|19|49.200.111.178|3128|India|Bengaluru|GSM|
+|20|5.53.125.99|3128|Russia|St Petersburg|JSC Selectel|
 
 
 
