@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|2|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
-|3|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
 |4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|12|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|15|34.14.143.185|3128|India|Mumbai|Google LLC|
-|16|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|11|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|15|15.204.151.145|3128|United States|Reston|OVH SAS|
+|16|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|18|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
