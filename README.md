@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|3|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|2|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|3|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |13|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|14|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|15|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|16|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
-|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|16|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
