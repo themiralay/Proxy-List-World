@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|5|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|13|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
-|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|4|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|185.74.222.94|8090|Hong Kong|Chai Wan|WorkTitans B.V.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|16|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|18|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|20|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
