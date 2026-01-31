@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|3|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.81.143.86|3128|Taiwan|Taipei|Google LLC|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|18|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|20|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
 
 
 
