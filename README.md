@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|94.249.213.235|80|India|Panvel|ESDS Software Solution Limited.|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|13|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|14|172.234.240.191|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|94.249.213.235|80|India|Panvel|ESDS Software Solution Limited.|
-|20|185.211.59.154|80|Iran|Tehran|Mahdiar Rafiee|
+|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|19|171.247.148.115|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
