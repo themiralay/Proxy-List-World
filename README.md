@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|202.152.44.21|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|206.27.173.58|80|United States|Phoenix|CenturyLink Communications, LLC|
-|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|34.14.143.185|3128|India|Mumbai|Google LLC|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|206.27.173.58|80|United States|Phoenix|CenturyLink Communications, LLC|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|202.152.44.21|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|14|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|16|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|17|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
 
 
 
