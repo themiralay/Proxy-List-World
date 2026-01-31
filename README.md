@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|3|47.79.145.29|443|Japan|Shibuya City|Alibaba (US) Technology Co., Ltd.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|47.79.145.29|443|Japan|Shibuya City|Alibaba (US) Technology Co., Ltd.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|17|94.249.213.235|80|India|Panvel|ESDS Software Solution Limited.|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|20|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|94.249.213.235|80|India|Panvel|ESDS Software Solution Limited.|
+|16|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|18|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
