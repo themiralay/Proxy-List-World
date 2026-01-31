@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.145.29|443|Japan|Shibuya City|Alibaba (US) Technology Co., Ltd.|
+|1|47.79.145.29|443|Japan|Shibuya City|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|7|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
 |8|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |16|94.249.213.235|80|India|Panvel|ESDS Software Solution Limited.|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|38.121.212.98|8080|Venezuela|Lecherías|Galanet Solution C.A|
+|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|18|38.121.212.98|8080|Venezuela|Lecherías|Galanet Solution C.A|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
