@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|43.199.229.139|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|5|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|2|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|3|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
 |6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|9|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
-|10|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|12|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
-|15|109.94.164.200|80|Iran|Tehran|Mohammad Taha Mashhorrodi|
-|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|31.133.32.102|3128|Russia|Rostov-on-Don|S.U.E. DPR Republic Operator of Networks|
-|20|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|9|34.14.143.185|3128|India|Mumbai|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|12|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|13|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|14|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|20.33.68.30|3128|Ireland|Dublin|Microsoft Corporation|
+|17|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
