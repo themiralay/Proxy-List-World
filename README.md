@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4680** proxies at the latest update. Usable proxies are below.
+> Scraper found **4663** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|701|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|684|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|93|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2654|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|17|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|20|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|4|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|10|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|11|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
+|16|185.211.59.154|80|Iran|Tehran|Mahdiar Rafiee|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
