@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|3|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|1|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|2|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|180.248.212.52|3128|Indonesia|Pontianak|PT. TELKOM INDONESIA|
-|7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
 |9|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|34.14.143.185|3128|India|Mumbai|Google LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|14|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|15|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|16|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
-|19|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|202.181.148.64|54101|Russia|Moscow|JSC Selectel|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
+|15|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|16|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|183.88.214.44|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|85.209.129.228|55555|Finland|Helsinki|Qwins LTD|
 
 
 
