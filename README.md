@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|5|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|2|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
+|3|43.199.229.139|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|13|20.33.68.30|3128|Ireland|Dublin|Microsoft Corporation|
-|14|162.240.154.26|3128|United States|Provo|Unified Layer|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|17|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|68.235.35.171|3128|United States|Chicago|tzulo, inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|16|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|18|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|19|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|20|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
