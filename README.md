@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5430** proxies at the latest update. Usable proxies are below.
+> Scraper found **5425** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|716|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|103|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3379|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|10|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|171.254.94.125|8088|Vietnam|Hanoi|Viettel Corporation|
+|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|11|82.26.93.30|3128|United States|Westbury|HOSTKEY|
 |12|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|20|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|15|82.26.93.30|3128|United States|Westbury|HOSTKEY|
+|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|17|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
