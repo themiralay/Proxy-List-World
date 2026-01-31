@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.52.8.2|10080|South Korea|Gangnam-gu|Korea Telecom|
+|1|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|4|121.168.58.144|3128|South Korea|Suwon|Korea Telecom|
-|5|141.164.61.245|80|South Korea|Seoul|KOR VULTR|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|58.94.39.150|3128|Japan|Yoshizuka|NTT Communications Corporation|
-|8|151.243.95.160|80|Hong Kong|Chai Wan|Edgenat Cloud|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|172.234.240.191|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|110.138.131.255|80|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|171.7.208.55|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
-|17|130.94.92.66|8080|China|Beijing|Light Node Limited|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|223.204.53.111|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|58.94.39.150|3128|Japan|Yoshizuka|NTT Communications Corporation|
+|4|220.88.163.174|10080|South Korea|Pocheon-si|Korea Telecom|
+|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|113.22.125.174|80|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|172.234.240.191|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|1.33.246.75|8080|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|223.204.53.111|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|13|58.8.255.181|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|130.94.92.66|8080|China|Beijing|Light Node Limited|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|201.171.128.38|3128|Mexico|Mexicali|Uninet S.A. de C.V.|
+|19|49.200.111.178|3128|India|Bengaluru|GSM|
+|20|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
