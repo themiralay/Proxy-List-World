@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5049** proxies at the latest update. Usable proxies are below.
+> Scraper found **5040** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|244|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|877|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|246|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|866|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|158|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2838|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|43.198.16.90|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|171.251.171.240|10002|Vietnam|Tuyên Quang|Viettel Corporation|
-|15|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|16|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|18.193.250.255|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|20|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|176.124.219.49|3128|Russia|Moscow|JSC "TIMEWEB"|
+|14|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|15|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|17|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|18|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
