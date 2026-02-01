@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|13.251.130.198|3128|Singapore|Singapore|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|13.251.130.198|3128|Singapore|Singapore|Amazon.com, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|54.46.51.16|3128|Hong Kong|Hong Kong|Amazon.com|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
 |8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|15|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|16|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|17|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|20|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|15|171.224.190.8|10002|Vietnam|Hanoi|Viettel Corporation|
+|16|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|17|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|18|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|19|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|20|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
