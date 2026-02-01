@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|202.152.44.21|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|13|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|152.32.77.213|8095|Philippines|Mandaluyong|ComClark Network & Technology Corp|
+|17|202.152.44.21|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|18|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
