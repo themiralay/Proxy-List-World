@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.114.241.209|3128|Japan|Tokyo|Amazon Technologies Inc|
-|2|43.207.203.12|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|52.192.146.254|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|3.112.29.140|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|52.69.190.174|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
-|10|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|43.207.81.168|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|18|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|13.251.130.198|3128|Singapore|Singapore|Amazon.com, Inc.|
+|3|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|6|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|103.115.17.121|1234|South Korea|Seoul|Baxet Group Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|11|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|13|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|14|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |19|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
