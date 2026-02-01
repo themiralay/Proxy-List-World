@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5089** proxies at the latest update. Usable proxies are below.
+> Scraper found **5090** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|634|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|104|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3314|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|15|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
 |18|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|20|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
 
 
 
