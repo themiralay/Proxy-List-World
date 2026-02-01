@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
+|2|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|10|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|15|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|19|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
