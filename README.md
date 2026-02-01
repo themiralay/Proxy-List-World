@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |5|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|202.152.44.21|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|9|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|20|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|13|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|202.152.44.21|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
