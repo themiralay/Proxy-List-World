@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|7|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|202.152.44.21|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|8|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|14|202.152.44.21|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|15|34.14.143.185|3128|India|Mumbai|Google LLC|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|82.26.93.30|3128|United States|Westbury|HOSTKEY|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|161.35.141.93|3128|United States|Clifton|DigitalOcean, LLC|
+|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|18|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|19|161.35.141.93|3128|United States|Clifton|DigitalOcean, LLC|
+|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 
 
 
