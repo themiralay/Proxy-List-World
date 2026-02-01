@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|45.81.130.34|8888|United States|Los Angeles|Zenlayer Inc|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|45.81.130.34|8888|United States|Los Angeles|Zenlayer Inc|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|15|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|18|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
