@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5122** proxies at the latest update. Usable proxies are below.
+> Scraper found **5184** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|662|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|99|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3191|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
 |5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|6|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|47.176.240.250|4228|United States|Rowland Heights|Frontier Communications of America, Inc.|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|103.115.17.121|1234|South Korea|Seoul|Baxet Group Inc.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|18|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|18|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
