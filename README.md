@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.207.203.12|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|43.199.65.214|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|12|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|1|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|9|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|171.224.190.8|10002|Vietnam|Hanoi|Viettel Corporation|
+|11|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |13|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|15|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|16|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|17|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
-|18|192.227.167.161|3128|United States|Dallas|HostPapa|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|14|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|15|142.171.246.99|7777|United States|Los Angeles|Multacom Corporation|
+|16|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|17|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 
 
 
