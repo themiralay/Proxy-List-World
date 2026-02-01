@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.114.241.209|3128|Japan|Tokyo|Amazon Technologies Inc|
-|2|43.207.203.12|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|54.250.241.251|3128|Japan|Tokyo|Amazon.com, Inc.|
-|4|52.192.146.254|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|13.159.16.39|3128|Japan|Tokyo|Amazon.com|
-|6|43.206.222.121|3128|Japan|Tokyo|Amazon.com, Inc.|
-|7|13.159.20.126|3128|Japan|Tokyo|Amazon.com|
+|1|13.159.16.39|3128|Japan|Tokyo|Amazon.com|
+|2|54.250.241.251|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|43.206.222.121|3128|Japan|Tokyo|Amazon.com, Inc.|
+|4|13.114.241.209|3128|Japan|Tokyo|Amazon Technologies Inc|
+|5|18.183.165.135|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|6|18.182.4.250|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|7|43.207.81.168|3128|Japan|Tokyo|Amazon.com, Inc.|
 |8|13.192.188.192|3128|Japan|Tokyo|Amazon.com|
-|9|18.182.4.250|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|10|43.207.81.168|3128|Japan|Tokyo|Amazon.com, Inc.|
-|11|52.69.176.163|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|12|18.183.165.135|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|13|52.194.182.250|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|14|3.113.19.12|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|52.194.190.212|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|3.112.18.39|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|17|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|18.176.57.251|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|20|3.112.29.140|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|9|52.192.146.254|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|10|3.112.18.39|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|11|3.113.19.12|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|3.112.29.140|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|43.207.203.12|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|52.69.190.174|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|107.150.105.163|7777|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
