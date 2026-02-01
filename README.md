@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
-|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|34.14.143.185|3128|India|Mumbai|Google LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|15|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|18|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|19|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|20|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|171.249.233.85|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|10|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|11|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|180.149.234.73|6214|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
