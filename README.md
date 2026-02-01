@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|9|14.167.185.20|3128|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|18|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|15|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|16|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
