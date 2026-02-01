@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
-|8|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|9|42.117.172.190|4001|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|11|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|171.249.233.85|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|16|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|104.43.214.171|3128|United States|Des Moines|Microsoft Corporation|
-|18|18.219.243.198|3128|United States|Dublin|Amazon.com, Inc.|
-|19|54.147.131.206|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|34.200.232.136|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|116.108.6.246|4003|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|11|103.122.0.151|8181|Indonesia|Kurungannyawa|PT. Java Digital Nusantara|
+|12|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|171.249.233.85|4004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|20|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
 
 
 
