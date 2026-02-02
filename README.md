@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|34.81.143.86|3128|Taiwan|Taipei|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|210.87.125.58|1080|Indonesia|Pare|CV Brawijaya Giga Network|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|175.215.38.158|3036|South Korea|Hapcheon-gun|Korea Telecom|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|15|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|66.96.233.62|8085|Indonesia|South Tangerang|MYREPUBLIC|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|11|34.81.143.86|3128|Taiwan|Taipei|Google LLC|
+|12|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|13|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|14|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|15|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|16|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|17|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|18|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |19|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
-|20|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
