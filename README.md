@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
-|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|8.217.3.240|8388|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|171.224.190.8|10002|Vietnam|Hanoi|Viettel Corporation|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
