@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4770** proxies at the latest update. Usable proxies are below.
+> Scraper found **4810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|774|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2738|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|171.224.190.8|10002|Vietnam|Hanoi|Viettel Corporation|
+|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|10|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|182.52.229.165|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|16|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|17|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|18|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|9|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|12|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|13|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|37.27.180.250|2081|Finland|Helsinki|Hetzner Online GmbH|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|20|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
 
 
 
