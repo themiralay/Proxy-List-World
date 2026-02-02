@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
-|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|94.177.58.26|7443|Germany|Frankfurt am Main|Hostkey B.V.|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|72.10.164.178|2031|Canada|Montreal|GloboTech Communications|
+|5|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|8.220.188.140|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|13|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|14|187.250.6.28|80|Mexico|Tijuana|UNINET|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|19|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|20|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
 
 
 
