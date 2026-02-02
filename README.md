@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|34.81.143.86|3128|Taiwan|Taipei|Google LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|10|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
-|11|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
-|15|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|16|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|154.19.38.169|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|19|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|34.14.143.185|3128|India|Mumbai|Google LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|7|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|9|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|12|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|13|202.93.247.42|8090|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|16|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
