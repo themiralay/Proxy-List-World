@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|2|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 |18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|20|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
+|19|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|20|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
 
 
 
