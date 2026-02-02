@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|6|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
-|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|10|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|7|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|8|89.19.209.217|31285|Germany|Frankfurt am Main|Timeweb, LLP|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|37.27.180.250|2081|Finland|Helsinki|Hetzner Online GmbH|
+|11|44.214.95.78|3128|United States|Ashburn|Amazon.com|
 |12|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|18|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|17|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|8.215.88.68|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|20|8.217.3.240|8388|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
 
 
 
