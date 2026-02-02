@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
 |4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|103.190.230.122|8080|Indonesia|Barru|PT Mandiri Global Data|
-|8|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|103.115.17.121|1234|South Korea|Seoul|Baxet Group Inc.|
-|14|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|15|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|13|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|14|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
+|15|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
