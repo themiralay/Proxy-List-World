@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|4|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|5.129.253.135|10808|Russia|Moscow|JSC "TIMEWEB"|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|163.223.116.244|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
-|15|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|8.217.3.240|8388|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|20|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|6|5.129.253.135|10808|Russia|Moscow|JSC "TIMEWEB"|
+|7|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|8|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|9|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|13|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|187.250.6.28|80|Mexico|Tijuana|UNINET|
+|15|66.245.197.108|9001|United Kingdom|Pendlebury|The Constant Company, LLC|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|66.245.197.108|9001|United Kingdom|Pendlebury|The Constant Company, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
 
 
 
