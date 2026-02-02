@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|6|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|122.54.193.69|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|37.27.180.250|2081|Finland|Helsinki|Hetzner Online GmbH|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|15|45.4.202.146|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|78.12.249.123|5344|Mexico|Querétaro City|Amazon.com|
-|18|203.20.42.69|8082|Philippines|Valenzuela|RNDS Network|
-|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|11|185.245.104.100|33333|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|78.12.249.123|5344|Mexico|Querétaro City|Amazon.com|
+|16|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|17|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|18|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|44.214.95.78|3128|United States|Ashburn|Amazon.com|
 
 
 
