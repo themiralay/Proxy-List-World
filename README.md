@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|13|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|17|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
