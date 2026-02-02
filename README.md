@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |7|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|8|8.220.188.140|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|11|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|12|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|13|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|89.46.249.148|8588|United Kingdom|City of London|Hydra Communications Ltd|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
