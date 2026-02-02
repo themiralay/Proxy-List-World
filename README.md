@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|11|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|12|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |13|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|19|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|14|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|78.12.249.123|5344|Mexico|Querétaro City|Amazon.com|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|14.143.222.113|26705|India|Chennai|Tata Communications Limited|
 
 
 
