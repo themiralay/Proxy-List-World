@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|6|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|91.107.154.88|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|103.204.208.211|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|5|8.215.43.202|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|6|182.78.42.112|84|India|Ongole|Bharti Airtel|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|13|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|195.222.249.165|8080|Germany|Hamburg|pop-interactive GmbH|
+|16|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 
 
 
