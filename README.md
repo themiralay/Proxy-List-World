@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.217.3.240|8388|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
-|3|47.79.150.151|10088|Japan|Shibuya City|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|47.79.150.151|10088|Japan|Shibuya City|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|10|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|13|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|14|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|18|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|19|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|20|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
 
 
 
