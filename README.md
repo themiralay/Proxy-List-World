@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
-|3|52.69.190.174|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
-|5|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|52.69.190.174|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|3|221.163.14.232|10080|South Korea|Suwon|Korea Telecom|
+|4|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|27.96.150.225|3128|South Korea|Seongnam-si|NBP|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
 |14|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
-|15|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|16|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|17|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|18|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|19|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|20|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|17|64.112.185.210|3128|United States|Virginia Beach|Hosted Backbone|
+|18|34.81.143.86|3128|Taiwan|Taipei|Google LLC|
+|19|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|20|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 
 
 
