@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|4|20.33.68.30|3128|Ireland|Dublin|Microsoft Corporation|
-|5|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|8|18.219.243.198|3128|United States|Dublin|Amazon.com, Inc.|
-|9|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|17|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|3|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|6|20.33.68.30|3128|Ireland|Dublin|Microsoft Corporation|
+|7|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|8|103.46.8.102|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|9|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|18.219.243.198|3128|United States|Dublin|Amazon.com, Inc.|
+|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
 
 
 
