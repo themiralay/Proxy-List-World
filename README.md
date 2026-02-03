@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|43.205.124.165|224|India|Mumbai|Amazon.com, Inc.|
-|14|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|20|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|151.245.38.5|8690|United Arab Emirates|Warisan|Diamond IP Brokers Fzco|
+|17|103.163.135.57|7777|Indonesia|Gumuk Krajan|PROVITEL|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
