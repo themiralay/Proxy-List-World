@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|143.244.140.119|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|85.192.56.4|48716|Russia|Moscow|Aeza Group LLC|
-|9|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|4|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|11|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 |12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|17|34.14.143.185|3128|India|Mumbai|Google LLC|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|85.234.69.183|3128|Germany|Eschborn|G-Core Labs S.A.|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
