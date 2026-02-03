@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|181.79.92.28|999|Colombia|Florencia|IFX Networks Argentina S.R.L|
-|8|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
-|18|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|19|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|7|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|109.94.164.200|80|Iran|Tehran|Mohammad Taha Mashhorrodi|
+|12|66.245.197.108|9001|United Kingdom|Pendlebury|The Constant Company, LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|91.84.124.108|26483|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|16|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
+|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|18|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|19|8.220.188.140|443|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
