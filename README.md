@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|9|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|14|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|15|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|16|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
+|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|11|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|12|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|13|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|15|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|16|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|121.101.135.46|8089|Indonesia|Magelang|PT SELARAS CITRA TERABIT|
 
 
 
