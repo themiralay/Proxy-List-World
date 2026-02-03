@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5057** proxies at the latest update. Usable proxies are below.
+> Scraper found **5086** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|655|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3127|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|3|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|18.219.243.198|3128|United States|Dublin|Amazon.com, Inc.|
-|7|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|8|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
-|18|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|19|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|9|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|78.12.249.123|5344|Mexico|Querétaro City|Amazon.com|
+|12|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|18.219.243.198|3128|United States|Dublin|Amazon.com, Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|20|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
