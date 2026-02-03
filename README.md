@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|8|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
-|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|9|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|11|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|12|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|13|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|18|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|20|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
 
 
 
