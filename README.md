@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|10|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|11|103.181.84.59|3128|India|Lucknow|Srmak Technological System Private Limited|
-|12|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.33.68.30|3128|Ireland|Dublin|Microsoft Corporation|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|103.130.128.249|8080|Indonesia|Depok|PT. Eka Mas Republik|
-|17|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|77.110.97.209|8080|Sweden|Stockholm|Aeza International LTD|
-|20|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|4|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|9|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|11|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|14|77.110.97.209|8080|Sweden|Stockholm|Aeza International LTD|
+|15|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
+|16|195.133.11.246|1080|Russia|Moscow|LLC Baxet|
+|17|8.217.3.240|8388|Hong Kong|Hong Kong|Alibaba Cloud (Singapore) Private Limited|
+|18|103.162.153.157|3030|Indonesia|Pangkalan Bunut|AKSIRIAU|
+|19|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
