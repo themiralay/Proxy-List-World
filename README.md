@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|8.215.85.201|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|16|168.205.100.92|8080|Brazil|Petrópolis|C-ComTelecom Servios Ltda-ME|
-|17|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|2|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|3|124.105.198.250|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|13|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|14|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|43.205.124.165|224|India|Mumbai|Amazon.com, Inc.|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|19|160.19.19.213|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|20|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
