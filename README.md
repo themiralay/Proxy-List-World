@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
 |3|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.189.116.138|1220|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|5|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|11|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|12|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|14|179.1.131.129|8080|Colombia|Durania|Internexa S.a. E.S.P|
 |15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|181.78.13.127|999|Colombia|Aracataca|IFX Networks Argentina S.R.L|
-|19|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|20|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|19|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
