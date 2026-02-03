@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
+|4|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |13|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|14|5.129.253.135|10808|Russia|Moscow|JSC "TIMEWEB"|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|14|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|16|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|18|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
 |19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|103.154.230.246|8090|Indonesia|Bilo|DIGITNET|
+|20|180.180.123.40|8080|Thailand|Rayong|TOT Public Company Limited|
 
 
 
