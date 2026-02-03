@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|6|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|12|109.94.164.200|80|Iran|Tehran|Mohammad Taha Mashhorrodi|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|34.14.143.185|3128|India|Mumbai|Google LLC|
-|15|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|116.104.90.19|10006|Vietnam|Hanoi|Viettel Group|
-|18|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|19|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|11|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|12|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|13|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|201.218.150.4|999|Peru|Arequipa|M & B Soluciones Peru S.A.C.|
+|19|116.104.90.19|10006|Vietnam|Hanoi|Viettel Group|
+|20|43.252.107.12|7777|Indonesia|Wedoro|PT Lintas Data Prima|
 
 
 
