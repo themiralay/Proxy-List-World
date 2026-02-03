@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
-|12|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|171.240.119.75|5111|Vietnam|Hanoi|Viettel Corporation|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|12|5.129.253.135|10808|Russia|Moscow|JSC "TIMEWEB"|
+|13|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|14|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|171.240.119.75|5111|Vietnam|Hanoi|Viettel Corporation|
+|19|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
