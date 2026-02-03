@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|103.247.15.53|7777|Indonesia|Kutoarjo|TERABIT|
-|7|8.215.85.201|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|138.199.208.166|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|15|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|5|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|116.104.90.19|10006|Vietnam|Hanoi|Viettel Group|
+|7|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|12|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|16|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|18|202.53.172.75|1127|Bangladesh|Dhaka|Agni Systems Limited|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
