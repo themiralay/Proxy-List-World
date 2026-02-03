@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|34.81.143.86|3128|Taiwan|Taipei|Google LLC|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
 |6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |7|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|101.47.16.101|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|43.245.249.22|7878|Indonesia|Pekanbaru|PT Smart Media Pratama|
-|12|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|13|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|10|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|11|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|12|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|13|157.20.128.210|7777|Indonesia|Sukamaju|PT Citra Meta Data|
 |14|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
 |15|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|16|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|17|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|18|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|103.173.138.151|8080|Indonesia|Kota Agung|PT Serayu Multi Connection|
-|20|103.227.187.13|6080|Indonesia|Wirodayan|PT Master Star Network|
+|16|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
