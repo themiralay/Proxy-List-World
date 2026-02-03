@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
-|8|5.129.253.135|10808|Russia|Moscow|JSC "TIMEWEB"|
-|9|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
-|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|15|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|16|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|3|101.47.16.15|7890|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|5.129.253.135|10808|Russia|Moscow|JSC "TIMEWEB"|
+|13|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|17|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
