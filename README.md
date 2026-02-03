@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|5|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|6|23.175.201.46|1234|Hong Kong|Hong Kong|Maxwell Telecom LLC|
-|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|17|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|18|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|13|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|14|103.106.78.193|7979|Indonesia|Depok|PT Quantum Tera Multimedia|
+|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|17|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|18|109.94.164.200|80|Iran|Tehran|Mohammad Taha Mashhorrodi|
+|19|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|20|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
 
 
 
