@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
 |6|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
 |7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|13|8.215.85.201|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|91.84.124.108|26483|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|19|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|17|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
