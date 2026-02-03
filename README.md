@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|4|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|5|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
+|5|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|8|43.205.124.165|224|India|Mumbai|Amazon.com, Inc.|
-|9|103.163.135.57|7777|Indonesia|Gumuk Krajan|PROVITEL|
-|10|8.220.188.140|443|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|12|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|13|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|8|181.129.147.163|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
+|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|44.214.95.78|3128|United States|Ashburn|Amazon.com|
+|13|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
 |14|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|15|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|16|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|17|179.51.199.87|8099|Brazil|Bom Princípio do Piauí|Fortinet Telecomunicacoes Eireli|
-|18|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
-|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|18|151.245.38.5|8690|United Arab Emirates|Warisan|Diamond IP Brokers Fzco|
+|19|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
