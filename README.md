@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|9|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|68.71.40.126|8080|Canada|Laval|eStruxture Data Centers Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|15|175.106.14.126|3128|Indonesia|Jakarta|Quantum Dist POP GC|
-|16|190.60.44.109|999|Colombia|Clemencia|IFX NETWORKS COLOMBIA|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|34.14.143.185|3128|India|Mumbai|Google LLC|
-|20|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|112.203.34.250|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|6|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|7|20.33.68.30|3128|Ireland|Dublin|Microsoft Corporation|
+|8|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|9|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
+|20|84.255.40.228|8998|Malta|Msida|Melita plc|
 
 
 
