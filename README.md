@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|4|175.139.208.65|8080|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
-|5|66.245.197.108|9001|United Kingdom|Pendlebury|The Constant Company, LLC|
-|6|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|43.153.205.77|555|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|49.0.26.215|8080|Indonesia|Randuboto|SIMS Jabar Banten Medianet|
-|13|109.94.164.200|80|Iran|Tehran|Mohammad Taha Mashhorrodi|
-|14|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|66.245.197.108|9001|United Kingdom|Pendlebury|The Constant Company, LLC|
-|19|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
-|20|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.173.72.3|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|3|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|8|49.0.26.215|8080|Indonesia|Randuboto|SIMS Jabar Banten Medianet|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|43.153.205.77|555|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|19|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
