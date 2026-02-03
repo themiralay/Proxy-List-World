@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4985** proxies at the latest update. Usable proxies are below.
+> Scraper found **4993** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|809|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|817|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2848|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|45.78.199.53|7777|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|5.129.253.135|10808|Russia|Moscow|JSC "TIMEWEB"|
-|13|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
-|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|17|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|20.107.168.234|3128|Ireland|Dublin|Microsoft Corporation|
+|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|16|15.204.151.145|3128|United States|Reston|OVH SAS|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|44.214.95.78|3128|United States|Ashburn|Amazon.com|
 |19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
