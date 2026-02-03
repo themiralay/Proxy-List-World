@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 |6|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 |7|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
 
 
 
