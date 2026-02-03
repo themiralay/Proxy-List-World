@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|6|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|7|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|8.220.188.140|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|112.198.18.206|8080|Philippines|Taguig|Globe Telecom|
-|11|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|12|44.214.95.78|3128|United States|Ashburn|Amazon.com|
-|13|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|5|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|8|185.246.222.34|50100|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|203.190.117.214|8123|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|13|78.12.249.123|5344|Mexico|Querétaro City|Amazon.com|
+|14|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|20|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|19|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
