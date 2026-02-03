@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.188.169.202|7777|Indonesia|Purwakarta|PT Lintas Jaringan Nusantara|
-|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|6|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|181.214.140.37|2222|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|20.33.68.30|3128|Ireland|Dublin|Microsoft Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|9|138.201.128.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|14|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
 |15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
-|20|175.139.208.65|8080|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|201.77.110.245|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|18|172.236.161.47|3128|India|Mumbai|Akamai Technologies, Inc.|
+|19|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|20|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
