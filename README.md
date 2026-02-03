@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|8|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|18.228.182.248|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 |12|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|15|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|109.94.164.200|80|Iran|Tehran|Mohammad Taha Mashhorrodi|
-|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|18|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|19|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|20|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
 
 
 
