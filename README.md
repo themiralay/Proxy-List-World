@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
 |2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
 |3|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|5|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|18|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|19|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|7|8.220.188.140|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|18|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|19|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
