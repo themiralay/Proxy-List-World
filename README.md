@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|160.20.38.90|8089|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|15|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|17|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|6|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|103.36.10.254|8088|Indonesia|Pandaan|PT Awinet Global Mandiri|
+|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|18|103.87.169.33|32650|India|Alwar|Tejays Industries Pvt Ltd|
+|19|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|20|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
