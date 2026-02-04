@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|14|87.121.38.120|3128|Serbia|Belgrade|Maxim Azarov trading as eServer|
-|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|19|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|20|81.177.166.169|10809|Russia|Moscow|RTCOMM|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|17|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|118.99.87.178|3128|Indonesia|Jakarta|BIZNET|
+|19|87.121.38.120|3128|Serbia|Belgrade|Maxim Azarov trading as eServer|
+|20|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
 
 
 
