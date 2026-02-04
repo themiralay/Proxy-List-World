@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
 |3|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|8|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.95.173.86|7700|France|Strasbourg|Host Europe|
-|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|185.51.76.119|1080|Denmark|Skive|Din Server Group ApS|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|124.107.15.43|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|8|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|45.95.173.86|7700|France|Strasbourg|Host Europe|
+|13|45.88.89.65|6666|Albania|Tirana|Albanian Hosting SH.P.K.|
+|14|185.51.76.119|1080|Denmark|Skive|Din Server Group ApS|
+|15|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
