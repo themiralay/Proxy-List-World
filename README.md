@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|172.236.162.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|9|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|10|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|11|103.68.214.164|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|13|172.236.162.79|3128|India|Mumbai|Akamai Technologies, Inc.|
-|14|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|18|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|95.84.164.92|8998|Russia|Moscow|NCNET|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|163.223.116.244|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|20|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
 
 
 
