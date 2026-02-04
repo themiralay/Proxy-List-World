@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|2|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|7|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|13|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|14|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|8|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|9|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|12|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|144.31.116.48|1234|Germany|Frankfurt am Main|Senko Digital Ltd|
+|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|45.88.89.65|6666|Albania|Tirana|Albanian Hosting SH.P.K.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|51.81.6.158|3128|United States|Reston|OVH SAS|
 
 
 
