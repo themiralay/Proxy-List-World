@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|166.249.154.135|3128|United States|Utica|Verizon Business|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|15|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|16|81.177.166.169|10809|Russia|Moscow|RTCOMM|
-|17|8.220.188.140|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|8.217.225.121|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|6|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|45.156.186.105|12988|Iran|Tehran|Pars Shabakeh Azarakhsh LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|181.174.231.30|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|19|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
