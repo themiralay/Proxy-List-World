@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|109.94.164.200|80|Iran|Tehran|Mohammad Taha Mashhorrodi|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|15|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|10|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|11|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|18|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
