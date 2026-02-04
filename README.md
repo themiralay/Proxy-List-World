@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
+|2|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
+|3|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|6|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|7|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
 |11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|16|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|35.221.177.183|1080|Taiwan|Taipei|Google LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|12|8.220.188.140|443|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|16|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|35.221.177.183|1080|Taiwan|Taipei|Google LLC|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|103.115.239.9|1111|Indonesia|Kijang|PT Fitrah Marina Sukses|
 
 
 
