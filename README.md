@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
 |2|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
 |3|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
 |7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|10|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|15|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|16|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|17|35.221.177.183|1080|Taiwan|Taipei|Google LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|146.190.80.200|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.95.173.86|7700|France|Strasbourg|Host Europe|
+|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|19|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
+|20|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
 
 
 
