@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|101.255.208.18|8090|Indonesia|Bekasi|PT Remala Abadi|
-|7|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|8|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|11|103.191.218.153|1080|Indonesia|Kuningan|PT Replay Inti Media|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|14|167.88.161.13|7777|United States|Las Vegas|FranTech Solutions|
-|15|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|16|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|172.236.163.78|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|14|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|15|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|103.141.105.74|55|Indonesia|Martapura|PT Indonesia Comnets Plus|
+|17|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
+|18|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|19|181.115.67.3|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 
 
 
