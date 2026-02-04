@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|7|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 |8|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|9|166.249.154.135|3128|United States|Utica|Verizon Business|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|9|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|81.177.166.169|10809|Russia|Moscow|RTCOMM|
 |12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|81.177.166.169|10809|Russia|Moscow|RTCOMM|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|16|177.234.192.223|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|20|103.124.136.251|8080|Indonesia|Kebumen Satu|Global Media Data Prima|
+|13|12.49.24.22|8080|United States|Winnemucca|AT&T Services|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|16|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|190.52.110.43|999|Venezuela|Caracas|Gold Data Colombia|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
