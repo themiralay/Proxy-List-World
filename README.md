@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|1|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
 |2|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
-|7|112.202.34.48|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|3|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|17|185.51.76.119|1080|Denmark|Skive|Din Server Group ApS|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |18|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|81.177.166.169|10809|Russia|Moscow|RTCOMM|
+|19|45.88.89.65|6666|Albania|Tirana|Albanian Hosting SH.P.K.|
 |20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
