@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|4|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
-|16|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|151.245.215.1|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
-|19|151.245.215.10|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
-|20|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|103.157.79.82|1111|Indonesia|Jakarta|EASTMEDIA|
+|6|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
+|15|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|18|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|19|143.0.124.2|8085|Brazil|Santa Fé do Sul|FibraON - Fabricio Piloni Bertolo - ME|
+|20|115.127.178.206|2589|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
