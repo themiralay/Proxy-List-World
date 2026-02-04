@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4321** proxies at the latest update. Usable proxies are below.
+> Scraper found **4250** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|583|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|512|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|36|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2470|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|1|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|2|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|7|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|8|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
+|11|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
+|12|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 |19|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
-|20|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
+|20|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
