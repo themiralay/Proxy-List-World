@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|1|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|2|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
 |3|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
 |5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|6|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|7|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|45.95.173.86|7700|France|Strasbourg|Host Europe|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
 |14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|16|94.31.176.234|10808|Russia|Yekaterinburg|LLC "KomTehCentr"|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|35.221.177.183|1080|Taiwan|Taipei|Google LLC|
-|20|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|15|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|35.221.177.183|1080|Taiwan|Taipei|Google LLC|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
