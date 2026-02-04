@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|172.236.162.80|3128|India|Mumbai|Akamai Technologies, Inc.|
-|8|15.168.235.57|12185|Japan|Osaka|Amazon Technologies Inc.|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|8|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|9|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|10|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
 |11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|78.12.230.52|10025|Mexico|Querétaro City|Amazon.com|
-|20|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
+|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|78.12.249.123|5344|Mexico|Querétaro City|Amazon.com|
+|18|94.31.176.234|10808|Russia|Yekaterinburg|LLC "KomTehCentr"|
+|19|5.236.93.14|9000|Iran|Tajnīk|Iran Telecommunication Company PJS|
+|20|209.14.98.6|8080|Colombia|Mutatá|Cogent Communications|
 
 
 
