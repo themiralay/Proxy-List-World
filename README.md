@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4809** proxies at the latest update. Usable proxies are below.
+> Scraper found **4824** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|594|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|51|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2964|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
+|2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|3|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|8|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|45.95.173.86|7700|France|Strasbourg|Host Europe|
 |10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|13|45.88.89.65|6666|Albania|Tirana|Albanian Hosting SH.P.K.|
-|14|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|185.51.76.119|1080|Denmark|Skive|Din Server Group ApS|
-|18|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|103.174.122.244|1111|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|185.51.76.119|1080|Denmark|Skive|Din Server Group ApS|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|185.233.202.217|5858|The Netherlands|Amsterdam|First Server Limited|
 
 
 
