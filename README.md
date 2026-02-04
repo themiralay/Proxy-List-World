@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
 |2|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
 |5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|10|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|9|34.14.143.185|3128|India|Mumbai|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|8.215.85.201|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 |13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|8.220.188.140|443|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|16|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|17|94.31.176.234|10808|Russia|Yekaterinburg|LLC "KomTehCentr"|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|15|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|16|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|17|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
