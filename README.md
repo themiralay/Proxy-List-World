@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
 |2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
 |3|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|6|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
 |10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|12|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|163.172.57.208|1080|France|Paris|Online S.A.S.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|11|163.172.57.208|1080|France|Paris|Online S.A.S.|
+|12|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
+|13|190.94.213.192|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
