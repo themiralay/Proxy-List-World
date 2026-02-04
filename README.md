@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|14|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|10|8.215.88.68|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|16|34.14.143.185|3128|India|Mumbai|Google LLC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|27.147.248.57|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
