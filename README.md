@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4394** proxies at the latest update. Usable proxies are below.
+> Scraper found **4545** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|554|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|705|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2580|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
 |2|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
 |3|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
-|10|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|45.95.173.86|7700|France|Strasbourg|Host Europe|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|18|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|19|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|81.177.166.169|10809|Russia|Moscow|RTCOMM|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|18|165.99.151.250|10001|Indonesia|Cibinong|PT Win Akselerasi Net Indonesia|
+|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
