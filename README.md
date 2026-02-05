@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
-|2|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
-|3|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|35.76.216.108|1080|Japan|Tokyo|Amazon.com, Inc.|
+|4|35.72.90.28|1080|Japan|Tokyo|Amazon.com, Inc.|
+|5|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|18|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|20|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|19|202.47.188.193|7777|Indonesia|Ponorogo|Lintas Data Prima, PT|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
