@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|3|34.14.143.185|3128|India|Mumbai|Google LLC|
+|4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|151.245.215.17|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
-|15|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|18|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|89.168.33.150|3163|France|Paris|Oracle Corporation|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|103.247.23.37|1111|Indonesia|Purbalingga|PT wifian Solution|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|102.39.157.235|8080|South Africa|Cape Town|Vox Telecommunications (Pty) Limited|
+|19|160.22.222.29|7777|Indonesia|Tegal|PT Juara Network Tegal|
+|20|181.78.13.127|999|Colombia|Aracataca|IFX Networks Argentina S.R.L|
 
 
 
