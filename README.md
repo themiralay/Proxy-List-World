@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|8|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|45.88.89.65|6666|Albania|Tirana|Albanian Hosting SH.P.K.|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|34.14.143.185|3128|India|Mumbai|Google LLC|
-|18|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|19|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|18|85.112.65.130|8080|Lebanon|Beirut|TerraNet sal|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 
 
 
