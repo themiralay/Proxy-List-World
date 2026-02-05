@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|5|118.173.88.82|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|54.167.146.56|8080|United States|Ashburn|Amazon.com, Inc.|
-|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|17|38.43.158.7|8080|Peru|Lima|Nextnet S.A.C|
-|18|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|3|103.191.196.155|8080|Indonesia|Jatiwangi|PT Pangkalan Lintas Data|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 |19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|196.70.91.2|3128|Morocco|Tétouan|ADSL Maroc telecom|
+|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 
 
 
