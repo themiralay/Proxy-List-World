@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|43.135.176.123|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.169.88.206|3128|United States|Phoenix|Microsoft Corporation|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|172.233.179.41|3128|United States|Miami|Akamai Technologies, Inc.|
-|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|20.169.88.206|3128|United States|Phoenix|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|43.135.176.123|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|54.167.146.56|8080|United States|Ashburn|Amazon.com, Inc.|
+|12|172.233.179.41|3128|United States|Miami|Akamai Technologies, Inc.|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
 |15|97.87.190.11|8080|United States|Overland|Charter Communications|
-|16|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|17|77.239.121.24|3128|Germany|Frankfurt am Main|Senko Digital Ltd|
-|18|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|19|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|17|8.215.85.201|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|18|209.14.118.114|999|Colombia|Filadelfia|Cogent Communications|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|157.100.56.12|8080|Ecuador|Los Lojas|Ufinet Panama S.A.|
 
 
 
