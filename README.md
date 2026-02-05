@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|47.83.8.7|18080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|47.83.8.7|18080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|103.247.23.187|8080|Indonesia|Purbalingga|PT wifian Solution|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 |12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|13|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|14|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|45.88.89.65|6666|Albania|Tirana|Albanian Hosting SH.P.K.|
-|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|20|187.188.15.249|8080|Mexico|Benito Juarez|Total Play Telecomunicaciones SA De CV|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|18|194.67.206.117|443|Russia|Moscow|I-servers LTD|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|103.159.96.171|3122|Indonesia|Kertosono|PT Jinde Grup Indonesia|
 
 
 
