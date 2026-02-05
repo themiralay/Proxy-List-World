@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
 |4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|183.88.212.184|8080|Thailand|Na Kluea|Triple T Broadband Public Company Limited|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|72.10.164.178|16927|Canada|Montreal|GloboTech Communications|
-|14|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|16|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|17|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|20|103.102.12.129|1452|Indonesia|Rembang|FISNET|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|72.10.164.178|16927|Canada|Montreal|GloboTech Communications|
+|12|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|13|151.245.215.9|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
+|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|17|103.169.38.240|8080|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
+|18|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|19|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
