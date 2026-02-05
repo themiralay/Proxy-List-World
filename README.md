@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|11|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|113.22.108.248|10005|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|59.153.16.92|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|20|85.234.69.183|3128|Germany|Eschborn|G-Core Labs S.A.|
 
 
 
