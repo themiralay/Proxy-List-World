@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|8.220.188.140|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|20|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|9|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|15|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|190.97.239.40|999|Venezuela|Mérida||
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|103.247.23.37|1111|Indonesia|Purbalingga|PT wifian Solution|
+|19|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
+|20|203.190.117.100|8076|Indonesia|Yogyakarta|PT Union Routelink Communication|
 
 
 
