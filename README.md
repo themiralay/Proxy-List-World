@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|11|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
 |12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|15|36.50.92.145|8080|Indonesia|Rancamulya|PT Ring Media Nusantara|
-|16|112.209.21.243|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|17|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|131.100.19.5|4321|Brazil|Colinas do Tocantins|Cleyton De Sales Costa - ME|
-|20|202.154.18.56|8080|Indonesia|Mojokerto|DIGITNET|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|18|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
 
 
 
