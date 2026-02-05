@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4990** proxies at the latest update. Usable proxies are below.
+> Scraper found **4449** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|589|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3154|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2613|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|177.10.145.24|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|14|103.163.13.126|3128|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|85.9.87.26|8080|Iran|Tehran|Web Gostaran Bandar Company|
-|17|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
-|18|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|9|103.163.13.126|3128|Indonesia|Bojonegoro|PT Solusi Media Telekomunikasi|
+|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|11|144.31.116.48|1234|Germany|Frankfurt am Main|Senko Digital Ltd|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
