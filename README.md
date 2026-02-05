@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|146.196.40.146|8080|Indonesia|Rengasdengklok|UNINA|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|4|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|85.234.69.183|3128|Germany|Eschborn|G-Core Labs S.A.|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|16|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
