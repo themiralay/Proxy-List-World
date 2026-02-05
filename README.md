@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|5|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|103.132.52.74|2030|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|15|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|16|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|17|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
-|18|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|7|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|8|24.172.82.94|53281|United States|Indian Trail|Spectrum|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
+|14|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
+|15|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|103.169.254.75|6080|Indonesia|Ciputat|PT Master Star Network|
 
 
 
