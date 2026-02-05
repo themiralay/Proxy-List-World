@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5411** proxies at the latest update. Usable proxies are below.
+> Scraper found **5213** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|803|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|733|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|226|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3182|✅|
 
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|118.68.97.231|10001|Vietnam|Hanoi|FPT Telecom Company|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|20.169.88.206|3128|United States|Phoenix|Microsoft Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|173.224.122.240|3128|United States|St Louis|velia.net|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|15|20.169.88.206|3128|United States|Phoenix|Microsoft Corporation|
+|13|20.169.88.206|3128|United States|Phoenix|Microsoft Corporation|
+|14|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|15|173.224.122.240|3128|United States|St Louis|velia.net|
 |16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|17|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|18|109.202.25.115|3128|Russia|Novosibirsk|JSC Avantel. Novosibirsk network|
+|19|5.101.0.233|3128|Russia|St Petersburg|Petersburg Internet Network ltd.|
 |20|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
 
 
