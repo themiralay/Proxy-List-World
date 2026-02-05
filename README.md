@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|7|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|10|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|7|203.150.128.122|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|114.130.175.18|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|17|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|18|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
 
 
 
