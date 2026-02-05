@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|6|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|15|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|16|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|36.50.92.145|8080|Indonesia|Rancamulya|PT Ring Media Nusantara|
+|6|157.15.63.126|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|13|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|17|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
