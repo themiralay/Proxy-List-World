@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
 |6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|9|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|10|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|18|151.245.215.17|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
-|19|188.132.222.11|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|10|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|11|180.210.191.122|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|18|170.239.205.197|999|Colombia|San Juan de Betulia|FIBERNET|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
