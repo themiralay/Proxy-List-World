@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|176.34.40.50|1080|Japan|Tokyo|Amazon.com, Inc.|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|34.14.143.185|3128|India|Mumbai|Google LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 |19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
