@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
-|19|185.94.165.252|9002|The Netherlands|Amsterdam|First Server Limited|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|2|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|3|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|6|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|59.153.16.92|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|17|202.5.36.147|8090|Bangladesh|Chittagong|BBTS-NEW|
+|18|34.14.143.185|3128|India|Mumbai|Google LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
 
 
 
