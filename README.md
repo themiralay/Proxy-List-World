@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|3|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|16|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|17|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|18|154.64.230.253|19999|United States|Los Angeles|NetLab Global|
-|19|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|20|163.172.57.208|1080|France|Paris|Online S.A.S.|
+|2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|8|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|113.22.108.248|10007|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|157.66.192.91|8080|Indonesia|Randudongkal|PT Indotech Digitama Superlink|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|178.252.177.39|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|19|54.90.159.174|22229|United States|Ashburn|Amazon.com, Inc.|
+|20|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
 
 
 
