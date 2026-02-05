@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|15|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|16|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|203.175.103.3|3125|Indonesia|Kuningan|PT. Mitra Kita Brilian|
+|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|59.6.25.118|3128|South Korea|Dongdaemun|Korea Telecom|
+|16|103.169.38.240|8080|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|19|103.102.12.129|1452|Indonesia|Rembang|FISNET|
+|20|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
 
 
 
