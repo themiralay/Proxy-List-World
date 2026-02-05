@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|207.254.28.68|2025|Ireland|Dublin|MacStadium, Inc.|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|38.52.222.227|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|19|222.102.86.137|3040|South Korea|Gwangju|Korea Telecom|
-|20|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|10|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|14|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|15|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|16|34.14.143.185|3128|India|Mumbai|Google LLC|
+|17|170.239.205.197|999|Colombia|San Juan de Betulia|FIBERNET|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|188.72.43.145|47193|Iraq|Xebat|Pirmam For Information Technology Services Ltd|
+|20|151.245.215.17|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
 
 
 
