@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|4|20.169.88.206|3128|United States|Phoenix|Microsoft Corporation|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|43.135.176.123|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|4.156.229.212|3128|United States|Boydton|Microsoft Corporation|
-|10|173.224.122.240|3128|United States|St Louis|velia.net|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|20.169.88.206|3128|United States|Phoenix|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|43.135.176.123|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |13|172.233.179.41|3128|United States|Miami|Akamai Technologies, Inc.|
-|14|97.87.190.11|8080|United States|Overland|Charter Communications|
-|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|17|74.48.84.225|3128|United States|Los Angeles|Multacom Corporation|
-|18|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|15|74.48.84.225|3128|United States|Los Angeles|Multacom Corporation|
+|16|151.245.215.9|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
+|17|103.180.118.184|8080|Indonesia|Made|PT Persada Data Multimedia|
+|18|157.15.63.126|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 
 
 
