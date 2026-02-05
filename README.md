@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|1|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|10|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|8.215.85.201|7777|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|14|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|91.84.117.49|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|189.196.18.150|999|Mexico|General Pánfilo Natera|Mega Cable, S.A. de C.V.|
+|17|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|103.191.196.155|8080|Indonesia|Jatiwangi|PT Pangkalan Lintas Data|
+|20|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
