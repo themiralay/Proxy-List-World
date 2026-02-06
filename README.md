@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|38.60.156.135|8080|Thailand|Bangkok|Kaopu Cloud HK Limited|
-|14|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
-|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|18|122.54.135.155|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|38.60.156.135|8080|Thailand|Bangkok|Kaopu Cloud HK Limited|
+|17|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |19|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|20|45.77.246.231|80|Singapore|Singapore|The Constant Company|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
