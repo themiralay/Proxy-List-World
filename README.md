@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
 |2|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|51.255.83.24|1081|France|Gravelines|OVH SAS|
-|14|189.196.45.158|999|Mexico|Poanas Municipality|Mega Cable, S.A. de C.V.|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|101.255.137.2|80|Indonesia|Cipinang|PT Remala Abadi|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|15|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|16|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|18|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|45.133.107.246|81|Armenia|Sisavan|Art-net LLC|
+|20|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
 
 
 
