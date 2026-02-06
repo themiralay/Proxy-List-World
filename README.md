@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|2|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |6|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|17|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|7|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|16|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|51.255.83.24|1080|France|Gravelines|OVH SAS|
+|20|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 
 
 
