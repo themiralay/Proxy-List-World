@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
-|12|103.133.63.149|8080|Indonesia|Metro|TLINK|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|23.153.217.115|5555|United States|Miami|Gung HO LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|12|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 |15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|117.102.78.50|8000|Indonesia|Malang|BIZNET|
-|18|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|20|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|17|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|20|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
