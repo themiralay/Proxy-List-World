@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
 |4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |9|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|121.147.253.205|3172|South Korea|Gwangju|Korea Telecom|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|49.156.22.177|8082|Indonesia|Salatiga|PalapaNET|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 |16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|20|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|19|5.163.31.146|8080|Saudi Arabia|Riyadh|STC|
+|20|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
