@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|2|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|8.220.188.140|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|13|103.231.203.234|8080|Indonesia|Parung|East Regional|
+|14|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
 |15|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|16|182.53.247.15|8080|Thailand|Klaeng|TOT Public Company Limited|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|17|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |19|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|20|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|20|171.247.148.115|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
