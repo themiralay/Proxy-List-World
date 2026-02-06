@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|3|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
 |8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|9|186.33.40.17|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|11|51.255.83.24|1081|France|Gravelines|OVH SAS|
-|12|103.190.113.123|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|194.67.206.117|443|Russia|Moscow|I-servers LTD|
-|15|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|16|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|17|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|13|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|14|186.224.221.166|3128|Brazil|São Paulo|JR & JS ENGENHARIA E COMÉRCIO LTDA|
+|15|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|16|186.224.221.163|3128|Brazil|São Paulo|JR & JS ENGENHARIA E COMÉRCIO LTDA|
+|17|186.224.221.165|3128|Brazil|São Paulo|JR & JS ENGENHARIA E COMÉRCIO LTDA|
+|18|186.224.221.164|3128|Brazil|São Paulo|JR & JS ENGENHARIA E COMÉRCIO LTDA|
+|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 
 
 
