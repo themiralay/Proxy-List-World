@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.122.1.14|8181|Indonesia|Kayu Agung|PT. Java Digital Nusantara|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|45.87.43.72|54321|The Netherlands|Amsterdam|SpectraIP B.V.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|13|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
+|20|34.14.143.185|3128|India|Mumbai|Google LLC|
 
 
 
