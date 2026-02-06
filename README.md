@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|10|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|94.183.188.7|6891|France|Paris|CGI GLOBAL LIMITED|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|59.153.16.92|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
