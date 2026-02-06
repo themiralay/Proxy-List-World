@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|7|51.255.83.24|1081|France|Gravelines|OVH SAS|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|17|92.126.152.61|3128|Russia|Ulan-Ude|PJSC Rostelecom|
-|18|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
-|20|47.83.8.7|18080|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|11|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
+|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
 
 
 
