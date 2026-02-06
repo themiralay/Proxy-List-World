@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|8|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|9|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|11|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|43.224.119.194|1120|Bangladesh|Dhaka|Next Online|
-|13|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|19|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
-|20|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|7|103.171.182.229|8080|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
+|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|103.227.187.233|6090|Indonesia|Wirodayan|PT Master Star Network|
+|11|95.214.123.76|8080|Hungary|Kecskemét|Deltakon Kft.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|194.1.182.238|3128|Ukraine|Kyiv|Hostpro Lab LLC|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|190.97.226.134|999|Venezuela|Barinas|Viginet C.A|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|41.189.171.186|8080|Ghana|Jirapa|Scancom Ltd.|
+|18|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
+|19|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
