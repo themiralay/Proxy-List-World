@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|15|51.255.83.24|1081|France|Gravelines|OVH SAS|
-|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|2|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 |17|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|20|92.126.152.61|3128|Russia|Ulan-Ude|PJSC Rostelecom|
+|18|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|19|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
+|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 
 
 
