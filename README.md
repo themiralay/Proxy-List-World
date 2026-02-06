@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|34.14.143.185|3128|India|Mumbai|Google LLC|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
 |12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|17|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|14|38.187.7.6|3128|Peru|Miraflores|Nextnet S.A.C|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|34.14.143.185|3128|India|Mumbai|Google LLC|
+|19|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
