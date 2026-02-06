@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|7|103.125.118.172|3125|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|104.250.144.202|8888|United States|Pleasant View|GorillaServers, Inc.|
+|13|166.249.154.135|3128|United States|Utica|Verizon Business|
+|14|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
 |15|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|18|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|19|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|20|51.255.83.24|1080|France|Gravelines|OVH SAS|
+|16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|20|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
 
 
 
