@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|7|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|103.156.248.53|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|11|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|14|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|15|194.246.82.89|13447|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|17|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|18|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|20|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 
 
 
