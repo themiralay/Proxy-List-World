@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|8|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|1|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|18|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|16|34.14.143.185|3128|India|Mumbai|Google LLC|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|54.167.146.56|8080|United States|Ashburn|Amazon.com, Inc.|
+|20|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 
 
 
