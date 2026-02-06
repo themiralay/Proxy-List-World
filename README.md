@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
-|2|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|7|103.180.119.182|8082|Indonesia|Babat|PT Persada Data Multimedia|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|10|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|12|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|13|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|14|160.19.19.109|8097|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|15|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|51.255.83.24|1081|France|Gravelines|OVH SAS|
-|17|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|20|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|13|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|14|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|8.220.188.140|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
+|19|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
