@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|183.88.214.44|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|13|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|14|51.255.83.24|1081|France|Gravelines|OVH SAS|
-|15|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|18|92.126.152.61|3128|Russia|Ulan-Ude|PJSC Rostelecom|
-|19|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|20|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|7|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|117.5.224.75|10034|Vietnam|Hanoi|VIETTEL|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|16|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|17|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
