@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|117.5.224.75|10034|Vietnam|Hanoi|VIETTEL|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|10|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|11|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|49.13.48.65|9821|Germany|Falkenstein|Hetzner Online GmbH|
-|14|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|15|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|17|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|18|116.254.113.86|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|19|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
-|20|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|10|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|147.45.179.84|1082|United Kingdom|Coventry|Global Connectivity Solutions LLP|
+|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|14|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|15|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|16|34.14.143.185|3128|India|Mumbai|Google LLC|
+|17|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|18|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
