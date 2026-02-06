@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |6|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|12|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
-|13|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|14|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|45.172.1.4|800|Brazil|Ponta Grossa|Fiber Giga Provedores De Internet Ltda|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|15.204.151.142|3128|United States|Reston|OVH SAS|
+|8|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|13|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|16|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|17|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|18|177.47.172.82|3128|Brazil|Bragança Paulista|Wisp Iconecta Servicos De Rede Ltda|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
 
 
 
