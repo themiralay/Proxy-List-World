@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|9|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|9|45.189.252.218|999|Mexico|Alvarado|Tracered SA De CV|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|178.22.31.205|1082|Austria|Judenburg|Global Connectivity Solutions LLP|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|19|34.14.143.185|3128|India|Mumbai|Google LLC|
-|20|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|16|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|122.3.126.95|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|20|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
 
 
 
