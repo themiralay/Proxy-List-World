@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.34.180.21|38157|South Korea|Seongnam-si|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.156.233.19|8080|Indonesia|Cicurug|MULTIMEDIALINKTECH|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|103.109.173.173|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|11|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|12|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|13|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|14|202.93.245.54|8080|Indonesia|Sidoarjo|DWPNAP|
-|15|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|14|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|17|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
-|18|202.65.158.237|84|India|Hyderabad|Pioneer Elabs Ltd.|
-|19|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|17|202.58.77.235|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|18|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|19|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|20|62.133.62.12|1081|France|Paris|Global Connectivity Solutions LLP|
 
 
 
