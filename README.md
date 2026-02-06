@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|3|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|4|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|6|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|2|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|3|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|9|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|20|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|85.112.65.130|8080|Lebanon|Beirut|TerraNet sal|
+|12|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|13|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|14|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|15|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|18|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|19|122.52.234.54|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|20|72.10.164.178|16179|Canada|Montreal|GloboTech Communications|
 
 
 
