@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|5|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|6|181.94.197.37|8080|Paraguay|Fernando de la Mora|Núcleo S.A.|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|10|103.18.205.163|8080|Australia|Melbourne|Circle Network|
-|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|12|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|13|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|14|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|17|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|19|211.75.210.107|1168|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|20|72.10.160.170|26063|Canada|Montreal|GloboTech Communications|
+|1|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|160.20.128.27|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
+|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|11|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|15|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|5.101.0.233|3128|Russia|St Petersburg|Petersburg Internet Network ltd.|
+|18|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|19|85.234.69.183|3128|Germany|Eschborn|G-Core Labs S.A.|
+|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
