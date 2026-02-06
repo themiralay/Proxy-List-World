@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|11|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|15|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|4|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|103.124.97.12|8080|Nepal|Chitre|Pokhara Internet Pvt. Ltd|
+|8|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|95.163.153.116|44937|Austria|Vienna|Aeza International LTD|
+|19|125.190.229.159|9999|South Korea|Daegu|LG POWERCOMM|
+|20|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
 
 
 
