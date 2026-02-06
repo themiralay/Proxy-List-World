@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|15|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|16|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|85.234.83.80|3128|Japan|Tokyo|G-Core Labs S.A.|
-|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|8.220.188.140|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
 
 
 
