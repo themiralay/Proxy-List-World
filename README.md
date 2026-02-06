@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5093** proxies at the latest update. Usable proxies are below.
+> Scraper found **5085** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|674|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3156|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|200.59.186.179|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|10|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|11|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|51.255.83.24|1081|France|Gravelines|OVH SAS|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
-|15|92.126.152.61|3128|Russia|Ulan-Ude|PJSC Rostelecom|
-|16|203.190.117.214|8123|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|14.241.133.207|8080|Vietnam|Da Nang|VNPT|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|183.88.214.44|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|9|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|177.71.224.87|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|13|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|14|51.255.83.24|1081|France|Gravelines|OVH SAS|
+|15|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|16|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|17|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|18|92.126.152.61|3128|Russia|Ulan-Ude|PJSC Rostelecom|
+|19|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
+|20|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
 
 
 
