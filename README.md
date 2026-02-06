@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|141.98.197.133|18791|Japan|Tokyo|xTom Japan Corporation|
-|2|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|8|40.176.193.212|20000|Canada|Calgary|Amazon.com, Inc.|
-|9|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|9|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|40.176.193.212|20000|Canada|Calgary|Amazon.com, Inc.|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|34.14.143.185|3128|India|Mumbai|Google LLC|
-|15|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|18|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
-|19|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|14|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|15|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|16|213.111.146.36|18080|The Netherlands|Haarlem|SOLLUTIUM EU Sp z.o.o.|
+|17|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|18|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|19|51.255.83.24|1080|France|Gravelines|OVH SAS|
+|20|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 
 
 
