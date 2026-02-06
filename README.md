@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|187.102.219.32|999|Argentina|Puerto Eldorado|Cretton Lisandro Maximiliano|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|15|196.1.120.193|8080|Seychelles|Victoria|Kokonet Ltd|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|18|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|34.14.143.185|3128|India|Mumbai|Google LLC|
+|1|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|11|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|91.107.129.23|8080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|200.59.191.234|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
+|15|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|16|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
