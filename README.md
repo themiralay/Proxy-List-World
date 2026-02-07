@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4910** proxies at the latest update. Usable proxies are below.
+> Scraper found **5138** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|730|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2920|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3241|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|9|113.176.118.255|7654|Vietnam|Hanoi|VNPT|
-|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|11|85.234.69.183|3128|Germany|Eschborn|G-Core Labs S.A.|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
-|17|89.232.99.70|3128|Russia|Kazan'|TATTELECOM|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|20|112.201.241.84|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|1|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|2|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|7|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
+|10|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|15|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|89.232.99.70|3128|Russia|Kazan'|TATTELECOM|
+|17|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|85.234.69.183|3128|Germany|Eschborn|G-Core Labs S.A.|
+|19|188.72.43.145|47193|Iraq|Xebat|Pirmam For Information Technology Services Ltd|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
