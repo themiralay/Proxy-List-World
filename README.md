@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|1|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|2|115.147.20.176|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
 |5|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|119.8.29.218|8080|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|18|103.135.102.161|8081|Hong Kong|Wan Chai|ASSN-AKRN|
+|6|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|8|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
+|9|103.71.162.8|7777|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
+|10|38.159.37.17|999|Dominican Republic|Santo Domingo|Orbitek SRL|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|190.60.48.214|999|Colombia|Barrancabermeja|IFX NETWORKS COLOMBIA|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|34.14.143.185|3128|India|Mumbai|Google LLC|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
 
 
 
