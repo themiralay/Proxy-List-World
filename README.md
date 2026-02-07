@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.183.66.193|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |8|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
 |12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|34.14.143.185|3128|India|Mumbai|Google LLC|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|103.106.78.193|7979|Indonesia|Depok|PT Quantum Tera Multimedia|
+|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|124.158.186.254|8080|Indonesia|Jakarta|PT Jala Lintas Media|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
