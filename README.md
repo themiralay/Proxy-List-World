@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|85.234.69.183|3128|Germany|Eschborn|G-Core Labs S.A.|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|17|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
-|18|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|151.245.215.20|3128|The Netherlands|Amsterdam|UAB "Atlantis Capital"|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|9|103.82.246.19|6080|Indonesia|Tulangan Utara|PT Master Star Network|
+|10|45.236.170.178|999|Ecuador|Guayaquil|Codgrec S.A.|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|20|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
 
 
 
