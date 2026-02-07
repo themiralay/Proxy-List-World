@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|5|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|13|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|10|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|11|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|12|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|13|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
 |14|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|15|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|16|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|17|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|19|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|20|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|15|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|16|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|17|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
+|19|116.98.57.187|8080|Vietnam|Da Nang|Viettel Group|
+|20|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
 
 
 
