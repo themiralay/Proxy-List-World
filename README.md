@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|4|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|5|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|6|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|14|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|15|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|8|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|103.171.254.26|8080|Indonesia|Cikarang|PT Zona Kolektif Indonesia|
+|17|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|19|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|20|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
