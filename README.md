@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|34.1.133.104|3128|Singapore|Singapore|Google LLC|
-|6|154.19.38.123|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
-|7|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|11|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|15|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|109.107.181.151|51553|Germany|Frankfurt am Main|Aeza International LTD|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|3|34.1.133.104|3128|Singapore|Singapore|Google LLC|
+|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|5|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|6|151.241.227.27|16537|Poland|Warsaw|Hostkey B.V.|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
