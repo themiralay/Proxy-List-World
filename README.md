@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.183.66.193|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
 |5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|8|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|9|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|203.190.117.214|8123|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|14|202.4.117.136|3128|Bangladesh|Mātuail|Amber IT Limited|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|20|181.78.49.177|999|Guatemala|San Marcos|Ufinet Panama S.A.|
+|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|11|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|190.94.212.160|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|186.248.239.154|3128|Brazil|Lagoa Santa|AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT|
+|19|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
