@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4947** proxies at the latest update. Usable proxies are below.
+> Scraper found **4970** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|160|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|162|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|550|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|36|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3322|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |3|14.224.76.89|8080|Vietnam|Hanoi|VNPT|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
 |6|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|7|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|8|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|103.215.36.88|13763|China|Yancheng|China Mobile Communications Corporation|
-|13|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|14|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|15|14.224.76.89|8080|Vietnam|Hanoi|VNPT|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|47.83.8.7|18080|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|202.152.142.99|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|9|14.224.76.89|8080|Vietnam|Hanoi|VNPT|
+|10|45.174.174.118|999|Mexico|Pichucalco|Javier Tamayo Garcia|
+|11|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|14|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|16|167.249.52.218|999|Argentina|Luján de Cuyo|Tecnet Argentina S.A.|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|20|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
 
 
 
