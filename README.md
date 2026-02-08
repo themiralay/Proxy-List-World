@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5041** proxies at the latest update. Usable proxies are below.
+> Scraper found **5111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|182|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|665|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3322|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|4|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|5|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|6|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|8|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|14.21.151.98|7890|China|Guangzhou|Chinanet|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|103.120.174.75|1818|Indonesia|Tangerang|PT. Eka Mas Republik|
-|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|1.52.123.151|10010|Vietnam|Hanoi|FPT Telecom Company|
-|17|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|18|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|107.172.103.198|7890|United States|Santa Clara|HostPapa|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|11|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|16|38.211.76.201|999|Colombia|Garzón|Fibernet TV SAS|
+|17|103.165.155.196|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|18|162.240.154.26|3128|United States|Provo|Unified Layer|
+|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|20|116.58.241.121|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
 
 
 
