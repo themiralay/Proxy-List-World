@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.131.83|16923|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|103.10.231.189|8080|Thailand|Bang Phli|CATBB|
-|4|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|9|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|19|103.84.177.158|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|123.200.3.221|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|14.229.156.117|8080|Vietnam|Haiphong|VNPT|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|103.10.231.189|8080|Thailand|Bang Phli|CATBB|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|13|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|17|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|18|122.3.87.41|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|178.22.31.205|1082|Austria|Judenburg|Global Connectivity Solutions LLP|
 
 
 
