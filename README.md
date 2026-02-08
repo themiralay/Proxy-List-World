@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5181** proxies at the latest update. Usable proxies are below.
+> Scraper found **5107** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|655|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3366|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|4|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|7|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|10|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|14|162.240.154.26|3128|United States|Provo|Unified Layer|
-|15|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|18|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|19|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|20|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
+|5|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|6|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
+|9|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|10|103.189.116.138|1220|Indonesia|Wonosobo|PT Callysta Total Solusindo|
+|11|193.124.190.224|53294|Russia|Moscow|First Server Limited|
+|12|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
+|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|14|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|19|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
