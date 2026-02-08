@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|45.87.43.72|54321|The Netherlands|Amsterdam|SpectraIP B.V.|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|176.124.219.49|3128|Russia|Moscow|JSC "TIMEWEB"|
-|15|187.190.127.212|80|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|187.190.127.212|80|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.122.64.139|8085|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|20|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|103.173.138.151|8080|Indonesia|Kota Agung|PT Serayu Multi Connection|
+|4|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|5.236.93.14|9000|Iran|Tajnīk|Iran Telecommunication Company PJS|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|122.53.59.59|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|14|103.112.54.21|58080|Bangladesh|Dhaka|Systems Solutions & development Technologies Limited|
+|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|16|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|17|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|18|193.124.190.224|53294|Russia|Moscow|First Server Limited|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
 
 
 
