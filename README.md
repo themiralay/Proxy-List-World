@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |7|151.243.213.105|10809|The Netherlands|Amsterdam|Matteo Martelloni trading as DELUXHOST|
 |8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|10|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|162.240.154.26|3128|United States|Provo|Unified Layer|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|38.172.129.34|999|Peru|Lima|Conex TV E.I.R.L|
-|15|117.5.224.75|10002|Vietnam|Hanoi|VIETTEL|
-|16|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|185.226.119.114|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|16|162.240.154.26|3128|United States|Provo|Unified Layer|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|19|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
