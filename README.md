@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.107.98.148|10001|Vietnam|Hanoi|Viettel Group|
-|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|163.47.25.14|8080|Indonesia|Cikampek|PT STAR HOME INDONESIA|
-|7|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|8|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|9|118.71.86.181|2064|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|10|201.182.204.18|9999|Brazil|Candeias|Conect Fiber Telecomunicacoes Ltda - ME|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|14|116.107.98.148|10001|Vietnam|Hanoi|Viettel Group|
-|15|124.105.69.124|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|16|103.188.173.66|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|17|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|19|120.238.159.230|22222|China|Guangzhou|China Mobile communications corporation|
-|20|223.113.134.98|22222|China|Nanjing|China Mobile communications corporation|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|120.28.221.86|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
+|14|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|17|103.175.240.67|3125|Indonesia|Sleman|LDP|
+|18|5.236.93.14|9000|Iran|Tajnīk|Iran Telecommunication Company PJS|
+|19|202.165.32.58|8080|Indonesia|Jakarta|Circlecom|
+|20|119.93.139.196|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
