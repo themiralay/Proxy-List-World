@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|190.60.59.181|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|165.101.102.30|8081|Philippines|Quezon City|iRateNet Solutions|
-|14|202.58.77.19|3127|Indonesia|Kediri|PT Data Buana Nusantara|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|17|163.5.128.33|14270|United States|Brooklyn|Windstream Communications LLC|
-|18|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
-|19|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|193.124.190.224|53294|Russia|Moscow|First Server Limited|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|223.204.127.3|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|121.101.133.220|7777|Indonesia|Buaran|PT SELARAS CITRA TERABIT|
+|13|37.230.58.20|999|Paraguay|Ciudad del Este|Startelecom S.A.|
+|14|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|54.147.131.206|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
