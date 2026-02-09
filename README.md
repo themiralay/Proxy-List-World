@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4142** proxies at the latest update. Usable proxies are below.
+> Scraper found **4116** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|199|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2414|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|4|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|3|45.174.77.1|999|Mexico|Chihuahua City|Raul Duarte Urita|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|19|72.10.164.178|24011|Canada|Montreal|GloboTech Communications|
-|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|7|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
+|10|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|162.240.154.26|3128|United States|Provo|Unified Layer|
+|17|223.113.134.107|22222|China|Nanjing|China Mobile communications corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|72.10.164.178|24011|Canada|Montreal|GloboTech Communications|
 
 
 
