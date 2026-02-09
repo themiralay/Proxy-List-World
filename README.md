@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|5|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|6|36.88.170.170|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
-|10|103.31.133.102|8080|Indonesia|Palembang|PT Arthatama Adhiprima Persada|
-|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|13|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|197.155.64.226|8090|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|15|43.231.78.205|8080|Bangladesh|Dhaka|Gateway Online Access Limited|
-|16|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
-|17|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|18|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|19|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|20|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|8|77.242.21.133|8080|Albania|Tirana|Business Custommers|
+|9|202.165.32.58|8080|Indonesia|Jakarta|Circlecom|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|223.113.134.57|22222|China|Nanjing|China Mobile communications corporation|
+|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|13|161.49.94.40|8082|Philippines|Pasig|Converge ICT Solution Inc|
+|14|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|15|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|190.120.252.174|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
