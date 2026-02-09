@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
+|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|8|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|9|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|116.107.98.148|10014|Vietnam|Hanoi|Viettel Group|
-|12|49.145.125.122|9999|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|13|72.10.164.178|25761|Canada|Montreal|GloboTech Communications|
-|14|45.87.43.72|54321|The Netherlands|Amsterdam|SpectraIP B.V.|
-|15|14.143.222.113|26705|India|Chennai|Tata Communications Limited|
-|16|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|17|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|18|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|19|120.238.159.228|22222|China|Guangzhou|China Mobile communications corporation|
-|20|200.48.35.123|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|11|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
+|12|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|116.107.98.148|10014|Vietnam|Hanoi|Viettel Group|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|150.107.104.49|1111|Indonesia|Jakarta|PT Graha Multimedia Nusantara|
+|18|45.87.43.72|54321|The Netherlands|Amsterdam|SpectraIP B.V.|
+|19|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|20|45.87.43.72|54321|The Netherlands|Amsterdam|SpectraIP B.V.|
 
 
 
