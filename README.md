@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4154** proxies at the latest update. Usable proxies are below.
+> Scraper found **4076** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|224|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|585|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|220|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|511|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2414|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|9|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|10|67.43.228.250|15487|Canada|Montreal|GloboTech Communications|
-|11|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|12|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|103.109.212.14|2254|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|16|38.187.22.229|8080|Peru|La Libertad|Nextnet S.A.C|
-|17|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|18|135.84.222.121|8080|United States|North Platte|Allo Communications LLC|
-|19|138.59.221.65|8080|Brazil|Itambacuri|EMITEL - Empresa de Informatica e Telecom. LTDA|
-|20|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|15|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|193.124.190.224|53294|Russia|Moscow|First Server Limited|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|19|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
+|20|193.124.190.224|53294|Russia|Moscow|First Server Limited|
 
 
 
