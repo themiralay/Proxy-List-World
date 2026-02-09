@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|160.19.84.244|8080|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|8|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|5|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|9|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
 |10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|202.165.92.206|8080|Myanmar|Hlegu|Telecom International Myanmar Company Limited|
-|12|160.19.16.6|8182|Indonesia|Tanjungbalai|PT Media Balai Nusa|
-|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.172.42.175|8082|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|176.236.226.178|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|20|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
