@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4186** proxies at the latest update. Usable proxies are below.
+> Scraper found **4173** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|548|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2483|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|193.124.190.224|53294|Russia|Moscow|First Server Limited|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|162.240.154.26|3128|United States|Provo|Unified Layer|
-|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|16|119.92.188.29|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|17|103.191.254.2|8080|Indonesia|Rembang|PT Ayodya Data Internusa|
-|18|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|160.187.174.82|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|20|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|103.153.135.122|8080|Indonesia|Curug|WMINET|
+|6|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
+|7|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|8|162.240.154.26|3128|United States|Provo|Unified Layer|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|117.159.239.55|22222|China|Zhengzhou|China Mobile communications corporation|
+|13|83.171.252.150|8080|Russia|Moscow|Miranda-Media Ltd|
+|14|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|15|66.70.235.23|5454|United States|Los Angeles|OVH SAS|
+|16|212.252.71.30|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|17|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|18|181.209.82.91|1994|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|19|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|20|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
 
 
 
