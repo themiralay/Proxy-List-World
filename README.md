@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|5.129.237.45|49488|The Netherlands|Amsterdam|Timeweb, LLP|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|222.28.182.229|7890|China|Haidian|China Education and Research Network Center|
-|14|202.93.247.51|8090|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
+|1|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|193.124.190.224|53294|Russia|Moscow|First Server Limited|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|162.240.154.26|3128|United States|Provo|Unified Layer|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |15|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|16|147.75.68.85|443|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
-|18|212.51.157.178|8080|Switzerland|Zurich|Init7 (Switzerland) Ltd.|
-|19|103.154.152.104|2020|Indonesia|Bekasi|MORATELINDONAP|
-|20|72.10.164.178|13433|Canada|Montreal|GloboTech Communications|
+|16|119.92.188.29|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|103.191.254.2|8080|Indonesia|Rembang|PT Ayodya Data Internusa|
+|18|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|160.187.174.82|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|20|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
 
 
 
