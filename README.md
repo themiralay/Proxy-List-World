@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4092** proxies at the latest update. Usable proxies are below.
+> Scraper found **4138** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|213|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|534|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|200|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|29|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2414|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|13|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|14|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
-|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|16|161.49.89.217|8081|Philippines|Pasig|Converge ICT Solution Inc|
-|17|162.240.154.26|3128|United States|Provo|Unified Layer|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|120.238.159.229|22222|China|Guangzhou|China Mobile communications corporation|
-|20|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|3|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|9|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|10|163.47.25.14|8080|Indonesia|Cikampek|PT STAR HOME INDONESIA|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|14|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|15|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|16|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|17|78.134.20.48|8080|Italy|Pitigliano|NGI|
+|18|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|19|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|20|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
 
 
 
