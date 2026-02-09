@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4692** proxies at the latest update. Usable proxies are below.
+> Scraper found **4724** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|45|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|45|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|45|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|468|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|188|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3089|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|4|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|2|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|5|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|5.236.93.14|9000|Iran|Tajnīk|Iran Telecommunication Company PJS|
-|11|5.236.93.14|9000|Iran|Tajnīk|Iran Telecommunication Company PJS|
-|12|117.5.224.75|10034|Vietnam|Hanoi|VIETTEL|
-|13|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|18|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|19|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|10|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|11|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|12|54.250.11.245|4000|Japan|Tokyo|Amazon.com, Inc.|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|54.147.131.206|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
