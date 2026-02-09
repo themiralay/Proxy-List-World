@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|6|103.183.8.59|8181|Indonesia|Jakarta|PT Cepat Multi Data|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|103.48.68.126|82|India|Hyderabad|Country Online Services PVT LTD|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |14|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|19|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
 |20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
