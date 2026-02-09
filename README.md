@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|15|190.94.213.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|103.190.113.123|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|17|218.152.206.92|10080|South Korea|Yongsan-gu|Korea Telecom|
-|18|150.241.68.178|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|107.172.103.198|7890|United States|Santa Clara|HostPapa|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|11|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|12|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|13|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|20|103.80.98.31|7777|Indonesia|Purwodadi Grobogan|Advertise via PT Menaksopal|
 
 
 
