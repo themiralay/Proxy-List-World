@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|103.71.162.41|8080|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
 |7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|1.54.63.125|10023|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|13|45.171.64.24|999|Guatemala|Guatemala City|Cablecolor S.A.|
-|14|118.71.86.181|2120|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|17|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|9|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|223.113.134.102|22222|China|Nanjing|China Mobile communications corporation|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
 
 
 
