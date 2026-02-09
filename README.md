@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|206.84.104.126|8080|Indonesia|Jakarta|Cogent Communications|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|118.71.86.181|2120|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|10|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|11|1.54.63.125|10007|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|166.249.54.61|7234|United States|Brooklyn|Verizon Business|
-|14|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|5.236.93.14|9000|Iran|Tajnīk|Iran Telecommunication Company PJS|
-|20|202.165.32.58|8080|Indonesia|Jakarta|Circlecom|
+|4|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|8|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|10|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
+|11|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|12|202.152.142.99|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
+|16|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|17|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
