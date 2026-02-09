@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4345** proxies at the latest update. Usable proxies are below.
+> Scraper found **4314** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|49|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|49|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|49|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|537|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|506|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|30|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2663|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|190.60.47.83|999|Colombia|Galapa|IFX NETWORKS COLOMBIA|
-|11|223.113.134.57|22222|China|Nanjing|China Mobile communications corporation|
-|12|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|13|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|14|67.43.236.18|2785|Canada|Montreal|GloboTech Communications|
-|15|160.187.174.114|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|16|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|54.147.131.206|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|5|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|6|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|112.201.241.84|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|9|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
+|12|193.124.190.224|53294|Russia|Moscow|First Server Limited|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|206.42.14.61|8080|Brazil|Juazeiro do Norte|Brisanet Prestacao De Servicos De Internet Ltda|
+|15|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|20|54.147.131.206|3128|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
