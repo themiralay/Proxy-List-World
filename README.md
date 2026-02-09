@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|157.15.63.126|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|10|58.147.187.20|8080|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
-|11|120.240.35.173|22222|China|Guangzhou|China Mobile communications corporation|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|190.60.47.83|999|Colombia|Galapa|IFX NETWORKS COLOMBIA|
+|11|223.113.134.57|22222|China|Nanjing|China Mobile communications corporation|
 |12|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|13|67.43.236.18|2785|Canada|Montreal|GloboTech Communications|
-|14|45.4.202.145|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|180.148.4.74|8080|Vietnam|Ho Chi Minh City|VNTT|
-|16|38.190.100.107|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
-|17|190.97.226.134|999|Venezuela|Barinas|Viginet C.A|
-|18|72.10.164.178|5597|Canada|Montreal|GloboTech Communications|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|54.147.131.206|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|14|67.43.236.18|2785|Canada|Montreal|GloboTech Communications|
+|15|160.187.174.114|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|16|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|54.147.131.206|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
