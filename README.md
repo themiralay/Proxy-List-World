@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|103.171.83.115|7777|Indonesia|Bekasi|PT Multi Network Indonesia|
-|10|122.54.135.155|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
-|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|7|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
+|11|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|14|150.107.104.49|1111|Indonesia|Jakarta|PT Graha Multimedia Nusantara|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|19|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|20|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|20|103.112.130.14|8080|Bangladesh|Nārāyanganj|Sayem Online Communication|
 
 
 
