@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4173** proxies at the latest update. Usable proxies are below.
+> Scraper found **4157** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|535|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|519|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2483|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|103.153.135.122|8080|Indonesia|Curug|WMINET|
-|6|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|7|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|117.159.239.55|22222|China|Zhengzhou|China Mobile communications corporation|
-|13|83.171.252.150|8080|Russia|Moscow|Miranda-Media Ltd|
-|14|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|15|66.70.235.23|5454|United States|Los Angeles|OVH SAS|
-|16|212.252.71.30|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|17|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|18|181.209.82.91|1994|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|19|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|20|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|162.240.154.26|3128|United States|Provo|Unified Layer|
+|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|85.117.62.70|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|163.5.128.53|14270|United States|Brooklyn|Windstream Communications LLC|
+|15|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|17|176.88.65.189|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
