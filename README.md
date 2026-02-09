@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4264** proxies at the latest update. Usable proxies are below.
+> Scraper found **4224** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|230|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|599|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2503|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|16|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
-|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|19|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|20|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|10|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|11|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|103.139.98.50|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|16|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|18|49.147.49.204|8080|Philippines|Eustaquio Lopez|Philippine Long Distance Telephone Co.|
+|19|1.52.123.151|10010|Vietnam|Hanoi|FPT Telecom Company|
+|20|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
 
 
 
