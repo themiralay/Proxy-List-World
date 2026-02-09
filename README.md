@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|7|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|10|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|12|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|14|193.124.190.224|53294|Russia|Moscow|First Server Limited|
-|15|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|16|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|18|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|19|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
-|20|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|3|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|11|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|17|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
