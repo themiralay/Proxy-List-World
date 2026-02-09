@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4159** proxies at the latest update. Usable proxies are below.
+> Scraper found **4186** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|521|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|548|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2483|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|5.129.237.45|49488|The Netherlands|Amsterdam|Timeweb, LLP|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
-|11|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|103.87.202.18|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
-|13|49.145.125.122|9999|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|14|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
-|15|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|16|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|17|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|18|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|177.52.221.99|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|222.28.182.229|7890|China|Haidian|China Education and Research Network Center|
+|14|202.93.247.51|8090|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
+|15|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|16|147.75.68.85|443|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|17|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
+|18|212.51.157.178|8080|Switzerland|Zurich|Init7 (Switzerland) Ltd.|
+|19|103.154.152.104|2020|Indonesia|Bekasi|MORATELINDONAP|
+|20|72.10.164.178|13433|Canada|Montreal|GloboTech Communications|
 
 
 
