@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4305** proxies at the latest update. Usable proxies are below.
+> Scraper found **4309** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|500|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2663|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|9|121.168.58.213|3128|South Korea|Suwon|Korea Telecom|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|67.43.228.251|15535|Canada|Montreal|GloboTech Communications|
-|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|16|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|17|67.43.236.18|20179|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12993|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|12993|Canada|Montreal|GloboTech Communications|
-|20|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|3|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|121.168.58.213|3128|South Korea|Suwon|Korea Telecom|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|10|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|13|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|14|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|16|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|202.58.77.18|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|18|67.43.236.18|20179|Canada|Montreal|GloboTech Communications|
+|19|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|20|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
