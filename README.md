@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|116.107.98.148|10014|Vietnam|Hanoi|Viettel Group|
-|17|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
-|19|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
-|20|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|181.129.147.163|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|14|195.62.50.39|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|113.212.87.242|84|India|Ahmedabad|INPLs|
+|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
