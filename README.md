@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|11|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|103.139.98.50|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|16|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|49.147.49.204|8080|Philippines|Eustaquio Lopez|Philippine Long Distance Telephone Co.|
-|19|1.52.123.151|10010|Vietnam|Hanoi|FPT Telecom Company|
-|20|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|12|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|13|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|14|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|15|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
