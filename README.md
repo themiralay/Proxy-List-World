@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4815** proxies at the latest update. Usable proxies are below.
+> Scraper found **4879** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|225|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|551|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3099|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|10|103.80.98.19|8080|Indonesia|Purwodadi Grobogan|Advertise via PT Menaksopal|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|166.249.154.135|3128|United States|Utica|Verizon Business|
-|15|194.233.73.36|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|16|49.147.121.253|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|17|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|19|91.204.190.140|81|Armenia|Yerevan|BioNet LLC|
-|20|89.232.99.70|3128|Russia|Kazan'|TATTELECOM|
+|4|103.85.53.77|8080|Indonesia|Semarang|PT Binerkahan Digital Telco|
+|5|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|9|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
+|10|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|11|41.250.211.162|30038|Morocco|Casablanca|ADSL Maroc telecom|
+|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|89.232.99.70|3128|Russia|Kazan'|TATTELECOM|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
