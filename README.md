@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|8|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|11|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|162.240.154.26|3128|United States|Provo|Unified Layer|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
+|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|201.182.204.18|9999|Brazil|Candeias|Conect Fiber Telecomunicacoes Ltda - ME|
+|12|189.73.53.94|8080|Brazil|Curitiba|V tal|
 |13|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
-|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|17|104.248.198.6|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|165.16.22.86|9999|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|19|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|20|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|14|94.183.188.7|6891|France|Paris|CGI GLOBAL LIMITED|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|19|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
