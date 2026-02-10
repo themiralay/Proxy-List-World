@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|5|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
+|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|7|203.190.44.106|8080|Indonesia|Ungaran|PT Jaring Lintas Utara|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|91.144.45.166|8082|Syria|Şaḩnāyā|STE Public Data Network Backbone and LIR|
-|10|157.20.207.67|1111|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|11|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|38.183.182.242|999|Peru|Huaura|Forza Bussines S.A.C|
-|16|103.165.157.241|8090|Indonesia|Wonosobo|MEGADATA-ISP|
-|17|72.10.164.178|26749|Canada|Montreal|GloboTech Communications|
-|18|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|19|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
-|20|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|7|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|202.152.142.99|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|11|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|12|91.211.212.6|32650|Greece|Athens|ISP Inalan|
+|13|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
+|14|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
+|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|16|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|117.159.239.55|22222|China|Zhengzhou|China Mobile communications corporation|
+|20|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
 
 
 
