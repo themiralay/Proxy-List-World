@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.209.22.153|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|3|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|11|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
 |14|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|16|139.255.5.98|443|Indonesia|Bekasi|PT. LINKNET|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|157.180.83.138|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
