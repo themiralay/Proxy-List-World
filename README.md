@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|4|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|7|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|103.169.26.114|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|13|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|162.240.154.26|3128|United States|Provo|Unified Layer|
-|16|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|18|45.230.169.225|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|19|77.221.141.244|21406|Sweden|Stockholm|Aeza International LTD|
-|20|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|2|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|14|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|15|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|17|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 
 
 
