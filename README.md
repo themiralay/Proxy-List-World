@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.67.80.176|7777|Indonesia|Cikarang|PT Komunikasi Profesional Indonesia|
-|3|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|203.190.44.106|8080|Indonesia|Ungaran|PT Jaring Lintas Utara|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|206.84.104.126|8080|Indonesia|Jakarta|Cogent Communications|
-|8|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|12|212.108.115.68|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|13|202.165.32.58|8080|Indonesia|Jakarta|Circlecom|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|157.20.207.67|1111|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|19|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|202.165.32.58|8080|Indonesia|Jakarta|Circlecom|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|7|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|103.184.67.119|8080|Indonesia|Rokoy|PT Siber Tech Indonesia|
+|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|11|139.28.48.39|8080|Syria|Damascus|Telecom SY|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|36.95.55.207|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|103.209.88.70|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|200.48.35.126|999|Peru|Tarma|Telefonica del Peru S.A.A.|
+|19|144.124.227.90|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|223.113.134.57|22222|China|Nanjing|China Mobile communications corporation|
 
 
 
