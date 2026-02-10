@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
-|6|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
-|7|122.3.126.95|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|8|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|7|103.165.155.68|1111|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|8|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|9|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
+|10|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|11|36.88.148.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
+|13|189.73.53.94|8080|Brazil|Curitiba|V tal|
+|14|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|16|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|17|138.124.117.139|37938|The Netherlands|Amsterdam|Aeza International LTD|
+|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|19|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
