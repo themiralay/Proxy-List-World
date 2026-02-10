@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|45.236.129.64|3128|Chile|Curicó|Informatica Bluehosting Limitada|
-|7|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|8|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|11|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|12|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|3|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|45.236.129.64|3128|Chile|Curicó|Informatica Bluehosting Limitada|
+|8|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 |13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|19|162.240.154.26|3128|United States|Provo|Unified Layer|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|103.177.199.97|1111|Indonesia|Lebaksiu|PT Eyza Kausa Sinergi Abadi|
+|16|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
+|17|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|34.14.143.185|3128|India|Mumbai|Google LLC|
+|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|20|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 
 
 
