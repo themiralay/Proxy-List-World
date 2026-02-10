@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4356** proxies at the latest update. Usable proxies are below.
+> Scraper found **4348** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|266|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|587|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|579|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|50|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2553|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|103.112.130.14|8080|Bangladesh|Nārāyanganj|Sayem Online Communication|
-|4|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|209.62.196.68|8080|United States|Cut Off|EATEL|
-|8|185.94.165.61|44444|The Netherlands|Amsterdam|First Server Limited|
-|9|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|10|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|13|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
-|14|176.124.219.49|3128|Russia|Moscow|JSC "TIMEWEB"|
-|15|181.129.185.130|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|16|180.191.52.179|8082|Philippines|Tarlac City|Globe Telecom|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|59.153.18.230|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|2|103.67.80.176|7777|Indonesia|Cikarang|PT Komunikasi Profesional Indonesia|
+|3|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|203.190.44.106|8080|Indonesia|Ungaran|PT Jaring Lintas Utara|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|206.84.104.126|8080|Indonesia|Jakarta|Cogent Communications|
+|8|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|12|212.108.115.68|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|13|202.165.32.58|8080|Indonesia|Jakarta|Circlecom|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|157.20.207.67|1111|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|19|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
