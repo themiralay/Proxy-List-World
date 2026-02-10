@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|223.113.134.102|22222|China|Nanjing|China Mobile communications corporation|
-|6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|7|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|11|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
-|14|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|16|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|17|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|177.234.226.83|1994|Ecuador|Manta|Ufinet Panama S.A.|
-|19|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
-|20|138.124.117.139|31646|The Netherlands|Amsterdam|Aeza International LTD|
+|4|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|5|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
+|6|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|5.236.93.14|9000|Iran|Tajnīk|Iran Telecommunication Company PJS|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|163.47.25.14|8080|Indonesia|Cikampek|PT STAR HOME INDONESIA|
+|20|222.127.68.126|8080|Philippines|Lahug|INNOVE|
 
 
 
