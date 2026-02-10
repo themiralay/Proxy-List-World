@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|103.93.93.86|1111|Indonesia|Sitimerto|MYRISE|
-|4|103.156.15.210|1111|Indonesia|Bojonegara|PT Lintas Jaringan Nusantara|
-|5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|203.150.113.29|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|89.223.66.48|8443|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|190.104.134.145|3128|Paraguay|Asunción|Núcleo S.A.|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|3|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|89.223.66.48|8443|Russia|St Petersburg|JSC "TIMEWEB"|
+|7|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|8|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|45.188.125.49|999|Mexico|Nacajuca|Digy Networks S.A De C.V.|
+|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|18|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|19|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|20|116.80.45.151|3172|Japan|Yokohama|InfoSphere|
 
 
 
