@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|7|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|89.223.66.48|8443|Russia|St Petersburg|JSC "TIMEWEB"|
 |8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|13|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|14|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|15|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|16|72.10.164.178|2353|Canada|Montreal|GloboTech Communications|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|8.220.149.222|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|117.159.239.55|22222|China|Zhengzhou|China Mobile communications corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|11|223.113.134.102|22222|China|Nanjing|China Mobile communications corporation|
+|12|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|20|102.218.40.77|8082|South Africa|Newcastle|Net01|
 
 
 
