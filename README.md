@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4821** proxies at the latest update. Usable proxies are below.
+> Scraper found **4798** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|290|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|603|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|35|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2970|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|2|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|210.87.74.71|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|45.236.129.64|3128|Chile|Curicó|Informatica Bluehosting Limitada|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|78.153.155.31|1082|United States|Atlanta|Global Connectivity Solutions LLP|
+|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|45.236.129.64|3128|Chile|Curicó|Informatica Bluehosting Limitada|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
 
 
 
