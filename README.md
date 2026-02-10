@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|6|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|13|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|190.97.239.24|999|Venezuela|Acarigua||
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|45.166.93.113|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 
