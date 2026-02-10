@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|3|101.51.144.214|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
-|14|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|197.248.204.231|8080|Kenya|Nairobi|Safaricom Limited|
+|19|104.168.43.209|7890|United States|Santa Clara|HostPapa|
 |20|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
 
 
