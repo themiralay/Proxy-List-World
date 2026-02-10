@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|116.107.89.130|10014|Vietnam|Hanoi|Viettel Group|
+|2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|15|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
