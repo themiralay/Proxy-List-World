@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|4|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |5|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|120.238.159.229|22222|China|Guangzhou|China Mobile communications corporation|
-|19|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|20|124.83.97.230|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|6|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|7|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
+|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|176.117.105.228|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|17|103.74.192.243|7890|Hong Kong|Mong Kok|Lucidacloud Limited|
+|18|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|19|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|20|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
