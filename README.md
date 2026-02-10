@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.234.31.254|8080|Indonesia|Ciputat|PT Jenius Lintas Nusantara|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|206.189.88.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|118.97.137.68|8080|Indonesia|Utan|PT. TELKOM INDONESIA|
 |4|2.144.6.212|12111|Iran|Tehran|Iran Cell Service and Communication Company|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|5|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|143.189.3.198|8080|Japan|Honchō|Sony Network Communications Inc|
-|11|67.43.236.18|21477|Canada|Montreal|GloboTech Communications|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|14|191.5.38.6|54121|Brazil|Betim|Sempre Telecomunicacoes Ltda|
-|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|16|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|19|138.124.117.139|31645|The Netherlands|Amsterdam|Aeza International LTD|
-|20|103.22.173.77|1111|India|Hyderabad|Vainavi Industries Ltd.|
+|8|223.113.134.102|22222|China|Nanjing|China Mobile communications corporation|
+|9|206.84.104.126|8080|Indonesia|Jakarta|Cogent Communications|
+|10|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|11|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|190.97.254.180|8080|Venezuela|San Cristóbal|Viginet C.A|
+|16|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|17|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|18|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 
 
 
