@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|126.209.2.229|8082|Philippines|Manila|Infinivan Incorporated|
-|17|23.153.217.115|5555|United States|Miami|Gung HO LLC|
-|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|20|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|16|72.10.160.92|17823|Canada|Montreal|GloboTech Communications|
+|17|190.242.60.137|999|Colombia|Medellín|Liberty Networks De Colombia|
+|18|45.78.192.15|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|19|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
