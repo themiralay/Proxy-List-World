@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|4|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|194.67.206.117|443|Russia|Moscow|I-servers LTD|
-|6|126.209.2.229|8082|Philippines|Manila|Infinivan Incorporated|
-|7|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|8|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|3|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
+|4|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|5|89.22.237.70|80|Sweden|Stockholm|xorek.cloud International LTD|
+|6|103.122.1.26|8080|Indonesia|Kayu Agung|PT. Java Digital Nusantara|
+|7|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|8|45.177.16.129|999|Paraguay|Ciudad del Este|MSW S.A.|
+|9|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
-|12|116.107.108.184|10014|Vietnam|Hanoi|Viettel Group|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
-|19|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|20|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|116.107.108.184|10014|Vietnam|Hanoi|Viettel Group|
+|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
