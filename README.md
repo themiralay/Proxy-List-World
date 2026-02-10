@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|4|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|5|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|45.236.129.64|3128|Chile|Curicó|Informatica Bluehosting Limitada|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|14|103.175.156.242|8070|Indonesia|Sawangan|MYARSYILA|
+|15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|20|45.236.129.64|3128|Chile|Curicó|Informatica Bluehosting Limitada|
 
 
 
