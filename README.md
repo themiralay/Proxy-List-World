@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4529** proxies at the latest update. Usable proxies are below.
+> Scraper found **4578** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|272|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|271|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|617|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|29|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2761|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|3|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|4|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|209.14.98.5|8080|Colombia|Mutatá|Cogent Communications|
-|16|161.248.188.234|7777|Bangladesh|Mymensingh|Ummah Host BD|
-|17|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|2|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|10|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|45.189.252.243|999|Mexico|Alvarado|Tracered SA De CV|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|41.139.234.127|8080|Kenya|Nairobi|Safaricom Limited|
-|20|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|184.57.87.36|80|United States|Cambridge|Charter Communications|
 
 
 
