@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|4|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|13|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|18|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
 
 
 
