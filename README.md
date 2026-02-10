@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4267** proxies at the latest update. Usable proxies are below.
+> Scraper found **4300** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|563|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|239|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2527|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.252.116.157|3128|United States|Portland|Amazon.com, Inc.|
-|2|44.252.116.157|3128|United States|Portland|Amazon.com, Inc.|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|7|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|8|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|200.59.191.233|999|Venezuela|Timotes|TotalCom Venezuela C.A.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
-|16|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|17|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
-|20|161.82.141.219|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|3|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|8|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|9|103.179.218.7|8080|Indonesia|Ciruas|WIMATE|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|103.161.153.177|1080|Bangladesh|Chittagong|Click Earth Online|
+|12|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|204.199.140.24|999|Chile|Talca|Ingbell Chile SPA|
+|20|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
