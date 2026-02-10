@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4932** proxies at the latest update. Usable proxies are below.
+> Scraper found **4940** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|271|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|557|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|565|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3172|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|10|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
-|11|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|20|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|2|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|3|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|7|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|8|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|9|176.65.128.180|3128|The Netherlands|Eygelshoven|PIO-Hosting GmbH|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
