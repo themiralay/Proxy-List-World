@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|1|103.105.76.19|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|2|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|3|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|7|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|8|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|10|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|45.189.252.243|999|Mexico|Alvarado|Tracered SA De CV|
+|5|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|7|176.235.182.71|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|8|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
 |12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|184.57.87.36|80|United States|Cambridge|Charter Communications|
+|13|103.146.170.252|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|18|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|104.168.43.209|7890|United States|Santa Clara|HostPapa|
 
 
 
