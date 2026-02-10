@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4934** proxies at the latest update. Usable proxies are below.
+> Scraper found **4985** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|562|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3172|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|6|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|89.223.66.48|8443|Russia|St Petersburg|JSC "TIMEWEB"|
-|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|103.106.219.178|1111|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|89.223.66.48|8443|Russia|St Petersburg|JSC "TIMEWEB"|
-|16|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|17|103.172.71.141|3127|Indonesia|Karawang|AZNET|
-|18|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|19|203.190.117.104|8123|Indonesia|Yogyakarta|PT Union Routelink Communication|
-|20|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|59.153.19.197|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|149.104.25.61|1080|Singapore|Singapore|Cogent Communications|
+|17|89.223.66.48|8443|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|138.124.117.139|31644|The Netherlands|Amsterdam|Aeza International LTD|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
 
 
 
