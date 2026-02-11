@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|10|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
-|11|34.14.143.185|3128|India|Mumbai|Google LLC|
-|12|122.54.147.110|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|17|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|18|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|4|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|7|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|160.187.220.38|8082|Philippines|Kidapawan|Imtech Solution and Data Providers|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
