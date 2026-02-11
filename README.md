@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|5|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|8|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|103.123.168.202|3932|Bangladesh|Mātuail|Sajid Trading Ltd.|
-|13|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
-|14|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|15|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|16|67.43.228.250|10137|Canada|Montreal|GloboTech Communications|
-|17|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|89.43.133.174|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|4|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|5|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|6|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|7|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|122.54.147.110|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 
 
 
