@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|17|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|18|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|19|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|103.144.102.82|8080|Indonesia|Karangsembung|PANDAWANET|
+|17|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|20|34.14.143.185|3128|India|Mumbai|Google LLC|
 
 
 
