@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|5|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|7|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|102.164.215.223|8080|South Africa|Mahikeng|Jenny Internet cc|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|10|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|15|183.239.109.98|22222|China|Guangzhou|China Mobile|
+|16|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|17|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|18|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
