@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|157.20.207.67|1111|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|84.241.15.210|3128|Iran|Tehran|SHATEL Network|
+|5|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|10|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|11|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|13|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
