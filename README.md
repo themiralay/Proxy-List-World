@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|16|116.107.89.130|10014|Vietnam|Hanoi|Viettel Group|
-|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|5|126.209.2.228|8082|Philippines|Manila|Infinivan Incorporated|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|10|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|11|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|15|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|16|190.61.116.244|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|17|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
