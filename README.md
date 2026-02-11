@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|6|103.94.126.250|8080|Indonesia|Kubangkepuh|ICONPLN|
-|7|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|11|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|12|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|13|103.82.23.118|5207|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|14|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|15|72.10.160.92|3455|Canada|Montreal|GloboTech Communications|
-|16|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|157.15.144.102|1111|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
-|19|38.7.195.49|999|Chile|Santiago|Grupo ZGH SPA|
-|20|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|201.91.248.67|20183|Brazil|São Paulo|Vivo|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
+|18|91.214.31.234|8080|Ukraine|Kyiv|TOV "Telza"|
+|19|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
 
 
 
