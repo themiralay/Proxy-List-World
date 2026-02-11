@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|5|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
 |14|5.101.0.233|3128|Russia|St Petersburg|Petersburg Internet Network ltd.|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|15|112.203.122.13|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|17|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|18|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|154.58.138.231|8088|Indonesia|Songgon|MEGADATA-ISP|
+|20|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
 
 
 
