@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|160.19.18.29|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|7|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|8|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|16|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|9|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|10|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|14|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|84.241.15.210|3128|Iran|Tehran|SHATEL Network|
-|20|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|34.14.143.185|3128|India|Mumbai|Google LLC|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
