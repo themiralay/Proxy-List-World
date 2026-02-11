@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4800** proxies at the latest update. Usable proxies are below.
+> Scraper found **4755** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|295|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|556|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|286|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|520|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3017|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|7|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |8|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|10|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|103.122.64.213|8080|Indonesia|Sungaigerong|PT. Jinom Network Indonesia|
-|20|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|34.14.143.185|3128|India|Mumbai|Google LLC|
+|20|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
 
 
 
