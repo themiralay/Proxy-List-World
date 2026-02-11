@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |7|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|11|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|20|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|8|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|12|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|13|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|14|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|15|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|17|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
 
 
 
