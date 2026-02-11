@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|5.101.0.233|3128|Russia|St Petersburg|Petersburg Internet Network ltd.|
-|18|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|13|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
