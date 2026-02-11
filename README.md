@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|5|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |6|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|11|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|16|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|19|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|20|94.141.241.102|81|Kazakhstan|Semey|JSC Transtelecom|
+|8|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|157.15.144.102|1111|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|16|162.240.154.26|3128|United States|Provo|Unified Layer|
+|17|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.112.130.14|8080|Bangladesh|Nārāyanganj|Sayem Online Communication|
 
 
 
