@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|3|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |8|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|10|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|11|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|12|195.133.44.205|7777|Germany|Frankfurt am Main|Big Data Host LLC|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|116.107.99.150|10002|Vietnam|Hanoi|Viettel Group|
-|20|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|116.107.99.150|10002|Vietnam|Hanoi|Viettel Group|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
