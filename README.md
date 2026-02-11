@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|5|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|165.101.254.18|8088|Philippines|Cainta|DC FIBER NETWORK WIRED INTERNET SERVICES|
-|16|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|17|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|18|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|19|190.61.118.114|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|181.174.231.26|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|7|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|185.87.193.198|8080|Russia|Moscow|IHC|
+|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|72.10.160.90|32931|Canada|Montreal|GloboTech Communications|
+|20|117.159.239.55|22222|China|Zhengzhou|China Mobile communications corporation|
 
 
 
