@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|4|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|8|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|11|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
-|12|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|14|165.101.102.38|8088|Philippines|Quezon City|iRateNet Solutions|
-|15|72.10.160.170|14165|Canada|Montreal|GloboTech Communications|
-|16|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|17|160.25.196.44|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
-|18|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|125.26.99.41|8080|Thailand|Pattaya|TOT Public Company Limited|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|14|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|43.225.151.30|20505|Bangladesh|Dhaka|Next Online|
+|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 
 
 
