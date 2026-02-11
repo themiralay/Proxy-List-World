@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|4|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|91.217.33.161|8080|Slovakia|Partizánske|AIRNET s.r.o.|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|103.154.53.238|8080|Indonesia|Cibadak|WIFIKITA|
-|17|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.248.188.234|7777|Bangladesh|Mymensingh|Ummah Host BD|
-|19|58.187.104.67|2080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|17|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|18|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
 
 
 
