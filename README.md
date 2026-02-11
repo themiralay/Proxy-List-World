@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|5|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|7|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|8|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|34.14.143.185|3128|India|Mumbai|Google LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|103.172.70.191|8181|Indonesia|Kendal|AZNET|
+|12|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|13|41.196.16.229|1976|Egypt|Cairo|Link Egypt (Link.NET)|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|38.52.220.122|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|16|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|17|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 
 
 
