@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|9|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|10|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|14|103.215.36.88|19475|China|Yancheng|China Mobile Communications Corporation|
-|15|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|6|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|7|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|8|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
 |16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|212.108.115.79|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|18|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|19|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|20|43.252.236.158|8080|Indonesia|Caringin|NET|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|20|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
 
 
 
