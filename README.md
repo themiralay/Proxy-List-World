@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.107.89.130|10014|Vietnam|Hanoi|Viettel Group|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|5|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
 |6|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|12|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|13|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|148.253.210.254|1080|Germany|Frankfurt am Main|SEBEK sp. z o.o|
-|16|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
-|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|7|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|8|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|9|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|16|148.253.210.254|1080|Germany|Frankfurt am Main|SEBEK sp. z o.o|
+|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|104.168.43.209|7890|United States|Santa Clara|HostPapa|
 
 
 
