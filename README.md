@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|4|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|5|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|103.130.128.249|8080|Indonesia|Depok|PT. Eka Mas Republik|
-|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|179.1.126.78|999|Colombia|Quibdó|Internexa S.a. E.S.P|
-|12|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|13|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|223.113.134.98|22222|China|Nanjing|China Mobile communications corporation|
-|17|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
-|18|101.255.107.58|1111|Indonesia|Jakarta|PT Remala Abadi|
-|19|103.178.3.248|8080|Indonesia|Tuliskriyo|RSTNET|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|157.15.63.126|8080|Indonesia|Malang|AMAN ISP Customer Malang|
+|3|5.129.237.45|49488|The Netherlands|Amsterdam|Timeweb, LLP|
+|4|202.179.69.216|58080|India|Pune|Ankhnet|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|201.91.248.67|20183|Brazil|São Paulo|Vivo|
+|7|196.216.163.11|80|Botswana|Gaborone|Government of Botswana|
+|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|103.156.16.45|8080|Indonesia|Indramayu|RSTNET|
+|10|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|91.214.31.234|8080|Ukraine|Kyiv|TOV "Telza"|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|15|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|16|89.43.133.174|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
+|17|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 
 
 
