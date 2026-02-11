@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|5|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|6|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|34.14.143.185|3128|India|Mumbai|Google LLC|
-|11|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|13|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|5.101.0.233|3128|Russia|St Petersburg|Petersburg Internet Network ltd.|
-|15|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|19|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|20|45.150.64.226|40000|Russia|Moscow|UFO Hosting LLC|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
+|9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
+|16|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|104.168.43.209|7890|United States|Santa Clara|HostPapa|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|142.171.131.38|7890|United States|Los Angeles|Multacom Corporation|
 
 
 
