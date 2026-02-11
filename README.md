@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |5|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
-|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|7|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|13|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|20|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
