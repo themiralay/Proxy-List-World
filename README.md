@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |3|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|4|194.5.206.118|8080|Turkey|Konya|Arvancloud Global Technologies L.L.C|
+|5|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
+|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|13|101.255.137.2|80|Indonesia|Cipinang|PT Remala Abadi|
+|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|103.160.68.95|8097|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
 |14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|16|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|184.82.173.8|8080|Thailand|Phimai|AIS-Fibre|
+|16|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
 |17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|18|45.229.6.75|999|Ecuador|Pasaje|Mena Cornejo Hector Elias|
-|19|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|20|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
+|18|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|103.46.8.102|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|20|103.82.23.118|5226|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
 
 
 
