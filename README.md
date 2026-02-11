@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4272** proxies at the latest update. Usable proxies are below.
+> Scraper found **4182** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|496|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|24|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2462|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|3|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|4|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|5|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|7|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|8|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|10|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|11|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|15|23.131.56.129|999|Puerto Rico|Cabo Rojo|Webiffi LLC|
-|16|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|17|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|20|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|1|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|2|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|4|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|5|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|45.174.248.16|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|9|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|103.129.175.43|8080|Indonesia|Soreang|PT. Eka Mas Republik|
+|14|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|17|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|18|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|19|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
