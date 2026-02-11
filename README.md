@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|4|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|6|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|7|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|15|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|16|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|18|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
 
 
 
