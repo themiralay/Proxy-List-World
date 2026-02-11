@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|8|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|20|94.198.104.98|20000|Russia|Moscow|Digit One LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|7|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|8|195.133.44.205|7777|Germany|Frankfurt am Main|Big Data Host LLC|
+|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|11|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|14|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
 
 
 
