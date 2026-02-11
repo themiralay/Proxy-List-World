@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|3|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|7|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|3|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|163.5.128.37|14270|United States|Brooklyn|Windstream Communications LLC|
+|13|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
-|18|102.208.166.248|8082|Kenya|Nairobi|Alwen Networks Co. Limited|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|157.10.182.173|8080|Indonesia|Citeureup|PT Linea Global Teknologi|
+|17|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 
 
 
