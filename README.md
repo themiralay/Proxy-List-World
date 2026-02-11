@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
-|9|196.216.163.11|80|Botswana|Gaborone|Government of Botswana|
-|10|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|185.88.101.227|3128|Russia|Moscow|e-Style ISP LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|7|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
+|8|103.190.113.123|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|201.91.248.67|20183|Brazil|São Paulo|Vivo|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
