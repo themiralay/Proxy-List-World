@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|223.205.115.43|8080|Thailand|Sena|Triple T Broadband Public Company Limited|
-|5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|203.20.42.69|8082|Philippines|Valenzuela|RNDS Network|
-|15|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|16|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|72.10.164.178|10359|Canada|Montreal|GloboTech Communications|
-|19|144.124.227.90|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
+|2|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|3|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|4|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|5|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|7|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|8|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|11|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|15|23.131.56.129|999|Puerto Rico|Cabo Rojo|Webiffi LLC|
+|16|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|17|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|94.182.149.92|2012|Iran|Tehran|Fanavaran Mehr Vatan Tehran Server Group LLC|
+|20|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
 
 
 
