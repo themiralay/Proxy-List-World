@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|5|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|6|104.168.43.209|7890|United States|Santa Clara|HostPapa|
-|7|24.172.82.94|53281|United States|Indian Trail|Spectrum|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|4|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|6|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|103.162.221.162|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|15|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|34.170.15.20|3128|United States|Council Bluffs|Google LLC|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|16|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|17|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
+|18|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|19|185.103.134.36|8080|Russia|Moscow|Address AS 57191|
+|20|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
 
 
 
