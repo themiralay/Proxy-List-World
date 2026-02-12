@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|4|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
 |7|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|11|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|16|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|17|38.7.195.55|999|Chile|Santiago|Grupo ZGH SPA|
-|18|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|19|103.72.89.2|8080|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
-|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|38.7.195.55|999|Chile|Santiago|Grupo ZGH SPA|
+|12|38.7.195.49|999|Chile|Santiago|Grupo ZGH SPA|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|17|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|18|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
+|19|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
+|20|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
 
 
 
