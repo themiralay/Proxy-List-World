@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|183.239.109.98|22222|China|Guangzhou|China Mobile|
-|12|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|67.43.236.20|10251|Canada|Montreal|GloboTech Communications|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|103.215.36.88|19328|China|Yancheng|China Mobile Communications Corporation|
+|3|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|183.239.109.98|22222|China|Guangzhou|China Mobile|
+|14|43.225.151.30|20505|Bangladesh|Dhaka|Next Online|
+|15|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|16|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|17|49.48.54.104|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|44.30.18.32|8080|Taiwan|New Taipei City|Li Heng Yu|
+|20|223.25.110.55|3125|Indonesia|Gombong|SinergiNet|
 
 
 
