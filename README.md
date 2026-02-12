@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4275** proxies at the latest update. Usable proxies are below.
+> Scraper found **4288** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|545|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2479|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
 |5|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|8|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|176.117.105.228|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|209.14.98.6|8080|Colombia|Mutatá|Cogent Communications|
-|14|181.209.82.91|1994|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|15|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|16|120.240.35.173|22222|China|Guangzhou|China Mobile communications corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|183.239.109.98|22222|China|Guangzhou|China Mobile|
+|6|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|117.159.239.57|22222|China|Zhengzhou|China Mobile communications corporation|
+|10|116.98.57.187|8080|Vietnam|Da Nang|Viettel Group|
+|11|44.30.18.32|8080|Taiwan|New Taipei City|Li Heng Yu|
+|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|13|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|14|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|16|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|17|223.25.110.55|3125|Indonesia|Gombong|SinergiNet|
+|18|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|20|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
 
 
 
