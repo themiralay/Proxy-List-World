@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|7|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
-|18|103.254.104.22|8010|Indonesia|Jabung|PT Giga Patra Multimedia|
-|19|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|5|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|11|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|14|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|20|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
 
 
 
