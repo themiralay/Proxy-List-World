@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|58.187.104.67|2080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|7|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
+|8|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|9|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|10|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|34.14.143.185|3128|India|Mumbai|Google LLC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
