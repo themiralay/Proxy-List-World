@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|3|34.14.143.185|3128|India|Mumbai|Google LLC|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|103.215.36.88|17224|China|Yancheng|China Mobile Communications Corporation|
-|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|103.138.123.196|8090|Bangladesh|Nārāyanganj|CAFE|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|59.153.18.93|20909|Bangladesh|Patuakhali|EUROtelbd Online Ltd.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|17|183.239.109.98|22222|China|Guangzhou|China Mobile|
+|18|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
