@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|6|46.8.64.199|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
-|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|117.159.239.57|22222|China|Zhengzhou|China Mobile communications corporation|
+|5|46.8.64.199|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
+|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|13|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|15|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|16|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
-|17|85.117.62.70|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|18|183.239.109.98|22222|China|Guangzhou|China Mobile|
-|19|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|202.58.73.6|1111|Indonesia|Kediri|PT Data Buana Nusantara|
+|17|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|18|109.234.35.246|8081|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |20|113.108.84.19|7890|China|Guangzhou|Chinanet|
 
 
