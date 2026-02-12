@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|4|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
 |5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|6|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|7|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|8|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|6|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
 |9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|10|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
-|14|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|15|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|15.204.151.145|3128|United States|Reston|OVH SAS|
-|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|103.179.252.137|8181|Indonesia|Cibinong|PT Pusaka Kreasi Mandiri|
+|10|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|12|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|16|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|17|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|19|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|183.239.109.98|22222|China|Guangzhou|China Mobile|
 
 
 
