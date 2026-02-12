@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
 |5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|9|14.225.71.183|25565|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|13|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|14|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|17|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|18|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|7|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|8|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|182.53.202.208|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|15|15.204.151.145|3128|United States|Reston|OVH SAS|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
