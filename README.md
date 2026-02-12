@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
 |6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|84.200.77.90|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|11|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
-|19|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|8|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
