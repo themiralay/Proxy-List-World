@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|34.14.143.185|3128|India|Mumbai|Google LLC|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|6|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|7|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|9|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
 |10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 |15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|18|193.106.150.70|1080|The Netherlands|Meppel|Green Floid LLC|
-|19|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|20|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
 
 
 
