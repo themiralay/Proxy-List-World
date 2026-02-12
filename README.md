@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4312** proxies at the latest update. Usable proxies are below.
+> Scraper found **4344** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|631|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|34|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2479|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|3|34.14.143.185|3128|India|Mumbai|Google LLC|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|11|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|15|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
-|16|49.48.54.104|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|17|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|49.144.23.152|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|19|45.10.69.98|8888|United States|Los Angeles|Zenlayer Inc|
-|20|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|103.215.36.88|17224|China|Yancheng|China Mobile Communications Corporation|
+|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|103.138.123.196|8090|Bangladesh|Nārāyanganj|CAFE|
 
 
 
