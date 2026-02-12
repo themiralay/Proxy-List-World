@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4355** proxies at the latest update. Usable proxies are below.
+> Scraper found **4317** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2479|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |5|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|14.225.71.183|25565|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|9|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|89.43.133.174|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
-|12|91.217.33.161|8080|Slovakia|Partizánske|AIRNET s.r.o.|
-|13|160.20.38.102|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|17|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
-|18|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|19|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|6|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|7|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|10|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|11|94.183.188.7|6891|France|Paris|CGI GLOBAL LIMITED|
+|12|72.10.160.170|6803|Canada|Montreal|GloboTech Communications|
+|13|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|14|59.153.19.2|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|15|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|16|43.225.151.30|20505|Bangladesh|Dhaka|Next Online|
+|17|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|18|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|19|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|20|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
 
 
 
