@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|178.72.129.20|8443|Russia|St Petersburg|JSC Selectel|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
 |5|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|10|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |11|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
 |13|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|14|183.239.109.98|22222|China|Guangzhou|China Mobile|
-|15|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|16|34.14.143.185|3128|India|Mumbai|Google LLC|
-|17|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|91.144.45.166|8082|Syria|Şaḩnāyā|STE Public Data Network Backbone and LIR|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|17|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|18|162.240.154.26|3128|United States|Provo|Unified Layer|
+|19|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|20|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
