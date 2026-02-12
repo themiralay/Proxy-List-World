@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|4|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
 |5|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|6|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|7|170.245.132.80|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|8|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|162.240.154.26|3128|United States|Provo|Unified Layer|
 |9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|10|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|12|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|162.255.110.107|8080|United States|Richland|Desert Winds Wireless|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
