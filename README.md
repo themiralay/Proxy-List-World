@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|84.200.77.90|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|12|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|84.200.77.90|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|13|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|43.225.151.30|20505|Bangladesh|Dhaka|Next Online|
+|18|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
