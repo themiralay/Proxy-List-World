@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|7|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|4|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|5|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|7|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |10|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|11|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|36.94.39.146|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|13|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|14|158.172.153.36|999|Bolivia|Entre Ríos|TIGO|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|17|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|101.255.211.90|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
