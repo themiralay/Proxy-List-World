@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|5|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
 |7|84.200.77.90|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|17|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|11|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|36.93.56.58|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|14|181.118.143.1|999|Argentina|Tandil|Siternet SRL|
+|15|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|36.88.148.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|103.22.173.77|1111|India|Hyderabad|Vainavi Industries Ltd.|
+|20|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
 
 
 
