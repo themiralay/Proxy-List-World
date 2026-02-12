@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|6|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|7|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|103.71.162.8|7777|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|183.239.109.98|22222|China|Guangzhou|China Mobile|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|91.144.45.166|8082|Syria|Şaḩnāyā|STE Public Data Network Backbone and LIR|
-|19|212.108.115.79|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|20|58.187.104.67|2080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|10|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|5.236.93.14|9000|Iran|Tajnīk|Iran Telecommunication Company PJS|
+|15|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|20|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
