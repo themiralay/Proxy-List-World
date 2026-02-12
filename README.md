@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|11|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|84.200.77.90|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|18|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|9|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|14|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|16|102.0.11.176|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
+|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 
 
 
