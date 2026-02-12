@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|4|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|7|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
-|8|223.25.110.185|8080|Indonesia|Gombong|SinergiNet|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|7|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|9|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |14|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
-|15|181.143.181.35|8080|Colombia|Cajicá|EPM Telecomunicaciones S.A. E.S.P.|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
