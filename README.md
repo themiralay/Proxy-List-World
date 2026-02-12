@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|4|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|38.7.195.55|999|Chile|Santiago|Grupo ZGH SPA|
-|14|101.255.211.90|8080|Indonesia|Bekasi|PT Remala Abadi|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|119.28.76.164|1117|Hong Kong|Hong Kong|ComsenzNet|
-|17|38.190.100.107|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
-|18|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|19|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|20|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|14|194.67.206.117|443|Russia|Moscow|I-servers LTD|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|17|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|103.67.80.176|7777|Indonesia|Cikarang|PT Komunikasi Profesional Indonesia|
 
 
 
