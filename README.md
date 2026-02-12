@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|2|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |3|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|4|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
 |5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |10|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|202.57.25.80|8080|Indonesia|Semarang|announced of WINET|
-|14|123.200.3.221|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|165.225.113.220|11462|Singapore|Singapore|ZSCALER, INC.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
-|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|177.174.126.203|8080|Brazil|São Paulo|Vivo|
+|16|38.123.220.173|999|Mexico|Colonia la Purísima|Cogent Communications|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
