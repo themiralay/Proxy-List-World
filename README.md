@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|5|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
-|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|7|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|13|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|19|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
+|3|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|4|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|8|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
