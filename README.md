@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|4|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|10|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|206.84.104.126|8080|Indonesia|Jakarta|Cogent Communications|
-|14|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|190.61.118.114|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|16|103.208.100.74|7777|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|181.78.107.139|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|2|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|3|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|17|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|18|179.189.120.147|3128|Brazil|Teresina|IP CARRIER BRASIL|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|223.113.134.98|22222|China|Nanjing|China Mobile communications corporation|
 
 
 
