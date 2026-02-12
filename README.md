@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|157.20.100.10|1111|Indonesia|Baekrajan|PT Muria Global Network|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|200.59.186.178|999|Venezuela|San Carlos del Zulia|TotalCom Venezuela C.A.|
-|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|10|80.211.137.210|8088|Italy|Arezzo|Aruba S.p.A. Network|
-|11|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|9|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|10|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|80.211.137.187|8088|Italy|Arezzo|Aruba S.p.A. Network|
+|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|16|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
