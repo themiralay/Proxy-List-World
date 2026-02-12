@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|8|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|11|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|15|103.24.214.190|8082|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
-|16|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|19|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
