@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4248** proxies at the latest update. Usable proxies are below.
+> Scraper found **4312** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|537|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2479|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|11|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 |13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|37.187.92.9|1029|France|Roubaix|OVH SAS|
-|15|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|34.14.143.185|3128|India|Mumbai|Google LLC|
-|17|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|202.58.77.114|8080|Indonesia|Kediri|PT Data Buana Nusantara|
+|14|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|15|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|16|49.48.54.104|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|17|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|49.144.23.152|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|19|45.10.69.98|8888|United States|Los Angeles|Zenlayer Inc|
+|20|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
 
 
 
