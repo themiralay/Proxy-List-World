@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|46.8.64.199|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|59.153.18.93|20909|Bangladesh|Patuakhali|EUROtelbd Online Ltd.|
-|12|92.86.207.198|8080|Romania|Târgovişte|Romtelecom|
-|13|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
-|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|17|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|18|177.73.155.248|999|Colombia|Morales|Dobleclick Software E Ingeneria|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|6|46.8.64.199|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
+|7|183.239.109.98|22222|China|Guangzhou|China Mobile|
+|8|162.240.154.26|3128|United States|Provo|Unified Layer|
+|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|113.108.84.19|7890|China|Guangzhou|Chinanet|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|13|206.84.104.126|8080|Indonesia|Jakarta|Cogent Communications|
+|14|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|183.239.109.98|22222|China|Guangzhou|China Mobile|
+|20|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
