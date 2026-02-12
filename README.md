@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4844** proxies at the latest update. Usable proxies are below.
+> Scraper found **4912** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|592|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3000|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|38.14.192.17|1080|United States|San Jose|PEG TECH INC|
-|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|46.8.64.199|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|113.108.84.19|7890|China|Guangzhou|Chinanet|
-|16|223.25.110.55|3125|Indonesia|Gombong|SinergiNet|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|18|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|5|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|46.8.64.199|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|13|36.88.148.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|103.234.125.19|7777|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|72.10.164.178|17477|Canada|Montreal|GloboTech Communications|
+|18|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|19|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|20|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
 
 
 
