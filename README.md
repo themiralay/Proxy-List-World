@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|10|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|8|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |13|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
-|19|34.14.143.185|3128|India|Mumbai|Google LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|95.32.42.252|2080|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|146.56.185.39|10900|South Korea|Seoul|Oracle Corporation|
+|18|103.188.169.95|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|19|38.7.195.54|999|Chile|Santiago|Grupo ZGH SPA|
+|20|103.233.152.18|8080|Indonesia|Banjar Medura|BIZNET|
 
 
 
