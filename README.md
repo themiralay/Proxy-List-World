@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|4|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |9|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|38.7.195.53|999|Chile|Santiago|Grupo ZGH SPA|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|162.240.154.26|3128|United States|Provo|Unified Layer|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|14.225.71.183|25565|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|10|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|11|162.240.154.26|3128|United States|Provo|Unified Layer|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|16|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|19|45.4.202.170|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
