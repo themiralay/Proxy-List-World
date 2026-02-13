@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|38.51.207.91|999|Venezuela|Maracaibo|Tecnoven Services C.A|
-|11|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|12|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|13|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|157.15.144.102|1111|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|18|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
-|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|187.251.224.167|80|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|120.28.221.86|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|10|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|11|101.255.137.2|80|Indonesia|Cipinang|PT Remala Abadi|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|14|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
+|15|202.152.142.99|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|16|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
+|17|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
+|18|103.138.123.196|8090|Bangladesh|Nārāyanganj|CAFE|
+|19|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL - Vercara|
 
 
 
