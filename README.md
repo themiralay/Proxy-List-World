@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|157.15.144.102|1111|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
-|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|144.31.3.119|1080|Poland|Warsaw|H2nexus LTD|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|84.200.77.90|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|5|84.200.125.162|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |9|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|10|8.212.153.179|80|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|12|162.240.154.26|3128|United States|Provo|Unified Layer|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|15|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|16|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|10|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
+|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|15|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|20|38.7.195.55|999|Chile|Santiago|Grupo ZGH SPA|
 
 
 
