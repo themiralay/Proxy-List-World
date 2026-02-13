@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|14|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|144.31.0.166|3128|Poland|Warsaw|H2nexus LTD|
-|19|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|20|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
+|9|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|16|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|17|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
