@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|1|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
 |6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|10|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|11|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
-|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|15|103.165.155.52|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|16|124.158.144.30|8080|Indonesia|Semarang|PT iForte Global Internet|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|38.7.195.54|999|Chile|Santiago|Grupo ZGH SPA|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
