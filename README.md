@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |9|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|10|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
-|14|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|178.252.134.188|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|17|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
