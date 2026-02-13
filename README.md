@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|13|38.156.15.156|999|Mexico|Teocaltiche|Wistarip Networks|
-|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|15|202.58.73.6|1111|Indonesia|Kediri|PT Data Buana Nusantara|
-|16|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|144.124.227.90|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|15.204.151.149|3128|United States|Reston|OVH SAS|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|34.14.143.185|3128|India|Mumbai|Google LLC|
+|12|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|103.122.64.213|8080|Indonesia|Sungaigerong|PT. Jinom Network Indonesia|
+|15|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|16|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|17|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|18|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|19|144.31.30.210|443|The Netherlands|Amsterdam|Play2go International Limited|
+|20|36.77.214.160|8080|Indonesia|Bekasi|PT. TELKOM INDONESIA|
 
 
 
