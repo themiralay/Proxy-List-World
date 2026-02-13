@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|103.132.54.150|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
-|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|165.101.230.77|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|103.139.98.50|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|34.14.143.185|3128|India|Mumbai|Google LLC|
+|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|103.133.26.117|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|19|43.130.6.42|80|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
