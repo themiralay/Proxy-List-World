@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|72.10.164.178|15325|Canada|Montreal|GloboTech Communications|
-|12|162.240.154.26|3128|United States|Provo|Unified Layer|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|103.82.23.118|5207|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|19|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|168.195.214.41|8800|Brazil|Arapiraca|UP TECNOLOGIA LTDA|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|103.141.66.78|5555|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|18|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|20|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
