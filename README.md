@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4566** proxies at the latest update. Usable proxies are below.
+> Scraper found **4557** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|571|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2744|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.169.53.145|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|9|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|38.52.209.229|999|Guatemala|Guatemala City|Central De Redes Y Comunicaciones De Guatemala S.A|
-|20|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|15|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
