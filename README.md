@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4541** proxies at the latest update. Usable proxies are below.
+> Scraper found **4576** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|574|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|48|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2687|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|84.200.24.154|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
-|5|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|6|84.200.77.90|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|84.200.77.90|1080|Germany|Frankfurt am Main|Ultahost, Inc.|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
 |11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |12|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|136.49.42.129|8888|United States|Austin|Google Fiber Inc.|
-|15|77.246.108.10|21238|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|13|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|14|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|8.220.177.199|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
+|18|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|19|209.97.176.93|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 
 
 
