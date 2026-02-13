@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|9|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|10|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|11|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|12|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
-|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|14|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|34.14.143.185|3128|India|Mumbai|Google LLC|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|49.144.28.148|8181|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 
 
 
