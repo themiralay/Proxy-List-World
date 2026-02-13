@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|2|42.200.125.44|8080|Hong Kong|Central|PCCW IMSBiz|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|7|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|7|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|14|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|17|195.133.41.113|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|14|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|94.183.188.7|6891|France|Paris|CGI GLOBAL LIMITED|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |20|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
