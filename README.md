@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4139** proxies at the latest update. Usable proxies are below.
+> Scraper found **4142** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|563|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|566|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2331|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|6|14.225.71.183|25565|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|120.28.193.165|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|195.133.41.113|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |11|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|181.209.71.222|8080|Argentina|Herrera|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|152.32.77.213|8095|Philippines|Mandaluyong|ComClark Network & Technology Corp|
 
 
 
