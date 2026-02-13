@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|12|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|13|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|14|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
-|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|185.41.152.110|3128|France|Valenciennes|global|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|12|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|13|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|14|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|16|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|17|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|19|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
+|20|185.41.152.110|3128|France|Valenciennes|global|
 
 
 
