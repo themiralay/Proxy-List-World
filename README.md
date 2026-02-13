@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.88.91.103|8090|Indonesia|Malang|PT Paket Switch Bersama|
-|4|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|87.107.54.158|10808|Iran|Tehran|Pars Shabakeh Azarakhsh LLC|
-|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|11|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|110.34.1.178|7777|Nepal|Patan|Subisu Cablenet|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|162.240.154.26|3128|United States|Provo|Unified Layer|
+|16|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|17|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|20|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
 
 
 
