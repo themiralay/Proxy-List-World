@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|180.148.25.190|3128|Indonesia|Cirebon|PT GIGA NETWORK INDONESIA|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|14.225.71.183|25565|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|8|34.14.143.185|3128|India|Mumbai|Google LLC|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|19|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|34.14.143.185|3128|India|Mumbai|Google LLC|
+|5|14.225.71.183|25565|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|195.133.41.113|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|20|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
