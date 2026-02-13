@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|202.152.44.18|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|34.14.143.185|3128|India|Mumbai|Google LLC|
-|7|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|8|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|195.133.41.113|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|14|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|19|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|8|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|10|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|11|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|12|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|13|201.182.248.149|8080|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
+|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|17|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|18|185.41.152.110|3128|France|Valenciennes|global|
+|19|42.200.125.44|8080|Hong Kong|Central|PCCW IMSBiz|
+|20|34.14.143.185|3128|India|Mumbai|Google LLC|
 
 
 
