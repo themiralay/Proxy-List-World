@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3943** proxies at the latest update. Usable proxies are below.
+> Scraper found **4756** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|493|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|24|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2226|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3039|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|139.162.44.152|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|14|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|17|183.239.109.98|22222|China|Guangzhou|China Mobile|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|162.240.154.26|3128|United States|Provo|Unified Layer|
+|10|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|205.164.192.115|999|Mexico|Yurécuaro|Cogent Communications|
+|16|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|111.170.7.87|7897|China|Shizishan|China Telecom|
+|19|176.199.64.233|7777|Germany|Giessen|Vodafone|
+|20|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
 
 
 
