@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|8|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|16|195.133.41.113|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|20|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|4|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|7|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|11|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
+|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|15|41.185.72.62|3030|South Africa|Cape Town|1 GRID (PTY) LTD|
+|16|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|144.31.30.210|443|The Netherlands|Amsterdam|Play2go International Limited|
+|20|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
