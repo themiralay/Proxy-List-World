@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|7|103.102.12.129|1452|Indonesia|Rembang|FISNET|
+|8|103.38.101.218|8080|Indonesia|Tulangan Utara|LAXONET|
 |9|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
-|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|11|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|12.49.24.22|8080|United States|Winnemucca|AT&T Services|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|19|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 
 
 
