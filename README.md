@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|6|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|15|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|16|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|200.115.100.33|8080|Brazil|São Paulo|FiberPon telecom|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|9|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|10|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|11|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
+|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|20|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
 
 
 
