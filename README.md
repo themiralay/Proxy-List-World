@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|144.31.30.210|443|The Netherlands|Amsterdam|Play2go International Limited|
-|9|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|11|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|12|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
-|13|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|58.136.171.166|8080|Thailand|Bangkok|AIS-Fibre|
-|17|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|18|94.176.3.110|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|12|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|13|202.154.241.199|808|Pakistan|Islamabad|LINKdotNET Telecom Limited|
+|14|34.14.143.185|3128|India|Mumbai|Google LLC|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
 |20|200.115.100.33|8080|Brazil|São Paulo|FiberPon telecom|
 
 
