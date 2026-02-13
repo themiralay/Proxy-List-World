@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4667** proxies at the latest update. Usable proxies are below.
+> Scraper found **4726** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2803|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|43.167.193.58|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|11|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|12|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
-|13|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |15|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|18|103.154.152.104|2020|Indonesia|Bekasi|MORATELINDONAP|
-|19|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
