@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|103.141.66.78|5555|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|6|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
 |7|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|8|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
-|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|16|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
-|17|103.66.47.9|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|38.7.195.54|999|Chile|Santiago|Grupo ZGH SPA|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|9|195.133.41.113|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|10|115.114.77.133|9090|India|Coimbatore|Tata Communications Limited|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|5.180.180.32|1080|Netherlands|Amsterdam|Kamatera Inc|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|36.88.148.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
