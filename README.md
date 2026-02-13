@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|9|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|9|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|200.59.186.177|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|12|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
 |13|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
-|14|200.59.191.235|999|Venezuela|Carvajal|TotalCom Venezuela C.A.|
-|15|103.19.78.127|3125|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
-|16|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|18|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|103.67.79.238|3128|Indonesia|Selat|PT Cloud Hosting Indonesia|
-|20|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|14|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|18|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|20|103.240.68.135|8097|Indonesia|Deli Tua|PT Parsaoran Global Datatrans|
 
 
 
