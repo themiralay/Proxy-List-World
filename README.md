@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.167.193.58|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|34.14.143.185|3128|India|Mumbai|Google LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|195.133.41.113|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
