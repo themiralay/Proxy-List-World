@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|16|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|18|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
