@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|11|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|10|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
 |14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|34.14.143.185|3128|India|Mumbai|Google LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |19|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
