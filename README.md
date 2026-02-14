@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |11|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|102.0.21.156|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|17|84.241.15.210|3128|Iran|Tehran|SHATEL Network|
-|18|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
