@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|223.113.134.98|22222|China|Nanjing|China Mobile communications corporation|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|59.153.16.214|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|5|8.220.149.222|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|9|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|162.240.154.26|3128|United States|Provo|Unified Layer|
-|19|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
