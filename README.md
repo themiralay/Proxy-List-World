@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|59.153.18.142|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|162.240.154.26|3128|United States|Provo|Unified Layer|
+|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|17|160.19.19.59|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|103.176.96.185|8899|Indonesia|Bandung|PT Global Sarana Elektronika|
 
 
 
