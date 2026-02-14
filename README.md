@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|19|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|34.14.143.185|3128|India|Mumbai|Google LLC|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|20|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
