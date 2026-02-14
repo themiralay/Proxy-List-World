@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|5|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|102.213.23.22|1452|South Africa|North Riding|Accelerit Technologies PTY LTD|
-|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|59.153.16.214|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|19|103.208.100.74|7777|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|20|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|10|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
