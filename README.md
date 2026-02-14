@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|34.14.143.185|3128|India|Mumbai|Google LLC|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|9|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|190.97.241.102|999|Venezuela|Valera|Viginet C.A|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |16|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
-|18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|19|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
 
 
 
