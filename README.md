@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|6|34.14.143.185|3128|India|Mumbai|Google LLC|
+|7|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
 |8|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|20|103.63.26.123|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
+|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|103.183.19.34|3128|Indonesia|Karet Kuningan|PT iForte Global Internet|
+|20|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
 
 
 
