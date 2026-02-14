@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |6|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
 |8|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|9|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|162.240.154.26|3128|United States|Provo|Unified Layer|
-|12|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|9|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|14|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|15|43.252.158.170|8989|Indonesia|Pugeran Maguwoharjo|PT Blip Integrator Provider|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|223.113.134.98|22222|China|Nanjing|China Mobile communications corporation|
+|18|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
