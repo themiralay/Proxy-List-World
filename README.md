@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |6|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|10|144.124.227.90|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|204.199.140.23|999|Chile|Talca|Ingbell Chile SPA|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|8|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|9|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|144.124.227.90|10880|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|61.8.70.114|2024|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|19|103.169.148.2|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
