@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|7|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|7|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
 |10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|178.22.31.205|1081|Austria|Judenburg|Global Connectivity Solutions LLP|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|11|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 |16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|34.14.143.185|3128|India|Mumbai|Google LLC|
-|18|18.192.100.176|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
-|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|17|78.153.155.31|1081|United States|Atlanta|Global Connectivity Solutions LLP|
+|18|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|103.106.219.178|1111|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|20|38.49.148.147|999|Mexico|Huamantla|IENTC S de RL de CV|
 
 
 
