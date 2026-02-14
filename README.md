@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|7|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|11|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|15|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|84.241.15.210|3128|Iran|Tehran|SHATEL Network|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 
 
 
