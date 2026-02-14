@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |9|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |11|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |13|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|16|223.113.134.98|22222|China|Nanjing|China Mobile communications corporation|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
