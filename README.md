@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|190.94.212.160|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|14|103.122.1.113|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|18|124.107.144.249|8080|Philippines|Indang|Philippine Long Distance Telephone Co.|
-|19|34.14.143.185|3128|India|Mumbai|Google LLC|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
