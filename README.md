@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|91.103.122.139|3128|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |6|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|19|103.165.155.22|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|20|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|34.14.143.185|3128|India|Mumbai|Google LLC|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|17|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
+|18|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|103.165.155.22|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
 
 
 
