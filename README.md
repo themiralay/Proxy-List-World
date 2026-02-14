@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|103.84.176.98|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|6|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|85.234.106.134|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|16|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
 |20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 
 
