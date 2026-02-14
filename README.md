@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|8|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|10|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|14|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|19|34.14.143.185|3128|India|Mumbai|Google LLC|
-|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 
 
 
