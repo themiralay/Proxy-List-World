@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|12|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|15|34.14.143.185|3128|India|Mumbai|Google LLC|
-|16|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|8|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|16|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|18|8.212.153.179|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|34.14.143.185|3128|India|Mumbai|Google LLC|
 
 
 
