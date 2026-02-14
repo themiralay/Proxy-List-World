@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|157.66.138.79|1080|Indonesia|Purwakarta|PT Neo Fiber Teknologi|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|13|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|18|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|5.75.198.16|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|20|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
 
 
 
