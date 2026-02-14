@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|103.180.118.184|8080|Indonesia|Made|PT Persada Data Multimedia|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|3|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
 |7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|11|181.209.82.202|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|12|202.179.69.216|58080|India|Pune|Ankhnet|
-|13|103.153.250.65|84|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
-|14|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
-|15|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|16|162.240.154.26|3128|United States|Provo|Unified Layer|
-|17|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|19|201.182.204.18|9999|Brazil|Candeias|Conect Fiber Telecomunicacoes Ltda - ME|
-|20|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|12|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|120.240.35.173|22222|China|Guangzhou|China Mobile communications corporation|
+|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
