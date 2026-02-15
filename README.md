@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
