@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|8|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|9|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|12|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|13|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|2|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
 |15|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|16|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|17|103.247.14.170|7777|Indonesia|Mungkid|TERABIT|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|16|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|19|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
