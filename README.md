@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |9|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
-|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|13|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
