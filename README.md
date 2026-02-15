@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|3|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|9|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|8|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|9|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|10|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
