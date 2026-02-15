@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|103.242.105.115|8080|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|9|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|34.14.143.185|3128|India|Mumbai|Google LLC|
-|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|200.35.34.130|999|Colombia|San Roque|UNE EPM TELECOMUNICACIONES S.A|
+|13|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|114.130.176.210|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|20|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
 
 
 
