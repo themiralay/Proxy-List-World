@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4562** proxies at the latest update. Usable proxies are below.
+> Scraper found **4606** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|560|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|33|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3029|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|190.145.216.195|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
 |12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|14|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
-|16|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|13|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 
 
 
