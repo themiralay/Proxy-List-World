@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
 |11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|16|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
