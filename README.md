@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |15|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|16|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|17|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|19|103.172.121.28|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|20|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|17|103.156.16.193|8818|Indonesia|Indramayu|RSTNET|
+|18|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|19|103.141.66.78|5555|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
