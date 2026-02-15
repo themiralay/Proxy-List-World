@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |4|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|34.14.143.185|3128|India|Mumbai|Google LLC|
-|12|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|103.156.16.227|8080|Indonesia|Indramayu|RSTNET|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|16|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 |20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
