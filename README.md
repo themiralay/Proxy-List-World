@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|4|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|10|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
