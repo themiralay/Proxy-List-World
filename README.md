@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|16|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|103.171.255.178|8080|Indonesia|Godean|ZKI|
-|20|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|200.59.191.232|999|Venezuela|El Vigía|TotalCom Venezuela C.A.|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
+|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
