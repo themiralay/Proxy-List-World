@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|190.145.216.195|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|9|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|10|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|11|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|14|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|8|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|13|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|20|190.145.216.195|8080|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
