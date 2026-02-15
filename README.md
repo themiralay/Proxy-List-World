@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|10|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|16|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|17|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
-|18|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|8|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
