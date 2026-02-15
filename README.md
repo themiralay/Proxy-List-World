@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|1|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|10|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|8|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|13|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|19|103.189.249.145|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
