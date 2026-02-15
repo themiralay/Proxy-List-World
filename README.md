@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
 |2|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
 |3|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|12|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|17|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|84.241.15.210|3128|Iran|Tehran|SHATEL Network|
+|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|12|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|13|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|15|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|16|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
