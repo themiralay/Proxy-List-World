@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4917** proxies at the latest update. Usable proxies are below.
+> Scraper found **4583** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3013|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2665|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|10|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|10|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |13|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
-|16|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|18|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|20|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|17|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|19|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 
 
 
