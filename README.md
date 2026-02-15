@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
 |3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|190.145.216.195|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|8|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|9|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|14|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|15|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|18|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|7|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|8|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|9|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|10|190.145.216.195|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|16|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
+|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
 
 
 
