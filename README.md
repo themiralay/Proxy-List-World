@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|3|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|6|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
-|9|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|10|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 |11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|15|223.204.161.147|8080|Thailand|Suphan Buri|Triple T Broadband Public Company Limited|
+|12|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
 |16|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
-|17|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|18|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 |19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 |20|72.56.50.17|59787|United States|Atlanta|Sprint Communications|
 
