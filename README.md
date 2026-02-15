@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
-|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|20|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|210.223.44.230|3128|South Korea|Jongno-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|8|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|91.107.254.36|2000|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|85.209.195.92|32349|United States|Los Angeles|WorkTitans B.V.|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
