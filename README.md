@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|6|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|7|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|20|161.248.188.234|7777|Bangladesh|Mymensingh|Ummah Host BD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.19|8081|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|3|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|6|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|94.176.3.43|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
+|10|94.176.3.42|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|94.176.3.109|7443|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|17|67.43.236.18|19807|Canada|Montreal|GloboTech Communications|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|103.171.255.178|8080|Indonesia|Godean|ZKI|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
