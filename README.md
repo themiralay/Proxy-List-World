@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |8|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
 |9|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|72.10.160.171|18317|Canada|Montreal|GloboTech Communications|
-|18|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.10.160.173|3567|Canada|Montreal|GloboTech Communications|
+|14|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|20|34.14.143.185|3128|India|Mumbai|Google LLC|
 
 
 
