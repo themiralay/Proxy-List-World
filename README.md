@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
 |12|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|14|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
 |18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
