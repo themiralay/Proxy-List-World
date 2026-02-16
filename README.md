@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|7|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|12|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
+|10|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |14|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
 |15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
