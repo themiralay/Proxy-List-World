@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4456** proxies at the latest update. Usable proxies are below.
+> Scraper found **4423** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|618|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|585|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2877|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|10|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|15|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|18|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|10|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|67.43.236.19|28025|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|24125|Canada|Montreal|GloboTech Communications|
 
 
 
