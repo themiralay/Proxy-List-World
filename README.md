@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|7|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|9|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|10|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
-|11|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|167.160.184.231|6005|Canada|Toronto|HostPapa|
+|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|20|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
