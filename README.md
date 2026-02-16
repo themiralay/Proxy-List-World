@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|203.28.67.74|8080|Philippines|Cebu City|Responsible Internet Sustainability Effort|
 |3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|9|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|10|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|94.182.90.165|12334|Iran|Tehran|Aria Shatel PJSC|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|4|167.160.184.231|6005|Canada|Toronto|HostPapa|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|7|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|12|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
 
 
 
