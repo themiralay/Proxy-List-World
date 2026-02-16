@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|34.14.143.185|3128|India|Mumbai|Google LLC|
-|20|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|14|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|15.204.151.149|3128|United States|Reston|OVH SAS|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|143.198.37.6|8888|Canada|Toronto|DigitalOcean, LLC|
 
 
 
