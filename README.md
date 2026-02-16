@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
