@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|15|72.10.160.173|7965|Canada|Montreal|GloboTech Communications|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|43.248.13.30|39104|Pakistan|Jalalpur Jattan|Ebone Network (PVT.) Limited|
 
 
 
