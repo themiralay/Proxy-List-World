@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|9|103.82.23.118|5207|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
