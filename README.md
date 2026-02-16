@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|16|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 
 
 
