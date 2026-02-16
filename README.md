@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|6|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|204.157.185.3|999|Peru|Nazca|Signal Peru S.A.C|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
