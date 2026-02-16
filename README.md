@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|10|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|34.14.143.185|3128|India|Mumbai|Google LLC|
-|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
+|12|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 |19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
