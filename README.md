@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|12|139.162.163.203|8123|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
 |13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|14|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
