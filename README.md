@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|38.23.34.11|40003|United States|Milwaukee|Wisconsin CyberLynk Network, Inc.|
+|6|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
 |7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|8|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
+|11|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
