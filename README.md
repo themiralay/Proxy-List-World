@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4316** proxies at the latest update. Usable proxies are below.
+> Scraper found **4284** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -26,7 +26,7 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|11|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|103.154.222.60|1111|Indonesia|Soreang|MORATELINDONAP|
-|13|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|14|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
 |20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
