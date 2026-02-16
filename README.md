@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
-|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|38.224.97.9|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 |19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
