@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|6|171.229.232.219|10002|Vietnam|Hanoi|Viettel Corporation|
+|7|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|16|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|18|72.10.164.178|26491|Canada|Montreal|GloboTech Communications|
-|19|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|181.119.111.59|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|14|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|15|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|72.10.164.178|26491|Canada|Montreal|GloboTech Communications|
 
 
 
