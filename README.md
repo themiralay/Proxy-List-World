@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|43.167.198.73|8443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|9|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|43.167.198.73|8443|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|15|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
