@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|66.80.0.115|3128|United States|Los Angeles|Bunny Communications|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|103.144.102.60|8181|Indonesia|Karangsembung|PANDAWANET|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|14|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|20|160.22.90.92|8818|Indonesia|Cirebon|PT Lintas Data Kita|
 
 
 
