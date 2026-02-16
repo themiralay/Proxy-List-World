@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|4|72.11.149.12|6005|Canada|Toronto|HostPapa|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|9|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|10|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|13|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|19|34.14.143.185|3128|India|Mumbai|Google LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|72.11.149.12|6005|Canada|Toronto|HostPapa|
+|8|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|17|72.11.149.12|6005|Canada|Toronto|HostPapa|
+|18|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|19|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
