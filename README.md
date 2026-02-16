@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4571** proxies at the latest update. Usable proxies are below.
+> Scraper found **4522** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|565|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2987|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|112.198.18.206|8080|Philippines|Taguig|Globe Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|157.15.112.41|8080|Indonesia|Banjar Dalam|PT. AKSES GENERASI CERDAS|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
-|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|17|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|18|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|3|124.107.15.43|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|37.194.77.24|10808|Russia|Novosibirsk|Novotelecom Ltd.|
+|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|17|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
