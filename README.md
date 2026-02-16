@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 |18|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
