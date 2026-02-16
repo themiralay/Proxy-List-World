@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|5|163.5.128.40|14270|United States|Brooklyn|Windstream Communications LLC|
+|2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|103.88.239.122|84|India|Hyderabad|Mana Communications|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|9|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|18|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|7|188.227.196.62|1080|Canada|Québec|Petrosky Cloud LLC|
+|8|49.144.23.152|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|9|38.207.165.2|6005|Hong Kong|Hong Kong|VMISS Inc|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|103.242.104.209|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
+|12|94.176.3.109|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|14|12.89.166.42|8080|United States|Sacramento|AT&T Enterprises, LLC|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
