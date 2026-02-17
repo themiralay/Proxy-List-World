@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|13|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|14|34.14.143.185|3128|India|Mumbai|Google LLC|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
-|20|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|10|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|16|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|20|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
 
 
 
