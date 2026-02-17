@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|7|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
 |10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
