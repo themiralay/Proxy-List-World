@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 |11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|17|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|15|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|18|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 
 
 
