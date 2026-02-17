@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|45.189.252.243|999|Mexico|Alvarado|Tracered SA De CV|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|202.5.37.104|17382|Bangladesh|Dhaka|BBTS-NEW|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|34.14.143.185|3128|India|Mumbai|Google LLC|
 
 
 
