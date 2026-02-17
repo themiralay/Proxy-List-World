@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|34.14.143.185|3128|India|Mumbai|Google LLC|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|34.14.143.185|3128|India|Mumbai|Google LLC|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|18|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 
 
 
