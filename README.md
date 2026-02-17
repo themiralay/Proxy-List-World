@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
 |4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|103.247.23.117|8080|Indonesia|Bekasi|PT wifian Solution|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|34.14.143.185|3128|India|Mumbai|Google LLC|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|10|157.15.172.30|8080|Indonesia|Andoolo|PT Mitra Telekomunikasi Nusantara|
-|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
