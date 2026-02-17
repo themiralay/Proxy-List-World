@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|5.101.0.233|3128|Russia|St Petersburg|Petersburg Internet Network ltd.|
-|17|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|19|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|20|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|12|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
