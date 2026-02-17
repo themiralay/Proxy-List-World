@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
 |7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|15|34.14.143.185|3128|India|Mumbai|Google LLC|
+|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |18|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|19|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|20|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
