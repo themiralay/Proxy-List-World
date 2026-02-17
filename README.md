@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|11|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|202.93.247.42|8090|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
