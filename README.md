@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4720** proxies at the latest update. Usable proxies are below.
+> Scraper found **4713** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|594|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3151|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|34.14.143.185|3128|India|Mumbai|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|18|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|8|200.59.186.176|999|Venezuela|Santa Cruz de Mora|TotalCom Venezuela C.A.|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|8.212.178.171|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 
 
 
