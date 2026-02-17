@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|59.153.16.214|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|208.67.28.27|58090|United States|Eagle River|SonicNet Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 
 
 
