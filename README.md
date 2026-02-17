@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|34.14.143.185|3128|India|Mumbai|Google LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|14|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|34.14.143.185|3128|India|Mumbai|Google LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|101.32.52.39|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|20|92.119.126.229|8118|France|Strasbourg|velia.net Internetdienste GmbH|
 
 
 
