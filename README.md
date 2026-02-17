@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|8|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|12|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|124.158.160.61|8080|Indonesia|Jakarta|ICON+|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|122.116.180.77|8080|Taiwan|Daxi|Chunghwa Telecom Co., Ltd.|
+|8|112.202.38.233|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|45.189.252.243|999|Mexico|Alvarado|Tracered SA De CV|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|194.29.60.220|8080|Ukraine|Vinnytsia|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
