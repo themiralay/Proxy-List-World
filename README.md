@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|2|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|3|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|8|103.48.68.138|82|India|Hyderabad|Country Online Services PVT LTD|
-|9|160.22.92.24|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |11|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
-|15|103.188.169.95|8080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|19|27.123.222.193|8080|Indonesia|Jakarta|FIBERNET|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
