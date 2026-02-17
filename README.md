@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|15|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|9|34.14.143.185|3128|India|Mumbai|Google LLC|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
