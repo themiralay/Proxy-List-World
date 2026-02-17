@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |14|165.225.46.46|10000|United States|San Jose|ZSCALER, INC.|
-|15|165.225.46.46|10000|United States|San Jose|ZSCALER, INC.|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|18|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|165.225.46.46|10000|United States|San Jose|ZSCALER, INC.|
+|17|34.14.143.185|3128|India|Mumbai|Google LLC|
+|18|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |19|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|150.230.104.3|16728|Japan|Tokyo|Oracle Corporation|
+|20|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
