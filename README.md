@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
 |15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |18|103.82.23.118|5207|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
