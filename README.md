@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|12|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|16|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|20|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|5|34.14.143.185|3128|India|Mumbai|Google LLC|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|59.153.19.34|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
