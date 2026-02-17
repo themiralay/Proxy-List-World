@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|49.146.153.161|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|17|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|19|103.151.17.201|8080|India|Aurangabad|Riyaz Internet Service Private Limited|
-|20|165.225.46.46|10000|United States|San Jose|ZSCALER, INC.|
+|7|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|11|94.176.3.53|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|13|34.14.143.185|3128|India|Mumbai|Google LLC|
+|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
