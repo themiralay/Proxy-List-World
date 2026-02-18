@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|34.14.143.185|3128|India|Mumbai|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|8|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|180.191.16.105|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|200.41.170.211|11201|Argentina|Buenos Aires|Telefonica de Argentina|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
