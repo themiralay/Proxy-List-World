@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
-|15|78.24.220.44|10000|Russia|Novoivanovskoye|JSC IOT|
+|1|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|157.66.192.91|8080|Indonesia|Randudongkal|PT Indotech Digitama Superlink|
+|12|119.155.143.218|8080|Pakistan|Karachi|Pakistan Telecommuication company limited|
+|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
