@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|2|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|80.76.34.133|8080|Netherlands|Amsterdam|First Server Limited|
-|14|103.17.246.60|1080|Indonesia|Banjar Badung|PT Media Sarana Data|
-|15|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|19|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|1|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|2|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|144.208.127.181|3128|United States|New York|Shock Hosting LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
