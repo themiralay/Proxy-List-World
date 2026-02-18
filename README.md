@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|7|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|8|101.32.52.39|7890|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|103.93.93.221|8181|Indonesia|Kertosono|MYRISE|
+|4|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
+|5|119.92.75.252|8181|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|6|203.150.128.170|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|9|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|103.177.176.62|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
