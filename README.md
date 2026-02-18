@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|6|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|9|34.14.143.185|3128|India|Mumbai|Google LLC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 |18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 |19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 
 
 
