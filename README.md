@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|116.102.242.52|10017|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|34.14.143.185|3128|India|Mumbai|Google LLC|
-|14|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|3|34.14.143.185|3128|India|Mumbai|Google LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|116.102.242.52|10017|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|5.9.218.168|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|78.24.220.44|10000|Russia|Novoivanovskoye|JSC IOT|
+|18|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 
 
 
