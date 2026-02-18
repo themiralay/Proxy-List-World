@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|115.147.16.205|5050|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|103.148.62.1|8080|India|Thane|Rae Internet Service Provider Private Limited|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|103.143.197.41|8080|Indonesia|Karanganom|JERNIHNETWORK|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|17|138.0.207.3|8085|Brazil|Monte Aprazível|Nets Telecomunicacoes Ltda|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|103.61.16.50|8080|Indonesia|Suryabakti|TWINSDATAPRATAMA|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|4|103.143.197.41|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|18|115.147.16.205|5050|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
