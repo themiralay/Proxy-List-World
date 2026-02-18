@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|163.5.128.116|14270|United States|Brooklyn|Windstream Communications LLC|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|171.229.238.102|10001|Vietnam|Hanoi|Viettel Corporation|
-|18|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|19|14.241.133.207|8080|Vietnam|Tây Ninh|VNPT|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|1|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|2|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|3|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|4|163.5.128.116|14270|United States|Brooklyn|Windstream Communications LLC|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|46.16.229.254|8079|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|160.22.90.92|8818|Indonesia|Cirebon|PT Lintas Data Kita|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
