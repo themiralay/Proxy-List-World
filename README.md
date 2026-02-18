@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |8|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|171.229.238.102|10001|Vietnam|Hanoi|Viettel Corporation|
-|20|16.79.112.218|6666|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|163.5.128.53|14270|United States|Brooklyn|Windstream Communications LLC|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|19|16.79.112.218|6666|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 
 
 
