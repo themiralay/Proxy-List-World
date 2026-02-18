@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
-|4|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|5|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|11|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|13|180.191.234.124|8080|Philippines|Taguig|Globe Telecom|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|12|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|203.142.71.50|8080|Indonesia|Jakarta|BIZNET|
+|19|103.165.64.74|83|India|Sānkh|Deepnet|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
