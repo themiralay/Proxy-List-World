@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|9|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|103.178.86.82|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|17|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|18|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|8|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|20|78.24.220.44|10000|Russia|Novoivanovskoye|JSC IOT|
 
 
 
