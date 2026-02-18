@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|8|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|9|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|36.94.185.122|60080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
-|15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.169.154.4|82|India|Alara|Speedpulse Fibernet PVT LTD|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|20|101.128.107.36|1111|Indonesia|Tangerang|CBN|
 
 
 
