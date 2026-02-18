@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|13|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
