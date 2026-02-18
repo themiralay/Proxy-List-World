@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|10|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|12|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|2|112.198.178.194|8080|Philippines|Nasugbu|Globe Telecom|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|10|109.120.135.230|2030|Sweden|Stockholm|Aeza International LTD|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
 |13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 |15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|16|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
