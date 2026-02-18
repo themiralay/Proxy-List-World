@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|47.239.61.82|9001|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|12|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|17|36.64.181.82|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|3|103.132.54.150|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|103.193.144.5|8181|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|10|38.183.146.159|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|20|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 
 
 
