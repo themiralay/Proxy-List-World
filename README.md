@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.187.147.242|8181|Indonesia|Jakarta|Cloud Host Pte Ltd|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|3|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|4|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|157.20.220.42|8080|Indonesia|Jakarta|PT Nawasena Andalan Indonesia|
+|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|81.177.48.54|2080|Russia|Moscow|RTCOMM|
 |6|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|78.24.220.44|10000|Russia|Novoivanovskoye|JSC IOT|
-|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|13|160.20.38.102|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|14|36.50.92.145|8080|Indonesia|Rancamulya|PT Ring Media Nusantara|
-|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|9|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|14|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 |17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
