@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|7|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|116.102.242.52|10017|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|9|103.107.84.191|8080|Indonesia|Colomadu|PT. Media Jaringan Indonesia|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |15|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|36.95.22.27|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|78.24.220.44|10000|Russia|Novoivanovskoye|JSC IOT|
+|18|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|34.14.143.185|3128|India|Mumbai|Google LLC|
 
 
 
