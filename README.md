@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
-|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |8|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|13|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|209.38.222.145|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 |16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|202.57.25.80|8080|Indonesia|Semarang|announced of WINET|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
