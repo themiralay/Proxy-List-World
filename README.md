@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|9|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|10|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|12|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|177.93.59.70|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|163.223.150.21|8080|Indonesia|Sragen|PT Microcyber Data Indonesia|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|17|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|18|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 
 
 
