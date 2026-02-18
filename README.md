@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4254** proxies at the latest update. Usable proxies are below.
+> Scraper found **4236** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|86|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2567|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|13|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|104.251.81.228|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|20|85.117.61.112|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|5|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|10|78.24.220.44|10000|Russia|Novoivanovskoye|JSC IOT|
+|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
