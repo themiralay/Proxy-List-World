@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|8|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|116.107.104.129|10001|Vietnam|Hanoi|Viettel Group|
-|11|116.107.104.78|10001|Vietnam|Hanoi|Viettel Group|
-|12|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
-|13|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|14|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|77.110.97.209|8080|Sweden|Stockholm|Aeza International LTD|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|12|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|16|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
