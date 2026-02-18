@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3845** proxies at the latest update. Usable proxies are below.
+> Scraper found **3775** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|76|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2193|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.50.92.145|8080|Indonesia|Rancamulya|PT Ring Media Nusantara|
-|2|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
+|4|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
 |5|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|9|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|10|5.189.254.62|1080|Estonia|Tallinn|Brainoza OU|
+|6|103.173.138.151|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|94.176.3.42|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 |17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
