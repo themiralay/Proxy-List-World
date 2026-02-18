@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|103.193.144.5|8181|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
-|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
+|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|10|128.140.118.165|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
 |15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|16|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|34.14.143.185|3128|India|Mumbai|Google LLC|
-|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|20|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
