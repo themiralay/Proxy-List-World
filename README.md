@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|12|103.177.235.194|82|India|Mangaluru|Coastal Live Channel|
-|13|103.158.62.130|8080|Bangladesh|Sylhet|SEARCH IT|
-|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|116.107.103.138|10001|Vietnam|Hanoi|Viettel Group|
-|17|116.107.104.78|10001|Vietnam|Hanoi|Viettel Group|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.107.88.217|10014|Vietnam|Hanoi|Viettel Group|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|9|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|14|157.230.106.35|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
+|16|190.93.191.20|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
+|17|81.177.48.54|2080|Russia|Moscow|RTCOMM|
 |18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 |20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
