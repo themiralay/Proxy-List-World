@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|116.102.242.52|10017|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|81.177.48.54|2080|Russia|Moscow|RTCOMM|
 |4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|8|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|9|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|10|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|11|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|12|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|13|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|16|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|192.3.20.150|3128|United States|Los Angeles|HostPapa|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
