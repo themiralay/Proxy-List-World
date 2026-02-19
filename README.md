@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|9|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|10|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|11|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|12|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|13|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|43.205.124.165|9745|India|Mumbai|Amazon.com, Inc.|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
 |16|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
