@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|177.243.209.133|999|Mexico|Guadalajara|Mega Cable, S.A. de C.V.|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|1|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|2|177.243.209.133|999|Mexico|Guadalajara|Mega Cable, S.A. de C.V.|
+|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|4|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|103.135.102.161|8080|Hong Kong|Wan Chai|ASSN-AKRN|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|40.192.14.136|9292|India|Hyderabad|Amazon.com, Inc.|
-|13|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|14|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
