@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|14|80.76.34.133|8080|Netherlands|Amsterdam|First Server Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|16|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|20|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|18|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
 
 
 
