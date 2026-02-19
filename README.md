@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|172.86.92.68|31337|Germany|Frankfurt am Main|FranTech Solutions|
+|7|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
 |11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|18|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|19|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
