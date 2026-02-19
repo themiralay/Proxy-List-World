@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|5|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|11|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|12|190.52.110.43|999|Venezuela|Caracas|Gold Data Colombia|
-|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|103.103.193.194|8080|Indonesia|Jakarta|PT. RACKH LINTAS ASIA|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|139.135.141.12|8095|Philippines|Mamburao|ComClark Network & Technology Corp|
+|16|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|17|103.154.214.50|3128|Indonesia|Cibinong|PT Mora Telematika Indonesia|
+|18|181.78.51.157|999|Guatemala|Santa Cruz Balanyá|Ufinet Panama S.A.|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
