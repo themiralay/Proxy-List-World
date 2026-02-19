@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|154.17.27.79|21266|United States|Los Angeles|DMIT Cloud Services|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|8|154.17.27.79|21266|United States|Los Angeles|DMIT Cloud Services|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|13|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|18|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
