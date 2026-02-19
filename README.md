@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|124.6.141.83|8082|Philippines|Taguig|Globe Telecom|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|103.171.182.229|8080|Indonesia|Cileungsir|PT Hayat Teknologi Informatika|
-|7|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|11|161.82.141.221|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
 |12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|15|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|13|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|14|185.41.152.110|3128|France|Valenciennes|global|
+|15|190.110.35.228|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 |16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
