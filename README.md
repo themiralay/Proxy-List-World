@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
-|4|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|6|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|7|43.205.124.165|9745|India|Mumbai|Amazon.com, Inc.|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|6|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|7|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|13|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
