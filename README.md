@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4096** proxies at the latest update. Usable proxies are below.
+> Scraper found **4083** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|138|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|655|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2313|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|12|46.161.4.163|3128|Russia|St Petersburg|LLC "HORIZON"|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|14|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|15|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|16|160.22.92.24|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
-|17|163.5.128.211|14270|United States|Brooklyn|Windstream Communications LLC|
-|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|9|103.147.134.179|8080|Indonesia|Surabaya|PT.MURNI MAKMUR ABADI|
+|10|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|11|163.5.128.131|14270|United States|Brooklyn|Windstream Communications LLC|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|18|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|19|201.150.116.3|999|Mexico|Tetepango|Hulux Telecomunicaciones|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
