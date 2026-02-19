@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|8|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|177.93.33.55|999|Colombia|La Dorada|TV AZTECA SUCURSAL COLOMBIA|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
 |9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|120.240.35.173|22222|China|Guangzhou|China Mobile communications corporation|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|10|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|14|186.18.198.45|8080|Argentina|Buenos Aires|Telecentro S.A.|
+|15|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|16|202.58.77.114|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
