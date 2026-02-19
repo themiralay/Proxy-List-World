@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|8|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|12|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|13|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|14|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|16|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|17|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|20|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
