@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|46.161.4.163|3128|Russia|St Petersburg|LLC "HORIZON"|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|147.75.34.105|443|Netherlands|Huizen|Equinix (EMEA) Acquisition Enterprises B.V.|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|10|103.189.254.70|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|11|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|12|201.150.116.3|999|Mexico|Tetepango|Hulux Telecomunicaciones|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|18|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|41.59.115.217|8081|Tanzania|Dar es Salaam|TTCL|
 
 
 
