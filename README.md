@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|7|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|8|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|9|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|10|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|11|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|12|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|13|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|10|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|11|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|15|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
