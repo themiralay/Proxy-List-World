@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|103.147.134.179|8080|Indonesia|Surabaya|PT.MURNI MAKMUR ABADI|
+|4|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|103.169.53.145|8080|India|Aizawl|Hyosec Solutions Private Limited|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|103.247.14.25|9285|Indonesia|Mungkid|TERABIT|
 |15|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|17|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|18|27.124.81.146|8080|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 
 
 
