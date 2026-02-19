@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|9|101.128.107.36|1111|Indonesia|Tangerang|CBN|
-|10|59.153.19.2|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|11|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|12|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|13|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|6|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|7|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
