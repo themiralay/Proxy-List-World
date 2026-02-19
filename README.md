@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4530** proxies at the latest update. Usable proxies are below.
+> Scraper found **4477** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|138|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|139|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2741|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|103.160.182.87|9090|Indonesia|Bondowoso|PT Internusa Duta Makmur|
-|8|160.22.92.24|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
-|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|13|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
-|14|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|58.147.186.31|3125|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|11|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|103.189.116.138|1220|Indonesia|Wonosobo|PT Callysta Total Solusindo|
+|16|177.234.217.234|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
