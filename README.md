@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|7|165.225.113.220|11462|Singapore|Singapore|ZSCALER, INC.|
-|8|104.129.203.245|10026|United States|San Jose|ZSCALER, INC.|
-|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
-|14|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|15|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|20|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|103.167.31.157|8080|Indonesia|South Tangerang|PT iForte Global Internet|
+|5|201.150.116.3|999|Mexico|Tetepango|Hulux Telecomunicaciones|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|9|147.75.34.105|443|Netherlands|Huizen|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|12|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|185.41.152.110|3128|France|Valenciennes|global|
+|17|190.94.213.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|49.148.138.194|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
 
 
 
