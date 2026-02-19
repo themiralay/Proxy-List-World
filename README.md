@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
 |4|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|8|170.9.253.20|8888|United States|Chicago|Oracle Corporation|
-|9|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|10|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|177.243.209.133|999|Mexico|Guadalajara|Mega Cable, S.A. de C.V.|
-|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|15|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|5|177.243.209.133|999|Mexico|Guadalajara|Mega Cable, S.A. de C.V.|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|8|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|202.58.77.133|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
