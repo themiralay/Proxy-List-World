@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|3|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|101.128.107.36|1111|Indonesia|Tangerang|CBN|
-|7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|8|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|9|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|10|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|14|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|11|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 |17|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
