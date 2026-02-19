@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
-|10|202.152.44.18|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|15|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|16|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|17|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|18|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|17|80.76.34.133|8080|Netherlands|Amsterdam|First Server Limited|
+|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 |19|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
