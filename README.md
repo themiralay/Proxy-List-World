@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|3|103.189.249.140|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|8|191.97.96.86|8080|Argentina|General Roca|Vision NET|
-|9|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|1|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|5|103.189.249.140|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|9|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|10|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|13|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
