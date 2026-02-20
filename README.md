@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|4|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|124.83.102.184|8080|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|7|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|43.248.13.30|39104|Pakistan|Jalalpur Jattan|Ebone Network (PVT.) Limited|
+|3|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|4|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|5|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
+|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 |11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|14|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|15|119.92.188.29|8080|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|20|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|12|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|14|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
