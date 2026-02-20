@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |5|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|8|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|9|103.153.202.221|8080|Myanmar|Tachilek|Shwe Mahar MAE Khong Industrial Company Limited|
-|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|11|139.162.46.62|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|12|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
-|13|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|139.162.46.62|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|14|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
