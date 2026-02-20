@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|11|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
-|12|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|14|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|13|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
+|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
