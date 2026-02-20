@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
 |3|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|4|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
-|8|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|9|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|16|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|10|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|11|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|14|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
