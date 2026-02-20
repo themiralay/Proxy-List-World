@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|6|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|9|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|34.58.162.59|3128|United States|Council Bluffs|Google LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|7|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|8|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|9|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|10|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|11|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|12|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|183.239.109.98|22222|China|Guangzhou|China Mobile|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
