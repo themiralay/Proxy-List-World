@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|6|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|7|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|8|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|3|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|10|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
