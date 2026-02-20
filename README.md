@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|6|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
-|11|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|12|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|13|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|14|185.245.104.100|33333|Netherlands|Amsterdam|Servers Tech Fzco|
-|15|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|8|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
