@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4683** proxies at the latest update. Usable proxies are below.
+> Scraper found **4608** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|569|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2761|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|12|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
-|13|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|46.161.6.165|8080|Russia|St Petersburg|LLC "HORIZON"|
+|14|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|16|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|17|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|18|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
