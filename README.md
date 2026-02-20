@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|3|58.69.158.22|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|4|103.170.46.245|8080|India|Sirohi|Vanshika Itlam India PVT LTD|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|7|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|8|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|10|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|3|20.44.195.131|3128|Singapore|Singapore|Microsoft Corporation|
+|4|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
 |11|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|12|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|13|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
-|14|202.58.77.28|7777|Indonesia|Surabaya|PT Data Buana Nusantara|
-|15|203.172.201.226|8080|Thailand|Yasothon|Ministry of Education - EMISC|
-|16|103.179.218.7|8080|Indonesia|Ciruas|WIMATE|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|12|190.121.146.75|999|Colombia|Pereira|Media Commerce Partners S.A|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
