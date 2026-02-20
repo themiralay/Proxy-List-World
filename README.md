@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|6|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.86.131.62|80|Malaysia|Changlun|University Malaysia Perlis|
+|3|1.20.169.135|8080|Thailand|Pattaya|TOT Public Company Limited|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|7|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|8|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |10|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|13|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|14|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|15|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|11|49.144.28.148|8181|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|12|157.20.244.194|7777|Indonesia|Jakarta|PT.Global Media Data Prima|
+|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|14|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
