@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|5|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|6|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|7|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|17|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|20.44.195.131|3128|Singapore|Singapore|Microsoft Corporation|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|8|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|9|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
+|10|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|11|211.75.210.107|1168|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|12|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|194.87.250.190|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|19|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
 
 
 
