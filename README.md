@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|4|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|9|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|10|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
-|11|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|12|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|14|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|20|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|6|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|9|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|10|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|12|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
+|13|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|14|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|15|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|16|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|17|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|18|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
