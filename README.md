@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|10|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|16|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
-|17|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|7|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|12|190.60.44.234|999|Colombia|San Juan Nepomuceno|IFX NETWORKS COLOMBIA|
+|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|14|177.243.209.133|999|Mexico|Guadalajara|Mega Cable, S.A. de C.V.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
