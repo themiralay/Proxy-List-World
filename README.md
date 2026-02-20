@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
 |2|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|3|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|4|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|8|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|14|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|6|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|180.191.16.105|8082|Philippines|Cabanatuan City|Globe Telecom|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|12|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |17|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|18|177.243.209.133|999|Mexico|Guadalajara|Mega Cable, S.A. de C.V.|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
+|19|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
 |20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
 
 
