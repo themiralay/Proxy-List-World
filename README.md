@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|3|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|103.106.216.133|8097|Indonesia|Sambogunung|PT. ARTHA LINTAS DATA MANDIRI|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|103.124.197.234|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|36.95.22.27|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|15|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
 
 
 
