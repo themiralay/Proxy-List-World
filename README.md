@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5041** proxies at the latest update. Usable proxies are below.
+> Scraper found **5008** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|717|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|684|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|50|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3042|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|17|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|3|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|6|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|7|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|8|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|11|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|15|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
