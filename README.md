@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
 |4|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
 |6|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|120.240.35.173|22222|China|Guangzhou|China Mobile communications corporation|
-|14|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|7|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|116.102.242.52|10017|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|204.199.139.76|999|Chile|Isla de Maipo|Ingbell Chile SPA|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|120.240.35.173|22222|China|Guangzhou|China Mobile communications corporation|
+|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
