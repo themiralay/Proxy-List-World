@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|103.26.116.138|8080|Indonesia|Malang|PT Parsaoran Global Datatrans|
-|4|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|5|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|6|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|7|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|8|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|103.119.63.144|8080|Indonesia|Jakarta|MYREPUBLIC|
-|11|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|12|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|13|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|14|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|15|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|3|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|4|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|10|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|17|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
