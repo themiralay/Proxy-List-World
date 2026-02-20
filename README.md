@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|6|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|7|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|6|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|7|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |9|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|10|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|11|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|10|182.253.36.151|8080|Indonesia|Cimahi|BIZNET|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|14|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|15|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
