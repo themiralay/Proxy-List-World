@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|9|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
-|13|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|14|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|2|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 |15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
