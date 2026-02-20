@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|11|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|12|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|15|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|16|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|17|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|18|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|3|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|10|152.32.130.144|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|13|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|14|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|15|193.47.60.119|52681|Finland|Helsinki|Baykov Ilya Sergeevich|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|158.160.207.245|2081|Russia|Moscow|Yandex.Cloud LLC|
+|18|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
 |20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
