@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|7|103.175.127.5|8090|Bangladesh|Dhaka|Inovative Online LTD|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|103.85.53.77|8080|Indonesia|Guyangan|PT Binerkahan Digital Telco|
-|11|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|18|103.134.246.42|3172|Indonesia|Banjar Triwangsakelusa|Wisuandha Network Globalindo|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|9|119.93.14.61|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|12|103.101.193.38|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
 
 
 
