@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
 |6|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|14.229.107.19|8080|Vietnam|Ninh Bình|VNPT|
-|9|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|183.239.109.98|22222|China|Guangzhou|China Mobile|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|77.110.125.30|65531|United States|Charlotte|Aeza International LTD|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
