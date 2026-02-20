@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|119.93.14.61|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|12|156.225.31.27|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|1|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|3|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|4|103.120.174.75|1818|Indonesia|Jakarta|PT. Eka Mas Republik|
+|5|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|6|20.44.195.131|3128|Singapore|Singapore|Microsoft Corporation|
+|7|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|8|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
+|9|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|14|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 |16|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
 |18|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
