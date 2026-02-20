@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|4|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|7|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|11|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|12|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|36.88.148.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|103.51.205.168|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
+|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|10|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|11|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|13|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
 |14|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|164.138.205.120|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|17|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|19|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|20|129.159.119.154|1080|United States|Ashburn|Oracle Corporation|
+|15|103.154.52.5|1111|Indonesia|Majenang|WIFIKITA|
+|16|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|185.166.24.191|1981|Iraq|Sulaymaniyah|Online Company Ltd|
+|19|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|20|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
 
 
 
