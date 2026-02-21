@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|1.179.231.130|8080|Thailand|Rat Burana|TOT Public Company Limited|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|31.58.158.150|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|13|91.216.71.35|443|Iran|Tehran|Rahnamoun Rayaneh Ertebatat Company (Ltd.)|
+|14|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|43.252.236.158|8080|Indonesia|Caringin|NET|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
