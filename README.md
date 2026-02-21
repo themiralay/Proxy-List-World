@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |7|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|154.66.159.34|800|South Africa|Johannesburg|Wirulink Pty Ltd|
+|11|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|18|35.212.218.202|1080|United States|The Dalles|Google LLC|
-|19|186.0.144.81|9797|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|16|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
