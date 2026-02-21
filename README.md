@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4363** proxies at the latest update. Usable proxies are below.
+> Scraper found **4352** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|602|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2476|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|85.209.129.60|2222|Finland|Helsinki|Qwins LTD|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|10|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|16|148.251.86.76|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|17|141.11.187.163|8080|Netherlands|Amsterdam|NForce Entertainment B.V.|
-|18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|19|194.87.250.190|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|85.209.129.60|2222|Finland|Helsinki|Qwins LTD|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|10|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|36.64.86.11|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|16|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
