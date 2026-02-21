@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|10|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|11|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|12|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|13|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|1|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|103.145.161.18|8080|Indonesia|Pangkalan Balai|PT. Indonesia Comnets Plus|
+|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|14|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
