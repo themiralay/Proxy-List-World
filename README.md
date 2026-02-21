@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|5|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|6|156.225.31.27|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|2|107.172.170.19|40000|United States|Los Angeles|HostPapa|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|107.172.170.19|40000|United States|Los Angeles|HostPapa|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |9|65.21.174.38|443|Finland|Helsinki|Hetzner Online GmbH|
-|10|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
-|11|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|37.187.92.9|1029|France|Roubaix|OVH SAS|
-|14|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|10|65.21.174.41|443|Finland|Helsinki|Hetzner Online GmbH|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|15|94.177.131.33|3128|Japan|Tokyo|G-Core Labs S.A.|
+|16|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|17|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|18|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
