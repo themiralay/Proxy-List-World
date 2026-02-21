@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|12|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|13|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|14|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|15|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|6|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|7|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|8|107.172.170.19|40000|United States|Los Angeles|HostPapa|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|11|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 |18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
