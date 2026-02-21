@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|91.216.71.35|443|Iran|Tehran|Rahnamoun Rayaneh Ertebatat Company (Ltd.)|
-|12|160.19.19.59|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|18|103.146.170.193|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
+|10|85.209.129.60|2222|Finland|Helsinki|Qwins LTD|
+|11|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|12|192.203.0.210|999|Puerto Rico|Comunas|Boom NET|
+|13|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|14|101.51.144.214|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|18|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 |19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A|
+|20|190.60.48.171|999|Colombia|Bosconia|IFX NETWORKS COLOMBIA|
 
 
 
