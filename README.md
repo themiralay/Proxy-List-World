@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|156.225.31.27|7890|Hong Kong|Hong Kong|Vapeline Technology|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|7|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|8|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|9|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|65.21.174.41|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|13|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|5|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|65.21.174.41|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|13|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|122.3.126.95|8081|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
