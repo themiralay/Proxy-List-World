@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
 |8|91.216.71.35|443|Iran|Tehran|Rahnamoun Rayaneh Ertebatat Company (Ltd.)|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|13|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|9|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|112.203.122.13|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 |19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
