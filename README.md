@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|11|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|12|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|14|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|18|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|103.19.58.151|8080|Indonesia|Sragen|BITSNET|
-|20|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|8|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|11|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
