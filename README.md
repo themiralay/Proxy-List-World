@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4723** proxies at the latest update. Usable proxies are below.
+> Scraper found **4710** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|706|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2672|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
 |2|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
-|6|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|9|61.72.110.84|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|10|43.155.156.147|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|11|14.56.107.194|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|61.72.110.64|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|14|44.213.190.51|80|United States|Ashburn|Amazon.com|
-|15|98.88.69.176|80|United States|Ashburn|Amazon.com|
-|16|14.56.118.224|3128|South Korea|Goyang-si|Korea Telecom|
-|17|61.72.221.104|3128|South Korea|Seongnam-si|Korea Telecom|
-|18|44.215.158.176|80|United States|Ashburn|Amazon.com|
-|19|44.217.108.154|80|United States|Ashburn|Amazon.com|
-|20|98.83.99.247|80|United States|Ashburn|Amazon.com, Inc.|
+|4|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|61.72.221.104|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|61.72.110.4|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|8|61.72.110.64|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|10|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|98.83.99.247|80|United States|Ashburn|Amazon.com, Inc.|
+|13|100.24.203.69|80|United States|Ashburn|Amazon.com|
+|14|52.72.76.228|80|United States|Ashburn|Amazon.com, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|52.202.250.102|80|United States|Ashburn|Amazon.com, Inc.|
+|17|3.225.78.45|80|United States|Ashburn|Amazon Technologies Inc.|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|50.17.39.43|80|United States|Ashburn|Amazon.com|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
