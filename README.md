@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|156.225.31.27|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|15|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|91.216.71.35|443|Iran|Tehran|Rahnamoun Rayaneh Ertebatat Company (Ltd.)|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
