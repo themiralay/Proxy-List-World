@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|4|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|7|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|9|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|10|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|11|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|12|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|13|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|3|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|6|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|8|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|9|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|10|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|11|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
