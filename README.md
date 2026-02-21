@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|5|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
 |6|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|9|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|10|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|7|59.153.19.34|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|8|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|9|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|10|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
