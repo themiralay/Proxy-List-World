@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|8|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|5|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|6|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|8|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|9|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|10|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|11|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
