@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |12|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|13|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
 |14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|15|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
