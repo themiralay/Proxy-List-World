@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|2|61.72.110.74|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|222.109.119.178|3128|South Korea|Dongdaemun|Korea Telecom|
-|5|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
-|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|7|14.56.107.224|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|8|14.56.107.194|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|9|14.56.107.124|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|10|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|14.56.118.54|3128|South Korea|Goyang-si|Korea Telecom|
-|13|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|14|14.56.118.4|3128|South Korea|Goyang-si|Korea Telecom|
-|15|43.155.156.147|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|16|14.56.107.234|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|17|14.56.107.74|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|18|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
-|19|14.56.107.54|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|20|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|43.155.156.147|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|3|61.72.221.64|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|6|14.56.107.74|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|7|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|8|14.56.107.224|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|9|222.109.119.178|3128|South Korea|Dongdaemun|Korea Telecom|
+|10|121.132.188.196|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|11|14.56.107.124|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|12|61.72.221.4|3128|South Korea|Seongnam-si|Korea Telecom|
+|13|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|16|61.72.221.34|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|61.72.221.14|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|19|61.72.110.74|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|61.72.221.74|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
