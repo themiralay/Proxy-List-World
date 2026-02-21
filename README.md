@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|5|194.87.250.190|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|6|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|7|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|9|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|10|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|6|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|9|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|10|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
 |11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|12|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|17|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|18|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
