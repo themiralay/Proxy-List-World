@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
-|9|50.17.39.43|80|United States|Ashburn|Amazon.com|
-|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
-|12|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
-|14|14.56.177.2|3128|South Korea|Yangju|Korea Telecom|
-|15|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|16|54.89.108.25|80|United States|Ashburn|Amazon.com, Inc.|
-|17|100.24.203.69|80|United States|Ashburn|Amazon.com|
-|18|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|20|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
+|4|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
+|5|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|7|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|8|50.17.39.43|80|United States|Ashburn|Amazon.com|
+|9|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|50.17.39.43|80|United States|Ashburn|Amazon.com|
+|11|34.205.52.219|80|United States|Ashburn|Amazon.com, Inc.|
+|12|54.156.5.100|80|United States|Ashburn|Amazon.com, Inc.|
+|13|98.88.69.176|80|United States|Ashburn|Amazon.com|
+|14|100.49.60.209|80|United States|Ashburn|Amazon.com, Inc.|
+|15|44.215.158.176|80|United States|Ashburn|Amazon.com|
+|16|44.217.108.154|80|United States|Ashburn|Amazon.com|
+|17|44.199.74.219|80|United States|Ashburn|Amazon.com|
+|18|34.236.126.160|80|United States|Ashburn|Amazon.com, Inc.|
+|19|44.205.216.127|80|United States|Ashburn|Amazon.com|
+|20|54.161.78.88|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
