@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|107.172.170.19|40000|United States|Los Angeles|HostPapa|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|107.172.170.19|40000|United States|Los Angeles|HostPapa|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|12|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|13|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|156.225.31.27|7890|Hong Kong|Hong Kong|Vapeline Technology|
-|16|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|16|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
