@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 |8|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|10|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|11|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|17|107.172.170.19|40000|United States|Los Angeles|HostPapa|
-|18|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|19|103.189.197.47|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|9|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|11|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|12|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|14|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
