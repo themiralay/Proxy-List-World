@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|6|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
-|7|122.54.193.69|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|8|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|12|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|5|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|8|177.128.115.198|999|Chile|Melipilla|Binet Networking Data Limitada|
+|9|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|10|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|11|46.55.143.145|8080|Bulgaria|Kardzhali|DCC|
+|12|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
+|13|103.156.16.45|8080|Indonesia|Indramayu|RSTNET|
+|14|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
