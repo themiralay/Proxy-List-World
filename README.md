@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5115** proxies at the latest update. Usable proxies are below.
+> Scraper found **5133** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|48|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3193|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|20.44.195.131|3128|Singapore|Singapore|Microsoft Corporation|
+|1|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|91.216.71.35|443|Iran|Tehran|Rahnamoun Rayaneh Ertebatat Company (Ltd.)|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|161.82.141.221|8080|Thailand|Chatuchak|Symphony Communication Public Company Limited|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 |11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|15|101.51.144.214|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|16|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|12|156.225.31.27|7890|Hong Kong|Hong Kong|Vapeline Technology|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|15|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
