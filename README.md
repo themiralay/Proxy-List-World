@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|6|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|7|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|8|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|9|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|10|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|11|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|6|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|9|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|10|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|11|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|12|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|13|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
