@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|85.209.129.60|2222|Finland|Helsinki|Qwins LTD|
-|6|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|7|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|8|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|9|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
-|10|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|11|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|12|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|13|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|14|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|4|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|10|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|11|190.237.238.215|999|Peru|Lima|TDP-GRS|
+|12|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|16|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|19|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
