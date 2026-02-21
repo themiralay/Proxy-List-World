@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5114** proxies at the latest update. Usable proxies are below.
+> Scraper found **5109** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|619|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3209|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
-|3|103.227.186.209|6080|Indonesia|Siderejo|PT Master Star Network|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|194.87.250.190|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|8|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|9|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|10|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
-|13|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.217.224.75|3125|Indonesia|Ungaran|PT Nesta Indo Media|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|112.202.38.233|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|103.164.231.243|8080|Indonesia|Bendungan|PT Global Media Telekomunikasi Network|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|38.95.77.16|6005|United States|Los Angeles|Cogent Communications|
+|9|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|10|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
+|11|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|12|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|163.5.128.114|14270|United States|Brooklyn|Windstream Communications LLC|
+|15|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|16|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|18|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|19|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|20|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
 
 
 
