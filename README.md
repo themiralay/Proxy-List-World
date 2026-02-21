@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|8|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|9|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|10|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|11|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|12|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|13|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|16|23.131.56.129|999|Puerto Rico|Betances|Webiffi LLC|
-|17|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|18|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|19|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|10|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|12|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|14|103.97.198.253|8080|Indonesia|Sekadau|PT Borneo Global Persada|
+|15|35.212.218.202|1080|United States|The Dalles|Google LLC|
+|16|200.10.30.166|999|Colombia|Anserma|Super Redes S.A.S|
+|17|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|18|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
+|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|20|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
 
 
 
