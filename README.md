@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|10|103.179.252.153|8080|Indonesia|Warungsimpang|PT Pusaka Kreasi Mandiri|
+|11|14.56.107.124|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|12|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|13|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|59.8.203.55|80|South Korea|Seongnam-si|Korea Telecom|
+|16|163.5.128.116|14270|United States|Brooklyn|Windstream Communications LLC|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
