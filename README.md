@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
-|2|146.56.185.39|10900|South Korea|Seoul|Oracle Corporation|
-|3|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|1|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|14.56.177.172|3128|South Korea|Yangju|Korea Telecom|
-|6|58.95.79.164|3128|Japan|Fukuoka|NTT Communications Corporation|
-|7|14.56.107.164|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|11|14.56.107.54|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|12|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|14|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|15|43.228.85.73|8888|Thailand|Pak Kret|Siamdata Communication Co., ltd.|
-|16|78.13.231.158|3128|Mexico|Querétaro City|Amazon.com|
-|17|14.56.118.124|3128|South Korea|Goyang-si|Korea Telecom|
-|18|118.174.90.41|3128|Thailand|Bangkok|TOT Public Company Limited|
-|19|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|14.56.107.94|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|58.95.79.164|3128|Japan|Fukuoka|NTT Communications Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|14.56.107.174|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|9|14.56.107.164|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|10|78.13.231.158|3128|Mexico|Querétaro City|Amazon.com|
+|11|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
+|12|14.56.177.172|3128|South Korea|Yangju|Korea Telecom|
+|13|14.56.107.34|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|14|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|15|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|16|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|17|95.216.112.253|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|124.83.102.146|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|19|61.72.221.114|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|14.56.107.204|3128|South Korea|Uijeongbu-si|Korea Telecom|
 
 
 
