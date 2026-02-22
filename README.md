@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|14.56.177.98|3128|South Korea|Yangju|Korea Telecom|
-|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|7|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
 |8|78.13.231.158|3128|Mexico|Querétaro City|Amazon.com|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
-|14|14.56.177.12|3128|South Korea|Yangju|Korea Telecom|
-|15|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
-|16|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|17|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|19|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|20|61.72.110.144|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|61.72.110.224|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|14.56.177.2|3128|South Korea|Yangju|Korea Telecom|
+|11|14.56.177.66|3128|South Korea|Yangju|Korea Telecom|
+|12|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|13|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
+|14|121.128.121.194|3128|South Korea|Ansan-si|Korea Telecom|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|17|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|121.128.121.164|3128|South Korea|Ansan-si|Korea Telecom|
+|20|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
 
 
 
