@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|78.13.231.158|3128|Mexico|Querétaro City|Amazon.com|
-|4|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|7|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|9|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|10|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|3|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
+|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|14.56.177.2|3128|South Korea|Yangju|Korea Telecom|
+|10|61.72.221.14|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 |12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 |13|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|16|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 |19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
