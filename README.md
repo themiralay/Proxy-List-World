@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
-|8|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
-|11|209.62.196.68|8080|United States|Cut Off|EATEL|
-|12|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|13|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
-|14|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|15|14.56.107.54|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|16|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|49.146.57.185|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|1|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
+|2|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|7|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|8|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|9|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|10|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|14.56.107.124|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|12|14.56.107.74|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|13|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|14|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|20|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
 
 
 
