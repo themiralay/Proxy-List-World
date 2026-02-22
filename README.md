@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|2|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
 |3|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|4|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
 |7|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|8|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|61.72.110.64|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|10|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|35.212.218.202|1080|United States|The Dalles|Google LLC|
-|12|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|15|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|17|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|18|65.21.174.38|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
+|10|14.56.177.2|3128|South Korea|Yangju|Korea Telecom|
+|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|12|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|14|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
+|15|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|14.56.118.104|3128|South Korea|Goyang-si|Korea Telecom|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
