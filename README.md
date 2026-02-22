@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|18.215.11.230|80|United States|Ashburn|Amazon.com, Inc.|
-|8|14.56.118.124|3128|South Korea|Goyang-si|Korea Telecom|
-|9|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|13|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|14|61.72.110.84|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|14.56.118.94|3128|South Korea|Goyang-si|Korea Telecom|
-|18|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
-|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|1|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|2|14.56.118.64|3128|South Korea|Goyang-si|Korea Telecom|
+|3|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|7|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|9|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
+|10|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|11|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|12|165.99.151.252|8080|Indonesia|Bogor|PT Win Akselerasi Net Indonesia|
+|13|61.72.110.74|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|103.124.197.234|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|16|61.72.110.84|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|17|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|19|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
+|20|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
 
 
 
