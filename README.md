@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|43.228.85.73|8888|Thailand|Pak Kret|Siamdata Communication Co., ltd.|
-|6|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|7|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|61.72.110.84|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|43.155.156.147|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|4|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|43.228.85.73|8888|Thailand|Pak Kret|Siamdata Communication Co., ltd.|
+|8|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
+|9|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|10|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|13|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|103.179.218.7|8080|Indonesia|Ciruas|WIMATE|
+|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
