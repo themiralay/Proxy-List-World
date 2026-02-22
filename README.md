@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|177.93.63.2|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|7|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|116.102.242.52|10017|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
 |9|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
-|10|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
-|11|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|12|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
-|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|15|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|10|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
