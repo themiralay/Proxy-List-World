@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
-|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|200.125.169.118|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|5|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|14.56.107.74|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
 |6|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
-|10|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|11|65.21.174.41|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|13|85.133.227.150|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|14|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|15|85.133.227.182|80|Iran|Ahvaz|DyarWeb Information Technology Ltd|
-|16|14.56.107.124|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|17|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|65.21.174.38|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|61.72.110.74|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|11|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|12|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
+|14|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|103.54.80.151|8080|Indonesia|Purbalingga|MEDIACOMPUTINDO|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|65.21.174.41|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|19|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|20|14.56.107.194|3128|South Korea|Uijeongbu-si|Korea Telecom|
 
 
 
