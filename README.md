@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|4|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
-|8|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|11|14.56.107.234|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|13|14.56.107.54|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|2|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|14.56.107.74|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|9|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |14|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|16|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
-|17|61.72.110.4|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
-|20|61.72.110.84|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|16|14.56.107.194|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|17|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
+|18|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|19|14.56.107.54|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|20|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
