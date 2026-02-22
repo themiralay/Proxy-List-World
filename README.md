@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|6|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|11|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|12|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|2|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|9|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|10|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|12|14.56.118.234|3128|South Korea|Goyang-si|Korea Telecom|
+|13|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
+|16|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
