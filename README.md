@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|14.56.107.194|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|3|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|100.49.145.52|80|United States|Ashburn|Amazon.com, Inc.|
+|7|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
 |8|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
-|9|61.72.110.4|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|10|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|13|65.21.174.38|443|Finland|Helsinki|Hetzner Online GmbH|
-|14|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
-|15|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|16|136.49.32.180|8888|United States|Austin|Google Fiber Inc.|
-|17|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
-|18|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|19|1.20.169.135|8080|Thailand|Pattaya|TOT Public Company Limited|
-|20|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|91.239.4.92|2080|Russia|Tver|Grand Auto Ltd.|
+|11|3.17.75.158|80|United States|Dublin|Amazon.com, Inc.|
+|12|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|13|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|14|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|15|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|16|14.56.118.194|3128|South Korea|Goyang-si|Korea Telecom|
+|17|35.212.218.202|1080|United States|The Dalles|Google LLC|
+|18|13.59.97.103|313|United States|Dublin|Amazon.com, Inc.|
+|19|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|41.249.161.89|3128|Morocco|Berrechid|ADSL Maroc telecom|
 
 
 
