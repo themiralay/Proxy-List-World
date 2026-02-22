@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|14.56.177.12|3128|South Korea|Yangju|Korea Telecom|
-|6|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
+|5|121.128.121.234|3128|South Korea|Ansan-si|Korea Telecom|
+|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|7|14.56.118.64|3128|South Korea|Goyang-si|Korea Telecom|
+|8|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|12|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|61.72.110.184|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|17|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|18|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|19|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|20|121.128.121.104|3128|South Korea|Ansan-si|Korea Telecom|
+|10|61.72.110.164|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|43.228.85.73|8888|Thailand|Pak Kret|Siamdata Communication Co., ltd.|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|14|61.72.110.4|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
+|16|61.72.110.224|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|14.56.177.172|3128|South Korea|Yangju|Korea Telecom|
 
 
 
