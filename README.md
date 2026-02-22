@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
-|4|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|7|14.56.177.2|3128|South Korea|Yangju|Korea Telecom|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|14|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|16|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|17|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
+|3|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|10|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
+|11|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|14|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|18|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|19|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|20|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
