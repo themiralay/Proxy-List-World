@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4921** proxies at the latest update. Usable proxies are below.
+> Scraper found **5071** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|684|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3107|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3257|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|14.56.177.162|3128|South Korea|Yangju|Korea Telecom|
-|6|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|61.72.110.144|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|61.72.110.224|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|18|14.56.177.76|3128|South Korea|Yangju|Korea Telecom|
-|19|61.72.110.154|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|20|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|1|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|5|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
+|6|78.13.231.158|3128|Mexico|Querétaro City|Amazon.com|
+|7|14.56.177.54|3128|South Korea|Yangju|Korea Telecom|
+|8|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|9|61.72.221.214|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|14.56.107.224|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|12|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|13|14.56.107.94|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|61.72.221.114|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|61.72.221.154|3128|South Korea|Seongnam-si|Korea Telecom|
+|19|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|61.72.110.154|3128|South Korea|Gwangjin-gu|Korea Telecom|
 
 
 
