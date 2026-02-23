@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|14.56.118.54|3128|South Korea|Goyang-si|Korea Telecom|
-|8|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|9|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
-|10|14.56.177.172|3128|South Korea|Yangju|Korea Telecom|
-|11|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|12|103.189.116.138|1220|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|13|14.56.177.66|3128|South Korea|Yangju|Korea Telecom|
-|14|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
-|15|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
-|16|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|17|121.128.121.194|3128|South Korea|Ansan-si|Korea Telecom|
-|18|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|5|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
+|6|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|14.56.107.84|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|14.56.177.12|3128|South Korea|Yangju|Korea Telecom|
+|9|61.72.110.134|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|11|14.56.118.54|3128|South Korea|Goyang-si|Korea Telecom|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|61.72.110.224|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|61.72.110.84|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|103.189.116.138|1220|Indonesia|Wonosobo|PT Callysta Total Solusindo|
+|17|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|18|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
+|19|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|20|61.72.110.144|3128|South Korea|Gwangjin-gu|Korea Telecom|
 
 
 
