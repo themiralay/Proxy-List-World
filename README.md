@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4942** proxies at the latest update. Usable proxies are below.
+> Scraper found **4937** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|183|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|713|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|185|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|706|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3068|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.56.107.184|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|7|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|9|61.72.221.154|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|9|14.56.118.204|3128|South Korea|Goyang-si|Korea Telecom|
+|10|14.56.107.184|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|13|61.72.110.64|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|14|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|15|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|16|121.128.121.234|3128|South Korea|Ansan-si|Korea Telecom|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|20|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|12|14.56.177.76|3128|South Korea|Yangju|Korea Telecom|
+|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|177.93.36.74|3128|Colombia|Sandoná|TV AZTECA SUCURSAL COLOMBIA|
+|16|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|17|103.153.134.26|8080|Indonesia|Cikupa|WMINET|
+|18|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|19|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|20|121.128.121.84|3128|South Korea|Ansan-si|Korea Telecom|
 
 
 
