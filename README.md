@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|6|61.72.221.184|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
-|9|14.56.107.64|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|10|78.13.231.158|3128|Mexico|Querétaro City|Amazon.com|
-|11|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|14.56.177.66|3128|South Korea|Yangju|Korea Telecom|
-|14|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|15|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|18|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|20|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|3|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
+|4|121.128.121.104|3128|South Korea|Ansan-si|Korea Telecom|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|7|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|8|14.56.177.12|3128|South Korea|Yangju|Korea Telecom|
+|9|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|14.241.39.169|8080|Vietnam|Bắc Ninh|VNPT|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|14.56.177.54|3128|South Korea|Yangju|Korea Telecom|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|43.252.106.26|1111|Indonesia|Kudus|PT Lintas Data Prima|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
