@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|61.72.221.214|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|8|61.72.221.244|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|188.130.160.209|80|Kazakhstan|Karaganda|PE Fedinyak Sergey Vyacheslavovich|
-|14|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|4|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|7|91.107.178.131|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|14.56.177.76|3128|South Korea|Yangju|Korea Telecom|
+|9|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|14|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|16|61.72.110.74|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|19|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
