@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
+|1|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|4|14.56.177.34|3128|South Korea|Yangju|Korea Telecom|
-|5|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|14.56.177.172|3128|South Korea|Yangju|Korea Telecom|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|61.72.221.154|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
-|13|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|14|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|14.56.118.194|3128|South Korea|Goyang-si|Korea Telecom|
+|4|121.128.121.204|3128|South Korea|Ansan-si|Korea Telecom|
+|5|61.72.110.4|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|7|61.72.221.14|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|14.56.177.182|3128|South Korea|Yangju|Korea Telecom|
+|9|14.56.177.108|3128|South Korea|Yangju|Korea Telecom|
+|10|78.13.231.158|3128|Mexico|Querétaro City|Amazon.com|
+|11|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|12|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|14|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|15|61.72.110.184|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|18|14.56.107.104|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|19|121.128.121.194|3128|South Korea|Ansan-si|Korea Telecom|
-|20|219.93.111.125|9412|Malaysia|Chemor|ADSL Streamyx Telekom Malaysia|
+|17|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|19|14.56.107.14|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|20|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
