@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|121.128.121.14|3128|South Korea|Ansan-si|Korea Telecom|
-|4|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|61.72.221.154|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|6|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |7|91.107.178.131|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|46.21.82.154|1080|Germany|Frankfurt Am Main|e-Style ISP LLC|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|12|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|13|125.128.12.94|3128|South Korea|Songpa-gu|Korea Telecom|
-|14|61.72.221.224|3128|South Korea|Seongnam-si|Korea Telecom|
-|15|61.72.221.184|3128|South Korea|Seongnam-si|Korea Telecom|
-|16|78.12.143.148|24167|Mexico|Querétaro City|Amazon.com|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|11|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|12|14.56.177.54|3128|South Korea|Yangju|Korea Telecom|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|78.12.143.148|24167|Mexico|Querétaro City|Amazon.com|
+|18|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
