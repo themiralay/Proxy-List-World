@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|14.56.177.118|3128|South Korea|Yangju|Korea Telecom|
-|5|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|10|14.56.177.54|3128|South Korea|Yangju|Korea Telecom|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|13|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|14|61.72.110.154|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|15|14.56.177.54|3128|South Korea|Yangju|Korea Telecom|
+|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|19|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
