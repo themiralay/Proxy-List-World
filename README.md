@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|3|112.202.38.233|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
 |5|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|6|103.172.121.28|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|6|61.72.110.4|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|8|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|9|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|10|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|61.72.110.154|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|121.128.121.234|3128|South Korea|Ansan-si|Korea Telecom|
-|17|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|18|154.18.255.117|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|112.202.38.233|8082|Philippines|San Fernando|Philippine Long Distance Telephone Co.|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|14.56.118.4|3128|South Korea|Goyang-si|Korea Telecom|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|16|61.72.221.214|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|19|61.72.110.164|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
 
 
 
