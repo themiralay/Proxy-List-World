@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4477** proxies at the latest update. Usable proxies are below.
+> Scraper found **4438** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|279|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2526|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|12|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|14.56.177.54|3128|South Korea|Yangju|Korea Telecom|
-|16|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|19|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|61.72.110.164|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|11|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
+|12|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
+|13|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|121.128.121.14|3128|South Korea|Ansan-si|Korea Telecom|
+|17|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|19|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|20|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
 
 
 
