@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|4|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|6|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|2|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|9|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|10|61.72.110.224|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|12|61.72.110.134|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|13|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|61.72.110.124|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|17|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|121.128.121.194|3128|South Korea|Ansan-si|Korea Telecom|
-|20|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|8|61.72.221.244|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
+|11|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|12|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|15|61.72.110.4|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|18|61.72.110.34|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|19|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
 
 
 
