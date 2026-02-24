@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|7|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|121.128.121.164|3128|South Korea|Ansan-si|Korea Telecom|
-|10|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|4|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|7|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|10|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
 |11|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|14|14.56.118.4|3128|South Korea|Goyang-si|Korea Telecom|
-|15|61.72.110.4|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|18|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
-|20|61.72.221.154|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|61.72.110.14|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
+|15|61.72.110.44|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|19|121.128.121.84|3128|South Korea|Ansan-si|Korea Telecom|
+|20|61.72.221.164|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
