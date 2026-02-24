@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.72.254.71|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|45.12.151.226|2828|Finland|Helsinki|WorkTitans B.V.|
-|9|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|61.72.221.204|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|12|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|14.56.177.54|3128|South Korea|Yangju|Korea Telecom|
-|15|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|16|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|17|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|18|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|19|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|7|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|35.212.218.202|1080|United States|The Dalles|Google LLC|
+|14|121.128.121.104|3128|South Korea|Ansan-si|Korea Telecom|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
+|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|18|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|121.128.121.74|3128|South Korea|Ansan-si|Korea Telecom|
 
 
 
