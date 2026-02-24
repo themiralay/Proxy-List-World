@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|61.72.110.74|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|7|91.107.178.131|443|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|35.212.218.202|1080|United States|The Dalles|Google LLC|
-|10|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
-|11|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|12|121.128.121.94|3128|South Korea|Ansan-si|Korea Telecom|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|91.107.178.131|443|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|121.128.121.14|3128|South Korea|Ansan-si|Korea Telecom|
+|7|18.229.170.122|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|8|35.212.218.202|1080|United States|The Dalles|Google LLC|
+|9|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|10|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
 |13|35.212.218.202|1080|United States|The Dalles|Google LLC|
 |14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|18|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|19|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
