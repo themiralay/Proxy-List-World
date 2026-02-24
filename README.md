@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|217.216.109.116|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|161.97.77.118|3128|France|Lauterbourg|Contabo GmbH|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|176.124.220.172|3128|Finland|Helsinki|xorek.cloud International LTD|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|14|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|121.128.121.14|3128|South Korea|Ansan-si|Korea Telecom|
-|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|43.155.156.147|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|20|85.234.69.102|3128|Germany|Eschborn|G-Core Labs S.A.|
+|4|61.72.110.134|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
+|6|61.72.110.164|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|121.128.121.14|3128|South Korea|Ansan-si|Korea Telecom|
+|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|14.56.118.4|3128|South Korea|Goyang-si|Korea Telecom|
+|13|61.72.110.104|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|45.151.182.9|3128|Russia|Moscow|Delta Ltd|
+|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|185.145.124.173|8080|Russia|Krasnaya Pahra|Sky Engineering LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|125.128.12.244|3128|South Korea|Songpa-gu|Korea Telecom|
 
 
 
