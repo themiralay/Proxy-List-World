@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|61.72.221.224|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|4|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|2|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|6|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|10|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|11|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|15|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
-|16|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|17|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
-|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|78.12.223.246|8315|Mexico|Querétaro City|Amazon.com|
+|11|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|14|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|15|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|16|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|19|125.128.12.124|3128|South Korea|Songpa-gu|Korea Telecom|
+|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
