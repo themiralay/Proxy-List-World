@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
-|4|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|5|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
-|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|8|61.72.221.214|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|125.128.12.24|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
+|5|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
+|6|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|9|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |11|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|12|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
-|13|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|16|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
-|17|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|14|61.72.221.184|3128|South Korea|Seongnam-si|Korea Telecom|
+|15|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|125.128.12.54|3128|South Korea|Songpa-gu|Korea Telecom|
 
 
 
