@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |7|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |8|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|9|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|11|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
+|9|43.155.156.147|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|11|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
 |12|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|15|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|16|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|17|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|19|125.128.12.74|3128|South Korea|Songpa-gu|Korea Telecom|
-|20|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|15|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|16|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|17|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|18|125.128.12.214|3128|South Korea|Songpa-gu|Korea Telecom|
+|19|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|20|61.72.221.74|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
