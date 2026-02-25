@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |2|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|3|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|8|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|11|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|19|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|20|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|49.147.74.201|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
+|7|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|8|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|9|125.128.12.204|3128|South Korea|Songpa-gu|Korea Telecom|
+|10|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|11|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|120.28.216.101|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|19|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|61.72.221.54|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
