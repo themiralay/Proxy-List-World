@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
-|2|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|3|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|4|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
 |6|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|7|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
-|8|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
-|9|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|10|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|13|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|14|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|8|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
+|9|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|10|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|11|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|12|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|13|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|14|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
+|15|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|20|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
 
 
 
