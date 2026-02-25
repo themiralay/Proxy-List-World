@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4477** proxies at the latest update. Usable proxies are below.
+> Scraper found **4508** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|672|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2550|✅|
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|2|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|49.147.74.201|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
-|6|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|7|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|8|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|9|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|12|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|125.128.12.154|3128|South Korea|Songpa-gu|Korea Telecom|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|5|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|6|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|35.212.218.202|1080|United States|The Dalles|Google LLC|
+|9|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|12|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|107.172.233.203|1080|United States|Los Angeles|HostPapa|
+|15|107.172.233.203|1080|United States|Los Angeles|HostPapa|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 |20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 
 
