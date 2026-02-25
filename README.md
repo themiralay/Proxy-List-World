@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|4|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|8|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|9|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|13|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|18|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|20|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
+|4|125.128.12.234|3128|South Korea|Songpa-gu|Korea Telecom|
+|5|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|17|147.45.159.213|48206|Russia|Moscow|JSC "TIMEWEB"|
+|18|125.128.12.154|3128|South Korea|Songpa-gu|Korea Telecom|
+|19|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
