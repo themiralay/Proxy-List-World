@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|4|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|5|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|3|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|5|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
 |6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|12|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|7|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|8|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|11|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
+|12|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
 |13|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|14|61.72.221.144|3128|South Korea|Seongnam-si|Korea Telecom|
-|15|125.128.12.124|3128|South Korea|Songpa-gu|Korea Telecom|
-|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|125.128.12.174|3128|South Korea|Songpa-gu|Korea Telecom|
-|18|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|16|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|17|43.155.156.147|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
 
 
 
