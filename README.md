@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|125.128.12.54|3128|South Korea|Songpa-gu|Korea Telecom|
 |2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|125.128.12.134|3128|South Korea|Songpa-gu|Korea Telecom|
 |5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|9|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|61.72.221.204|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|163.5.128.201|14270|United States|Brooklyn|Windstream Communications LLC|
 |12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|180.180.175.11|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|14|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|16|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|20|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
 
 
 
