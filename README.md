@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5009** proxies at the latest update. Usable proxies are below.
+> Scraper found **5033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3188|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|5|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|4|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|5|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
 |6|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|11|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|12|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|13|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|14|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
+|12|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|13|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|17|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
+|18|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|19|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
