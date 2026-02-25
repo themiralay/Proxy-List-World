@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|4|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|10|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|11|100.24.232.36|80|United States|Ashburn|Amazon.com|
-|12|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|17|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|18|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|6|44.194.14.192|80|United States|Ashburn|Amazon.com|
+|7|100.24.232.36|80|United States|Ashburn|Amazon.com|
+|8|52.202.250.102|80|United States|Ashburn|Amazon.com, Inc.|
+|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|103.122.64.212|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|12|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|14|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|125.128.12.64|3128|South Korea|Songpa-gu|Korea Telecom|
+|16|103.102.12.129|1452|Indonesia|Rembang|FISNET|
+|17|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|19|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
