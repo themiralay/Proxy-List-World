@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|43.155.156.147|3128|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|4|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|6|139.135.141.12|8095|Philippines|Mamburao|ComClark Network & Technology Corp|
-|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|8|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|9|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|10|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
-|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|14|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
-|15|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|17|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|61.72.221.74|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|20|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|1|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
+|7|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|8|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|9|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|103.59.45.249|8080|Indonesia|Menggala|PT INDONESIA TRANS NETWORK|
+|11|14.56.118.174|3128|South Korea|Goyang-si|Korea Telecom|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|15|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
+|16|61.72.221.74|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|19|177.93.45.90|999|Colombia|Corrales|TV AZTECA SUCURSAL COLOMBIA|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
