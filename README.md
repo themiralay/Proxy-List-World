@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|6|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|11|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|19|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|61.72.221.214|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|163.5.128.20|14270|United States|Brooklyn|Windstream Communications LLC|
+|12|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|13|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|16|115.127.178.10|2589|Bangladesh|Dhaka|BRACNet Limited|
+|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
