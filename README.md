@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|2|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|6|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
+|4|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
 |7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|190.242.157.215|8080|Colombia|Cali|Columbus Networks USA, Inc.|
-|9|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|10|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|8|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|9|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
+|10|125.128.12.54|3128|South Korea|Songpa-gu|Korea Telecom|
 |11|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 |12|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|13|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|18|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
