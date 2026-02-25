@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|103.77.206.114|3128|Indonesia|Makassar|GLOBALMANDIRI|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|7|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|9|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|10|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|15|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|20|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|5|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|7|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|8|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|9|125.128.12.124|3128|South Korea|Songpa-gu|Korea Telecom|
+|10|94.159.112.138|3129|Finland|Helsinki|Closed Joint Stock Company "AbkhazMedia"|
+|11|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|103.77.206.114|3128|Indonesia|Makassar|GLOBALMANDIRI|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|15|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|16|200.10.30.166|999|Colombia|Anserma|Super Redes S.A.S|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
