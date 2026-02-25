@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|10|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|11|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|1.1.220.100|8080|Thailand|Wiang Chiang Rung|TOT Public Company Limited|
+|18|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|19|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
+|20|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
