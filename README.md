@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|16|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|19|45.229.17.130|999|Argentina|Posadas|Turbonet S.A.|
-|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|3|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|6|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|7|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|14|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|15|61.72.221.144|3128|South Korea|Seongnam-si|Korea Telecom|
+|16|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|17|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
