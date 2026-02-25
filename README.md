@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|103.77.206.114|3128|Indonesia|Makassar|GLOBALMANDIRI|
-|5|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
-|8|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|9|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|10|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|14|49.48.65.152|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|125.128.12.174|3128|South Korea|Songpa-gu|Korea Telecom|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|20|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|6|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|7|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|10|125.128.12.174|3128|South Korea|Songpa-gu|Korea Telecom|
+|11|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|17|61.72.221.144|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|19|125.128.12.214|3128|South Korea|Songpa-gu|Korea Telecom|
+|20|177.229.197.234|999|Mexico|Tapachula|Mega Cable, S.A. de C.V.|
 
 
 
