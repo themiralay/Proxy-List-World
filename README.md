@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|3|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|7|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|8|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|103.24.214.190|8082|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|13|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|14|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|17|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|18|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|4|125.128.12.234|3128|South Korea|Songpa-gu|Korea Telecom|
+|5|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|11|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
+|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|19|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
