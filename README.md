@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|5.161.132.36|5000|United States|Ashburn|Hetzner Online GmbH|
-|17|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
-|18|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|4|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
+|5|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
+|6|125.128.12.154|3128|South Korea|Songpa-gu|Korea Telecom|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|9|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|10|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|11|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|14|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|109.107.181.253|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
