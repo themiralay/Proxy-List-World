@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
-|3|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|6|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|7|52.73.65.198|80|United States|Ashburn|Amazon.com, Inc.|
-|8|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|2|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|8|103.66.62.148|7777|Indonesia|Pauh|PT Buana Visualnet Sentra|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 |14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|16|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|17|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|20|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|15|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|19|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
