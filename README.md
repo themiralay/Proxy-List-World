@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|5|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
-|8|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|6|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|7|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|8|104.37.184.214|1080|United States|Los Angeles|Interserver, Inc|
 |9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|11|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|13|61.72.221.244|3128|South Korea|Seongnam-si|Korea Telecom|
-|14|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
-|15|138.59.10.112|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|16|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|17|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|13|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|14|104.37.184.214|1080|United States|Los Angeles|Interserver, Inc|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |18|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|19|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|19|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|20|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
 
 
 
