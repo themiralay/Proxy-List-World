@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.21.212.85|3128|South Korea|Seo-gu|Korea Telecom|
-|2|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|3|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|4|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|5|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|6|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|7|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|8|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|9|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|12|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|13|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|14|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|15|125.128.12.74|3128|South Korea|Songpa-gu|Korea Telecom|
-|16|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|1|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|4|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|5|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|9|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|15|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|16|189.196.45.158|999|Mexico|Guaymas|Mega Cable, S.A. de C.V.|
+|17|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.153.247.50|3125|Indonesia|Jakarta|PRIMAHOME|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 
 
 
