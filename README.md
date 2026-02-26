@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|7|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|8|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|9|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
+|10|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|11|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|12|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|125.128.12.224|3128|South Korea|Songpa-gu|Korea Telecom|
+|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|61.72.221.184|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|61.72.221.74|3128|South Korea|Seongnam-si|Korea Telecom|
+
 
 
 ## Contributing
