@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|7|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
-|8|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|9|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
-|10|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|11|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|12|125.128.12.44|3128|South Korea|Songpa-gu|Korea Telecom|
-|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|14|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
-|17|157.100.56.12|8080|Ecuador|Quito|Ufinet Panama S.A.|
-|18|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|19|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|20|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|8|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|10|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
+|13|61.72.221.184|3128|South Korea|Seongnam-si|Korea Telecom|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
+|16|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|17|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
 
 
 
