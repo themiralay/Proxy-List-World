@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|5|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|7|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|8|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|9|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|10|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|11|61.72.221.144|3128|South Korea|Seongnam-si|Korea Telecom|
-|12|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
-|13|71.204.156.52|443|United States|San Jose|Comcast Cable Communications, LLC|
-|14|103.251.232.40|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
-|15|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|19|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|20|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
