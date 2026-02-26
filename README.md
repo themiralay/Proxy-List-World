@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|18|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|19|128.140.117.50|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|10|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|38.183.146.29|7080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|61.72.221.174|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
