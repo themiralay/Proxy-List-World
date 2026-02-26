@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|3|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
-|8|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|9|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
+|12|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
 |13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|106.0.168.138|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|14|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
 |15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|20|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|16|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
