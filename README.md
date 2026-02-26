@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|2|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|130.107.9.209|3128|Canada|Toronto|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|13|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|14|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|20|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
+|5|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|116.111.99.123|10005|Vietnam|Hanoi|Viettel Group|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|125.128.12.124|3128|South Korea|Songpa-gu|Korea Telecom|
+|14|125.128.12.164|3128|South Korea|Songpa-gu|Korea Telecom|
+|15|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|19|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
 
 
 
