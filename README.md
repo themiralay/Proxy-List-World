@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|3|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|4|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|8|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
+|2|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|7|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|8|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
 |10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|14|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|11|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|52.201.29.25|80|United States|Ashburn|Amazon.com, Inc.|
+|14|81.177.48.54|2080|Russia|Moscow|RTCOMM|
 |15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 |16|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|17|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|18|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
-|19|125.128.12.134|3128|South Korea|Songpa-gu|Korea Telecom|
-|20|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|17|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
+|19|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
