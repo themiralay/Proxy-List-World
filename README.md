@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|3|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|4|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
+|5|120.28.216.101|8080|Philippines|Cagayan de Oro|Globe Telecom|
 |6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
-|8|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|9|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|10|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|104.37.184.214|1080|United States|Los Angeles|Interserver, Inc|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|7|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|8|165.16.58.124|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|10|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|11|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|12|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
