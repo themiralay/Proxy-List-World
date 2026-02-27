@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
-|9|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|125.128.12.134|3128|South Korea|Songpa-gu|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|14|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|16|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|17|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
-|18|61.72.221.244|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|1|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|5|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|11|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|12|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|13|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|15|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|16|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|19|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
