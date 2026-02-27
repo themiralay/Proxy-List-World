@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
-|4|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|61.72.221.244|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 |13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|15|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|18|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
+|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
