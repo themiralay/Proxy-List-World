@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|5|178.130.47.129|1082|United States|Phoenix|Global Connectivity Solutions LLP|
-|6|202.58.73.6|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
-|7|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|8|34.142.0.1|10808|United Kingdom|London|Google LLC|
-|9|124.158.190.130|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|10|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|11|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|14|62.76.142.175|3128|Russia|Moscow|Chernyshov Aleksandr Aleksandrovich|
-|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|16|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|17|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|43.248.11.162|1080|Hong Kong|Mong Kok|VH-GLOBAL|
+|4|34.142.0.1|10808|United Kingdom|London|Google LLC|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|9|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|10|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|11|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|12|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
+|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|14|24.172.82.94|53281|United States|Charlotte|Spectrum|
+|15|161.97.77.118|3128|France|Lauterbourg|Contabo GmbH|
+|16|181.204.123.68|999|Colombia|Barranquilla|Colombia Móvil|
+|17|223.113.134.102|22222|China|Nanjing|China Mobile communications corporation|
+|18|87.126.65.11|1388|Bulgaria|Stara Zagora|Vivacom Bulgaria EAD|
+|19|121.101.130.173|8080|Indonesia|Batang|PT SELARAS CITRA TERABIT|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
