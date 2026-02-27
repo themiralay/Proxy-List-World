@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|2|178.156.238.178|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
-|4|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|5|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
-|6|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|9|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|3|178.156.238.178|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|5|5.57.38.64|27913|Iran|Tehran|Pars Abr Toseeh Ertebatat LTD|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|10|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|11|125.128.12.174|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|14|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
