@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
-|10|61.72.221.244|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|2|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
+|3|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
+|4|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|10|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|202.152.44.19|8081|Indonesia|Bogor|PT Aplikanusa Lintasarta|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|20|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
 
 
 
