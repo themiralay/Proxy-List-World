@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|8|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|9|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|10|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|11|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|12|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|18|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|19|222.127.55.149|8085|Philippines|Lahug|INNOVE|
-|20|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|12|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|18|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|19|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
 
 
 
