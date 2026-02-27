@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|7|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|43.248.11.162|1080|Hong Kong|Mong Kok|VH-GLOBAL|
-|12|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|16|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|3|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
+|4|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|14|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
 
 
 
