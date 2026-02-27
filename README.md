@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|3|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|2|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
-|5|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|6|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
-|7|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|8|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|9|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|10|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|12|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|13|62.133.62.12|1082|France|Paris|Global Connectivity Solutions LLP|
-|14|72.56.59.17|61931|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|18|72.56.59.23|61937|Georgia|Tbilisi|AkhaliNet LLC|
-|19|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|5|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|6|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|12|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|15|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|20|122.52.141.182|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
