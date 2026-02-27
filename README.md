@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|6|103.191.155.26|3125|Indonesia|Karawang|PT Ilham Wifi Solution|
-|7|152.32.255.24|27197|Vietnam|Ho Chi Minh City|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|11|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
-|14|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|15|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|20|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
+|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|14|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
