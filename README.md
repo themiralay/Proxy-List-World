@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
-|6|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
-|9|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
+|2|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
+|3|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
+|7|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|8|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |10|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|178.156.238.178|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|13|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|61.72.221.244|3128|South Korea|Seongnam-si|Korea Telecom|
-|18|88.255.63.161|8080|Turkey|Alanya|Turk Telekomunikasyon Anonim Sirketi|
-|19|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|19|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|20|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
 
 
 
