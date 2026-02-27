@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|2|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|10|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|12|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|13|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
-|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|61.72.221.144|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|4|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|12|203.150.128.24|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|103.85.53.77|8080|Indonesia|Guyangan|PT Binerkahan Digital Telco|
+|15|157.20.229.225|8080|India|Agra|Windnet Pvt Ltd|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|45.4.202.147|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
 |20|182.253.158.240|3128|Indonesia|Jakarta|BIZNET|
 
 
