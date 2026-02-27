@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
 |5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |7|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|8|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
-|9|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|10|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|11|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|12|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|178.156.238.178|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|16|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
+|17|185.246.90.163|10808|Russia|St Petersburg|Denis Dmitrievich Galyamin|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
