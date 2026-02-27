@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
-|3|61.72.221.144|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|11|61.72.221.204|3128|South Korea|Seongnam-si|Korea Telecom|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|14.224.218.210|8080|Vietnam|Ho Chi Minh City|VNPT|
-|15|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|16|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|125.128.12.24|3128|South Korea|Songpa-gu|Korea Telecom|
-|20|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|3|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|6|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|203.76.98.21|45958|Bangladesh|Tāngāil|Link3 Technologies Limited|
+|11|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|12|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|13|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|14|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|16|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
