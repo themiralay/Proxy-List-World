@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|7|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|42.115.247.250|10001|Vietnam|Hanoi|FPT Telecom Company|
-|10|61.72.221.204|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|223.113.134.102|22222|China|Nanjing|China Mobile communications corporation|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|9|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|10|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|11|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|12|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|13|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 |14|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|18|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
