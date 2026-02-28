@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|11|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|12|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|15|188.132.222.3|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|170.245.132.80|999|Paraguay|Primero de Marzo|MACHADO BAEZ, NERY JAVIER|
-|17|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|18|202.5.34.54|30126|Bangladesh|Dhaka|BBTS-NEW|
-|19|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|20|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|193.124.225.175|1080|Finland|Helsinki|Hostkey B.V.|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
+|5|103.178.86.10|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
+|6|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|7|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|8|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|9|187.190.114.57|999|Mexico|Papantla de Olarte|Total Play Telecomunicaciones SA De CV|
+|10|177.242.132.38|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|11|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|204.199.140.24|999|Chile|San Javier|Ingbell Chile SPA|
+|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
