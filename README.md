@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|3|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|4|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|193.124.225.175|1080|Finland|Helsinki|Hostkey B.V.|
-|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|16|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|5|193.124.225.175|1080|Finland|Helsinki|Hostkey B.V.|
+|6|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|7|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|120.238.159.229|22222|China|Guangzhou|China Mobile communications corporation|
+|10|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|11|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|15|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|16|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|17|179.51.199.80|8099|Brazil|Bom Princípio do Piauí|Fortinet Telecomunicacoes Eireli|
+|18|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.68|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
