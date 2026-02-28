@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
 |3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
 |4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|45.65.227.161|999|Argentina|Isidro Casanova|Solution LAN S.A|
-|11|61.72.221.224|3128|South Korea|Seongnam-si|Korea Telecom|
-|12|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|13|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|5|35.241.222.101|3128|Belgium|Brussels|Google LLC|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|207.248.3.81|999|Chile|Graneros|Grupo Metrowan Telecom SPA|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
+|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|11|119.93.58.62|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|12|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |14|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|119.93.58.62|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|17|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|16|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
