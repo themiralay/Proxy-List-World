@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|4|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|5|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
+|5|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
 |6|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|34.158.73.60|3128|Netherlands|Groningen|Google LLC|
-|9|34.89.174.168|3128|Germany|Frankfurt|Google LLC|
-|10|34.79.102.160|3128|Belgium|Brussels|Google LLC|
-|11|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|34.159.121.205|3128|Germany|Frankfurt|Google LLC|
-|13|34.185.159.217|3128|Germany|Frankfurt|Google LLC|
-|14|34.78.200.22|3128|Belgium|Brussels|Google LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|17|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|20|31.59.129.75|8080|Netherlands|Amsterdam|Wojciech Czapkowicz|
+|7|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|8|177.125.208.126|8080|Brazil|Campo Mourão|Giga Mais Fibra Telecomunicacoes S.A.|
+|9|125.128.12.224|3128|South Korea|Songpa-gu|Korea Telecom|
+|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|12|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|103.189.249.143|1111|Indonesia|Jepara|PT Berkah Media Kusuma Vision|
+|14|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|19|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
