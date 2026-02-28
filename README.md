@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|8|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|35.241.222.101|3128|Belgium|Brussels|Google LLC|
-|13|34.78.177.18|3128|Belgium|Brussels|Google LLC|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|34.185.159.217|3128|Germany|Frankfurt|Google LLC|
-|16|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|19|193.124.225.175|1080|Finland|Helsinki|Hostkey B.V.|
-|20|34.78.200.22|3128|Belgium|Brussels|Google LLC|
+|1|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
+|4|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|5|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|6|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|7|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|8|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|9|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|10|34.158.73.60|3128|Netherlands|Groningen|Google LLC|
+|11|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|34.89.174.168|3128|Germany|Frankfurt|Google LLC|
+|13|34.7.88.87|3128|Netherlands|Groningen|Google LLC|
+|14|34.159.121.205|3128|Germany|Frankfurt|Google LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|19|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
