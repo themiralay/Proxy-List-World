@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
 |10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|12|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|13|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
-|14|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|14.56.118.34|3128|South Korea|Goyang-si|Korea Telecom|
-|19|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|20|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|125.128.12.54|3128|South Korea|Songpa-gu|Korea Telecom|
+|15|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|19|61.72.221.144|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
