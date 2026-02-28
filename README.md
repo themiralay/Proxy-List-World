@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|3|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|5|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|6|181.78.65.252|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
 |8|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
 |10|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|11|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|12|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|13|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
-|14|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|11|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
 |16|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|18|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|20|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
+|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
 
 
 
