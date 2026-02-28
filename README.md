@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|3|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
-|12|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|14|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|15|125.128.12.54|3128|South Korea|Songpa-gu|Korea Telecom|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
+|15|100.50.41.9|80|United States|Ashburn|Amazon.com, Inc.|
+|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|17|120.238.159.230|22222|China|Guangzhou|China Mobile communications corporation|
+|18|103.171.83.49|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
+|19|103.18.79.180|8080|Indonesia|Caringin|PT Usaha Adi Sanggoro|
+|20|185.155.19.77|10808|Russia|Moscow|Lealta Ltd|
 
 
 
