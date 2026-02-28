@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|7|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|12|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|13|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|120.238.159.228|22222|China|Guangzhou|China Mobile communications corporation|
-|17|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|19|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|10|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|11|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|12|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|13|223.113.134.98|22222|China|Nanjing|China Mobile communications corporation|
+|14|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|20|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
 
 
 
