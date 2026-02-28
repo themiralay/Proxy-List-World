@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4956** proxies at the latest update. Usable proxies are below.
+> Scraper found **4949** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|574|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3103|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|13|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|20|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|36.37.86.26|9812|Indonesia|Jakarta Pusat|LINTASARTA|
+|9|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|10|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|12|179.1.234.30|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|13|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|16|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|17|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
