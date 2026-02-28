@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|8|49.151.185.52|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|9|183.239.109.98|22222|China|Guangzhou|China Mobile|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|193.124.225.175|1080|Finland|Helsinki|Hostkey B.V.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |10|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
-|14|54.89.108.25|80|United States|Ashburn|Amazon.com, Inc.|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|17|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|36.95.61.186|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|11|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|14|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|15|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|18|185.246.160.10|8080|Kazakhstan|Kostanay|TOO Davion|
+|19|202.5.34.54|30126|Bangladesh|Dhaka|BBTS-NEW|
+|20|103.156.74.209|3125|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
 
 
 
