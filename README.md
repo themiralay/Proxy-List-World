@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|5|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|157.20.207.115|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
-|18|125.128.12.154|3128|South Korea|Songpa-gu|Korea Telecom|
-|19|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
-|20|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|5|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|6|125.128.12.164|3128|South Korea|Songpa-gu|Korea Telecom|
+|7|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|9|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|14|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|20|81.177.48.54|2080|Russia|Moscow|RTCOMM|
 
 
 
