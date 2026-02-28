@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|3|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|15|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|16|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
-|17|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|18|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|19|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|20|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|5|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
+|10|200.10.30.19|999|Colombia|Anserma|Super Redes S.A.S|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|13|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|19|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|20|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
 
 
 
