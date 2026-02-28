@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|3|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
-|4|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|5|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|6|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|11|201.159.97.109|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
-|12|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|212.252.73.29|8080|Turkey|Ankara|Superonline Iletisim Hizmetleri A.S.|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|19|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|20|183.88.214.84|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
+|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|2|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|7|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|10|121.128.121.124|3128|South Korea|Ansan-si|Korea Telecom|
+|11|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|12|103.156.114.13|8080|Indonesia|Jakarta|MYREPUBLIC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
+|19|103.133.25.247|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|202.47.188.193|7777|Indonesia|Ponorogo|Lintas Data Prima, PT|
 
 
 
