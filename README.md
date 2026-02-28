@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|5|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|14|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|15|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|120.238.159.230|22222|China|Guangzhou|China Mobile communications corporation|
-|18|38.199.71.84|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
-|20|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|11|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|15|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|16|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
