@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|121.128.121.224|3128|South Korea|Ansan-si|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|177.128.115.198|999|Chile|Melipilla|Binet Networking Data Limitada|
-|10|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|11|120.238.159.228|22222|China|Guangzhou|China Mobile communications corporation|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|14|162.255.110.107|8080|United States|Richland|Desert Winds Wireless|
-|15|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|20|103.81.65.190|1111|Indonesia|Sukoharjo Satu|QIUNET|
+|1|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|2|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|120.238.159.228|22222|China|Guangzhou|China Mobile communications corporation|
+|7|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|8|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|9|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|11|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|179.51.199.80|8099|Brazil|Bom Princípio do Piauí|Fortinet Telecomunicacoes Eireli|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|19|125.128.12.74|3128|South Korea|Songpa-gu|Korea Telecom|
+|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
