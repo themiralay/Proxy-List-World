@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5033** proxies at the latest update. Usable proxies are below.
+> Scraper found **4990** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3121|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|3|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|5|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|61.72.221.144|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|11|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|12|34.7.88.87|3128|Netherlands|Groningen|Google LLC|
-|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|14|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|15|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
-|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|7|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
+|8|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|19|34.7.88.87|3128|Netherlands|Groningen|Google LLC|
+|20|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
 
 
 
