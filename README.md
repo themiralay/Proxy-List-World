@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|10|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|11|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|13|157.20.253.163|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|14|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
-|20|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|61.72.221.184|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|10|81.177.48.54|2080|Russia|Moscow|RTCOMM|
+|11|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|15|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|16|72.56.59.56|63127|Georgia|Tbilisi|AkhaliNet LLC|
+|17|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|19|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|72.56.50.17|59787|Georgia|Tbilisi|AkhaliNet LLC|
 
 
 
