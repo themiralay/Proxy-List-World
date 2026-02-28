@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |5|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
 |6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|10|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|120.238.159.229|22222|China|Guangzhou|China Mobile communications corporation|
-|14|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|15|103.193.145.137|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|16|202.58.77.133|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|17|14.56.118.154|3128|South Korea|Goyang-si|Korea Telecom|
-|18|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|103.139.98.50|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|12|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|17|72.56.59.62|63133|Georgia|Tbilisi|AkhaliNet LLC|
+|18|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|19|61.72.221.84|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
 
 
 
