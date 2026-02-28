@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
 |5|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|6|193.124.225.175|1080|Finland|Helsinki|Hostkey B.V.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|188.132.222.3|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|13|81.177.48.54|2080|Russia|Moscow|RTCOMM|
-|14|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|6|83.166.246.129|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|193.124.225.175|1080|Finland|Helsinki|Hostkey B.V.|
+|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|10|103.215.36.88|15247|China|Yancheng|China Mobile Communications Corporation|
+|11|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|120.238.159.230|22222|China|Guangzhou|China Mobile communications corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |16|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|20|103.82.23.118|5171|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|17|103.82.23.118|5171|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|18|188.132.222.3|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
