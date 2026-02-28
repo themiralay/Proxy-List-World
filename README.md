@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4659** proxies at the latest update. Usable proxies are below.
+> Scraper found **4678** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2801|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|43.161.214.161|1081|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|61.72.221.244|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|15|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
-|16|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|19|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.233.152.18|8080|Indonesia|Banjar Medura|BIZNET|
+|2|125.128.12.54|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|4|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|132.145.93.138|1080|South Korea|Seoul|Oracle Corporation|
+|10|103.156.114.13|8080|Indonesia|Jakarta|MYREPUBLIC|
+|11|103.222.255.140|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|14|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|16|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
