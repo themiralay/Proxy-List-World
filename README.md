@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
-|17|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|18|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|19|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|20|103.173.141.10|8080|Indonesia|Ngawi|DIAZANETWORKS|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|8|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|9|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|13|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|18|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|19|125.128.12.164|3128|South Korea|Songpa-gu|Korea Telecom|
+|20|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
 
 
 
