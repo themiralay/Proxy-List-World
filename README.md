@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
 |5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|6|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|7|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|8|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 |9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|10|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|14|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|15|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|16|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|20|36.67.194.162|8042|Indonesia|Sukabumi Selatan|PT. Telekomunikasi Indonesia|
+|12|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|13|181.78.25.253|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|14|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|15|36.67.194.162|8042|Indonesia|Sukabumi Selatan|PT. Telekomunikasi Indonesia|
+|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|19|103.228.246.171|8080|Indonesia|Kebonsari|PT Giga Patra Multimedia|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
