@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|202.58.73.10|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
-|7|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|8|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|9|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|10|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|13|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|14|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|17|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|18|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
+|1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|8|167.160.184.231|6005|Canada|Toronto|HostPapa|
+|9|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|167.160.184.231|6005|Canada|Toronto|HostPapa|
+|12|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|13|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|14|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
+|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
