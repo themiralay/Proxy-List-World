@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
 |3|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|11|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|12|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|14|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|6|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|10|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|11|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|12|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|16|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|18|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|103.132.54.18|8080|Indonesia|Taman|PT. ADEAKSA INDO JAYATAMA|
 
 
 
