@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|3|42.115.247.250|10001|Vietnam|Hanoi|FPT Telecom Company|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|6|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|10|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|7|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|11|77.83.203.5|443|Türkiye|Gaziantep|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|193.32.178.160|57329|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|18|61.72.221.74|3128|South Korea|Seongnam-si|Korea Telecom|
+|19|31.128.36.64|1080|Russia|St Petersburg|Beget LLC|
+|20|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
 
 
 
