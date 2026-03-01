@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|5|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|11|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|17|61.72.221.54|3128|South Korea|Seongnam-si|Korea Telecom|
-|18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|4|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|5|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
