@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|17|61.72.221.54|3128|South Korea|Seongnam-si|Korea Telecom|
-|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|2|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|3|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|7|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|190.97.239.40|999|Venezuela|Mérida||
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|13|61.72.221.64|3128|South Korea|Seongnam-si|Korea Telecom|
+|14|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|15|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|17|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
 |19|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
