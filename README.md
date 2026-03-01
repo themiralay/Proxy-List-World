@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 |2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|7|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|8|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|9|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|13|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
-|14|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|15|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|16|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
-|17|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
-|20|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|3|125.128.12.134|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|5|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|16|103.189.123.110|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|17|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
 
 
 
