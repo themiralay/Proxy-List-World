@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|3|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|3|122.52.141.182|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|10|103.121.199.138|62797|Indonesia|Caringin|PT Parsaoran Global Datatrans|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|6|61.72.110.24|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|7|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|61.72.221.224|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |13|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|17|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.91|63900|Italy|Rome|AkhaliNet LLC|
-|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
+|19|61.72.221.204|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
