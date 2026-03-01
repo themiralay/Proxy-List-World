@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|9|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|11|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|8|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |12|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
 |13|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|15|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|17|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|15|104.238.30.40|59741|Italy|Rome|AkhaliNet LLC|
+|16|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
+|17|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|18|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|20|104.238.30.86|63900|Italy|Rome|AkhaliNet LLC|
 
 
 
