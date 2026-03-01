@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|4|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|6|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|16|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|17|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.39|59741|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|9|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|11|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|20|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
