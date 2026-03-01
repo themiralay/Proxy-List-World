@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |6|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|7|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|8|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
-|12|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|7|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|10|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|125.128.12.164|3128|South Korea|Songpa-gu|Korea Telecom|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|85.198.84.77|10808|Russia|Moscow|Beget LLC|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|19|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
