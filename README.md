@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|5|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|31.59.129.75|8080|Netherlands|Amsterdam|Wojciech Czapkowicz|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|15|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|31.59.129.75|8080|Netherlands|Amsterdam|Wojciech Czapkowicz|
-|20|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|14|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|15|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|16|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
+|17|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|18|104.238.30.58|63744|Italy|Rome|AkhaliNet LLC|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 
 
 
