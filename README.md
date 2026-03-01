@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|7|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|8|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|9|125.128.12.234|3128|South Korea|Songpa-gu|Korea Telecom|
+|1|125.128.12.134|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|5|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|9|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
 |10|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|61.72.221.124|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|16|5.75.201.136|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|19|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|20|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|11|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
+|12|125.128.12.234|3128|South Korea|Songpa-gu|Korea Telecom|
+|13|175.106.14.126|3128|Indonesia|Jakarta|Quantum Dist POP GC|
+|14|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
+|15|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|104.238.30.50|59741|Italy|Rome|AkhaliNet LLC|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|20|43.250.9.46|10088|Hong Kong|San Po Kong|SunnyVision Limited|
 
 
 
