@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|5|103.142.69.169|8885|Bangladesh|Kāfrul|MIR INFO SYSTEMS LTD.|
-|6|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|7|121.128.121.34|3128|South Korea|Ansan-si|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|10|121.128.121.144|3128|South Korea|Ansan-si|Korea Telecom|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|14.56.118.164|3128|South Korea|Goyang-si|Korea Telecom|
-|14|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|14.56.118.184|3128|South Korea|Goyang-si|Korea Telecom|
-|17|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
-|18|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|19|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|20|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|3|14.56.118.244|3128|South Korea|Goyang-si|Korea Telecom|
+|4|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|125.128.12.194|3128|South Korea|Songpa-gu|Korea Telecom|
+|7|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|8|14.56.118.24|3128|South Korea|Goyang-si|Korea Telecom|
+|9|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|31.59.129.75|8080|Netherlands|Amsterdam|Wojciech Czapkowicz|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|14.56.118.214|3128|South Korea|Goyang-si|Korea Telecom|
+|14|61.72.221.134|3128|South Korea|Seongnam-si|Korea Telecom|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|121.128.121.184|3128|South Korea|Ansan-si|Korea Telecom|
 
 
 
