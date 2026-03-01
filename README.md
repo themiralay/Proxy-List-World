@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|13|85.198.84.77|10808|Russia|Moscow|Beget LLC|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|104.238.30.38|59741|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|167.160.184.231|6005|Canada|Toronto|HostPapa|
+|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|167.160.184.231|6005|Canada|Toronto|HostPapa|
+|14|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|85.198.84.77|10808|Russia|Moscow|Beget LLC|
+|16|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|17|103.171.255.59|8080|Indonesia|Godean|ZKI|
+|18|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|20|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
 
 
 
