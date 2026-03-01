@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|103.165.231.43|8080|Indonesia|Menteng Dalam|PT iForte Global Internet|
-|4|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|6|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
-|8|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|3|148.135.85.87|1080|United States|Los Angeles|Multacom Corporation|
+|4|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|6|125.128.12.194|3128|South Korea|Songpa-gu|Korea Telecom|
+|7|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
+|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
 |9|121.128.121.244|3128|South Korea|Ansan-si|Korea Telecom|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|121.128.121.134|3128|South Korea|Ansan-si|Korea Telecom|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|61.72.221.74|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |14|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|104.238.30.63|63744|Italy|Rome|AkhaliNet LLC|
-|17|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|18|104.238.30.45|59741|Italy|Rome|AkhaliNet LLC|
-|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|20|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|15|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|16|121.128.121.214|3128|South Korea|Ansan-si|Korea Telecom|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|104.238.30.37|59741|Italy|Rome|AkhaliNet LLC|
+|19|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|20|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
 
 
 
