@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|2|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|125.128.12.194|3128|South Korea|Songpa-gu|Korea Telecom|
 |8|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
-|9|125.128.12.234|3128|South Korea|Songpa-gu|Korea Telecom|
-|10|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|11|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|12|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|13|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|14|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|15|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
-|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|9|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|141.11.210.35|1080|United States|Los Angeles|Virtual Machine Solutions LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
 |17|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|19|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|20|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|18|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|19|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|20|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
 
 
 
