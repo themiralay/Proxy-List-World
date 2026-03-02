@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4088** proxies at the latest update. Usable proxies are below.
+> Scraper found **4020** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|555|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|487|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2593|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|1|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
 |2|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|3|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|6|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|171.234.62.116|10001|Vietnam|Cam Ranh|Viettel Corporation|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|85.198.84.77|10808|Russia|Moscow|Beget LLC|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|15|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|49.146.235.67|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|3|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|6|175.215.54.252|3040|South Korea|Koch'ang|Korea Telecom|
+|7|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|8|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|11|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|12|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|14|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|165.225.113.220|11462|Singapore|Singapore|ZSCALER, INC.|
+|20|163.61.112.252|8080|Indonesia|Palembang|PT VESAKHA SECEPAT KILAT|
 
 
 
