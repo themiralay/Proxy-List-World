@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|6|38.158.83.241|999|Peru|Arequipa|Fiberred SAC|
-|7|164.138.205.70|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|8|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|9|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|10|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|11|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|12|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|20|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|2|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|115.76.5.32|10006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|11|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|13|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|14|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|15|5.129.228.225|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|18|222.127.171.128|8082|Philippines|Iloilo City|Globe Telecom Inc.|
+|19|45.174.243.24|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
+|20|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
 
 
 
