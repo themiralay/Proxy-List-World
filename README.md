@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|7|5.129.228.225|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|8|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|85.198.84.77|10808|Russia|Moscow|Beget LLC|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|15|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|19|178.128.112.75|10001|Singapore|Singapore|DigitalOcean, LLC|
-|20|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|3|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|115.76.5.32|10006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|8|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|9|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|10|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|11|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|12|15.204.151.148|3128|United States|Reston|OVH SAS|
+|13|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|103.156.16.191|8080|Indonesia|Indramayu|RSTNET|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|124.121.2.247|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
