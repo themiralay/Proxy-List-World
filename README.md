@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4327** proxies at the latest update. Usable proxies are below.
+> Scraper found **4144** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,23 +13,23 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|200|✅|
+|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|643|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|36|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2704|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|4|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|12|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
-|13|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|14|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|15|171.234.62.116|10002|Vietnam|Cam Ranh|Viettel Corporation|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|18|115.76.5.32|10010|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|171.234.62.116|10002|Vietnam|Cam Ranh|Viettel Corporation|
+|7|115.76.5.32|10007|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|8|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|9|171.234.62.116|10002|Vietnam|Cam Ranh|Viettel Corporation|
+|10|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|115.76.5.32|10007|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|12|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|18|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|61.72.221.54|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
