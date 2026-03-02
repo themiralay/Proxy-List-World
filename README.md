@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|74.208.234.198|443|United States|Kansas City|IONOS SE|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|8|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|10|118.68.216.26|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
-|14|114.141.54.221|8080|Indonesia|Jakarta|PT Cyberplus Media Pratama|
-|15|103.215.36.88|18225|China|Yancheng|China Mobile Communications Corporation|
-|16|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|17|118.68.216.26|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|118.68.216.26|10010|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|20|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|3|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|4|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|5|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|6|85.198.84.77|10808|Russia|Moscow|Beget LLC|
+|7|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|8|103.38.101.218|8080|Indonesia|Tulangan Utara|LAXONET|
+|9|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|118.68.216.26|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|180.191.16.105|8082|Philippines|Cabanatuan City|Globe Telecom|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|16|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|17|118.68.216.26|10009|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|103.166.91.59|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
