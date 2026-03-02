@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
 |2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
-|8|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|9|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|10|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
-|14|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|15|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|17|115.76.5.32|10010|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|18|103.82.23.118|5196|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|19|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|10|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|11|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|125.128.12.194|3128|South Korea|Songpa-gu|Korea Telecom|
+|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|14|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|16|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|115.76.5.32|10010|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|19|103.82.23.118|5196|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|20|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
 
 
 
