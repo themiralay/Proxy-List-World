@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |4|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
-|12|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|115.76.5.32|10010|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|15|115.76.5.32|10010|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|16|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|190.248.145.114|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|194.147.90.23|3128|Russia|Moscow|AZERTA.RU Hosting LLC|
+|8|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|12|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|190.248.145.114|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
