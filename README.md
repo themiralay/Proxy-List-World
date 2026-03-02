@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|6|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|10|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|85.198.84.77|10808|Russia|Moscow|Beget LLC|
-|12|36.50.56.210|8818|Indonesia|Cibinong|PT Andromega Data Nusantara|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|15|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|16|27.73.57.47|10005|Vietnam|Hanoi|Newass2011xDSLHN|
-|17|27.73.57.47|10005|Vietnam|Hanoi|Newass2011xDSLHN|
-|18|27.73.57.47|10005|Vietnam|Hanoi|Newass2011xDSLHN|
-|19|27.73.57.47|10005|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|3|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|7|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|10|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|11|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|12|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|15|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|16|27.73.57.47|10003|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|27.73.57.47|10003|Vietnam|Hanoi|Newass2011xDSLHN|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|27.73.57.47|10003|Vietnam|Hanoi|Newass2011xDSLHN|
 
 
 
