@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.77.180.205|1080|United States|Minkler|Alibaba.com LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|2|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
 |5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
 |10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|16|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|17|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
-|18|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|19|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|14|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|15|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|19|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
+|20|103.174.237.70|8081|Indonesia|Pamanukan|PT Global Erasiber Teknologi|
 
 
 
