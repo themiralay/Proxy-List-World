@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|11|147.45.141.187|50308|Russia|Moscow|JSC "TIMEWEB"|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|14|103.135.102.161|8080|Hong Kong|Wan Chai|ASSN-AKRN|
-|15|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|16|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
-|19|171.234.62.116|10005|Vietnam|Cam Ranh|Viettel Corporation|
-|20|181.224.175.240|999|Ecuador|Naranjal|Micarmita S.A.S|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|9|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|10|173.254.220.123|7890|United States|Los Angeles|HostPapa|
+|11|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|109.224.242.244|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
+|15|5.129.228.225|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|16|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|17|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|20|165.16.27.36|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
 
 
 
