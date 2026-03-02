@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
 |5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|7|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|9|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
 |10|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|12|167.160.184.231|6005|Canada|Toronto|HostPapa|
-|13|222.127.55.149|8085|Philippines|Lahug|INNOVE|
-|14|85.198.84.77|10808|Russia|Moscow|Beget LLC|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|20|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|11|85.198.84.77|10808|Russia|Moscow|Beget LLC|
+|12|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|103.156.17.35|8181|Indonesia|Jatibarang|RSTNET|
+|15|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|16|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|17|125.128.12.124|3128|South Korea|Songpa-gu|Korea Telecom|
+|18|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|19|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
