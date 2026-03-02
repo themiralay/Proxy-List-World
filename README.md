@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|5|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|9|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|11|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|1|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|4|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|10|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|11|178.128.112.75|10001|Singapore|Singapore|DigitalOcean, LLC|
+|12|117.18.20.66|8085|Indonesia|Blitar|PT ALUCIO|
 |13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|15|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|16|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|15|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|16|113.165.202.31|1002|Vietnam|Nha Trang|VietNam Post and Telecom Corporation|
+|17|115.76.5.32|10010|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
 
 
 
