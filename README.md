@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|7|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|9|85.198.84.77|10808|Russia|Moscow|Beget LLC|
-|10|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|16|115.76.5.32|10005|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|147.45.141.187|50308|Russia|Moscow|JSC "TIMEWEB"|
+|7|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|115.76.5.32|10009|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|11|217.217.254.94|8080|Singapore|Singapore|Contabo Asia Private Limited|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|14|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|15|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|16|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
 |17|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|18|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|139.255.5.98|443|Indonesia|Bekasi|PT. LINKNET|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
