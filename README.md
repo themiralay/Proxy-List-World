@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|125.128.12.194|3128|South Korea|Songpa-gu|Korea Telecom|
-|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|11|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|121.148.239.82|3052|South Korea|Gwangsan-gu|Korea Telecom|
-|14|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|129.212.226.87|443|Singapore|Singapore|DigitalOcean, LLC|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|62.103.66.18|3128|Greece|Athens|OTEnet|
+|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|5|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|9|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|115.76.5.32|10009|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|12|129.212.226.87|443|Singapore|Singapore|DigitalOcean, LLC|
+|13|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|16|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|17|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|19|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
