@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|4|119.93.58.62|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|5|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|8|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
-|12|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|13|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|14|103.46.11.92|8080|Indonesia|Sudimoro|Lintas Data Prima, PT|
-|15|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|1|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|115.76.5.32|10006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|4|5.129.228.225|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.179.246.65|999|Colombia|Acevedo|Genionet Telecomunicaciones S.A.S|
+|7|103.210.119.107|7777|Indonesia|Karanganyar|PT Yesi Media Utama|
+|8|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|10|210.87.125.57|8080|Indonesia|Pare|CV Brawijaya Giga Network|
+|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|12|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|13|180.191.14.210|8081|Philippines|Cabanatuan City|Globe Telecom|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|103.156.114.13|8080|Indonesia|Jakarta|MYREPUBLIC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
+|20|223.25.110.216|3125|Indonesia|Gombong|SinergiNet|
 
 
 
