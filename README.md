@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
-|12|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|18|103.236.64.247|8888|China|Beijing|China Telecom (Group)|
-|19|171.234.62.116|10004|Vietnam|Cam Ranh|Viettel Corporation|
-|20|210.87.74.200|8080|Indonesia|Jekulo|PT.Global Media Data Prima|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|6|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|85.198.84.77|10808|Russia|Moscow|Beget LLC|
+|9|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|15|171.234.62.116|10004|Vietnam|Cam Ranh|Viettel Corporation|
+|16|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|17|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|18|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|19|103.104.99.29|80|Indonesia|Sidoarjo|Dinas Komunikasi DAN Informatika Kabupaten Sidoarjo|
+|20|103.104.99.89|80|Indonesia|Sidoarjo|Dinas Komunikasi DAN Informatika Kabupaten Sidoarjo|
 
 
 
