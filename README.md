@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4291** proxies at the latest update. Usable proxies are below.
+> Scraper found **4270** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2704|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|8443|Hong Kong|Fanling|Tele Asia Limited|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|6|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
-|7|103.179.252.74|3128|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|8|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|16|166.0.192.117|8888|United States|Houston|Snaju Development|
-|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|19|171.234.62.116|10004|Vietnam|Cam Ranh|Viettel Corporation|
-|20|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|3|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|4|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|5|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
+|8|180.191.14.210|8081|Philippines|Cabanatuan City|Globe Telecom|
+|9|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|11|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|17|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|20|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
