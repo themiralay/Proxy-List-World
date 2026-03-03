@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4177** proxies at the latest update. Usable proxies are below.
+> Scraper found **4191** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2601|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|166.0.192.117|8888|United States|Houston|Snaju Development|
+|2|166.0.192.117|8888|United States|Houston|Snaju Development|
+|3|166.0.192.117|8888|United States|Houston|Snaju Development|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|6|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|11|166.0.192.117|8888|United States|Houston|Snaju Development|
-|12|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|13|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|14|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|16|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|19|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|20|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|9|200.118.238.71|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|10|103.104.99.29|80|Indonesia|Sidoarjo|Dinas Komunikasi DAN Informatika Kabupaten Sidoarjo|
+|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|119.93.14.61|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|46.99.178.155|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
+|17|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|18|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|19|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
 
 
 
