@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |4|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
 |6|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|9|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|10|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|12|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|15|115.76.5.32|10007|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|16|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|11|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|12|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|13|125.128.12.114|3128|South Korea|Songpa-gu|Korea Telecom|
+|14|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|15|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|186.226.167.191|3128|Brazil|Eunápolis|Infortel Comunicacoes Ltda|
+|19|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
