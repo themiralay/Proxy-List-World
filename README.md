@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|7|166.0.192.117|8888|United States|Houston|Snaju Development|
-|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
-|11|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|166.0.192.117|8888|United States|Houston|Snaju Development|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|16|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|17|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|166.0.192.117|8888|United States|Houston|Snaju Development|
+|4|166.0.192.117|8888|United States|Houston|Snaju Development|
+|5|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|8|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|9|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|11|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|12|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|13|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|14|203.172.136.211|8080|Thailand|Hang Dong|Ministry of Education - EMISC|
+|15|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|17|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|18|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|20|207.177.122.144|8080|United States|Burlington|Aureon Network Services|
 
 
 
