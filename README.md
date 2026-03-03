@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|166.0.192.117|8888|United States|Houston|Snaju Development|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|166.0.192.117|8888|United States|Houston|Snaju Development|
-|6|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|7|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|120.28.197.130|8080|Philippines|Davao City|Globe Telecom|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|103.215.36.88|15556|China|Yancheng|China Mobile Communications Corporation|
+|3|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|4|45.95.0.142|443|Germany|Frankfurt am Main|International Hosting Company Limited|
+|5|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|6|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|10|190.235.185.219|999|Peru|Guadalupe|TDP-GRS|
+|11|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|12|166.0.192.117|8888|United States|Houston|Snaju Development|
+|13|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|14|166.0.192.117|8888|United States|Houston|Snaju Development|
+|15|45.95.0.142|443|Germany|Frankfurt am Main|International Hosting Company Limited|
+|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|19|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|20|103.26.110.209|9256|India|Chennai|Niss Networks|
 
 
 
