@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|124.122.115.165|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|166.0.192.117|8888|United States|Houston|Snaju Development|
-|5|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|1|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
+|3|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
 |6|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|8|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|13|190.60.56.226|999|Colombia|San Juan de Rioseco|IFX NETWORKS COLOMBIA|
-|14|166.0.192.117|8888|United States|Houston|Snaju Development|
-|15|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|16|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|103.215.36.88|10864|China|Yancheng|China Mobile Communications Corporation|
-|19|119.93.14.61|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|7|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|10|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|12|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|181.78.65.252|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|17|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
+|18|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|19|120.232.242.119|22222|China|Guangzhou|China Mobile communications corporation|
+|20|166.0.192.117|8888|United States|Houston|Snaju Development|
 
 
 
