@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4191** proxies at the latest update. Usable proxies are below.
+> Scraper found **4144** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|558|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2601|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|166.0.192.117|8888|United States|Houston|Snaju Development|
+|2|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
 |3|166.0.192.117|8888|United States|Houston|Snaju Development|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|6|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|9|200.118.238.71|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|10|103.104.99.29|80|Indonesia|Sidoarjo|Dinas Komunikasi DAN Informatika Kabupaten Sidoarjo|
-|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|14|119.93.14.61|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|46.99.178.155|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
-|17|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|18|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|19|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|4|166.0.192.117|8888|United States|Houston|Snaju Development|
+|5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|103.183.8.59|8181|Indonesia|Jakarta|PT Cepat Multi Data|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|13|185.200.38.201|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|20|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
 
 
 
