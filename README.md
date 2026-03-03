@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|166.0.192.117|8888|United States|Houston|Snaju Development|
-|3|166.0.192.117|8888|United States|Houston|Snaju Development|
-|4|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|5|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|6|162.240.154.26|3128|United States|Provo|Unified Layer|
-|7|166.0.192.117|8888|United States|Houston|Snaju Development|
-|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|103.104.99.29|80|Indonesia|Sidoarjo|Dinas Komunikasi DAN Informatika Kabupaten Sidoarjo|
-|10|103.104.99.89|80|Indonesia|Sidoarjo|Dinas Komunikasi DAN Informatika Kabupaten Sidoarjo|
-|11|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|12|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|13|181.78.25.253|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|176.196.157.83|10808|Russia|Kemerovo|Goodline.info|
-|20|36.91.210.221|8989|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|7|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|8|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|9|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|10|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|11|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|190.119.90.114|8080|Peru|Las Nazarenas|America Movil Peru S.A.C.|
+|14|49.144.22.194|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
