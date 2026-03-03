@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3554** proxies at the latest update. Usable proxies are below.
+> Scraper found **3524** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|618|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1948|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|103.76.201.109|8080|Indonesia|Cileungsir|PT. Arjuna Global Teknologi Indonesia|
-|4|166.0.192.117|8888|United States|Houston|Snaju Development|
-|5|166.0.192.117|8888|United States|Houston|Snaju Development|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|9|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|200.125.169.51|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|14|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|17|203.172.136.211|8080|Thailand|Hang Dong|Ministry of Education - EMISC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|38.194.246.34|999|Mexico|Los Ramírez|Cogent Communications|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|166.0.192.117|8888|United States|Houston|Snaju Development|
+|3|166.0.192.117|8888|United States|Houston|Snaju Development|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|7|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|10|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|11|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|12|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
+|18|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
+|19|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|20|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
 
 
 
