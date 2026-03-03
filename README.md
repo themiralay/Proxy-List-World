@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|4|166.0.192.117|8888|United States|Houston|Snaju Development|
-|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|6|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|144.208.127.181|3128|United States|New York|Shock Hosting LLC|
-|10|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|12|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|13|124.6.141.83|8082|Philippines|Taguig|Globe Telecom|
-|14|77.83.203.5|443|Türkiye|Gaziantep|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|15|77.83.203.6|443|Türkiye|Gaziantep|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|16|102.68.79.213|8080|Kenya|Nairobi|Unwired Communications Ltd|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|115.76.5.32|10010|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|118.175.30.26|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|1|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|166.0.192.117|8888|United States|Houston|Snaju Development|
+|3|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|4|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|144.208.127.181|3128|United States|New York|Shock Hosting LLC|
+|6|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|102.68.135.157|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|171.234.62.116|10002|Vietnam|Cam Ranh|Viettel Corporation|
+|17|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
