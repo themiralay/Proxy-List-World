@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|4|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|7|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|10|125.128.12.194|3128|South Korea|Songpa-gu|Korea Telecom|
-|11|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|115.76.5.32|10007|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|13|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|14|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|17|125.128.12.84|3128|South Korea|Songpa-gu|Korea Telecom|
-|18|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|19|41.65.103.17|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|20|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|125.128.12.194|3128|South Korea|Songpa-gu|Korea Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|163.5.128.135|14270|United States|Brooklyn|Windstream Communications LLC|
+|10|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|11|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|14|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|15|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|16|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|17|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|18|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
 
 
 
