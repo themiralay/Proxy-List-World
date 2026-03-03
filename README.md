@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3865** proxies at the latest update. Usable proxies are below.
+> Scraper found **3878** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|661|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|34|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2226|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|1|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
 |2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
 |5|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|6|166.0.192.117|8888|United States|Houston|Snaju Development|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|11|166.0.192.117|8888|United States|Houston|Snaju Development|
-|12|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|15|171.234.62.116|10002|Vietnam|Cam Ranh|Viettel Corporation|
-|16|103.164.231.243|8080|Indonesia|Bendungan|PT Global Media Telekomunikasi Network|
-|17|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|20|75.109.189.86|8080|United States|College Station|Suddenlink Communications|
+|6|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|166.0.192.117|8888|United States|Houston|Snaju Development|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|12|166.0.192.117|8888|United States|Houston|Snaju Development|
+|13|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|14|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|16|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|17|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|113.192.3.66|8567|Indonesia|Wedi|PT Boombas Carlo Medianet|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
