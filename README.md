@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|3|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|103.138.185.81|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
-|5|45.229.17.2|999|Ecuador|Vinces|Turbonet S.A.|
-|6|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|103.48.68.142|82|India|Hyderabad|Country Online Services PVT LTD|
-|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|10|102.0.13.202|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|11|43.252.237.163|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|92.51.122.174|8080|Georgia|Kutaisi|Deltanet-net Network|
-|15|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|16|91.214.31.234|8080|Ukraine|Kyiv|TOV "Telza"|
-|17|102.210.106.1|83|Kenya|Kisumu|MCN KISUMU|
-|18|124.6.141.83|8082|Philippines|Taguig|Globe Telecom|
-|19|103.250.70.190|9107|Bangladesh|Gaibandha|Next Online Ltd|
-|20|59.153.19.153|30303|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|12|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|16|195.133.64.177|3128|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|17|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
+|18|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|166.0.192.117|8888|United States|Houston|Snaju Development|
 
 
 
