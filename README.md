@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|166.0.192.117|8888|United States|Houston|Snaju Development|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|6|166.0.192.117|8888|United States|Houston|Snaju Development|
-|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|103.203.234.75|8080|Indonesia|Banyumas|PT Nesta Indo Media|
-|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|14|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|15|166.0.192.117|8888|United States|Houston|Snaju Development|
-|16|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|166.0.192.117|8888|United States|Houston|Snaju Development|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|12|166.0.192.117|8888|United States|Houston|Snaju Development|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|166.0.192.117|8888|United States|Houston|Snaju Development|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|18|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|19|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
