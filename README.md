@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
 |7|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|8|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|10|166.0.192.117|8888|United States|Houston|Snaju Development|
-|11|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|166.0.192.117|8888|United States|Houston|Snaju Development|
-|13|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|14|74.208.234.198|443|United States|Kansas City|IONOS SE|
 |15|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|16|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|16|166.0.192.117|8888|United States|Houston|Snaju Development|
 |17|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|18|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|19|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|20|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|166.0.192.117|8888|United States|Houston|Snaju Development|
+|19|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
