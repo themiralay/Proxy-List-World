@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|14|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|19|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|20|142.171.85.32|1080|United States|Los Angeles|Multacom Corporation|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|16|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|17|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|18|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|19|166.0.192.117|8888|United States|Houston|Snaju Development|
+|20|74.208.234.198|443|United States|Kansas City|IONOS SE|
 
 
 
