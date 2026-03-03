@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|166.0.192.117|8888|United States|Houston|Snaju Development|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|166.0.192.117|8888|United States|Houston|Snaju Development|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
-|10|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|124.105.69.124|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|15|131.0.234.54|55555|Argentina|Villa José León Suárez|MUSURIT|
-|16|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|17|190.61.55.243|999|Colombia|Baranoa|Ufinet Panama S.A.|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
-|20|163.5.128.114|14270|United States|Brooklyn|Windstream Communications LLC|
+|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|157.66.32.18|8080|India|Mumbai|Esto Media Private Limited|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|9|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|13|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|14|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
