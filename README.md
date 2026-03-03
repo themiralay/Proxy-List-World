@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|5|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|6|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|10|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|11|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|1|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|2|166.0.192.117|8888|United States|Houston|Snaju Development|
+|3|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|45.95.0.142|443|Germany|Frankfurt am Main|International Hosting Company Limited|
+|6|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
 |12|45.95.0.142|443|Germany|Frankfurt am Main|International Hosting Company Limited|
-|13|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|14|14.170.154.193|19132|Vietnam|Thái Nguyên|VNPT-VNNIC|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|102.0.13.202|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|17|166.0.192.117|8888|United States|Houston|Snaju Development|
-|18|166.0.192.117|8888|United States|Houston|Snaju Development|
-|19|45.229.16.49|999|Ecuador|Babahoyo|Turbonet S.A.|
-|20|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|13|166.0.192.117|8888|United States|Houston|Snaju Development|
+|14|120.240.29.51|22222|China|Guangzhou|China Mobile communications corporation|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|181.79.80.181|999|Colombia|Villa Rica|IFX Networks Argentina S.R.L|
+|17|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|18|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
