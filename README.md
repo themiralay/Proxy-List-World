@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|2|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Sandclock Service Trading Company Limited|
-|4|166.0.192.117|8888|United States|Houston|Snaju Development|
-|5|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
-|8|166.0.192.117|8888|United States|Houston|Snaju Development|
-|9|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|10|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|14|166.0.192.117|8888|United States|Houston|Snaju Development|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
-|17|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|166.0.192.117|8888|United States|Houston|Snaju Development|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|6|166.0.192.117|8888|United States|Houston|Snaju Development|
+|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|177.234.217.237|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|166.0.192.117|8888|United States|Houston|Snaju Development|
+|11|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|186.190.225.138|8080|Colombia|Calamar|TV AZTECA SUCURSAL COLOMBIA|
+|13|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|14|181.119.67.133|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|17|91.99.99.83|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|18|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|61.72.221.64|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
