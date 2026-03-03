@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
 |2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
 |3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|166.0.192.117|8888|United States|Houston|Snaju Development|
+|4|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
 |5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|166.0.192.117|8888|United States|Houston|Snaju Development|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|12|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|14|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
-|15|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|16|103.82.23.118|5171|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|17|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|20|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|166.0.192.117|8888|United States|Houston|Snaju Development|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
+|9|166.0.192.117|8888|United States|Houston|Snaju Development|
+|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|11|103.82.23.118|5171|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|5.129.237.45|49488|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
