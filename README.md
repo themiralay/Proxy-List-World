@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|3|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|61.72.221.54|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|11|103.135.102.161|8081|Hong Kong|Wan Chai|ASSN-AKRN|
-|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|13|45.230.169.129|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|14|49.146.57.185|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|15|166.0.192.117|8888|United States|Houston|Snaju Development|
-|16|166.0.192.117|8888|United States|Houston|Snaju Development|
-|17|120.238.159.228|22222|China|Guangzhou|China Mobile communications corporation|
+|1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
+|3|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|9|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|10|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|11|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|20|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|19|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
