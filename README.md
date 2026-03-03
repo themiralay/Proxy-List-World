@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
 |2|166.0.192.117|8888|United States|Houston|Snaju Development|
-|3|115.76.5.32|10006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|4|166.0.192.117|8888|United States|Houston|Snaju Development|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|116.212.182.74|8081|India|New Delhi|Microsense Private Limited|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|5|166.0.192.117|8888|United States|Houston|Snaju Development|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|10|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
 |11|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|115.76.5.32|10006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|13|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|14|166.0.192.117|8888|United States|Houston|Snaju Development|
-|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|16|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|17|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|18|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|177.234.217.238|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|13|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|14|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|19|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
