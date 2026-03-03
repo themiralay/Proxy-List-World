@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |3|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|5|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|6|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|8|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|9|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|202.51.106.229|8080|Indonesia|Pela Mampang|PT Solusi Infostruktur Nusantara|
+|4|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|7|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|8|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|166.0.192.117|8888|United States|Houston|Snaju Development|
 |11|166.0.192.117|8888|United States|Houston|Snaju Development|
-|12|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|13|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|14|104.251.81.175|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|15|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
-|16|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|166.0.192.117|8888|United States|Houston|Snaju Development|
+|20|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
 
 
 
