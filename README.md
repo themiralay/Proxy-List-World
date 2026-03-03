@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|166.0.192.117|8888|United States|Houston|Snaju Development|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|207.177.122.144|8080|United States|Burlington|Aureon Network Services|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|7|119.93.64.216|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|8|103.82.23.118|5242|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|13|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|14|77.83.203.6|443|Türkiye|Gaziantep|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|103.188.173.66|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|103.122.67.165|8000|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
-|19|177.234.199.89|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|166.0.192.117|8888|United States|Houston|Snaju Development|
+|4|190.60.45.79|999|Colombia|Cáceres|IFX NETWORKS COLOMBIA|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|7|103.253.18.6|8080|Pakistan|Faisalabad|Orbit Internet Service Provider Pvt Ltd|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|163.223.117.213|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
+|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|11|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|203.223.89.185|8080|Bangladesh|Tongi|Md Rofikul Islam|
+|16|103.82.23.118|5242|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|17|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|18|181.78.195.137|999|Ecuador|Milagro|Ufinet Panama S.A.|
+|19|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
 |20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
