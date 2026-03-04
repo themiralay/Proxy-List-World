@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|3|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|121.141.161.55|1080|South Korea|Gangseo-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|6|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|7|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|10|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.155.168.166|8299|Indonesia|Cikampek|PT Arozak Bima Yudho Sangkara|
-|13|157.15.112.41|8080|Indonesia|Banjar Dalam|PT. AKSES GENERASI CERDAS|
-|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|183.91.88.226|8087|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|103.158.121.245|7777|Indonesia|Jatibarang|CDN|
-|18|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|9|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|11|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|12|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|13|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|14|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|15|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|16|139.135.81.163|8082|Philippines|Buenavista|Dito Telecommunity Corp.|
+|17|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|59.153.83.186|8080|Indonesia|Bekasi|ATSINDO|
 
 
 
