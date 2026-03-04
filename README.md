@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|7|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|177.93.46.190|999|Colombia|Somondoco|TV AZTECA SUCURSAL COLOMBIA|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|103.141.174.54|11411|Bangladesh|Dhaka|ICC Communication Ltd|
-|13|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|143.44.167.188|8082|Philippines|Cebu City|ConvergeICT|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|18|185.189.51.72|12345|Sweden|Tällberg|Yelles AB|
-|19|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
-|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|181.143.181.35|8080|Colombia|Cajicá|EPM Telecomunicaciones S.A. E.S.P.|
+|9|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|11|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|12|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|16|126.209.18.46|8082|Philippines|Davao City|Infinivan Incorporated|
+|17|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|182.253.143.107|8080|Indonesia|Semarang|Biznet Networks|
+|19|85.117.62.70|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|20|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
