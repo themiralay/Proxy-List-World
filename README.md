@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|8|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|3|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |9|166.0.192.117|8888|United States|Houston|Snaju Development|
-|10|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|15|166.0.192.117|8888|United States|Houston|Snaju Development|
-|16|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|17|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|18|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|19|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|12|182.253.160.168|1452|Indonesia|Jakarta|BIZNET|
+|13|202.43.162.2|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|17|103.155.190.242|8080|Indonesia|Blitar|Trisula Media Data|
+|18|166.0.192.117|8888|United States|Houston|Snaju Development|
+|19|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
