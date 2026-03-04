@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|4|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|5|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|8|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|9|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|10|58.69.120.117|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|103.215.36.88|18225|China|Yancheng|China Mobile Communications Corporation|
-|13|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|103.82.23.118|5234|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|17|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|18|103.124.110.233|8090|Bangladesh|Nagar Naluakot|Delta Software and Communication Limited|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|5|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|181.79.80.181|999|Colombia|Villa Rica|IFX Networks Argentina S.R.L|
+|10|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
+|11|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|12|157.20.128.247|3125|Indonesia|Sukamaju|PT Citra Meta Data|
+|13|38.123.220.190|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|180.191.32.233|8081|Philippines|Cabanatuan City|Globe Telecom|
+|16|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|17|145.220.178.15|8118|The Netherlands|Utrecht|SURFnet III d|
+|18|145.220.178.8|9050|The Netherlands|Utrecht|SURFnet III d|
+|19|45.198.10.3|8090|Indonesia|Wonosobo|PT Jaringan Lintas Artha|
+|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 
 
 
