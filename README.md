@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3584** proxies at the latest update. Usable proxies are below.
+> Scraper found **3574** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|23|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|537|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2064|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|4|190.120.252.174|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|5|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|6|103.82.23.118|5178|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|3|122.3.87.41|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|5|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|6|103.22.173.77|1111|India|Hyderabad|Vainavi Industries Ltd.|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
 |10|114.214.162.73|26001|China|Nanjing|CERNET|
-|11|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|103.144.102.82|8080|Indonesia|Majalengka|PANDAWANET|
-|13|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|18|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|19|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|12|37.238.45.74|8080|Iraq|Baghdad|EarthLink Ltd. Communications&|
+|13|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|14|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|15|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|16|103.165.155.22|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|17|103.215.36.88|16474|China|Yancheng|China Mobile Communications Corporation|
+|18|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|165.225.113.220|11462|Singapore|Singapore|ZSCALER, INC.|
 
 
 
