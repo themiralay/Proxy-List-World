@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|4|103.247.23.28|9223|Indonesia|Bekasi|PT wifian Solution|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|138.59.10.112|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|7|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|8|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|9|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
-|11|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|12|103.174.236.120|8081|Indonesia|Karangampel|PT Global Erasiber Teknologi|
-|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|16|188.213.129.77|8118|Switzerland|Geneva|Infomaniak Network SA|
-|17|190.43.92.46|999|Peru|Tacna|Telefonica Del Peru|
-|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|113.59.32.162|22222|China|Haikou|CNC Group CHINA169 Hainan Province Network|
+|2|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|4|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
+|5|178.128.112.75|10001|Singapore|Singapore|DigitalOcean, LLC|
+|6|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|195.34.91.67|8080|Ukraine|Chabany|Modus-Global LLC|
+|13|38.190.100.104|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
+|14|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
 
 
 
