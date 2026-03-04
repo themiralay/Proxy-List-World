@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3714** proxies at the latest update. Usable proxies are below.
+> Scraper found **3703** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|57|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|533|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|522|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|34|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2158|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|6|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|7|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|8|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|11|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|12|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|103.133.25.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|16|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|17|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|18|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|19|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|20|36.93.249.242|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|6|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|7|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|8|38.183.146.143|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|9|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|10|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|11|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|13|181.78.49.177|999|Guatemala|San Marcos|Ufinet Panama S.A.|
+|14|103.244.4.34|8081|India|Kolkata|Indinet Service Private Limited|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|17|183.236.232.160|8080|China|Guangzhou|China Mobile|
+|18|223.25.100.42|2222|Indonesia|Prapen|PT Indonesia Comnets Plus|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
 
 
 
