@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
-|4|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|166.0.192.117|8888|United States|Houston|Snaju Development|
+|3|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
 |5|166.0.192.117|8888|United States|Houston|Snaju Development|
-|6|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|166.0.192.117|8888|United States|Houston|Snaju Development|
-|9|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|10|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|7|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|10|103.122.65.242|8080|Indonesia|Banjar Dalam|PT. Jinom Network Indonesia|
 |11|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|12|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|13|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|14|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|204.199.140.17|999|Chile|San Javier|Ingbell Chile SPA|
+|12|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|13|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|14|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|15|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
 |16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|201.65.173.178|8080|Brazil|Brasília|Claro S.A.|
-|18|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|17|186.96.160.219|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|18|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
 |19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|20|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|20|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
 
 
 
