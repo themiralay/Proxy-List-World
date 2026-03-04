@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|121.141.161.55|1080|South Korea|Gangseo-gu|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|162.240.154.26|3128|United States|Provo|Unified Layer|
-|6|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|9|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
-|12|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
-|13|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|14|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|15|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|16|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|1|121.141.161.55|1080|South Korea|Gangseo-gu|Korea Telecom|
+|2|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|3|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|4|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
+|5|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
+|7|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|9|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
