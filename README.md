@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
 |4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
 |5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|8|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|9|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|10|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|13|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|14|157.15.172.30|8080|Indonesia|Andoolo|PT Mitra Telekomunikasi Nusantara|
-|15|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|16|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|17|103.172.71.141|3127|Indonesia|Karangampel|AZNET|
-|18|103.161.195.158|7777|Indonesia|Kambingan|PT Java Media Grup|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|6|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|14|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|15|190.61.118.115|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|16|45.174.243.24|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|19|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
 |20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
 
 
