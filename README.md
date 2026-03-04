@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|4|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|5|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|6|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|4|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|5|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|9|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|10|185.130.225.170|8080|Netherlands|Amsterdam|Hostkey BV direct|
-|11|171.234.62.116|10001|Vietnam|Cam Ranh|Viettel Corporation|
-|12|171.234.62.116|10001|Vietnam|Cam Ranh|Viettel Corporation|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|17|38.194.246.34|999|Mexico|Los Ramírez|Cogent Communications|
-|18|120.232.242.119|22222|China|Guangzhou|China Mobile communications corporation|
-|19|103.215.36.88|15963|China|Yancheng|China Mobile Communications Corporation|
-|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|8|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|10|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|11|103.165.155.196|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|13|145.220.178.15|8118|The Netherlands|Utrecht|SURFnet III d|
+|14|145.220.178.8|9050|The Netherlands|Utrecht|SURFnet III d|
+|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
 
 
 
