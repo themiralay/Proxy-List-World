@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
 |2|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|7|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|10|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|11|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|12|45.167.124.248|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|177.242.132.38|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
-|14|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|15|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
-|16|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|20|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|179.1.13.52|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|11|36.64.193.226|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|13|103.124.137.150|20|Indonesia|Ungaran|Global Media Data Prima|
+|14|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
+|15|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|16|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|17|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|18|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|19|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
