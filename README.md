@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|2|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|6|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|7|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|8|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|11|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|13|103.162.141.146|3129|Indonesia|Pancur Biru Lestari II|PT Filltech Antar Nusa|
-|14|115.178.53.114|8080|Indonesia|Lembang|NOC SIMAYA|
-|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|16|103.215.36.88|17100|China|Yancheng|China Mobile Communications Corporation|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|20|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|5|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|38.52.220.122|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|7|3.213.157.4|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|9|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|10|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|11|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|12|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|137.59.51.123|3232|Bangladesh|Dhaka|Bijoy Online Ltd|
+|16|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|17|102.38.29.36|8080|Libya|Tripoli|GZA|
+|18|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|19|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|20|122.3.126.95|8081|Philippines|Pasig|Philippine Long Distance Telephone Co.|
 
 
 
