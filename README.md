@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|6|182.253.204.196|8080|Indonesia|Bandung|BIZNET|
-|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|8|1.234.153.14|80|South Korea|Seocho-gu|SK Broadband Co Ltd|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|11|180.210.191.122|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
-|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|13|179.49.201.196|999|Ecuador|Quito|ZAMBRANO CARREÑO HUMBERTO ALEJANDRO|
-|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|17|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|18|187.102.211.253|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
-|19|103.247.23.147|1231|Indonesia|Purbalingga|PT wifian Solution|
-|20|113.59.32.162|22222|China|Haikou|CNC Group CHINA169 Hainan Province Network|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|138.59.10.112|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|4|45.5.118.249|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|5|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|9|177.184.195.168|8080|Brazil|Brasília|Wireless Comm Services LTDA|
+|10|152.231.27.54|999|Colombia|Medellín|Colombiatel Telecomunicaciones|
+|11|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|12|212.252.71.30|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|13|201.230.15.57|999|Peru|Piedra Blanca|Telefonica del Peru|
+|14|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|122.54.226.216|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|177.136.44.194|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
 
 
 
