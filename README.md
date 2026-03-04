@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3755** proxies at the latest update. Usable proxies are below.
+> Scraper found **3784** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|60|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|515|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|62|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|542|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|24|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2224|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|157.15.144.102|1111|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|6|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|13|145.220.178.8|9050|The Netherlands|Utrecht|SURFnet III d|
-|14|145.220.178.15|8118|The Netherlands|Utrecht|SURFnet III d|
-|15|103.193.145.155|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|16|38.226.202.50|8080|Kenya|Nairobi|Cogent Communications|
-|17|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|18|38.7.195.55|999|Chile|Santiago|Grupo ZGH SPA|
-|19|122.53.59.59|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|194.110.55.211|3130|Kazakhstan|Almaty|PS Internet Company LLP|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|6|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|11|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|12|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|13|103.172.71.107|1111|Indonesia|Karawang|AZNET|
+|14|212.252.73.42|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|15|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|16|190.94.212.160|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|18|103.82.23.118|5207|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
