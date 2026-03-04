@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|166.0.192.117|8888|United States|Houston|Snaju Development|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|166.0.192.117|8888|United States|Houston|Snaju Development|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|10|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|11|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|12|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
-|14|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|5|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|103.247.23.37|1111|Indonesia|Bekasi|PT wifian Solution|
+|10|166.0.192.117|8888|United States|Houston|Snaju Development|
+|11|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|14|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|15|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|16|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|190.94.212.64|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|166.0.192.117|8888|United States|Houston|Snaju Development|
 
 
 
