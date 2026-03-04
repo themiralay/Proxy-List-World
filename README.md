@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|45.190.76.115|999|Mexico|Zapopan|Meta Networks SA De CV|
-|4|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|6|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
-|7|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|8|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
-|9|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|103.122.67.165|8000|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
-|11|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|12|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|15|157.66.138.79|1080|Indonesia|Cikampek|PT Neo Fiber Teknologi|
-|16|118.97.137.68|8080|Indonesia|Utan|PT. TELKOM INDONESIA|
-|17|190.85.43.6|8080|Colombia|Jamundí|Telmex Colombia S.A.|
+|1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|123.253.96.213|3214|Bangladesh|Dhaka|Md Rezaul Karim|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|6|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
+|7|186.226.167.191|3128|Brazil|Eunápolis|Infortel Comunicacoes Ltda|
+|8|37.27.100.112|443|Finland|Helsinki|Hetzner Online GmbH|
+|9|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
+|10|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|15|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
+|16|58.69.125.145|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
 |18|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|19|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|20|36.91.220.132|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|197.232.158.189|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|20|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
 
 
 
