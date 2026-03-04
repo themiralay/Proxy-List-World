@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|166.0.192.117|8888|United States|Houston|Snaju Development|
-|4|179.1.13.52|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|5|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|6|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|7|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|8|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|9|166.0.192.117|8888|United States|Houston|Snaju Development|
-|10|210.87.125.57|8080|Indonesia|Pare|CV Brawijaya Giga Network|
-|11|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|12|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|13|38.52.208.49|999|Guatemala|Jalapa|Central De Redes Y Comunicaciones De Guatemala S.A|
-|14|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|15|195.9.15.186|10080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|18|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|19|8.243.163.126|3128|Colombia|Bello|CTL Colombia|
-|20|194.176.114.36|3128|Russia|Irkutsk|Electronniy gorod, Ltd.|
+|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|166.0.192.117|8888|United States|Houston|Snaju Development|
+|6|103.10.62.238|8080|Indonesia|Jakarta|PT Hipernet Indodata|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|166.0.192.117|8888|United States|Houston|Snaju Development|
+|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|10|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|11|194.176.114.36|3128|Russia|Irkutsk|Electronniy gorod, Ltd.|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|157.100.69.19|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|38.156.23.225|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|16|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|17|38.52.208.49|999|Guatemala|Jalapa|Central De Redes Y Comunicaciones De Guatemala S.A|
+|18|36.95.27.225|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
+|20|186.96.160.219|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
 
 
 
