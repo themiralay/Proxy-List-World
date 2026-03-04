@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|4|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|5|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|6|102.0.14.38|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|7|122.53.59.59|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|8|103.179.252.137|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|9|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|10|190.43.92.46|999|Peru|Tacna|Telefonica Del Peru|
-|11|14.99.215.106|1111|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|177.10.118.108|8089|Brazil|Montes Claros|SPACE NET SERV. DE TELECOMUNICAÇÃO EM INF. LTDA-ME|
-|14|14.103.9.129|7890|China|Beijing|BITNET|
-|15|103.228.246.171|8080|Indonesia|Kebonsari|PT Giga Patra Multimedia|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|2|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|3|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|4|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|5|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|9|103.179.252.137|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|10|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|13|181.78.73.53|999|Colombia|San Martín|IFX Networks Argentina S.R.L|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|16|119.18.151.153|6713|Bangladesh|Chittagong|BBTS Network|
+|17|85.117.56.147|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|18|66.70.235.23|5454|United States|Los Angeles|OVH SAS|
+|19|160.20.128.15|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
+|20|181.78.49.177|999|Guatemala|San Marcos|Ufinet Panama S.A.|
 
 
 
