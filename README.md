@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|6|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|9|160.19.18.42|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
-|10|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|4|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|74.208.234.198|443|United States|Kansas City|IONOS SE|
+|7|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|8|181.40.18.42|999|Paraguay|Asunción|Telecel S.A.|
+|9|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|10|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
 |11|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|12|157.20.220.42|8080|Indonesia|Jakarta|PT Nawasena Andalan Indonesia|
-|13|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|19|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|20|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|15|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|113.176.118.255|7654|Vietnam|Hoi An|VNPT|
+|19|103.162.221.165|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
+|20|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
 
 
 
