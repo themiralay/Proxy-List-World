@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|6|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|3|103.66.62.148|7777|Indonesia|Pauh|PT Buana Visualnet Sentra|
+|4|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |8|94.159.112.138|3128|Finland|Helsinki|Closed Joint Stock Company "AbkhazMedia"|
-|9|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|10|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|14|59.153.83.186|8080|Indonesia|Bekasi|ATSINDO|
-|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|17|36.92.104.123|8000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|158.140.169.165|8080|Indonesia|Surabaya|MYREPUBLIC|
-|20|103.66.62.148|7777|Indonesia|Pauh|PT Buana Visualnet Sentra|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|157.66.50.147|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|11|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|12|103.145.132.184|8080|Bangladesh|Nārāyanganj|Md Raisul Islam|
+|13|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
+|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|16|113.192.31.165|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|18|120.238.159.228|22222|China|Guangzhou|China Mobile communications corporation|
+|19|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
