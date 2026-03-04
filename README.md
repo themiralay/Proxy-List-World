@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3818** proxies at the latest update. Usable proxies are below.
+> Scraper found **3814** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|28|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|562|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|558|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|35|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2261|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.141.161.55|1080|South Korea|Gangseo-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|4|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|5|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
-|8|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|8|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |10|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|13|182.252.74.40|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|14|179.1.95.213|999|Colombia|Palestina|Internexa S.a. E.S.P|
-|15|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|16|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|17|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|18|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|19|38.123.220.190|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|20|103.215.36.88|16474|China|Yancheng|China Mobile Communications Corporation|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|15|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|18|171.234.62.116|10002|Vietnam|Cam Ranh|Viettel Corporation|
+|19|138.36.22.229|8081|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
