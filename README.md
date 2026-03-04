@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.141.161.55|1080|South Korea|Gangseo-gu|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|124.107.15.43|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|10|103.164.229.149|8080|Indonesia|Pecangaan|PT Muria Data Utama|
-|11|221.127.195.224|8888|Hong Kong|Tsing Yi|HGC Global Communications Limited|
-|12|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
-|13|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
-|14|103.215.36.88|16894|China|Yancheng|China Mobile Communications Corporation|
-|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|4|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|6|121.141.161.55|1080|South Korea|Gangseo-gu|Korea Telecom|
+|7|103.181.255.69|1111|Indonesia|Jepara|PT Giga Digital Nusantara|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
+|14|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|15|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
+|16|103.155.190.90|8080|Indonesia|Blitar|Trisula Media Data|
 |17|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|20|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
+|18|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|19|120.240.29.51|22222|China|Guangzhou|China Mobile communications corporation|
+|20|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
