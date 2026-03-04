@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|7|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|10|207.248.3.81|999|Chile|Graneros|Grupo Metrowan Telecom SPA|
-|11|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|190.61.118.115|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|13|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|14|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|36.88.137.114|443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|177.242.137.182|999|Mexico|Acambay|Mega Cable, S.A. de C.V.|
-|19|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|20|179.51.199.87|8099|Brazil|Bom Princípio do Piauí|Fortinet Telecomunicacoes Eireli|
+|2|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|103.84.176.99|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|8|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|10|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|16|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|17|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|18|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|20|103.19.78.127|3125|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
 
 
 
