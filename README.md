@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.91.59|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
-|2|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|3|103.133.27.229|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|4|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|4|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
 |5|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|6|181.119.111.239|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|7|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|8|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|9|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|103.93.93.221|8181|Indonesia|Kertosono|MYRISE|
-|13|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|14|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
-|15|103.173.139.22|8080|Indonesia|Semarang|PT Serayu Multi Connection|
-|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|124.158.160.61|8080|Indonesia|Jakarta|ICON+|
-|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|20|43.245.249.22|7878|Indonesia|Pekanbaru|PT Smart Media Pratama|
+|6|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|7|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|8|103.132.53.226|1111|Indonesia|Margasari|PT Adeaksa Indo Jayatama|
+|9|103.171.150.205|8080|Indonesia|Jakarta|MYREPUBLIC|
+|10|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|103.188.173.95|8080|Indonesia|Jakarta|PT Satria Digital Media|
+|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|17|122.3.87.41|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
