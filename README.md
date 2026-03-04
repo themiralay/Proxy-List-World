@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|144.208.127.181|3128|United States|New York|Shock Hosting LLC|
-|10|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|14|103.247.23.28|9223|Indonesia|Bekasi|PT wifian Solution|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|3|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|4|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|5|91.217.76.97|1080|Finland|Helsinki|First Server Limited|
+|6|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|7|144.124.227.88|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|8|103.110.10.166|8181|Indonesia|Ciwaru|PT Citra Jelajah Informatika|
+|9|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
+|10|94.159.112.138|3129|Finland|Helsinki|Closed Joint Stock Company "AbkhazMedia"|
+|11|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|12|5.129.233.190|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|14|178.128.112.75|10001|Singapore|Singapore|DigitalOcean, LLC|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|145.220.178.8|9050|The Netherlands|Utrecht|SURFnet III d|
+|18|145.220.178.15|8118|The Netherlands|Utrecht|SURFnet III d|
+|19|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
+|20|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
