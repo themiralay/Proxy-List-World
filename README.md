@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|3|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|5|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|8|37.27.100.102|443|Finland|Helsinki|Hetzner Online GmbH|
-|9|37.27.100.108|443|Finland|Helsinki|Hetzner Online GmbH|
-|10|74.208.234.198|443|United States|Kansas City|IONOS SE|
-|11|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|12|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.82.23.118|5207|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|192.203.0.78|999|Puerto Rico|Comunas|Boom NET|
-|16|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|1|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|4|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|5|37.27.100.80|443|Finland|Helsinki|Hetzner Online GmbH|
+|6|37.27.100.79|443|Finland|Helsinki|Hetzner Online GmbH|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|10|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|11|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|103.166.91.59|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|36.94.149.149|8090|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 |17|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|18|37.27.100.107|443|Finland|Helsinki|Hetzner Online GmbH|
-|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|20|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
