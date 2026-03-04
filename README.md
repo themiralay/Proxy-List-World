@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|103.84.176.99|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|8|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|10|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|17|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|18|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|20|103.19.78.127|3125|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
+|1|103.179.252.137|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|103.152.238.84|1080|Indonesia|Cikarang|APRIN|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|103.141.174.54|11411|Bangladesh|Dhaka|ICC Communication Ltd|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|11|36.67.194.162|8042|Indonesia|Sukabumi Selatan|PT. Telekomunikasi Indonesia|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
