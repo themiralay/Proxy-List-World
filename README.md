@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|4|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|166.0.192.117|8888|United States|Houston|Snaju Development|
-|7|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|166.0.192.117|8888|United States|Houston|Snaju Development|
-|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|11|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|14|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|19|166.0.192.117|8888|United States|Houston|Snaju Development|
-|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|5|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|166.0.192.117|8888|United States|Houston|Snaju Development|
+|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|9|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|10|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|166.0.192.117|8888|United States|Houston|Snaju Development|
+|14|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|15|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|17|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|135.148.33.170|8118|United States|Reston|OVH SAS|
+|20|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
 
 
 
