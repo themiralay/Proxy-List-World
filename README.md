@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|4|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
-|6|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
-|7|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|13|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|20|176.117.105.130|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
+|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|4|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|20|103.172.71.202|1111|Indonesia|Karawang|AZNET|
 
 
 
