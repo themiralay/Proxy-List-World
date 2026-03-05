@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|5|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|14|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
-|18|35.234.17.221|8080|Taiwan|Taipei|Google LLC|
-|19|23.153.217.115|5555|United States|Miami|Gung HO LLC|
-|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|177.234.226.115|999|Ecuador|Manta|Ufinet Panama S.A.|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|181.94.197.37|8080|Paraguay|Fernando de la Mora|Núcleo S.A.|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|16|122.52.16.235|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|17|103.35.188.243|3128|United States|Secaucus|WorkTitans B.V.|
+|18|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 
 
 
