@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4675** proxies at the latest update. Usable proxies are below.
+> Scraper found **4673** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|157|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|155|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|507|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|21|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
-|3|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|7|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|8|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.82.217|3172|Japan|Yokohama|InfoSphere|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|14|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|103.215.36.88|17853|China|Yancheng|China Mobile Communications Corporation|
-|20|116.80.82.232|3172|Japan|Yokohama|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.82.222|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.82.232|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.82.217|3172|Japan|Yokohama|InfoSphere|
+|15|45.180.26.1|999|Chile|Ovalle|Roberto Mena Oyarzun Comunicaciones Eirl|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
