@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4798** proxies at the latest update. Usable proxies are below.
+> Scraper found **4804** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|163|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|516|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|164|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|521|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3149|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|5|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|49.151.185.52|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|157.15.139.138|8080|Indonesia|Srandakan|PT Ring Media Nusantara|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|1|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|3|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
+|7|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|13|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|16|163.223.78.69|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|17|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|45.175.160.97|999|Argentina|Tupungato|OSORIO SERGIO ANGELINO(NETVDU).|
+|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 |20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 
 
