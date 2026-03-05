@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.82.232|3172|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|116.80.82.221|3172|Japan|Yokohama|InfoSphere|
-|5|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
-|6|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
-|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|116.80.82.232|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.82.221|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|4|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
 |8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
-|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|200.10.31.153|999|Colombia|Pereira|Super Redes S.A.S|
-|14|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|17|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.82.222|3172|Japan|Yokohama|InfoSphere|
+|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|12|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|13|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|14|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|17|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|202.73.25.90|8080|Indonesia|Bogor|PT.Semut Data Indonesia|
+|20|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
 
 
 
