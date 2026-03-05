@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|5|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|5|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
+|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|14|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.82.221|3172|Japan|Yokohama|InfoSphere|
-|19|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|20|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|10|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|14|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
+|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|20|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
 
 
 
