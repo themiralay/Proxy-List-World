@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|170|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|547|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|174|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|543|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|25|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3149|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|3|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
 |5|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|7|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|8|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
-|9|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|95.85.252.153|21064|Germany|Frankfurt am Main|centhost|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
 |12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|16|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|103.165.155.195|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|154.73.29.65|8080|Libya|Tripoli|Rawafed|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
