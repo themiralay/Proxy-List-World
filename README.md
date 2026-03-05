@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|1|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
 |5|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|7|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|10|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|14|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|15|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|16|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.82.225|3172|Japan|Yokohama|InfoSphere|
+|6|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|13|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|14|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.82.225|3172|Japan|Yokohama|InfoSphere|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
 
 
 
