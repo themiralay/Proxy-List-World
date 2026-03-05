@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|4|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|14|203.76.98.21|45958|Bangladesh|Tāngāil|Link3 Technologies Limited|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|7|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|9|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|11|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|38.194.224.134|1452|Mexico|León|Cogent Communications|
-|19|144.31.69.170|1080|Germany|Frankfurt am Main|u1host ltd|
-|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|90.84.188.97|8000|France|Paris|OBS OCB HONEY|
+|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
