@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4320** proxies at the latest update. Usable proxies are below.
+> Scraper found **4034** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|645|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2596|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2310|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
-|6|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|7|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|9|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|12|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
+|5|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|7|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|8|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|13|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|14|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|18|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|19|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
