@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|2|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|9|107.174.80.186|3128|United States|Los Angeles|HostPapa|
-|10|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|11|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|152.42.195.165|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|12|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|13|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|2.56.178.131|443|Russia|Moscow|UFO Hosting LLC|
+|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 
 
 
