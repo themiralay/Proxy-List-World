@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|154.37.208.132|30000|United States|Los Angeles|Cogent Communications|
-|7|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|10|154.37.208.132|30000|United States|Los Angeles|Cogent Communications|
-|11|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|12|112.201.241.84|8082|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|36.67.194.162|8042|Indonesia|Sukabumi Selatan|PT. Telekomunikasi Indonesia|
-|15|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|16|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|3|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|13|45.122.122.71|8080|India|Pur|FusionNet|
+|14|5.75.196.26|40000|Germany|Nuremberg|Hetzner Online GmbH|
+|15|74.48.78.224|2080|United States|Los Angeles|Multacom Corporation|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |17|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|18|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
-|19|202.154.18.88|8081|Indonesia|Babat|DIGITNET|
+|18|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|19|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
 |20|107.174.80.186|3128|United States|Los Angeles|HostPapa|
 
 
