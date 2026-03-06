@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
-|5|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|6|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|7|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
-|10|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|152.42.195.165|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|15|202.52.48.174|4444|Indonesia|Jakarta|PT ROKA LANE ASIA|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|1|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|13|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|152.42.195.165|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|19|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|20|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
 
 
 
