@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|2|152.42.195.165|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|4|23.94.182.50|12345|United States|Buffalo|HostPapa|
-|5|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|8|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|9|23.94.182.50|12345|United States|Buffalo|HostPapa|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|12|181.78.44.63|999|Honduras|La Reina|Ufinet Panama S.A.|
-|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet Ltd.|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|4|152.42.195.165|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|8|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|9|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|10|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|38.180.226.51|3128|France|Paris|M247 Europe SRL|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |16|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|17|103.125.117.154|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
-|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|19|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|20|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|17|23.94.182.50|12345|United States|Buffalo|HostPapa|
+|18|23.94.182.50|12345|United States|Buffalo|HostPapa|
+|19|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
+|20|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
