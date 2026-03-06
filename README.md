@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4816** proxies at the latest update. Usable proxies are below.
+> Scraper found **4799** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|590|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|250|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|152.42.195.165|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|3|107.174.80.186|3128|United States|Los Angeles|HostPapa|
+|4|152.42.195.165|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|11|107.174.80.186|3128|United States|Los Angeles|HostPapa|
-|12|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|14|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|103.160.69.155|8080|Indonesia|Jakarta|PT Gayatri Lintas Nusantara|
-|20|152.42.195.165|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|12|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|13|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|14|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|103.167.31.154|8080|Indonesia|South Tangerang|PT iForte Global Internet|
+|19|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
+|20|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
 
 
 
