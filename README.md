@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
-|6|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|9|91.107.175.112|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|11|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|163.5.128.116|14270|United States|Brooklyn|Windstream Communications LLC|
-|17|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|18|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|19|202.5.37.104|17382|Bangladesh|Dhaka|BBTS-NEW|
-|20|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|103.167.31.157|8080|Indonesia|South Tangerang|PT iForte Global Internet|
+|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|18|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 
 
 
