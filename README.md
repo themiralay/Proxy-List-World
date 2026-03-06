@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|12|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|13|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|14|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|19|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
-|20|188.191.147.116|8082|Israel|Tel Aviv|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
+|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|4|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|103.104.99.89|80|Indonesia|Sidoarjo|Dinas Komunikasi DAN Informatika Kabupaten Sidoarjo|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
+|14|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|15|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|17|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|20|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
 
 
 
