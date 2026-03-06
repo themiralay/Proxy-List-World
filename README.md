@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4902** proxies at the latest update. Usable proxies are below.
+> Scraper found **4872** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|3|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|12|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|13|163.5.128.11|14270|United States|Brooklyn|Windstream Communications LLC|
-|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|16|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|17|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|18|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|19|202.5.37.104|17382|Bangladesh|Dhaka|BBTS-NEW|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|2|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|9|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|10|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|11|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|14|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|15|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|16|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|17|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
 
 
 
