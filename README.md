@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|3|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|5|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|7|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|8|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|9|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|188.168.24.38|81|Russia|Irkutsk|TTK-Retail|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|103.3.58.162|8080|Indonesia|Surabaya|PT. Java Digital Nusantara|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|18|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|1|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|5|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|6|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|7|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|10|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|11|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|13|163.5.128.131|14270|United States|Brooklyn|Windstream Communications LLC|
+|14|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|18|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
 |19|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|20|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|20|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
