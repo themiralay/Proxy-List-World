@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|2|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.247.23.28|9223|Indonesia|Bekasi|PT wifian Solution|
-|5|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|6|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|10|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|11|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|12|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|8|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|11|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|12|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
 |13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |14|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
 |15|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|16|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|17|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|18|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|19|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
