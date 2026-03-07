@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|5|91.107.175.112|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|2|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|91.107.175.112|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
 |7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
-|9|14.225.222.247|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|110.74.215.171|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|200.10.31.153|999|Colombia|Pereira|Super Redes S.A.S|
-|15|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|19|51.250.37.15|6666|Russia|Moscow|Yandex.Cloud LLC|
-|20|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|11|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|12|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|17|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
