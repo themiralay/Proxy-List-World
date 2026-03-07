@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|7|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|8|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
-|9|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|10|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
-|12|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|15|178.236.245.17|3128|Russia|Moscow|Foton Telecom CJSC|
-|16|91.107.175.112|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|19|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|20|182.253.160.232|1452|Indonesia|Jakarta|BIZNET|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|11|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|12|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|91.107.175.112|10801|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|19|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|20|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
 
 
 
