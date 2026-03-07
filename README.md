@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|15|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|20|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|6|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|14|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|17|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 
 
 
