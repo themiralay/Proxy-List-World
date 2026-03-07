@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|5|14.225.217.30|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|6|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
 |11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|181.78.73.53|999|Colombia|San Martín|IFX Networks Argentina S.R.L|
-|13|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
-|14|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|18|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|192.166.82.55|1080|United States|Salt Lake City|EFUsoft LLC|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|163.5.128.116|14270|United States|Brooklyn|Windstream Communications LLC|
+|17|102.68.135.157|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|19|204.77.11.13|999|Puerto Rico|Carolina|FiberX|
+|20|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 
 
 
