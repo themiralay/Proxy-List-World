@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|10|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|11|14.225.217.30|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|12|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|163.223.78.135|9090|Indonesia|Ngoro|PT Big Network Indonesia|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|17|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|18|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|15|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|16|103.154.222.60|1111|Indonesia|Soreang|MORATELINDONAP|
+|17|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|18|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|19|177.229.197.234|999|Mexico|Tapachula|Mega Cable, S.A. de C.V.|
+|20|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
