@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|2|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|5|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|6|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|8|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|94.131.122.35|9000|United Kingdom|Coventry|WorkTitans B.V.|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|51.250.37.15|6666|Russia|Moscow|Yandex.Cloud LLC|
-|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|17|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
-|20|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|5|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|7|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|13|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|15|124.121.2.131|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|16|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|17|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|94.131.122.35|9000|United Kingdom|Coventry|WorkTitans B.V.|
 
 
 
