@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
 |3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|121.101.130.173|8080|Indonesia|Batang|PT SELARAS CITRA TERABIT|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|13|163.5.128.117|14270|United States|Brooklyn|Windstream Communications LLC|
-|14|103.228.246.171|8080|Indonesia|Kebonsari|PT Giga Patra Multimedia|
-|15|49.146.57.185|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|16|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
-|19|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|20|103.48.71.46|83|India|Hyderabad|Country Online Services PVT LTD|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|202.152.194.190|8000|Indonesia|South Tangerang|PT. Bakrie Telecom Tbk|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|115.127.176.210|2589|Bangladesh|Dhaka|BRACNet Limited|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|221.202.27.194|10811|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 
 
 
