@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
 |2|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
-|4|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|116.80.82.225|3172|Japan|Yokohama|InfoSphere|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
-|10|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|15|51.250.37.15|6666|Russia|Moscow|Yandex.Cloud LLC|
-|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|17|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|18|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|19|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|20|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
+|3|116.80.82.225|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
+|6|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|11|136.49.39.94|8888|United States|Austin|Google Fiber Inc.|
+|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|16|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|17|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|18|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|19|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|20|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
 
 
 
