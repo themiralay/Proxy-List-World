@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4846** proxies at the latest update. Usable proxies are below.
+> Scraper found **4864** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|2|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|6|103.163.80.68|8090|Indonesia|Madiun|PT Data Arta Sedaya|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|8|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|9|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|185.76.240.20|10001|Russia|Moscow|GIR SER|
+|10|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|11|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
 |14|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|185.76.240.20|10001|Russia|Moscow|GIR SER|
-|17|51.250.37.15|6666|Russia|Moscow|Yandex.Cloud LLC|
+|15|203.175.103.25|8080|Indonesia|Nagarakembang|PT. Mitra Kita Brilian|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
 |18|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|19|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|20|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|20|187.62.241.136|8080|Brazil|Rio de Janeiro|Metroflex Telecomunicacoes Ltda|
 
 
 
