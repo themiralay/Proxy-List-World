@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|61.72.110.94|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|61.72.221.234|3128|South Korea|Seongnam-si|Korea Telecom|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|12|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|13|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
-|16|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|17|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|18|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|19|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|20|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|6|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|45.122.122.71|8080|India|Pur|FusionNet|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|41.203.83.242|8080|Nigeria|Lagos|Globacom Limited|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|15|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|16|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|17|41.65.146.182|1974|Egypt|Cairo|Etisalat Misr|
+|18|103.251.232.40|8090|Bangladesh|Feni|Virtual American Companies (BD) Limited|
+|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|20|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
 
 
 
