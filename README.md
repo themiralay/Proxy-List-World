@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|4|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|7|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|9|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|10|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|12|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|13|12.89.166.42|8080|United States|Sacramento|AT&T Enterprises, LLC|
-|14|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|15|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|16|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|19|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|103.110.11.219|8080|Indonesia|Banjar|PT Citra Jelajah Informatika|
+|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|27.124.74.251|8080|Philippines|Cebu City|MindLink|
+|11|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|12|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|13|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|14|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|82.38.3.10|8080|Indonesia|Medan|PT Data Digital Indotama|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|203.29.26.63|8080|Indonesia|Jember|PT. Java Digital Nusantara|
+|20|61.29.96.146|8000|Australia|Albury|AAPT Limited|
 
 
 
