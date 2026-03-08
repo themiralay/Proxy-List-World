@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |6|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|7|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|8|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|14|200.10.31.45|999|Colombia|Pereira|Super Redes S.A.S|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|17|103.125.154.1|8080|India|Tirupur|Live Fibernet|
-|18|103.139.126.211|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|19|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|20|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
+|10|200.69.83.203|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|14|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|18|1.1.220.100|8080|Thailand|Wiang Chiang Rung|TOT Public Company Limited|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
 
 
 
