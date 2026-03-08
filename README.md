@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|175.139.208.65|8080|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
-|16|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|17|116.80.82.232|3172|Japan|Yokohama|InfoSphere|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|7|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|8|107.172.125.217|3128|United States|Los Angeles|HostPapa|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|13|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|116.80.82.232|3172|Japan|Yokohama|InfoSphere|
 |19|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
-|20|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
