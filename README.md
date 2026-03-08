@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|4|103.127.86.106|8090|Bangladesh|Bhātāra|Saharea Hossain|
-|5|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|6|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|9|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|10|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|11|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|12|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|13|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|14|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|20|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
+|1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|4|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|6|167.172.69.123|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.167.169.22|8080|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|8|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|13|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|14|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|15|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|16|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|17|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|19|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|20|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
 
 
 
