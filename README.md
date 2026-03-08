@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|7|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|2|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|15|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|16|38.194.224.134|1452|Mexico|León|Cogent Communications|
-|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|17|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|19|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
