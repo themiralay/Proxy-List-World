@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|5|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|6|203.205.49.2|10017|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|7|202.58.64.65|1111|Indonesia|Wonogiri|PT Mamura Inter Media|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|10|117.18.20.66|8085|Indonesia|Blitar|PT ALUCIO|
-|11|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|12|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|14|103.215.36.88|16198|China|Yancheng|China Mobile Communications Corporation|
+|2|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|3|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|190.61.40.186|8080|Colombia|El Copey|Ufinet Panama S.A.|
+|6|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|7|113.23.200.85|8081|Malaysia|Putrajaya|Extreme Broadband|
+|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|202.58.77.133|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|13|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
 |15|14.225.222.164|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|16|38.156.14.34|999|Dominican Republic|Zona Colonial|Bravic SRL|
-|17|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|18|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|19|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
