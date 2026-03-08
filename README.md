@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|9|45.173.6.169|999|Colombia|Zipaquirá|Liberty Networks De Colombia S.A.S|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|160.250.197.49|8080|Bangladesh|Tungipāra|Digicon Telecommunication Ltd|
-|13|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|38.156.14.34|999|Dominican Republic|Zona Colonial|Bravic SRL|
-|15|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
-|16|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|17|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|18|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|20|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|1|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|103.242.105.65|7200|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
+|7|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|186.248.239.154|3128|Brazil|Lagoa Santa|AMERICAN TOWER DO BRASIL-COMUNICAÇÂO MULTIMÍDIA LT|
+|11|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|12|164.138.205.70|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|18|14.225.222.164|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|19|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|20|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
 
 
 
