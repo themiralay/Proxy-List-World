@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|94.68.245.147|8080|Greece|Larissa|OTEnet|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
-|12|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|212.108.115.172|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|187.190.127.212|80|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|3|120.232.242.119|22222|China|Guangzhou|China Mobile communications corporation|
+|4|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
+|8|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
+|11|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
