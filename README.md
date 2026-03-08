@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|2|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|1|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|2|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
 |3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|7|36.50.56.209|8818|Indonesia|Cibinong|PT Andromega Data Nusantara|
-|8|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|9|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|10|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|13|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|14|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|16|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|17|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|18|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|7|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|8|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|10|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|11|124.107.71.252|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|14|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|15|103.122.65.11|8080|Indonesia|Banjar Dalam|PT. Jinom Network Indonesia|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|18|181.79.80.181|999|Colombia|Villa Rica|IFX Networks Argentina S.R.L|
+|19|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|20|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
 
 
 
