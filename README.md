@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|2|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|16|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|19|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|20|176.214.78.122|8080|Russia|Yaroslavl|CJSC "ER-Telecom Holding" Yaroslavl' branch|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|14|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|19|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 
 
 
