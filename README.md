@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|2|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|3|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|5|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|203.205.49.2|10227|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|10|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|14|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
-|15|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
-|17|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|18|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|20|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|120.28.220.138|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
 
 
 
