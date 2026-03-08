@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|3|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|8|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|9|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|1|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|11|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
 |12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|14|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|14|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
 |15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|89.43.132.242|8080|Syria|Ma‘arrat an Nu‘mān|High Speed For Internet Services L.L.C|
-|17|49.146.51.145|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|18|88.255.63.161|8080|Turkey|Alanya|Turk Telekomunikasyon Anonim Sirketi|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|16|167.172.69.123|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|20|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
 
 
 
