@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|103.189.249.140|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|12|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|45.4.202.145|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|20|103.84.177.155|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|203.2.151.24|8080|Indonesia|Subang|PT BARAYA BARENG SADULUR|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|11|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
+|17|103.124.136.251|8080|Indonesia|Cikarang|Global Media Data Prima|
+|18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|19|222.184.48.251|22222|China|Nanjing|Chinanet|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
