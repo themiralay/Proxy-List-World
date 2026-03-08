@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
 |4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|6|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|14|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|15|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|8|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|9|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|12|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|13|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|14|193.32.178.160|57329|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|15|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
