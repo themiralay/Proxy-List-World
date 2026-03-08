@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|10|178.236.245.59|3128|Russia|Moscow|Foton Telecom CJSC|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|120.238.159.229|22222|China|Guangzhou|China Mobile communications corporation|
+|10|120.232.242.119|22222|China|Guangzhou|China Mobile communications corporation|
+|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|13|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |15|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
-|16|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|17|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
-|18|49.146.57.185|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|19|38.156.14.34|999|Dominican Republic|Zona Colonial|Bravic SRL|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|16|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
+|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|18|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|19|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
