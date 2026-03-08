@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|103.189.197.105|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|10|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|11|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|15|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|36.66.130.147|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|19|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|20|176.117.104.172|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|7|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|122.3.87.41|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|20|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
