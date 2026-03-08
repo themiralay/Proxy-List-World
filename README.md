@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
 |2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|9|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|139.162.44.152|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|13|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|7|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|18|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|16|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
