@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|7|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|10|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|14|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|14.225.222.164|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|103.188.169.69|7777|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
-|19|178.236.245.59|3128|Russia|Moscow|Foton Telecom CJSC|
-|20|12.89.166.42|8080|United States|Sacramento|AT&T Enterprises, LLC|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|11|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|12|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|13|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|14|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|16|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|17|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|18|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|19|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
