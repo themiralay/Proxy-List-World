@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|3|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|5|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|4|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|5|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|6|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
 |7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|13|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|14|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|15|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|16|38.190.100.107|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|116.80.82.232|3172|Japan|Yokohama|InfoSphere|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|8|187.102.211.244|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|9|36.66.130.147|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|38.7.195.55|999|Chile|Santiago|Grupo ZGH SPA|
+|14|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|15|185.130.225.170|8080|Netherlands|Amsterdam|Hostkey BV direct|
+|16|14.225.222.164|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|17|202.21.106.35|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|18|178.236.245.59|3128|Russia|Moscow|Foton Telecom CJSC|
+|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|20|116.80.82.232|3172|Japan|Yokohama|InfoSphere|
 
 
 
