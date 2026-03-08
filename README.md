@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|4|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
-|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|101.255.137.2|80|Indonesia|Jakarta|PT Remala Abadi|
-|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|103.107.117.242|8080|Indonesia|Sumbergedong|Pemerintah Kabupaten Trenggalek|
-|11|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
-|12|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|15|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|16|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|17|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
-|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|20|164.138.205.70|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|157.20.207.115|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|8|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|222.184.48.251|22222|China|Nanjing|Chinanet|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|13|187.103.105.20|8085|Brazil|Florianópolis|BR.Digital Telecom|
+|14|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|17|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 
 
 
