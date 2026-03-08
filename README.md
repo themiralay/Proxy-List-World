@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4800** proxies at the latest update. Usable proxies are below.
+> Scraper found **4794** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|546|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|33|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|27|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|6|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|157.66.20.100|8080|Indonesia|Kebumen|PT. GEMILANG SARANA MANDIRI|
-|9|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
-|13|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
-|14|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|18|200.115.100.33|8080|Brazil|São Paulo|FiberPon telecom|
-|19|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
-|20|167.250.141.73|8080|Brazil|Caicó|Meganet Servicos De Comunicacao E Multimidia Ltda|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
+|17|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|19|103.125.117.154|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|20|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
 
 
 
