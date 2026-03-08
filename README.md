@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
 |9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|103.104.99.29|80|Indonesia|Sidoarjo|Dinas Komunikasi DAN Informatika Kabupaten Sidoarjo|
-|14|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|18|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|14.225.222.185|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|10|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|11|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|19|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|20|14.225.222.185|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 
 
 
