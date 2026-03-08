@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.9.195.140|1080|United States|New York|UpCloud USA Inc|
+|1|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
 |2|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|4|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|103.122.66.224|7777|Indonesia|Ponorogo|PT. Jinom Network Indonesia|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|14|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|18|158.140.169.165|8080|Indonesia|Surabaya|MYREPUBLIC|
-|19|187.103.105.20|8085|Brazil|Florianópolis|BR.Digital Telecom|
-|20|121.101.133.220|7777|Indonesia|Kutoarjo|PT SELARAS CITRA TERABIT|
+|3|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|4|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|167.172.69.123|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|9|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|10|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|11|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|12|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|14|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|15|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
