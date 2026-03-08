@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|138.118.106.121|999|Guatemala|Antigua Guatemala|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|20|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|11|103.146.185.140|1111|Indonesia|Wonogiri|YAMNET|
+|12|200.107.142.36|3128|Peru|Lima|Telefonica del Peru S.A.A.|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|15|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|16|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
+|17|116.80.82.217|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|19|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|185.103.134.36|8080|Russia|Moscow|Address AS 57191|
 
 
 
