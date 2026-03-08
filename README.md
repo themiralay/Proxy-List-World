@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
-|3|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|6|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|180.190.202.141|8082|Philippines|Lahug|Globe Telecom|
-|13|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
-|14|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|15|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|16|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|1|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|4|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|5|157.10.89.203|8880|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
+|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|18|116.80.82.217|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|20|117.18.20.66|8085|Indonesia|Blitar|PT ALUCIO|
 
 
 
