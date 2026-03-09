@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
-|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|1.1.213.177|8080|Thailand|Akat Amnuai|TOT Public Company Limited|
-|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
+|3|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|36.72.6.135|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|10|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
 |11|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|12|125.27.155.78|8080|Thailand|Hua Hin|TOT Public Company Limited|
-|13|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
-|14|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|16|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|17|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|18|103.122.65.11|8080|Indonesia|Banjar Dalam|PT. Jinom Network Indonesia|
-|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|20|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|12|190.97.249.30|999|Venezuela|San Cristóbal|Viginet C.A|
+|13|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
+|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|15|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|16|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|17|201.77.110.129|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
 
 
 
