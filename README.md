@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|2|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|8|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|103.48.71.194|83|India|Hyderabad|Country Online Services PVT LTD|
-|11|101.255.211.41|1111|Indonesia|Bekasi|PT Remala Abadi|
-|12|177.136.44.194|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
-|13|103.133.25.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|14|181.78.20.11|999|Colombia|Rionegro|IFX Networks Argentina S.R.L|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|103.127.86.106|8090|Bangladesh|Bhātāra|Saharea Hossain|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|11|192.232.48.21|8181|Indonesia|Pringsewu|Indonesia Network Information Center|
+|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|36.67.194.162|8042|Indonesia|Sukabumi Selatan|PT. Telekomunikasi Indonesia|
 |17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|103.17.88.18|8080|Vietnam|Thu Dau Mot|VNTT|
+|18|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|38.156.14.34|999|Dominican Republic|Zona Colonial|Bravic SRL|
 
 
 
