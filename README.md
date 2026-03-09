@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
 |2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.217.129.162|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|45.167.124.248|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|160.19.19.109|8097|Indonesia|Mranggen|PT Indo Telemedia Solusi|
-|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
-|16|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|17|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|18|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
-|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|12|38.159.37.21|999|Dominican Republic|Santo Domingo|Orbitek SRL|
+|13|181.78.51.157|999|Guatemala|Santa Cruz Balanyá|Ufinet Panama S.A.|
+|14|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
+|15|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|103.42.203.60|8090|Bangladesh|Lakshmīpur|HelloTech Limited|
+|19|103.240.68.135|8097|Indonesia|Deli Tua|PT Parsaoran Global Datatrans|
+|20|200.107.142.36|3128|Peru|Lima|Telefonica del Peru S.A.A.|
 
 
 
