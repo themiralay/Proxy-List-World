@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|2|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|1|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |5|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|6|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
 |12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|112.209.35.51|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|13|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|17|103.84.177.155|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|18|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 
 
 
