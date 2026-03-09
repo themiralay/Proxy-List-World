@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|6|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|7|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|103.46.11.92|8080|Indonesia|Sudimoro|Lintas Data Prima, PT|
-|10|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|11|195.62.50.39|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|15|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|103.166.159.197|8181|Indonesia|Rangkasbitung|PT Timor Lintas Nusantara|
-|18|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
+|13|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
+|14|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|15|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|16|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
+|17|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|20|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
