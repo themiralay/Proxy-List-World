@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|2|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|3|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
-|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|13|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|14|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|15|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|17|193.43.159.88|8080|Syria|Latakia|Syrian Telecom|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
+|3|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
+|4|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|6|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|7|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|13|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
+|14|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|16|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|17|188.225.33.99|8382|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|101.255.76.66|8080|Indonesia|Menteng Dalam|PT Remala Abadi|
+|19|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 
 
 
