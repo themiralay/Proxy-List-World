@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |3|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|6|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|7|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|9|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|10|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|11|103.155.166.150|8181|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|14|201.182.85.12|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|5|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|6|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|7|202.179.16.2|443|Mongolia|Ulan Bator|Mongolia Telecom|
+|8|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|9|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|10|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|180.191.23.95|8081|Philippines|Cabanatuan City|Globe Telecom|
+|13|201.182.85.12|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|14|160.250.197.49|8080|Bangladesh|Tungipāra|Digicon Telecommunication Ltd|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|103.124.136.251|8080|Indonesia|Cikarang|Global Media Data Prima|
+|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|18|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|19|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
