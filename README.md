@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|200.39.137.137|999|Chile|Valparaíso|Iconex SPA|
-|15|45.180.26.1|999|Chile|Ovalle|Roberto Mena Oyarzun Comunicaciones Eirl|
-|16|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|17|202.154.18.88|8081|Indonesia|Babat|DIGITNET|
-|18|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|19|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|20|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|13|124.106.223.156|9999|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
+|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
 
 
 
