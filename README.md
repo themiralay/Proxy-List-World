@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|11|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|4|179.57.171.227|999|Chile|Nueva Imperial|Telefonica del Sur S.A.|
+|5|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|190.102.246.94|999|Chile|Los Ángeles|Pacifico Cable SPA.|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
+|10|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|11|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
 |12|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|14|164.132.248.251|80|France|Paris|OVH SAS|
-|15|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|16|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|17|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|14|45.190.76.110|999|Mexico|Zapopan|Meta Networks SA De CV|
+|15|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
+|16|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 
 
 
