@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|10|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.166.91.61|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
-|12|138.124.93.82|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|17|181.209.108.218|999|Argentina|Campo Gallo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|124.106.116.34|1337|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|19|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|7|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
+|14|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
+|15|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
+|16|38.190.100.107|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
+|17|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
 
 
 
