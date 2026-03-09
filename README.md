@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|4|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|5|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|6|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|14|38.156.23.225|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|17|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|4|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|8|103.127.86.106|8090|Bangladesh|Bhātāra|Saharea Hossain|
+|9|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|14|59.36.239.108|21133|China|Guangzhou|Chinanet|
+|15|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|20|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
 
 
 
