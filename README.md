@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|1|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|2|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |5|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 |8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|13|180.191.32.233|8081|Philippines|Cabanatuan City|Globe Telecom|
-|14|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|15|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
-|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|9|103.120.174.75|1818|Indonesia|Jakarta|PT. Eka Mas Republik|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|38.252.215.253|999|Peru|Independencia|Cogent Communications|
+|13|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|103.188.33.74|8085|Indonesia|Pangkalan Brandan|LINTASARTA|
+|16|124.158.191.101|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|19|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
 
 
 
