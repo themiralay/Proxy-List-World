@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|4|67.219.118.122|8080|United States|Weatherford|Nextlink Broadband|
-|5|181.209.108.218|999|Argentina|Campo Gallo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|10|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|11|201.186.41.170|999|Chile|Castro|Telefonica del Sur S.A.|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|5.58.7.214|8080|Ukraine|Ternopil|Columbus|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|16|144.31.0.166|3128|Poland|Warsaw|H2nexus LTD|
-|17|45.180.26.1|999|Chile|Ovalle|Roberto Mena Oyarzun Comunicaciones Eirl|
-|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
+|1|157.20.204.40|8080|Indonesia|Probolinggo|PT Berbaur Network Connected|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|124.106.116.34|1337|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|7|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|103.154.52.5|1111|Indonesia|Majenang|WIFIKITA|
+|11|181.209.108.218|999|Argentina|Campo Gallo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|180.191.32.233|8081|Philippines|Cabanatuan City|Globe Telecom|
+|15|103.133.24.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|37.238.45.74|8080|Iraq|Baghdad|EarthLink Ltd. Communications&|
+|17|103.147.247.193|8080|Indonesia|Pasarkemis|PLBNET|
+|18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|19|181.78.51.157|999|Guatemala|Santa Cruz Balanyá|Ufinet Panama S.A.|
+|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 
 
 
