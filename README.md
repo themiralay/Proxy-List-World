@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|17|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|18|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|8|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|13|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|17|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|18|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 
 
