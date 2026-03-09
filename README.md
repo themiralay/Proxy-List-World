@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|4|38.10.91.115|8084|Philippines|Iloilo City|Cogent Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|181.48.39.89|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|11|190.90.252.241|999|Colombia|La Playa|Internexa S.a. E.S.P|
-|12|103.165.123.109|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|181.78.51.157|999|Guatemala|Santa Cruz Balanyá|Ufinet Panama S.A.|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|17|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
-|18|113.162.163.104|10008|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|20|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|2|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
+|3|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|4|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|5|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
+|6|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|7|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|8|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|9|186.96.67.40|999|Venezuela|Cúa|Gold Data USA Inc|
+|10|163.5.128.97|14270|United States|Brooklyn|Windstream Communications LLC|
+|11|61.72.221.194|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|13|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|17|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
+|18|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
 
 
 
