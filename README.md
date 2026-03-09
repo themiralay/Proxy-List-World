@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|3|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|157.66.50.37|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|122.54.119.79|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|103.160.205.86|8080|Indonesia|Timba Timuk|PRIME|
-|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|190.52.110.43|999|Venezuela|Caracas|Gold Data Colombia|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|103.48.68.141|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|20|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|4|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
+|7|103.160.205.86|8080|Indonesia|Timba Timuk|PRIME|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|209.38.54.154|8443|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|12|171.5.172.95|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|192.203.0.70|999|Puerto Rico|Comunas|Boom NET|
+|18|122.53.59.59|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
