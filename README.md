@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
-|4|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|12|124.106.223.156|9999|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
-|13|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|14|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|17|103.167.229.147|8080|Nepal|Janakpur Dham|Fiberworld Communication Pvt. Ltd|
-|18|202.154.18.88|8081|Indonesia|Babat|DIGITNET|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|202.21.106.35|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
+|8|190.94.212.44|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|9|160.20.38.102|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|103.131.19.51|8080|Indonesia|Krajan Kertonegoro|PT Global Media Data Prima|
+|14|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|16|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|17|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|18|165.99.239.31|3125|Indonesia|Demak|PT MERDEKA TELEKOMUNIKASI CENTER|
+|19|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
