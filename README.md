@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.133.24.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|103.133.61.185|8080|Indonesia|Gedong Tataan|TLINK|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
-|11|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
-|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|15|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|18|176.117.105.130|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|2|103.133.24.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|12|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|15|138.124.93.82|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
+|19|103.196.40.239|3125|Indonesia|Bangkinang|PT Sarana Working Akses Indonesia|
+|20|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
