@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|3|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|5|138.124.93.82|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|7|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|101.255.151.245|8080|Indonesia|Jakarta|PT Remala Abadi|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|16|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|18|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
-|19|103.127.86.106|8090|Bangladesh|Bhātāra|Saharea Hossain|
-|20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|1|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.157.58.49|8080|Indonesia|Sungguminasa|PT. Eka Mas Republik|
+|5|1.1.213.177|8080|Thailand|Akat Amnuai|TOT Public Company Limited|
+|6|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|116.80.82.219|3172|Japan|Yokohama|InfoSphere|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|19|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|20|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
 
 
 
