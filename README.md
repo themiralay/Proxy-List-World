@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |4|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|5|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|9|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|10|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|17|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|18|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|19|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|20|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
+|9|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|12|103.242.105.70|8080|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
+|13|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|5.101.0.233|3128|Russia|St Petersburg|Petersburg Internet Network ltd.|
+|16|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
