@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|4|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|5|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|45.188.108.6|8080|Mexico|Veracruz|Conectared SA De CV|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|45.190.76.110|999|Mexico|Zapopan|Meta Networks SA De CV|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|185.20.216.230|8088|Ukraine|Kyiv|Protelecom LLC|
-|12|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
-|14|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|16|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|190.238.171.190|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|103.109.212.14|2254|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|12|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.85.53.77|8080|Indonesia|Guyangan|PT Binerkahan Digital Telco|
+|17|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
 |18|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|19|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
-|20|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|38.194.246.34|999|Mexico|Los Ramírez|Cogent Communications|
 
 
 
