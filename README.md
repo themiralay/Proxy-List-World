@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |7|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
-|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|9|186.227.119.91|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
-|10|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
-|11|190.60.45.83|999|Colombia|La Apartada|IFX NETWORKS COLOMBIA|
-|12|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|14|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|15|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|212.175.29.184|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|17|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|18|43.231.79.53|8080|Bangladesh|Dhaka|Gateway Online Access Limited|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|147.75.34.105|443|Netherlands|Huizen|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|81.201.56.208|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|15|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|16|36.94.149.149|8090|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|17|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 
 
 
