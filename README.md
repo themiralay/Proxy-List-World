@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
-|5|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|6|103.124.251.12|8081|Bangladesh|Jessore|Earth Telecommunication|
-|7|103.165.123.109|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|209.38.54.154|8443|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|18|121.100.19.82|7088|Indonesia|Pamulang|NAP.Net.id - Network Access Point|
-|19|186.33.5.13|8080|Guatemala|Guatemala City|IFX Corporation|
-|20|212.108.115.172|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|2|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|13|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|14|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|15|202.58.64.65|1111|Indonesia|Wonogiri|PT Mamura Inter Media|
+|16|181.48.39.89|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|17|222.184.48.251|22222|China|Nanjing|Chinanet|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
 
 
 
