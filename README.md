@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.166.91.61|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
-|2|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|5|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|6|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
-|7|103.39.51.184|8088|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|11|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
-|12|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|200.107.142.36|3128|Peru|Lima|Telefonica del Peru S.A.A.|
-|15|176.117.105.130|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|18|167.250.141.73|8080|Brazil|Caicó|Meganet Servicos De Comunicacao E Multimidia Ltda|
-|19|193.228.139.78|8888|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
-|20|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|5|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|6|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|8|103.87.202.19|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|9|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|14|147.45.141.187|50308|Russia|Moscow|JSC "TIMEWEB"|
+|15|163.5.128.33|14270|United States|Brooklyn|Windstream Communications LLC|
+|16|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|18|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 
 
 
