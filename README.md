@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|3|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |4|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
-|5|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|5|64.186.232.4|10808|United States|Los Angeles|DMIT Cloud Services|
 |6|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|9|167.250.141.73|8080|Brazil|Caicó|Meganet Servicos De Comunicacao E Multimidia Ltda|
+|10|195.87.136.2|5331|Türkiye|Istanbul|VFNET|
 |11|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|13|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|16|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|12|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|16|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|17|103.124.197.227|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|190.97.226.134|999|Venezuela|Barinas|Viginet C.A|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
