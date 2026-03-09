@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
-|2|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.168.254.81|1111|Indonesia|Jekulo|PT Fahasa Tri Data|
 |4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|7|178.236.245.59|3128|Russia|Moscow|Foton Telecom CJSC|
-|8|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|203.115.123.163|1452|India|Mumbai|PRIMENET|
-|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|14|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
-|15|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|16|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|20|113.23.200.85|8081|Malaysia|Putrajaya|Extreme Broadband|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|190.109.121.1|999|Ecuador|Babahoyo|Drivernet S.A.|
+|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|18|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
