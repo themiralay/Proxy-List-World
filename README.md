@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|7|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|116.80.82.230|3172|Japan|Yokohama|InfoSphere|
+|2|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|3|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|5|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|8|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 |9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
-|14|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|15|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
-|16|188.132.141.249|443|Turkey|Istanbul|Netvia Bilisim Yazilim Dan. Tic. Ltd. Sti.|
-|17|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|19|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|10|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|178.236.245.59|3128|Russia|Moscow|Foton Telecom CJSC|
+|13|187.190.127.212|80|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|14|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|14.56.107.244|3128|South Korea|Uijeongbu-si|Korea Telecom|
+|16|138.124.93.82|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|17|121.128.121.54|3128|South Korea|Ansan-si|Korea Telecom|
+|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|181.78.25.253|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 
 
 
