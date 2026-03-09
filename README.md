@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.217|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|49.149.118.208|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|116.80.82.226|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.82.217|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|4|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|5|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|8|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|9|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|11|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|125.128.12.144|3128|South Korea|Songpa-gu|Korea Telecom|
+|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 |14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|16|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|17|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|160.250.197.49|8080|Bangladesh|Tungipāra|Digicon Telecommunication Ltd|
+|20|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
 
 
 
