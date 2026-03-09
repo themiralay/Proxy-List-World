@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
 |4|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|5|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|9|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|103.46.11.92|8080|Indonesia|Sudimoro|Lintas Data Prima, PT|
-|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|203.150.113.193|8080|Thailand|Ang Thong|Internet Thailand Company Ltd.|
-|15|190.60.45.83|999|Colombia|La Apartada|IFX NETWORKS COLOMBIA|
-|16|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
-|17|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|7|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|8|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|190.110.36.195|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
+|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|15|103.166.159.197|8181|Indonesia|Rangkasbitung|PT Timor Lintas Nusantara|
+|16|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
 |19|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
 |20|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
 
