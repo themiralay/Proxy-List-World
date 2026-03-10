@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|10|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|11|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|49.146.51.145|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|16|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|18|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|12|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|13|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
+|14|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|16|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|17|72.56.104.188|1080|Germany|Frankfurt am Main|Timeweb|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
