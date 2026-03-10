@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4859** proxies at the latest update. Usable proxies are below.
+> Scraper found **4858** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|37|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|36|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|6|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|13|102.217.139.31|8180|South Africa|Cape Town|Bluedog Technology|
-|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
-|16|203.150.113.4|8080|Thailand|Ang Thong|Internet Thailand Company Ltd.|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
-|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|20|103.133.26.45|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|1|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|2|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|17|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|18|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|20|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
 
 
 
