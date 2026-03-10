@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
 |4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|157.66.138.79|1080|Indonesia|Cikampek|PT Neo Fiber Teknologi|
+|5|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|14|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|16|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|18|103.147.134.179|8080|Indonesia|Surabaya|PT.MURNI MAKMUR ABADI|
-|19|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|20|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|10|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|12|103.188.169.160|7777|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|20|103.48.70.105|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
