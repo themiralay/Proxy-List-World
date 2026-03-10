@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
-|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|11|124.6.141.83|8082|Philippines|Taguig|Globe Telecom|
-|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|201.230.15.57|999|Peru|Piedra Blanca|Telefonica del Peru|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|8|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|12|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|186.148.184.18|999|Colombia|El Carmen|TV AZTECA SUCURSAL COLOMBIA|
+|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|19|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
 
 
 
