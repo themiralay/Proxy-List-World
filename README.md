@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|9|103.155.246.42|8080|Indonesia|Sukoharjo|AMANNA|
-|10|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|13|103.166.124.227|8080|Indonesia|Kabupaten Tuban|PT Loveika Host Nusantara|
-|14|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|17|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|18|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|19|203.76.98.21|45958|Bangladesh|Tāngāil|Link3 Technologies Limited|
-|20|95.213.247.248|1080|Russia|Moscow|JSC Selectel|
+|7|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|8|37.139.33.145|1080|Russia|Moscow|LLC VK|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
+|13|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|15|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|17|120.238.159.228|22222|China|Guangzhou|China Mobile communications corporation|
+|18|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|19|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
 
 
 
