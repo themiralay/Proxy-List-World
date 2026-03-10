@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4798** proxies at the latest update. Usable proxies are below.
+> Scraper found **4871** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|534|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|607|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|4|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|11|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|15|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|74.48.130.93|1080|United States|Los Angeles|Multacom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|12|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|16|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|17|95.213.247.248|1080|Russia|Moscow|JSC Selectel|
+|18|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
