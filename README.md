@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|103.191.196.96|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|7|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|13|107.172.125.217|3128|United States|Los Angeles|HostPapa|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|18|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|19|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|20|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|3|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|4|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|14|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|15|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|18|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
+|19|212.252.73.42|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
+|20|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
