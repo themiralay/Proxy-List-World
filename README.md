@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |5|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|6|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|7|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
 |9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|10|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.82.223|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|14|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|15|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
-|16|116.80.82.231|3172|Japan|Yokohama|InfoSphere|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|116.80.96.103|3172|Japan|Yokohama|InfoSphere|
-|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|20|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|13|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|14|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|120.28.220.138|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
