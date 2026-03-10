@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|1|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|2|116.80.82.216|3172|Japan|Yokohama|InfoSphere|
+|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 |9|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|10|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|12|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|14|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|19|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.96.103|3172|Japan|Yokohama|InfoSphere|
+|10|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|15|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|176.117.104.173|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
