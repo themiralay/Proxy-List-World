@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|45.122.122.71|8080|India|Pur|FusionNet|
-|8|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|10|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|3|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|6|102.217.139.31|8180|South Africa|Cape Town|Bluedog Technology|
+|7|190.61.61.210|999|Colombia|Villapinzón|Ufinet Panama S.A.|
+|8|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|124.106.223.156|9999|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
+|14|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
 |16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|17|170.9.224.115|3128|United States|Chicago|Oracle Corporation|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
-|20|212.175.61.31|8080|Turkey|Ümraniye|Turk Telekomunikasyon Anonim Sirketi|
+|17|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
+|18|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|19|95.213.247.248|1080|Russia|Moscow|JSC Selectel|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
