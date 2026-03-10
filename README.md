@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|10|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
-|11|38.183.146.29|7080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|12|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|45.141.234.150|1080|Ireland|Dublin|Global Connectivity Solutions LLP|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|159.54.160.87|40000|United States|San Jose|Oracle Corporation|
 |14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|186.96.73.181|999|Venezuela|Caracas|Gold Data USA Inc|
-|16|181.204.104.245|999|Colombia|Barranquilla|Colombia Móvil|
-|17|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|15|203.175.103.9|3125|Indonesia|Cikananga|PT. Mitra Kita Brilian|
+|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|190.121.4.157|999|Chile|Temuco|Telefonica del Sur S.A.|
+|20|162.240.154.26|3128|United States|Provo|Unified Layer|
 
 
 
