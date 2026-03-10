@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
+|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.156.17.199|8818|Indonesia|Jatibarang|RSTNET|
-|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|15|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|16|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|17|154.64.240.39|1080|United States|Los Angeles|NetLab Global|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|8|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|10|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|11|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|12|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|16|103.10.228.119|8080|Thailand|Si Maha Phot|CATBB|
+|17|181.79.94.31|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|18|36.50.92.145|8080|Indonesia|Rancamulya|PT Ring Media Nusantara|
+|19|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|223.26.63.121|8888|Hong Kong|Hung Hom|CTG Server Limited|
 
 
 
