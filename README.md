@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
 |2|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
-|19|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|9|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|13|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|14|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|15|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|18|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
