@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|12|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|13|91.230.65.202|8080|Russia|Moscow|Panin Kirill Evgenyevich|
 |14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 |15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|17|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|18|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|20|41.65.146.182|1974|Egypt|Cairo|Etisalat Misr|
+|16|213.154.2.210|3128|Azerbaijan|Baku|Baku Telephone Communication LLC|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|20|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
