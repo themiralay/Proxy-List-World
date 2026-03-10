@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4847** proxies at the latest update. Usable proxies are below.
+> Scraper found **4832** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|589|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|557|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|37|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
-|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|12|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|13|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
+|14|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|15|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
 |16|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|19|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|19|118.97.137.68|8080|Indonesia|Utan|PT. TELKOM INDONESIA|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
