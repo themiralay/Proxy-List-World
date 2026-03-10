@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
-|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|5|103.227.187.193|6080|Indonesia|Wirodayan|PT Master Star Network|
 |6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|11|103.180.123.229|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|103.145.34.10|55443|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|138.59.11.192|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
-|19|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|20|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|13|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|14|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|18|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
