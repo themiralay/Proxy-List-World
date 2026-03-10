@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
 |11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|13|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|103.66.197.2|8080|Indonesia|Serpong|PT. Mora Telematika Indonesia|
-|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|18|190.109.6.121|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|19|103.109.212.14|2254|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|20|206.84.201.101|999|Peru|Callao|Cogent Communications|
+|12|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|13|190.60.57.42|3128|Colombia|San Diego|IFX NETWORKS COLOMBIA|
+|14|103.147.134.179|8080|Indonesia|Surabaya|PT.MURNI MAKMUR ABADI|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|17|58.147.190.145|8181|Indonesia|Depok|PT. Transhybrid Communication|
+|18|157.10.89.203|8880|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
+|19|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
