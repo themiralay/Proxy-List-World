@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|116.80.82.228|3172|Japan|Yokohama|InfoSphere|
 |4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |5|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|8|103.3.58.162|8080|Indonesia|Surabaya|PT. Java Digital Nusantara|
-|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|10|103.156.16.193|8818|Indonesia|Indramayu|RSTNET|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|186.148.184.18|999|Colombia|El Carmen|TV AZTECA SUCURSAL COLOMBIA|
-|15|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|16|124.6.141.83|8082|Philippines|Taguig|Globe Telecom|
-|17|116.80.64.157|7777|Japan|Yokohama|InfoSphere|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|20|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|38.156.23.36|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|11|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|186.148.184.18|999|Colombia|El Carmen|TV AZTECA SUCURSAL COLOMBIA|
+|17|188.132.249.231|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
+|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|103.156.17.199|8818|Indonesia|Jatibarang|RSTNET|
+|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
 
 
 
