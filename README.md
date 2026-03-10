@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|2|162.240.154.26|3128|United States|Provo|Unified Layer|
-|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|12|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
-|13|162.240.154.26|3128|United States|Provo|Unified Layer|
-|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|15|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|20|14.225.212.37|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|3|4.190.168.163|3128|Japan|Osaka|Microsoft Corporation|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|14|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|15|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|16|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|17|159.54.160.87|40000|United States|San Jose|Oracle Corporation|
+|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
