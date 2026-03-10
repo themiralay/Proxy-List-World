@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|11|103.17.246.60|1080|Indonesia|Banjar Badung|PT Media Sarana Data|
-|12|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|8|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|9|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|10|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|11|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|14|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|16|103.109.212.14|2254|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|190.120.252.174|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|20|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
 
 
 
