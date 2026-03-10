@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |3|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|4|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|10|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|7|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
 |11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |17|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|18|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|19|38.190.100.107|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
-|20|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|18|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
+|19|103.78.83.24|8083|Indonesia|Jakarta|MORATELINDO|
+|20|116.80.82.224|3172|Japan|Yokohama|InfoSphere|
 
 
 
