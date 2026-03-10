@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|11|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|209.38.51.97|3128|United States|Clifton|DigitalOcean, LLC|
-|14|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
-|17|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|18|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|15|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|16|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
