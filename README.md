@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.46|7777|Japan|Yokohama|InfoSphere|
+|1|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
 |2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|116.80.82.220|3172|Japan|Yokohama|InfoSphere|
+|3|154.3.236.202|3128|United States|Waltham|Charles River Operation|
 |4|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|8|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|43.252.238.166|8080|Indonesia|Gunungkalong|PT Usaha Adi Sanggoro|
-|11|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|12|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|13|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.146.38.7|1111|Indonesia|Karawang|MEDIASOLUSISUKSES|
-|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|18|36.95.176.38|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|5|45.141.234.150|1080|Ireland|Dublin|Global Connectivity Solutions LLP|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|11|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|103.58.75.29|8083|Bangladesh|Dhaka|BUSINESSNETWORK|
+|13|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|14|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|16|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|19|116.80.82.227|3172|Japan|Yokohama|InfoSphere|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
