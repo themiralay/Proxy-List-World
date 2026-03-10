@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|149.100.71.94|8181|Indonesia|Batam|PT Mulia Batam Net|
-|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|8|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|14|103.169.39.121|8080|Indonesia|Kebonarun|PT Boombas Carlo Medianet|
-|15|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|16|103.132.53.47|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
-|17|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|8|185.196.182.22|8080|Albania|Krumë|shqiponjaisp.al LLC|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|11|180.180.218.250|8080|Thailand|Khlong Sam Wa|TOT Public Company Limited|
+|12|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|13|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|14|185.188.181.223|10808|Finland|Helsinki|I-servers LTD|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|187.190.114.57|999|Mexico|Papantla de Olarte|Total Play Telecomunicaciones SA De CV|
+|17|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
 |18|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|46.161.196.139|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|19|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|20|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
 
 
 
