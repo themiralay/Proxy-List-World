@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
 |2|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|5|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|7|175.158.63.166|1111|Indonesia|Jakarta|CBNNAP|
-|8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|11|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|14|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|15|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|130.193.44.12|10808|Russia|Moscow|Yandex enterprise network|
-|17|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|18|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|19|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|20|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|3|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|120.50.10.106|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
+|12|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|15|130.193.44.12|10808|Russia|Moscow|Yandex enterprise network|
+|16|103.112.131.14|8080|Bangladesh|Dukuria|Sayem Online Communication|
+|17|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|18|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|19|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|20|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
 
 
 
