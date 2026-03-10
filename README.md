@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|2|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
+|5|61.72.221.94|3128|South Korea|Seongnam-si|Korea Telecom|
+|6|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
 |7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|8|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|9|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|11|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|15|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|17|212.41.26.160|10808|Russia|Moscow|JSC Selectel|
-|18|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|20|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
+|8|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|9|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|10|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|11|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|19|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|20|103.171.255.178|8080|Indonesia|Godean|ZKI|
 
 
 
