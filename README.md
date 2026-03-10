@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
-|2|125.128.12.14|3128|South Korea|Songpa-gu|Korea Telecom|
-|3|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|6|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|7|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.82.229|3172|Japan|Yokohama|InfoSphere|
+|3|14.56.177.44|3128|South Korea|Yangju|Korea Telecom|
+|4|61.72.110.114|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|7|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
 |8|154.3.236.202|3128|United States|Waltham|Charles River Operation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
-|15|103.4.76.105|8589|Indonesia|Parung|PT Khazanah Net Indonesia|
-|16|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|17|136.49.34.18|8888|United States|Austin|Google Fiber Inc.|
-|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|10|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|12|154.3.236.202|3128|United States|Waltham|Charles River Operation|
+|13|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|14|61.72.110.54|3128|South Korea|Gwangjin-gu|Korea Telecom|
+|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|16|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|18|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
 
 
 
