@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|17|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|203.205.49.2|10110|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|19|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|9|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|10|14.225.222.164|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|11|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|45.177.16.137|999|Paraguay|Ciudad del Este|MSW S.A.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|19|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
+|20|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
