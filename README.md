@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
 |8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
 |10|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|20|203.205.49.2|10230|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|11|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|12|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|20|86.53.183.16|1080|United Kingdom|City of London|GTT|
 
 
 
