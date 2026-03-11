@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|4|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|10|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
 |11|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|14|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|15|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|103.165.155.195|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|12|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|13|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|14|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|17|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
