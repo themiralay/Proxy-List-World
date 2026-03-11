@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|1|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|2|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|7|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
-|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|11|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|12|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|37.139.33.145|1080|Russia|Moscow|LLC VK|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|20|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|11|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|12|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|13|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|15|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|16|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|17|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|18|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
 
 
 
