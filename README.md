@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|8|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|13|185.188.181.223|10808|Finland|Helsinki|I-servers LTD|
-|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|15|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|16|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|17|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|9|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|11|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|12|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|13|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|14|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|15|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|17|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|18|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
