@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|2|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|8|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|7|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|10|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|11|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|17|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|18|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
 
 
 
