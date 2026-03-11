@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|1|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|4|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
 |5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |8|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |10|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
 |11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|182.253.109.182|8080|Indonesia|Semarang|Biznet Metronet|
-|13|37.139.33.145|1080|Russia|Moscow|LLC VK|
-|14|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
-|15|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
-|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|17|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|18|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|203.205.49.2|10110|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|20|38.121.212.98|8080|Venezuela|Lecherías|Galanet Solution C.A|
+|12|37.139.33.145|1080|Russia|Moscow|LLC VK|
+|13|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|17|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|192.206.202.1|8080|United States|Dixon|Black Mesa Wireless, LLC.|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
