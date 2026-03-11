@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|6|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|11|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|12|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|13|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|15|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|2|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|103.154.52.5|1111|Indonesia|Majenang|WIFIKITA|
+|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|14|37.139.33.145|1080|Russia|Moscow|LLC VK|
+|15|14.225.222.164|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|103.175.202.58|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
 
 
 
