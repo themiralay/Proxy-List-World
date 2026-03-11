@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
 |2|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
 |3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|107.173.0.178|1080|United States|Buffalo|HostPapa|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|139.162.44.152|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|7|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|10|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|11|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|16|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
