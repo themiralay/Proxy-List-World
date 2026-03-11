@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
 |2|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|7|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|37.139.33.145|1080|Russia|Moscow|LLC VK|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|10|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|11|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|12|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|163.61.55.173|1111|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|15|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|17|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|20|37.139.33.145|1080|Russia|Moscow|LLC VK|
 
 
 
