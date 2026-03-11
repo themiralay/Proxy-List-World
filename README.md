@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
 |4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|11|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|12|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|13|171.237.180.135|2102|Vietnam|Hanoi|Viettel Corporation|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|203.205.49.2|10110|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|17|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|19|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|9|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|10|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|14|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|190.97.236.70|999|Venezuela|San Cristóbal|Viginet C.A|
+|17|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|20|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
