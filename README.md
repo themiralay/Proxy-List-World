@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|115.178.49.111|8080|Indonesia|Soreang|NOC SIMAYA|
 |7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|14.224.218.210|8080|Vietnam|Ho Chi Minh City|VNPT|
+|8|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 |11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|14|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|14|171.237.180.135|2102|Vietnam|Hanoi|Viettel Corporation|
+|15|103.171.183.146|7777|Indonesia|Cikarang|PT Hayat Teknologi Informatika|
+|16|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
 |17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|19|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
+|18|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|19|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
 |20|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
 
 
