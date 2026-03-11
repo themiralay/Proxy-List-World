@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|107.173.0.178|1080|United States|Buffalo|HostPapa|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|11|107.173.0.178|1080|United States|Buffalo|HostPapa|
-|12|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|16|27.77.243.210|5110|Vietnam|Ho Chi Minh City|Newass2011xDSLHCMC|
-|17|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|18|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|19|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|107.173.0.178|1080|United States|Buffalo|HostPapa|
+|5|107.173.0.178|1080|United States|Buffalo|HostPapa|
+|6|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|7|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|12|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|13|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|93.182.23.94|6060|Russia|Moscow|Kvidex-Telecom|
+|16|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|170.80.203.46|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|19|101.255.211.41|1111|Indonesia|Bekasi|PT Remala Abadi|
+|20|152.42.213.210|443|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
