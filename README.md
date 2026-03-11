@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|5|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|14|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|190.6.54.12|6969|Venezuela|La Victoria|Net Uno, C.A.|
-|17|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|19|46.249.103.192|443|Sweden|Stockholm|BitCommand LLC|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|9|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|94.176.3.43|7443|Netherlands|Amsterdam|Hostkey B.V.|
+|12|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|38.253.88.242|999|Dominican Republic|Jarabacoa|Cogent Communications|
+|18|45.229.17.2|999|Ecuador|Vinces|Turbonet S.A.|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 
 
 
