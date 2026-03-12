@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|7|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|8|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|9|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
-|10|119.18.145.49|20326|Bangladesh|Chittagong|BBTS Network|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|206.84.201.101|999|Peru|Callao|Cogent Communications|
-|14|187.251.222.69|8080|Mexico|Benito Juarez|Total Play Telecomunicaciones SA De CV|
-|15|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|18|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
+|12|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|14|185.189.51.72|12345|Sweden|Tällberg|Yelles AB|
+|15|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|16|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|17|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
