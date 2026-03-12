@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|4|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
 |8|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|103.30.29.204|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|163.5.128.61|14270|United States|Brooklyn|Windstream Communications LLC|
-|15|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|16|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|17|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|18|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|10|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|11|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.106.119.217|8081|Bangladesh|Thakurgaon|Earth-TEL|
 
 
 
