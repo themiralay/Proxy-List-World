@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
 |8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|10|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|11|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|19|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|20|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|10|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|11|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|13|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|14|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|15|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|17|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|20|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
 
 
 
