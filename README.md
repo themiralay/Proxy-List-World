@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
 |6|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
 |9|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|10|223.25.110.185|8080|Indonesia|Singosari|SinergiNet|
+|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 |11|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|103.48.70.161|83|India|Bandlaguda|Country Online Services PVT LTD|
-|13|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|14|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|15|57.128.188.167|9157|United Kingdom|Erith|OVH SAS|
-|16|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|17|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|18|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|19|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|14|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|15|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|16|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|17|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|18|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|19|203.150.128.30|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|20|107.173.52.58|7890|United States|Buffalo|HostPapa|
 
 
 
