@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|103.30.28.218|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|3|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|119.18.145.49|20326|Bangladesh|Chittagong|BBTS Network|
-|13|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|14|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|15|103.48.68.141|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|17|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
-|18|113.11.66.145|20326|Bangladesh|Dhaka|BDCOM Online Limited|
-|19|202.58.77.194|8031|Indonesia|Surabaya|PT Data Buana Nusantara|
-|20|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|113.11.66.145|20326|Bangladesh|Dhaka|BDCOM Online Limited|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|163.5.128.178|14270|United States|Brooklyn|Windstream Communications LLC|
+|10|185.130.225.170|8080|Netherlands|Amsterdam|Hostkey BV direct|
+|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|12|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|13|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|41.93.63.66|8080|Tanzania|Dar es Salaam|Tanzania Education And Research Network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|19|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
 
 
 
