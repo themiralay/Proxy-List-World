@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|203.76.98.21|45958|Bangladesh|Tāngāil|Link3 Technologies Limited|
-|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|181.209.72.173|999|Argentina|Empedrado|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|16|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|17|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|1|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|2|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|5|103.122.65.11|8080|Indonesia|Banjar Dalam|PT. Jinom Network Indonesia|
+|6|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|8|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|14|150.107.104.37|1111|Indonesia|Karawang|PT Graha Multimedia Nusantara|
+|15|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|16|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|17|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.229.204.123|999|Argentina|Avellaneda|Visio RED SRL|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 
 
 
