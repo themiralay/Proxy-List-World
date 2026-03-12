@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|8|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|11|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|20|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|202.58.64.65|1111|Indonesia|Wonogiri|PT Mamura Inter Media|
+|9|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
+|10|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|170.9.224.115|3128|United States|Chicago|Oracle Corporation|
+|13|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|14|119.18.145.49|20326|Bangladesh|Chittagong|BBTS Network|
+|15|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|16|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|84.46.252.144|80|France|Lauterbourg|Contabo GmbH|
+|19|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
