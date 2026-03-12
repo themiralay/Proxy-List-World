@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|38.191.165.230|8080|Indonesia|Boyolali|PT CYB Media Group|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|19|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|7|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|9|103.59.45.249|8080|Indonesia|Menggala|PT INDONESIA TRANS NETWORK|
+|10|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|11|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|36.93.56.58|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|13|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|16|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|17|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|18|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
+|19|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
+|20|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
 
 
 
