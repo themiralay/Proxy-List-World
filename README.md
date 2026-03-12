@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|58.69.143.223|41890|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|103.247.23.28|9223|Indonesia|Bekasi|PT wifian Solution|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|119.18.145.49|20326|Bangladesh|Chittagong|BBTS Network|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|4|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|9|103.247.23.28|9223|Indonesia|Bekasi|PT wifian Solution|
 |10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|157.15.40.222|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|103.164.171.210|8080|Indonesia|Barru|PT iForte Global Internet|
-|19|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|11|188.132.221.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|185.189.51.72|12345|Sweden|Tällberg|Yelles AB|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|16|119.18.144.3|20326|Bangladesh|Chittagong|BBTS Network|
+|17|103.78.83.24|8083|Indonesia|Jakarta|MORATELINDO|
+|18|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
 
 
 
