@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|2|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
 |4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|8|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|49.151.185.52|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|14|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|15|45.123.142.82|1111|Indonesia|Curug|PT Anten Sarana Teknologi|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|6|103.183.8.118|8090|Indonesia|Jakarta|PT Cepat Multi Data|
+|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|16|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |18|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|19|154.59.59.89|999|Venezuela|Caracas|Cogent Communications|
-|20|103.133.26.11|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|20|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
 
 
 
