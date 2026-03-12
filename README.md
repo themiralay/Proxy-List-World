@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|1|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
 |4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|8|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|10|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|13|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|14|107.172.125.217|3128|United States|Los Angeles|HostPapa|
-|15|27.124.80.58|82|Indonesia|Semarang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|16|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|190.93.189.142|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|9|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|16|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|17|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|18|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|103.39.51.140|8181|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 
 
 
