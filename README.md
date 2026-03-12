@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|160.22.199.4|8082|Indonesia|Terbanggi Besar|PT Ganesha Data Nusantara|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|9|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|13|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|14|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|119.18.145.49|20326|Bangladesh|Chittagong|BBTS Network|
-|18|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
-|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|20|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|2|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|11|71.168.71.12|8888|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|12|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|15|101.255.138.82|80|Indonesia|Jakarta|PT Remala Abadi|
+|16|185.130.225.170|8080|Netherlands|Amsterdam|Hostkey BV direct|
+|17|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|18|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|19|163.5.128.41|14270|United States|Brooklyn|Windstream Communications LLC|
+|20|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
 
 
 
