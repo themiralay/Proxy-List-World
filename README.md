@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|10|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|11|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|1|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|116.80.82.218|3172|Japan|Yokohama|InfoSphere|
+|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|10|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|11|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
 |12|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|13|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|14|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|15|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|103.164.214.122|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|171.237.180.135|2102|Vietnam|Hanoi|Viettel Corporation|
+|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|15|88.216.98.251|53983|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|16|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|19|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
