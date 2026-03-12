@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|61.0.226.241|3128|India|Mysuru|BSNL Internet|
-|4|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
-|5|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
-|13|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|14|139.255.5.98|443|Indonesia|Bekasi|PT. LINKNET|
-|15|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|18|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|10|119.18.145.49|20326|Bangladesh|Chittagong|BBTS Network|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|13|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|17|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|18|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
+|20|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
 
 
 
