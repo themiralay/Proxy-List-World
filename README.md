@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
 |5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|10|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|15|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|18|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|19|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|20|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|7|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|10|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
+|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|12|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|17|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
