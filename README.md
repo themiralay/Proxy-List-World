@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|11|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|124.106.223.156|9999|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|20|103.133.25.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|6|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.36.11.21|8080|Indonesia|Jakarta|PT Awinet Global Mandiri|
+|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|10|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|11|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|12|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|107.173.52.58|7890|United States|Buffalo|HostPapa|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
+|16|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
+|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|19|171.237.180.135|2102|Vietnam|Hanoi|Viettel Corporation|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
