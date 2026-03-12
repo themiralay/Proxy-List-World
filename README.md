@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
 |2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|4|180.191.59.119|8086|Philippines|Tarlac City|Globe Telecom|
-|5|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|6|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|16|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|17|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|10|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|11|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |18|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|19|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|20|103.242.105.65|7200|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
+|19|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
+|20|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
