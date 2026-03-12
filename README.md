@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
 |3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|116.99.49.187|10002|Vietnam|Hanoi|Viettel Group|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
+|7|103.147.118.142|7777|Indonesia|Handilenam|PT.Bestcamp Prima Data|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |9|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|10|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|12|203.150.128.30|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|194.213.18.200|443|United States|Ashburn|Clouvider Limited|
-|16|171.237.180.135|2102|Vietnam|Hanoi|Viettel Corporation|
-|17|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|103.48.71.50|82|India|Hyderabad|Country Online Services PVT LTD|
+|12|154.9.235.189|7890|United States|Los Angeles|NetLab Global|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|209.14.108.98|999|United States|Lima|Corporacion Tarazona Catv S.A.C|
+|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|16|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|17|171.251.172.78|5106|Vietnam|Hanoi|Viettel Corporation|
+|18|171.251.172.78|5106|Vietnam|Hanoi|Viettel Corporation|
+|19|171.251.172.78|5106|Vietnam|Hanoi|Viettel Corporation|
+|20|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 
 
 
