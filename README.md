@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|15|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
-|16|170.245.132.86|999|Paraguay|Primero de Marzo|MACHADO BAEZ, NERY JAVIER|
+|2|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|3|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|5|181.49.100.190|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|89.43.133.197|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
+|12|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|14|120.240.29.51|22222|China|Guangzhou|China Mobile communications corporation|
+|15|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
+|16|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
 |17|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
-|18|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|103.166.90.70|8090|Indonesia|Bekasi|PT Regynet Data Solusindo|
+|18|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|19|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|20|103.124.136.251|8080|Indonesia|Cikarang|Global Media Data Prima|
 
 
 
