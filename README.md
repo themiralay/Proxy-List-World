@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|6|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A|
-|7|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
-|8|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|10|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|11|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|12|188.132.222.164|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
-|14|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|15|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|16|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|19|171.251.172.78|5106|Vietnam|Hanoi|Viettel Corporation|
-|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|3|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|4|185.115.74.185|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|5|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|6|91.107.141.42|8081|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|141.136.63.126|8080|Venezuela|La Grita|FRONTERA|
+|13|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|19|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
