@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|2|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|3|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|103.157.79.98|3125|Indonesia|Jakarta|EASTMEDIA|
-|9|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
-|19|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|20|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|10|49.144.23.152|8082|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|11|103.157.79.98|3125|Indonesia|Jakarta|EASTMEDIA|
+|12|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|14|139.178.90.204|443|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
+|19|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
