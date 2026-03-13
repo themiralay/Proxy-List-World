@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|2|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|1|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|2|91.247.126.241|2080|Ukraine|Simferopol|Crelcom LLC|
+|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
 |4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|91.247.126.241|2080|Ukraine|Simferopol|Crelcom LLC|
-|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|10|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|17|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|18|124.106.223.156|9999|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|6|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
+|7|177.93.49.204|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|139.178.90.204|443|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|112.65.132.182|3128|China|Shanghai|China Unicom CHINA169 Shanghai Province Network|
+|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|103.189.249.145|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
 
 
 
