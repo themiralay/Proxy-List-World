@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.225.212.37|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.225.212.37|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|8|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|11|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|12|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|16|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|17|51.81.6.158|3128|United States|Reston|OVH SAS|
-|18|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|19|45.174.241.241|999|Mexico|Champotón|Sistemas Y Soluciones De Campeche SAS De CV|
-|20|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|10|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|11|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|13|181.78.49.177|999|Guatemala|San Marcos|Ufinet Panama S.A.|
+|14|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|16|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
+|17|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
+|18|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
 
 
 
