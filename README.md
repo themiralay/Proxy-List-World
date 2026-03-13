@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|147.75.202.36|10017|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|147.75.202.36|10017|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|14|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|15|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|16|185.130.225.170|8080|Netherlands|Amsterdam|Hostkey BV direct|
-|17|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|18|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|19|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|20|120.240.29.51|22222|China|Guangzhou|China Mobile communications corporation|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|5|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|7|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|103.166.91.138|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
+|18|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|19|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|20|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
