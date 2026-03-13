@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4858** proxies at the latest update. Usable proxies are below.
+> Scraper found **4875** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|592|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|7|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
 |8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|119.18.145.49|20326|Bangladesh|Chittagong|BBTS Network|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
-|17|201.184.128.170|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|9|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|13|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|15|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|16|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|119.18.145.49|20326|Bangladesh|Chittagong|BBTS Network|
+|19|110.74.206.40|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|20|120.240.29.51|22222|China|Guangzhou|China Mobile communications corporation|
 
 
 
