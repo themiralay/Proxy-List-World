@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.4.76.105|8589|Indonesia|Parung|PT Khazanah Net Indonesia|
-|5|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|43.165.195.107|3128|Indonesia|Jakarta|Aceville Pte.ltd|
-|9|103.254.104.22|8010|Indonesia|Jabung|PT Giga Patra Multimedia|
-|10|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|11|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|12|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
-|13|187.103.105.20|8085|Brazil|Florianópolis|BR.Digital Telecom|
-|14|171.251.172.78|5106|Vietnam|Hanoi|Viettel Corporation|
-|15|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|16|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
-|17|122.52.90.167|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|18|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|19|38.194.246.34|999|Mexico|Los Ramírez|Cogent Communications|
-|20|186.33.5.13|8080|Guatemala|Guatemala City|IFX Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|120.240.35.173|22222|China|Guangzhou|China Mobile communications corporation|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|187.103.105.20|8085|Brazil|Florianópolis|BR.Digital Telecom|
+|16|171.251.172.78|5106|Vietnam|Hanoi|Viettel Corporation|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|19|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
+|20|38.194.246.34|999|Mexico|Los Ramírez|Cogent Communications|
 
 
 
