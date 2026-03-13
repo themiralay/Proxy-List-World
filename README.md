@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.53.194.38|7890|United States|Manassas|netcup GmbH|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|103.30.28.59|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|4|45.122.122.71|8080|India|Pur|FusionNet|
-|5|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|6|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|186.148.184.18|999|Colombia|El Carmen|TV AZTECA SUCURSAL COLOMBIA|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|120.238.159.228|22222|China|Guangzhou|China Mobile communications corporation|
-|15|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|18|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
-|19|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|152.53.194.38|7890|United States|Manassas|netcup GmbH|
+|3|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
+|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|10|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|11|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|12|152.53.194.38|7890|United States|Manassas|netcup GmbH|
+|13|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|14|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
+|15|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|16|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|17|103.247.22.15|1111|Indonesia|Bekasi|PT wifian Solution|
+|18|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|20|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 
 
 
