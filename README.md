@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|3|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|103.38.101.194|1111|Indonesia|Tulangan Utara|LAXONET|
-|13|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|14|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|15|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|16|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|17|178.236.245.59|3128|Russia|Moscow|Foton Telecom CJSC|
-|18|190.60.45.83|999|Colombia|La Apartada|IFX NETWORKS COLOMBIA|
-|19|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|20|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|2|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|3|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|4|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|9|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|177.52.221.100|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|12|41.139.234.127|8080|Kenya|Nairobi|Safaricom Limited|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|180.191.2.165|8081|Philippines|Cabanatuan City|Globe Telecom|
+|15|190.60.45.83|999|Colombia|La Apartada|IFX NETWORKS COLOMBIA|
+|16|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|17|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|18|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
+|20|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
 
 
 
