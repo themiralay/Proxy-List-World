@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|106.51.76.128|3127|India|Bengaluru|Atria Convergence Technologies Pvt. Ltd|
-|7|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|8|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|9|202.154.18.88|8081|Indonesia|Babat|DIGITNET|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|12|181.78.217.50|999|Paraguay|General Higinio Morínigo|Ufinet Paraguay S.A|
-|13|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|14|190.60.61.42|8080|Colombia|Prado-Sevilla|IFX NETWORKS COLOMBIA|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|19|129.226.155.60|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|4|106.51.76.128|3127|India|Bengaluru|Atria Convergence Technologies Pvt. Ltd|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|9|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|12|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.55.22.236|8080|Indonesia|Kisaran|PT General Media Network|
+|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|19|103.81.65.190|1111|Indonesia|Sukoharjo Satu|QIUNET|
+|20|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
 
 
 
