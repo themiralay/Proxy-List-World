@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |4|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|7|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|13|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|14|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
-|15|45.136.130.216|8443|United States|Redondo Beach|Enzu Inc|
-|16|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|17|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|18|38.145.203.160|8443|United States|Redondo Beach|Enzu Inc|
-|19|38.145.203.236|8443|United States|Redondo Beach|Enzu Inc|
-|20|38.145.203.244|8443|United States|Redondo Beach|Enzu Inc|
+|10|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|11|103.30.29.194|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|12|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|13|45.122.122.71|8080|India|Pur|FusionNet|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|16|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|17|113.11.65.229|20326|Bangladesh|Dhaka|BDCOM Online Limited|
+|18|103.30.28.209|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|19|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
+|20|103.30.30.226|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
 
 
 
