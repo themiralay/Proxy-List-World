@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|16|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|17|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|18|163.5.128.201|14270|United States|Brooklyn|Windstream Communications LLC|
-|19|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|10|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|11|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|121.101.133.220|7777|Indonesia|Kutoarjo|PT SELARAS CITRA TERABIT|
+|14|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|15|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|16|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|103.141.247.6|8080|India|Shōranūr|Vinayaga Communications Pvt Ltd|
+|19|139.178.90.204|443|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
 |20|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
 
 
