@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|6|46.161.4.163|3128|Russia|St Petersburg|LLC "HORIZON"|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|38.156.23.225|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|10|75.109.189.86|8080|United States|College Station|Suddenlink Communications|
-|11|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|103.166.91.138|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
+|7|147.75.202.36|10017|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|101.255.211.41|1111|Indonesia|Bekasi|PT Remala Abadi|
+|11|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
 |12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|160.20.128.15|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
-|16|120.232.242.119|22222|China|Guangzhou|China Mobile communications corporation|
-|17|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|36.67.194.162|8042|Indonesia|Sukabumi Selatan|PT. Telekomunikasi Indonesia|
+|13|38.194.224.134|1452|Mexico|León|Cogent Communications|
+|14|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|15|222.127.76.123|8082|Philippines|Lahug|INNOVE|
+|16|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|17|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|18|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
