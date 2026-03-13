@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|36.66.130.147|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|18|103.58.75.29|8083|Bangladesh|Dhaka|BUSINESSNETWORK|
-|19|103.93.93.221|8181|Indonesia|Kertosono|MYRISE|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|2|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|10|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|16|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|19|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|20|86.53.183.16|1080|United Kingdom|City of London|GTT|
 
 
 
