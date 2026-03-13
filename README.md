@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|7|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
-|14|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|15|190.97.226.134|999|Venezuela|Barinas|Viginet C.A|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|20|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|1|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|103.139.99.230|8080|Indonesia|Labuhanmaringgai|Digital Network Setiawan|
+|8|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
+|15|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|17|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|18|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|19|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|20|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
 
 
 
