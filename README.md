@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|91.247.126.241|2080|Ukraine|Simferopol|Crelcom LLC|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|15|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|17|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|19|103.4.76.105|8589|Indonesia|Parung|PT Khazanah Net Indonesia|
-|20|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|1|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|6|64.188.90.36|1080|Russia|Moscow|SERV.HOST GROUP LTD|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|91.247.126.241|2080|Ukraine|Simferopol|Crelcom LLC|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|103.58.75.29|8083|Bangladesh|Dhaka|BUSINESSNETWORK|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|141.11.187.163|8080|Netherlands|Amsterdam|NForce Entertainment B.V.|
+|15|120.240.35.173|22222|China|Guangzhou|China Mobile communications corporation|
+|16|163.5.128.189|14270|United States|Brooklyn|Windstream Communications LLC|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|19|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|20|43.252.236.158|8080|Indonesia|Caringin|NET|
 
 
 
