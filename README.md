@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4921** proxies at the latest update. Usable proxies are below.
+> Scraper found **4915** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|653|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|45.122.122.71|8080|India|Pur|FusionNet|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|2|152.53.194.38|7890|United States|Manassas|netcup GmbH|
+|3|152.53.194.38|7890|United States|Manassas|netcup GmbH|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|152.53.194.38|7890|United States|Manassas|netcup GmbH|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|152.53.194.38|7890|United States|Manassas|netcup GmbH|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|185.200.37.43|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|15|31.173.247.205|8081|Russia|Novosibirsk|MegaFon|
-|16|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|19|120.232.242.119|22222|China|Guangzhou|China Mobile communications corporation|
-|20|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|38.194.224.134|1452|Mexico|León|Cogent Communications|
+|9|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|10|200.69.83.203|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|11|38.7.195.50|999|Chile|Santiago|Grupo ZGH SPA|
+|12|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|13|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|15|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|16|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|17|103.125.154.1|8080|India|Tirupur|Live Fibernet|
+|18|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|19|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
