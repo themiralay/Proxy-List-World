@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|7|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|12|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|13|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|15|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|16|103.30.29.194|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
-|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|1|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|6|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|10|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|12|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|13|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|14|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
+|19|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|20|103.30.29.194|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
 
 
 
