@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4895** proxies at the latest update. Usable proxies are below.
+> Scraper found **4877** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|618|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|2|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|3|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
-|4|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|193.168.173.136|443|Netherlands|Amsterdam|Kamatera Inc|
+|6|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|9|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
-|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|45.173.6.169|999|Colombia|Zipaquirá|Liberty Networks De Colombia S.A.S|
-|12|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|14|176.236.227.106|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|222.127.76.123|8082|Philippines|Lahug|INNOVE|
-|17|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|9|14.225.212.37|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|10|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|103.122.65.11|8080|Indonesia|Banjar Dalam|PT. Jinom Network Indonesia|
+|16|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|178.236.245.59|3128|Russia|Moscow|Foton Telecom CJSC|
 |19|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|20|109.224.242.209|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
 
 
 
