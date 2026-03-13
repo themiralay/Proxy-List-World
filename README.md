@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|139.178.90.204|443|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
-|3|45.122.122.71|8080|India|Pur|FusionNet|
-|4|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|190.60.45.83|999|Colombia|La Apartada|IFX NETWORKS COLOMBIA|
-|10|103.30.31.202|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|11|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|45.173.6.169|999|Colombia|Zipaquirá|Liberty Networks De Colombia S.A.S|
-|19|31.173.247.205|8081|Russia|Novosibirsk|MegaFon|
-|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|6|124.106.223.156|9999|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
+|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|190.60.36.210|999|Colombia|San Alberto|IFX NETWORKS COLOMBIA|
+|14|201.77.110.33|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|15|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|16|36.94.149.149|8090|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|17|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
+|18|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
+|19|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|160.25.237.130|1111|Indonesia|Cikarang|PT Nada Freedom Indonesia|
 
 
 
