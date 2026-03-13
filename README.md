@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|5|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|7|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
-|8|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
-|9|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|10|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|11|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|12|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|20|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|2|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|3|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|103.38.101.194|1111|Indonesia|Tulangan Utara|LAXONET|
+|13|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|14|45.136.130.175|8443|United States|Redondo Beach|Enzu Inc|
+|15|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|16|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|178.236.245.59|3128|Russia|Moscow|Foton Telecom CJSC|
+|18|190.60.45.83|999|Colombia|La Apartada|IFX NETWORKS COLOMBIA|
+|19|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
+|20|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
 
 
 
