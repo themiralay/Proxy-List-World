@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|104.251.81.48|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|167.172.67.118|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|7|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |9|139.162.44.152|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|13|181.78.25.253|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|14|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|10|103.125.117.154|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|11|203.205.49.2|10239|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|180.191.2.165|8081|Philippines|Cabanatuan City|Globe Telecom|
+|16|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
+|17|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|18|115.127.105.163|6699|Bangladesh|Dhaka|BRACNet Limited|
+|19|120.198.141.84|22222|China|Guangzhou|China Mobile communications corporation|
+|20|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 
 
 
