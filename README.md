@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|4|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|103.30.28.59|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|10|186.148.184.18|999|Colombia|El Carmen|TV AZTECA SUCURSAL COLOMBIA|
+|7|103.122.64.139|8085|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|8|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|9|38.159.37.21|999|Dominican Republic|Santo Domingo|Orbitek SRL|
+|10|138.0.207.246|8082|Brazil|Monte Aprazível|Nets Telecomunicacoes Ltda|
 |11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|113.160.130.82|443|Vietnam|Chí Linh|VietNam Post and Telecom Corporation|
-|15|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|16|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|17|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|200.69.83.203|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|13|85.208.200.185|8081|Italy|Milan|HAL Service SpA|
+|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|15|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
 
 
 
