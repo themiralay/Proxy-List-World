@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|2|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|4|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
-|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|103.30.31.202|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|17|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|45.136.131.63|8443|United States|Redondo Beach|Enzu Inc|
+|1|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|10|103.180.118.184|8080|Indonesia|Made|PT Persada Data Multimedia|
+|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|185.225.204.5|3128|Slovakia|Giraltovce|DELTA ONLINE spol. s r.o.|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|16|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|19|190.61.116.253|999|Honduras|Tegucigalpa|Ufinet Honduras|
+|20|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
 
 
 
