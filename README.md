@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|2|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|3|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
-|8|45.136.131.47|8443|United States|Redondo Beach|Enzu Inc|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|77.242.21.133|8080|Albania|Tirana|Business Custommers|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|179.1.127.90|999|Colombia|Quibdó|Internexa S.a. E.S.P|
-|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|16|203.205.49.2|10239|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|17|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|18|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
-|19|152.53.194.38|7890|United States|Manassas|netcup GmbH|
-|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|181.78.217.50|999|Paraguay|General Higinio Morínigo|Ufinet Paraguay S.A|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|11|103.172.42.105|1111|Indonesia|Kabupaten Musi Banyuasin|PT Media Solusi Sukses|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|15|152.53.194.38|7890|United States|Manassas|netcup GmbH|
+|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|38.190.100.107|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
+|19|201.77.110.33|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
