@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.183.16|8443|United States|Redondo Beach|Enzu Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
-|3|38.145.220.20|8443|United States|Redondo Beach|Enzu Inc|
-|4|38.145.220.22|8443|United States|Redondo Beach|Enzu Inc|
-|5|38.145.220.13|8443|United States|Redondo Beach|Enzu Inc|
-|6|38.145.218.102|8443|United States|Redondo Beach|Enzu Inc|
-|7|38.145.208.192|8443|United States|Redondo Beach|Enzu Inc|
-|8|38.145.220.11|8443|United States|Redondo Beach|Enzu Inc|
-|9|38.145.208.197|8443|United States|Redondo Beach|Enzu Inc|
-|10|38.145.220.9|8443|United States|Redondo Beach|Enzu Inc|
-|11|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|12|38.145.218.101|8447|United States|Redondo Beach|Enzu Inc|
-|13|38.145.218.163|8443|United States|Redondo Beach|Enzu Inc|
-|14|38.145.218.134|8443|United States|Redondo Beach|Enzu Inc|
-|15|38.145.218.161|8443|United States|Redondo Beach|Enzu Inc|
-|16|38.145.220.8|8443|United States|Redondo Beach|Enzu Inc|
-|17|38.145.208.173|8443|United States|Redondo Beach|Enzu Inc|
-|18|38.145.218.87|8443|United States|Redondo Beach|Enzu Inc|
-|19|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|20|38.145.220.49|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.131.32|8443|United States|Redondo Beach|Enzu Inc|
+|4|38.145.218.101|8447|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.28|8447|United States|Redondo Beach|Enzu Inc|
+|6|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.30|8447|United States|Redondo Beach|Enzu Inc|
+|8|45.136.130.216|8443|United States|Redondo Beach|Enzu Inc|
+|9|45.136.130.214|8443|United States|Redondo Beach|Enzu Inc|
+|10|45.136.131.35|8443|United States|Redondo Beach|Enzu Inc|
+|11|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|12|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|13|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|16|103.30.29.194|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|17|103.30.31.59|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|18|38.145.218.102|8443|United States|Redondo Beach|Enzu Inc|
+|19|38.145.220.9|8443|United States|Redondo Beach|Enzu Inc|
+|20|38.145.220.13|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
