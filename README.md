@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|3|107.155.65.87|13428|Singapore|Singapore|Primary|
+|1|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.169.254.75|6080|Indonesia|Ciputat|PT Master Star Network|
 |4|14.225.212.37|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|107.173.52.58|7890|United States|Buffalo|HostPapa|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|12|91.211.212.6|32650|Greece|Athens|ISP Inalan|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|171.251.172.78|5106|Vietnam|Hanoi|Viettel Corporation|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|18|176.236.226.178|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|19|181.143.181.35|8080|Colombia|Cajicá|EPM Telecomunicaciones S.A. E.S.P.|
+|5|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|43.252.236.158|8080|Indonesia|Caringin|NET|
+|11|67.169.98.211|443|United States|San Jose|Comcast Cable Communications, LLC|
+|12|46.183.25.8|443|United States|Los Angeles|Datacamp Limited|
+|13|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|16|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
+|17|171.251.172.78|5104|Vietnam|Hanoi|Viettel Corporation|
+|18|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
 |20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
