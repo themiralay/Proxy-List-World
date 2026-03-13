@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|103.30.31.202|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|103.133.25.247|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|10|103.105.76.49|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|13|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|88.216.98.209|53983|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|17|45.136.130.188|8443|United States|Redondo Beach|Enzu Inc|
-|18|45.136.130.191|8443|United States|Redondo Beach|Enzu Inc|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.109.212.14|2254|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|2|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|3|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|9|103.137.218.113|83|India|Bhagalpur|Nandbalaji Connecting Zone Pvt. Ltd|
+|10|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|15|41.57.6.30|6060|South Africa|Rustenburg|Rust Scr|
+|16|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|17|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
+|18|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|20|190.111.218.139|999|Argentina|San Juan Bautista|CPS|
 
 
 
