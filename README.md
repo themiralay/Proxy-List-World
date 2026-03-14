@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|3|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
-|4|38.145.220.9|8443|United States|Redondo Beach|Enzu Inc|
-|5|38.145.220.13|8443|United States|Redondo Beach|Enzu Inc|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|119.18.144.12|20326|Bangladesh|Chittagong|BBTS Network|
-|8|45.136.130.237|8443|United States|Redondo Beach|Enzu Inc|
-|9|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|10|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|11|38.145.220.206|8443|United States|Redondo Beach|Enzu Inc|
-|12|38.145.220.209|8443|United States|Redondo Beach|Enzu Inc|
-|13|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
-|14|45.136.130.237|8443|United States|Redondo Beach|Enzu Inc|
-|15|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
-|16|38.145.220.13|8443|United States|Redondo Beach|Enzu Inc|
-|17|38.145.220.209|8443|United States|Redondo Beach|Enzu Inc|
-|18|2.56.122.146|10808|Germany|Frankfurt am Main|WorkTitans B.V.|
-|19|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|20|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|2|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|3|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|5|38.145.218.101|8447|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.28|8447|United States|Redondo Beach|Enzu Inc|
+|7|38.145.220.9|8443|United States|Redondo Beach|Enzu Inc|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|38.145.220.13|8443|United States|Redondo Beach|Enzu Inc|
+|10|119.18.144.12|20326|Bangladesh|Chittagong|BBTS Network|
+|11|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|12|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|16|38.145.220.9|8443|United States|Redondo Beach|Enzu Inc|
+|17|38.145.220.13|8443|United States|Redondo Beach|Enzu Inc|
+|18|45.136.131.28|8447|United States|Redondo Beach|Enzu Inc|
+|19|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|20|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
