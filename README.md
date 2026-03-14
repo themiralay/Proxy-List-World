@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|2|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|3|45.136.131.39|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.39|8443|United States|Redondo Beach|Enzu Inc|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|103.30.28.209|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|10|103.78.83.21|8083|Indonesia|Jakarta|MORATELINDO|
+|11|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
 |12|45.136.130.234|8443|United States|Redondo Beach|Enzu Inc|
 |13|45.136.130.235|8443|United States|Redondo Beach|Enzu Inc|
 |14|45.136.130.237|8443|United States|Redondo Beach|Enzu Inc|
 |15|45.136.130.236|8443|United States|Redondo Beach|Enzu Inc|
-|16|38.145.220.219|8443|United States|Redondo Beach|Enzu Inc|
-|17|103.30.30.226|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|18|38.145.220.244|8443|United States|Redondo Beach|Enzu Inc|
-|19|38.145.220.209|8443|United States|Redondo Beach|Enzu Inc|
-|20|38.145.220.243|8443|United States|Redondo Beach|Enzu Inc|
+|16|38.145.220.189|8443|United States|Redondo Beach|Enzu Inc|
+|17|38.145.220.209|8443|United States|Redondo Beach|Enzu Inc|
+|18|38.145.220.220|8443|United States|Redondo Beach|Enzu Inc|
+|19|38.145.220.221|8443|United States|Redondo Beach|Enzu Inc|
+|20|38.145.220.192|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
