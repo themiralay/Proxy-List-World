@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4849** proxies at the latest update. Usable proxies are below.
+> Scraper found **4809** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|541|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|3|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|4|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|3|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|7|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|7|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |9|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|10|113.11.64.18|20326|Bangladesh|Dhaka|BDCOM Online Limited|
-|11|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|12|152.42.213.210|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|16|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|69.75.140.157|8080|United States|North Hollywood|Spectrum|
-|20|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
+|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|192.232.48.21|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|14|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|16|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
+|17|69.75.140.157|8080|United States|North Hollywood|Spectrum|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|20|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
