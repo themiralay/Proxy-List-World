@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.188.125.49|999|Mexico|Ciudad Valles|Digy Networks|
-|12|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
-|13|146.56.182.165|3128|South Korea|Seoul|Oracle Corporation|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|203.205.49.2|10027|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|16|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|18|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|6|103.156.14.227|8080|Indonesia|Tubei|PT Lintas Jaringan Nusantara|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|12|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|103.188.170.149|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|16|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|17|183.88.214.84|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
+|18|113.11.126.6|20326|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|146.56.182.165|3128|South Korea|Seoul|Oracle Corporation|
+|20|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
 
 
 
