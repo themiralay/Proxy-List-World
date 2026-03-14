@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|4|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|5|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|10|103.156.74.156|3125|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
-|11|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|15|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|17|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|18|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|122.148.196.246|8080|Australia|Melbourne|Vocus PTY LTD|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|120.238.159.230|22222|China|Guangzhou|China Mobile communications corporation|
+|13|45.136.130.214|8443|United States|Redondo Beach|Enzu Inc|
+|14|113.160.132.26|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|181.78.20.11|999|Colombia|Rionegro|IFX Networks Argentina S.R.L|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
