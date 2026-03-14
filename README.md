@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|3|38.145.208.247|8443|United States|Redondo Beach|Enzu Inc|
+|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|194.124.36.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|11|38.145.208.247|8443|United States|Redondo Beach|Enzu Inc|
-|12|38.145.220.246|8443|United States|Redondo Beach|Enzu Inc|
-|13|103.122.65.11|8080|Indonesia|Banjar Dalam|PT. Jinom Network Indonesia|
-|14|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|15|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|16|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|17|112.201.241.84|8082|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
-|18|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|45.136.130.216|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|38.171.255.232|999|Venezuela|Maracaibo|Cogent Communications|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|190.188.131.87|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
+|12|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|15|45.136.130.217|8443|United States|Redondo Beach|Enzu Inc|
+|16|45.136.130.215|8443|United States|Redondo Beach|Enzu Inc|
+|17|45.136.130.214|8443|United States|Redondo Beach|Enzu Inc|
+|18|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 
 
 
