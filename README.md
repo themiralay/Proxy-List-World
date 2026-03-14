@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|4|45.136.130.237|8443|United States|Redondo Beach|Enzu Inc|
-|5|38.145.220.206|8443|United States|Redondo Beach|Enzu Inc|
-|6|38.145.220.209|8443|United States|Redondo Beach|Enzu Inc|
-|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|45.136.130.237|8443|United States|Redondo Beach|Enzu Inc|
-|9|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|38.145.220.206|8443|United States|Redondo Beach|Enzu Inc|
-|12|38.145.220.209|8443|United States|Redondo Beach|Enzu Inc|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|16|2.56.122.146|10808|Germany|Frankfurt am Main|WorkTitans B.V.|
-|17|38.145.208.97|8443|United States|Redondo Beach|Enzu Inc|
-|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|38.145.203.246|8443|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.93|8443|United States|Redondo Beach|Enzu Inc|
+|2|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|4|113.11.113.69|20326|Bangladesh|Dhaka|BDCOM Online Limited|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|91.247.126.241|2080|Ukraine|Simferopol|Crelcom LLC|
+|10|45.136.130.219|8443|United States|Redondo Beach|Enzu Inc|
+|11|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|12|103.30.29.194|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|139.162.44.152|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|15|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|18|38.145.220.246|8443|United States|Redondo Beach|Enzu Inc|
+|19|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
