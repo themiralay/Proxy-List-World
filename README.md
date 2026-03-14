@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.38.104.173|8080|Indonesia|Wonosobo|PT Tunas Media Data|
-|7|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|212.51.157.178|8080|Switzerland|Zurich|Init7 (Switzerland) Ltd.|
-|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|12|45.136.130.214|8443|United States|Redondo Beach|Enzu Inc|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
+|8|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|178.236.245.59|3128|Ukraine|Kyiv|Cloud Hosting Solutions|
+|13|212.108.115.68|8080|Syria|Qal‘at al Maḑīq|High Speed For Internet Services L.L.C|
+|14|38.55.107.254|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|15|45.136.130.217|8443|United States|Redondo Beach|Enzu Inc|
+|16|38.145.220.246|8443|United States|Redondo Beach|Enzu Inc|
+|17|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|45.136.130.214|8443|United States|Redondo Beach|Enzu Inc|
+|20|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
 
 
 
