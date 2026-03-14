@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|5|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|8|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|193.122.96.242|3128|South Korea|Seoul|Oracle Corporation|
+|5|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|103.30.28.209|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|10|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
 |11|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
-|18|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
-|19|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|20|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
+|12|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|14|43.208.16.199|30756|Thailand|Bangkok|Amazon.com, Inc.|
+|15|103.150.254.80|9108|Bangladesh|Paltan|RED ONLINE|
+|16|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|17|113.11.65.229|20326|Bangladesh|Dhaka|BDCOM Online Limited|
+|18|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
