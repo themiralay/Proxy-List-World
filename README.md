@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|2|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|3|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|45.122.122.71|8080|India|Pur|FusionNet|
 |6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|45.122.122.71|8080|India|Pur|FusionNet|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 |8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|11|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|12|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|45.136.130.215|8443|United States|Redondo Beach|Enzu Inc|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|45.136.130.214|8443|United States|Redondo Beach|Enzu Inc|
-|16|45.136.130.217|8443|United States|Redondo Beach|Enzu Inc|
-|17|45.136.130.216|8443|United States|Redondo Beach|Enzu Inc|
-|18|157.66.192.91|8080|Indonesia|Randudongkal|PT Indotech Digitama Superlink|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|10|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|11|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|103.173.139.10|8080|Indonesia|Semarang|PT Serayu Multi Connection|
+|15|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|16|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|17|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 
 
 
