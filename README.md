@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|1|201.159.99.37|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
+|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |3|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|4|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
 |7|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|12|120.232.242.119|22222|China|Guangzhou|China Mobile communications corporation|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|10|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|13|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
 |15|64.188.90.36|1080|Russia|Moscow|SERV.HOST GROUP LTD|
-|16|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|18|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|120.198.141.84|22222|China|Guangzhou|China Mobile communications corporation|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|186.148.180.46|999|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|20|144.31.184.218|3128|Finland|Helsinki|Cloud Hosting Solutions, Limited.|
 
 
 
