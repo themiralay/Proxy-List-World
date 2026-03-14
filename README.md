@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|4|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|10|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|103.30.28.209|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|3|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|4|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|12|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|13|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|15|45.136.130.217|8443|United States|Redondo Beach|Enzu Inc|
+|16|45.136.130.216|8443|United States|Redondo Beach|Enzu Inc|
+|17|45.136.130.214|8443|United States|Redondo Beach|Enzu Inc|
+|18|45.136.130.217|8443|United States|Redondo Beach|Enzu Inc|
+|19|45.136.130.214|8443|United States|Redondo Beach|Enzu Inc|
+|20|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
 
 
 
