@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|3|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
 |7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|10|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|11|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|8|38.145.220.145|8447|United States|Redondo Beach|Enzu Inc|
+|9|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|10|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
 |12|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|38.145.220.145|8447|United States|Redondo Beach|Enzu Inc|
-|15|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|16|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|13|38.145.220.145|8447|United States|Redondo Beach|Enzu Inc|
+|14|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|19|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 |20|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
 
 
