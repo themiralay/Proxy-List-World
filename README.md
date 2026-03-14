@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|2|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|3|38.145.208.138|8447|United States|Redondo Beach|Enzu Inc|
-|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|1|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|45.136.130.222|8447|United States|Redondo Beach|Enzu Inc|
+|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|38.145.203.161|8443|United States|Redondo Beach|Enzu Inc|
-|7|38.145.208.138|8447|United States|Redondo Beach|Enzu Inc|
-|8|38.145.208.99|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.222|8447|United States|Redondo Beach|Enzu Inc|
+|7|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |9|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
-|10|38.145.208.102|8443|United States|Redondo Beach|Enzu Inc|
-|11|38.145.208.103|8443|United States|Redondo Beach|Enzu Inc|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|38.145.220.244|8443|United States|Redondo Beach|Enzu Inc|
-|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|38.145.220.244|8443|United States|Redondo Beach|Enzu Inc|
-|16|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|17|38.145.220.191|8443|United States|Redondo Beach|Enzu Inc|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
-|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|10|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
+|11|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|12|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|13|38.145.220.137|8447|United States|Redondo Beach|Enzu Inc|
+|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|15|38.145.220.137|8447|United States|Redondo Beach|Enzu Inc|
+|16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|38.145.218.189|8447|United States|Redondo Beach|Enzu Inc|
+|19|103.156.74.156|3125|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|20|86.53.183.16|1080|United Kingdom|City of London|GTT|
 
 
 
