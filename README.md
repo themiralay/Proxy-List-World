@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.136.131.32|8443|United States|Redondo Beach|Enzu Inc|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|11|120.238.159.229|22222|China|Guangzhou|China Mobile communications corporation|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|1|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|11|45.136.131.58|8447|United States|Redondo Beach|Enzu Inc|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|120.238.159.229|22222|China|Guangzhou|China Mobile communications corporation|
 |14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|17|45.136.130.217|8443|United States|Redondo Beach|Enzu Inc|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
-|20|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|16|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|45.177.178.23|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
+|19|93.182.23.94|6060|Russia|Moscow|Kvidex-Telecom|
+|20|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
