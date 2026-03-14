@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
-|3|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|4|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|5|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|11|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|12|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|13|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|14|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
+|1|116.80.81.13|7777|Japan|Yokohama|InfoSphere|
+|2|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|3|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|4|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|7|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|8|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
+|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|10|45.136.131.39|8443|United States|Redondo Beach|Enzu Inc|
+|11|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|12|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|13|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|14|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
 |15|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|16|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|19|45.136.130.207|8443|United States|Redondo Beach|Enzu Inc|
-|20|45.136.130.239|8443|United States|Redondo Beach|Enzu Inc|
+|16|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|17|140.238.156.12|1080|Canada|Toronto|Oracle Corporation|
+|18|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|19|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
+|20|103.150.254.80|9108|Bangladesh|Paltan|RED ONLINE|
 
 
 
