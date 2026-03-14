@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|3|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|4|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|5|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|14|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
-|15|85.117.61.74|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|16|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|17|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|18|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|20|112.203.192.108|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|64.188.90.36|1080|Russia|Moscow|SERV.HOST GROUP LTD|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|38.145.203.240|8443|United States|Redondo Beach|Enzu Inc|
+|15|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|19|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
