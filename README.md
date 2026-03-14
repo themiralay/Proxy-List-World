@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|3|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
-|4|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
+|3|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|15|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|17|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
+|9|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|10|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|15|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 |18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|19|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
