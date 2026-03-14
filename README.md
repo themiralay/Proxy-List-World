@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |3|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|7|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|192.232.48.21|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|14|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|16|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|17|69.75.140.157|8080|United States|North Hollywood|Spectrum|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|20|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|8|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|192.232.48.21|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|11|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|13|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|15|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|16|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 
 
 
