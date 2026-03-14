@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|11|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|185.155.99.114|8118|Estonia|Narva|RJ Network OU|
-|16|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|120.50.10.106|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
-|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|7|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|10|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|13|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|14|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|17|89.185.85.138|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|18|113.11.113.69|20326|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|185.188.181.223|10808|Finland|Helsinki|I-servers LTD|
+|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
