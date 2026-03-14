@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|38.55.107.254|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|15|103.122.65.11|8080|Indonesia|Banjar Dalam|PT. Jinom Network Indonesia|
-|16|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|17|103.46.8.85|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|8|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|12|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|15|203.175.103.39|3125|Indonesia|Cikananga|PT. Mitra Kita Brilian|
+|16|80.78.75.80|8080|Albania|Tirana|ABCom|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|180.211.161.110|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|19|38.55.107.254|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|20|103.242.105.70|8080|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
 
 
 
