@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|8|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|9|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|10|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|11|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|14|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|113.176.118.255|7654|Vietnam|Hoi An|VNPT|
-|17|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|18|177.234.194.173|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|162.248.165.72|1080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|9|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|10|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|11|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|177.234.211.151|999|Ecuador|Naranjito|VUELATECHNOLOGY|
+|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|16|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|18|103.217.224.29|8089|Indonesia|Ungaran|PT Nesta Indo Media|
+|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
