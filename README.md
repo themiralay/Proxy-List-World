@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
-|9|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|64.188.90.36|1080|Russia|Moscow|SERV.HOST GROUP LTD|
-|11|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|185.41.152.110|3128|France|Valenciennes|global|
 |12|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
-|13|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|14|138.124.53.221|443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|212.108.115.102|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|16|204.199.202.133|999|Mexico|Tulantongo|Cirion Technologies Solutions|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|41.139.234.127|8080|Kenya|Nairobi|Safaricom Limited|
-|19|38.190.100.105|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
-|20|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|18|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
