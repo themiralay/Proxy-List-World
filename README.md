@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|9|103.156.75.243|3125|Indonesia|Gianyar|PT Trika Global Media|
-|10|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|23.95.76.201|8443|Canada|Montreal|BrainStorm Network Inc.|
-|14|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|15|82.165.61.217|8085|Germany|Frankfurt am Main|IONOS SE|
-|16|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|92.119.127.213|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|10|190.97.231.0|999|Venezuela|Ruiz Pineda|Viginet C.A|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|123.200.3.221|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|20|109.224.242.244|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
 
 
 
