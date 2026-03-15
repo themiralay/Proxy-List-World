@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
-|11|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|14|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|157.66.51.177|1111|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|4|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|10|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|13|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|14|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
 |18|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|19|197.232.158.189|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |20|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
 
 
