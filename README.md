@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|3|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|2.56.122.146|10808|Germany|Frankfurt am Main|WorkTitans B.V.|
-|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|14|95.3.9.78|8080|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
+|8|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|12|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|92.119.127.212|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|15|45.136.130.219|8443|United States|Redondo Beach|Enzu Inc|
+|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
 |19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
