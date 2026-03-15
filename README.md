@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|4|103.162.221.165|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|104.251.81.134|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|103.124.136.251|8080|Indonesia|Karanganyar|Global Media Data Prima|
-|9|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
-|12|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|10|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
 |13|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|15|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|16|178.236.245.59|3128|Ukraine|Kyiv|Cloud Hosting Solutions|
-|17|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|18|103.169.53.145|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|19|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|14|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|15|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|16|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
