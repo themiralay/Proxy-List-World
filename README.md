@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
-|2|47.79.40.38|55000|Japan|Tokyo|Alibaba.com LLC|
+|1|47.79.40.38|55000|Japan|Tokyo|Alibaba.com LLC|
+|2|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
 |3|156.246.88.104|11111|Japan|Tokyo|Akile LTD|
 |4|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|10|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|13|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|14|201.139.115.206|8081|Mexico|Puebla City|Kiwi Networks S A P I de CV|
-|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|16|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|20|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
+|10|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|13|185.221.215.134|7788|Russia|St Petersburg|Hostland LTD|
+|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|92.119.127.213|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|17|82.202.128.4|1085|Russia|St Petersburg|BEGET|
+|18|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
 
 
 
