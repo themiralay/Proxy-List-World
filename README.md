@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
-|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|6|163.5.128.250|14270|United States|Brooklyn|Windstream Communications LLC|
-|7|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
-|8|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|10|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|119.18.144.12|20326|Bangladesh|Chittagong|BBTS Network|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|139.135.141.12|8095|Philippines|Mamburao|ComClark Network & Technology Corp|
+|7|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
+|8|163.5.128.110|14270|United States|Brooklyn|Windstream Communications LLC|
+|9|190.61.89.179|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|10|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|12|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
 |13|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|14|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|20|185.200.37.43|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
