@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|2|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|45.136.130.231|8443|United States|Redondo Beach|Enzu Inc|
-|5|38.145.218.101|8447|United States|Redondo Beach|Enzu Inc|
-|6|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|7|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|11|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|12|45.136.130.231|8443|United States|Redondo Beach|Enzu Inc|
+|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|3|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|4|103.156.17.199|8818|Indonesia|Jatibarang|RSTNET|
+|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|9|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|12|124.107.71.252|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
 |13|38.145.218.101|8447|United States|Redondo Beach|Enzu Inc|
-|14|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|64.188.90.36|1080|Russia|Moscow|SERV.HOST GROUP LTD|
-|16|38.145.208.103|8443|United States|Redondo Beach|Enzu Inc|
-|17|38.145.208.137|8443|United States|Redondo Beach|Enzu Inc|
-|18|38.145.218.189|8447|United States|Redondo Beach|Enzu Inc|
-|19|38.145.220.137|8447|United States|Redondo Beach|Enzu Inc|
-|20|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
+|14|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
+|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|103.144.90.75|8081|Indonesia|Ponorogo|BEAT|
+|17|38.145.218.101|8447|United States|Redondo Beach|Enzu Inc|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|185.41.152.110|3128|France|Valenciennes|global|
+|20|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
 
 
 
