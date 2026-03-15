@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|45.136.130.235|8443|United States|Redondo Beach|Enzu Inc|
+|3|45.136.130.236|8443|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.237|8443|United States|Redondo Beach|Enzu Inc|
+|5|45.136.130.234|8443|United States|Redondo Beach|Enzu Inc|
 |6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|11|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|12|38.194.224.134|1452|Mexico|León|Cogent Communications|
-|13|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|17|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|19|38.145.220.25|8447|United States|Redondo Beach|Enzu Inc|
-|20|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|7|38.145.220.189|8443|United States|Redondo Beach|Enzu Inc|
+|8|38.145.220.244|8443|United States|Redondo Beach|Enzu Inc|
+|9|38.145.220.206|8443|United States|Redondo Beach|Enzu Inc|
+|10|38.145.220.191|8443|United States|Redondo Beach|Enzu Inc|
+|11|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|15|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|16|163.5.128.15|14270|United States|Brooklyn|Windstream Communications LLC|
+|17|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
