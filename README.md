@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|5|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|11|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|12|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|13|14.225.212.37|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|14|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
+|13|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|16|103.13.204.11|8090|Indonesia|Jontro|PT JARINGANKU SARANA NUSANTARA|
+|17|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|18|38.10.90.134|8084|Philippines|Iloilo City|Cogent Communications|
+|19|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
 
 
 
