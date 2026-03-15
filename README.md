@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|16|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|12|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 |18|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
 
 
 
