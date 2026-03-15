@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
 |2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |3|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|4|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|5|122.54.198.112|3128|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|4|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
 |7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|15|41.139.166.117|8080|Kenya|Nairobi|Converged services Eastern|
-|16|183.249.5.109|22222|China|Hangzhou|China Mobile Communications Corporation|
-|17|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|18|103.48.69.33|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|9|2.56.122.146|10808|Germany|Frankfurt am Main|WorkTitans B.V.|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|15|163.223.78.125|8080|Indonesia|Ngoro|PT Big Network Indonesia|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|18|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|19|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|20|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 
 
 
