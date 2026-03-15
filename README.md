@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
 |5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
-|7|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|11|64.188.90.36|1080|Russia|Moscow|SERV.HOST GROUP LTD|
-|12|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|15|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|45.168.238.193|8443|Mexico|San Juan del Río|Wantelco SAS de CV|
-|19|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|43.252.236.158|8080|Indonesia|Caringin|NET|
+|11|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|16|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
+|17|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
 
 
 
