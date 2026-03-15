@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
 |2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|3|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|4|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|5|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|7|103.159.249.145|8080|India|Kurnool|Dvr Broadband Services|
-|8|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
-|9|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|10|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|11|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|187.251.230.15|8080|Mexico|Dos Ríos|Total Play Telecomunicaciones SA De CV|
-|20|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|11|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|12|103.193.145.3|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|18|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|19|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|20|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
