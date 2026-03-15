@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|4|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|11|223.206.194.26|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|176.117.104.174|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|13|185.130.225.170|8080|Netherlands|Amsterdam|Hostkey BV direct|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|17|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|95.3.9.78|3128|Türkiye|Menemen|Turk Telekomunikasyon Anonim Sirketi|
+|9|110.171.40.132|8080|Thailand|Nonthaburi|True Internet Corporation CO. Ltd.|
+|10|187.251.130.135|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
+|11|154.127.219.242|999|Angola|Luanda|TV CABO ANGOLA LDA|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|202.51.106.229|8080|Indonesia|Pela Mampang|PT Solusi Infostruktur Nusantara|
+|14|43.229.254.221|8181|Indonesia|Kresek|PT. Media Antar Nusa|
+|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|181.78.217.50|999|Paraguay|General Higinio Morínigo|Ufinet Paraguay S.A|
+|17|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
 |18|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
 |19|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
 
 
 
