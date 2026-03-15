@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|3|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
 |8|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|12|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|13|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |15|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
 |16|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |17|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
 |18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
