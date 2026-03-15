@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4825** proxies at the latest update. Usable proxies are below.
+> Scraper found **4853** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|557|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|2|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|3|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|14|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|15|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
-|16|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|5|103.118.175.107|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|6|163.5.128.11|14270|United States|Brooklyn|Windstream Communications LLC|
+|7|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|12|36.94.149.149|8090|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|13|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|19|200.118.238.71|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|20|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
 
 
 
