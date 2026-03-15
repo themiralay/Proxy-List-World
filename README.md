@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|4|38.145.208.138|8447|United States|Redondo Beach|Enzu Inc|
+|1|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|2|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|3|103.30.28.218|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|4|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
 |5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|7|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|8|138.124.53.221|443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|38.145.208.146|8443|United States|Redondo Beach|Enzu Inc|
-|12|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|15|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
-|16|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|18|195.9.15.186|10080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|19|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|112.78.187.186|8080|Indonesia|Tegal|Biznet Networks|
+|8|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|10|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|11|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|12|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|13|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
 
 
 
