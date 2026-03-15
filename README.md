@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|45.136.130.247|8443|United States|Redondo Beach|Enzu Inc|
-|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|4|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|7|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |10|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|11|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
 |13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|16|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|19|190.192.45.168|3128|Argentina|Rosario|Telecom Argentina S.A.|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|17|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
+|18|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
