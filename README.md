@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.79.40.38|55000|Japan|Tokyo|Alibaba.com LLC|
 |2|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
-|3|156.246.88.104|11111|Japan|Tokyo|Akile LTD|
-|4|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|10|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|13|185.221.215.134|7788|Russia|St Petersburg|Hostland LTD|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|92.119.127.213|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|17|82.202.128.4|1085|Russia|St Petersburg|BEGET|
-|18|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|4|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|155.248.167.98|9091|Japan|Tokyo|Oracle Corporation|
+|11|38.145.220.209|8443|United States|Redondo Beach|Enzu Inc|
+|12|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
+|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|16|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|38.145.220.220|8443|United States|Redondo Beach|Enzu Inc|
+|19|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|20|38.145.220.209|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
