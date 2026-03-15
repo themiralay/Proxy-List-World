@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.167.227.161|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
-|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|3|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
+|4|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|103.155.168.178|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
 |7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |9|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|10|45.136.130.223|8443|United States|Redondo Beach|Enzu Inc|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |12|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|45.229.17.130|999|Argentina|Posadas|Turbonet S.A.|
+|13|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
 |14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|16|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
+|17|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
