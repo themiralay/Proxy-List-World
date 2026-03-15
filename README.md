@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|4|45.136.130.159|8443|United States|Redondo Beach|Enzu Inc|
-|5|45.136.130.157|8443|United States|Redondo Beach|Enzu Inc|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
-|10|138.124.53.221|443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|64.188.90.36|1080|Russia|Moscow|SERV.HOST GROUP LTD|
-|13|2.56.122.146|10808|Germany|Frankfurt am Main|WorkTitans B.V.|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|202.191.127.9|1121|Bangladesh|Dhaka|BIJOY|
-|17|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|18|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|19|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|20|121.101.130.173|8080|Indonesia|Surakarta|PT SELARAS CITRA TERABIT|
+|1|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|3|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|4|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
+|8|103.30.28.218|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|103.156.224.66|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
+|11|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|17|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|18|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 
 
 
