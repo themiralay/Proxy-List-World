@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |8|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
 |10|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
-|13|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|14|124.107.71.252|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
-|15|185.188.181.223|10808|Finland|Helsinki|I-servers LTD|
-|16|103.30.30.226|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|17|185.130.225.170|8080|Netherlands|Amsterdam|Hostkey BV direct|
-|18|38.123.220.111|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|19|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
-|20|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|12|64.188.90.36|1080|Russia|Moscow|SERV.HOST GROUP LTD|
+|13|146.19.128.135|1080|Latvia|Riga|AZERTA.RU Hosting Solutions|
+|14|205.209.118.30|3138|United States|Englewood Cliffs|Interserver, Inc|
+|15|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|16|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|185.41.152.110|3128|France|Valenciennes|global|
+|19|185.188.181.223|10808|Finland|Helsinki|I-servers LTD|
+|20|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
 
 
 
