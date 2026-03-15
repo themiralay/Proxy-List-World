@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
+|5|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|6|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|45.136.130.211|8447|United States|Redondo Beach|Enzu Inc|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|13|38.145.218.82|8443|United States|Redondo Beach|Enzu Inc|
+|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|15|38.145.208.201|8447|United States|Redondo Beach|Enzu Inc|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|18|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|19|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
 
 
 
