@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |5|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|6|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
 |7|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|8|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|9|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|10|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|20|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
+|8|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|14|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|18|5.129.237.45|49488|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
