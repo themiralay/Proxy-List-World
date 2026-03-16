@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|8|2.56.122.146|10808|Germany|Frankfurt am Main|WorkTitans B.V.|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|45.136.130.165|8443|United States|Redondo Beach|Enzu Inc|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|11|2.56.122.146|10808|Germany|Frankfurt am Main|WorkTitans B.V.|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 |14|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|15|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|16|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|103.247.23.11|8549|Indonesia|Bekasi|PT wifian Solution|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 
 
 
