@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
-|10|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|212.192.13.76|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|202.58.77.77|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|15|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|19|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|20|45.119.85.216|3128|Vietnam|Quận Một|Long Van System Solution JSC|
 
 
 
