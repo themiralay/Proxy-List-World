@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|5|38.34.183.198|8448|United States|Redondo Beach|Enzu Inc|
-|6|45.136.130.243|8448|United States|Redondo Beach|Enzu Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|38.145.208.99|8448|United States|Redondo Beach|Enzu Inc|
-|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|10|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
-|11|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|45.136.130.243|8448|United States|Redondo Beach|Enzu Inc|
-|16|38.145.208.95|8443|United States|Redondo Beach|Enzu Inc|
-|17|38.145.208.96|8443|United States|Redondo Beach|Enzu Inc|
-|18|38.145.208.94|8443|United States|Redondo Beach|Enzu Inc|
-|19|38.145.203.161|8443|United States|Redondo Beach|Enzu Inc|
-|20|38.145.203.162|8443|United States|Redondo Beach|Enzu Inc|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
+|7|137.220.128.173|8866|Japan|Tokyo|CTG Server Ltd.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|10|213.219.214.45|443|Russia|Moscow|LLC VK|
+|11|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|14|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|15|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
