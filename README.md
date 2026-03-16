@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 |3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|7|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|11|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|12|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|14|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|9|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |16|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|49.144.28.148|8181|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|18|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|19|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|20|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
 
 
 
