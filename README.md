@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|137.220.128.173|8866|Japan|Tokyo|CTG Server Ltd.|
-|3|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|4|47.79.40.38|55000|Japan|Tokyo|Alibaba.com LLC|
-|5|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|6|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|11|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|12|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|15|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|38.34.178.111|8450|United States|Redondo Beach|Enzu Inc|
-|18|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|20|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
+|1|47.79.40.38|55000|Japan|Tokyo|Alibaba.com LLC|
+|2|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|3|137.220.128.173|8866|Japan|Tokyo|CTG Server Ltd.|
+|4|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|12|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|13|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|19|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|20|103.93.93.221|8181|Indonesia|Kertosono|MYRISE|
 
 
 
