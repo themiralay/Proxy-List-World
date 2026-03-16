@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|7|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|8|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|7|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |9|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|103.160.202.174|3125|Indonesia|Ponorogo|PT Sembilan Mediadata Nusaraya|
+|10|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|19|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|18|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
 
 
 
