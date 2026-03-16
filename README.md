@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|2|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
 |4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 |5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|137.220.128.173|8866|Japan|Tokyo|CTG Server Ltd.|
-|7|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|8|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|9|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|10|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|11|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|6|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|7|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
 |12|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|13|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|14|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
-|15|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|13|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|14|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|15|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
 |16|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|17|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 |19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |20|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
 
