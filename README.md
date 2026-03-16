@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|1|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|3|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|6|38.34.179.203|8450|United States|Redondo Beach|Enzu Inc|
-|7|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|13|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|16|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|19|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|5|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|13|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|14|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|17|116.80.96.106|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|20|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
