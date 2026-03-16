@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
-|5|137.220.128.173|8866|Japan|Tokyo|CTG Server Ltd.|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|8|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
-|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|10|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|11|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
-|12|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|13|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|14|47.79.40.38|55000|Japan|Tokyo|Alibaba.com LLC|
-|15|137.220.128.173|8866|Japan|Tokyo|CTG Server Ltd.|
-|16|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|17|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|1|137.220.128.173|8866|Japan|Tokyo|CTG Server Ltd.|
+|2|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
+|3|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|4|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|6|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
+|9|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|10|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|11|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|14|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|15|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|17|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|18|47.79.40.38|55000|Japan|Tokyo|Alibaba.com LLC|
+|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 
 
 
