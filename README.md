@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|4|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|10|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|13|116.80.96.111|3172|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|16|212.192.13.76|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|19|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|20|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|45.136.131.59|8450|United States|Redondo Beach|Enzu Inc|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|7|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|9|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|12|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|13|213.219.214.45|443|Russia|Moscow|LLC VK|
+|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|15|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|160.19.41.61|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
+|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
