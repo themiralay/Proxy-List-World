@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|5|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|6|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|3|116.80.96.110|3172|Japan|Yokohama|InfoSphere|
+|4|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
+|5|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
+|6|47.79.40.38|55000|Japan|Tokyo|Alibaba.com LLC|
+|7|45.136.130.161|8448|United States|Redondo Beach|Enzu Inc|
+|8|38.145.203.135|8443|United States|Redondo Beach|Enzu Inc|
 |9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|10|45.136.130.241|8448|United States|Redondo Beach|Enzu Inc|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|38.34.179.106|8443|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.150|8443|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.161|8443|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.151|8443|United States|Redondo Beach|Enzu Inc|
-|16|38.34.179.135|8443|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.154|8443|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.135|8443|United States|Redondo Beach|Enzu Inc|
-|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|38.34.179.154|8443|United States|Redondo Beach|Enzu Inc|
+|10|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|11|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|12|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|45.136.130.188|8448|United States|Redondo Beach|Enzu Inc|
+|15|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|18|49.212.85.31|5400|Japan|Osaka|SAKURA Internet Inc.|
+|19|45.136.130.161|8448|United States|Redondo Beach|Enzu Inc|
+|20|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
 
 
 
