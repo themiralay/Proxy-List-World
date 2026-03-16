@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|103.152.238.21|3125|Indonesia|Cikarang|APRIN|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|45.136.130.176|8447|United States|Redondo Beach|Enzu Inc|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|9|45.136.130.174|8447|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.177|8447|United States|Redondo Beach|Enzu Inc|
-|11|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|12|45.136.130.171|8447|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|16|38.145.218.101|8447|United States|Redondo Beach|Enzu Inc|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
-|20|45.136.130.176|8447|United States|Redondo Beach|Enzu Inc|
+|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|200.125.169.51|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|108.137.1.116|4497|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|18|103.81.64.89|8080|Indonesia|Sukoharjo Satu|QIUNET|
+|19|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
+|20|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
 
 
 
