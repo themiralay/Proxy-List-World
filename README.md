@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4509** proxies at the latest update. Usable proxies are below.
+> Scraper found **4521** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|547|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|3|45.136.130.209|8448|United States|Redondo Beach|Enzu Inc|
-|4|45.136.130.208|8447|United States|Redondo Beach|Enzu Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|45.136.130.206|8447|United States|Redondo Beach|Enzu Inc|
-|9|45.136.130.240|8448|United States|Redondo Beach|Enzu Inc|
-|10|45.136.130.238|8447|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.108|8450|United States|Redondo Beach|Enzu Inc|
-|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|13|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
-|19|213.219.214.45|443|Russia|Moscow|LLC VK|
-|20|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|2|38.34.178.244|8450|United States|Redondo Beach|Enzu Inc|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|4|45.136.130.209|8448|United States|Redondo Beach|Enzu Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|9|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|10|38.145.208.142|8444|United States|Redondo Beach|Enzu Inc|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|38.145.208.142|8444|United States|Redondo Beach|Enzu Inc|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|15|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|16|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|17|213.219.214.45|443|Russia|Moscow|LLC VK|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|137.220.128.149|8866|Japan|Tokyo|CTG Server Ltd.|
+|20|45.136.130.217|8443|United States|Redondo Beach|Enzu Inc|
 
 
 
