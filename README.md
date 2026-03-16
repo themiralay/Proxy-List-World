@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
-|4|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|45.136.130.210|8448|United States|Redondo Beach|Enzu Inc|
+|3|38.145.208.179|8447|United States|Redondo Beach|Enzu Inc|
+|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|5|45.136.130.210|8448|United States|Redondo Beach|Enzu Inc|
+|6|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
 |7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|38.34.179.48|8443|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
 |9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|38.34.179.76|8450|United States|Redondo Beach|Enzu Inc|
-|11|159.13.44.239|8080|Australia|Sydney|Oracle Corporation|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|38.34.179.79|8450|United States|Redondo Beach|Enzu Inc|
-|16|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|17|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|18|213.219.214.45|443|Russia|Moscow|LLC VK|
-|19|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
-|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|159.13.44.239|8080|Australia|Sydney|Oracle Corporation|
+|11|38.34.179.124|8450|United States|Redondo Beach|Enzu Inc|
+|12|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|13|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|103.169.26.114|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|16|38.34.179.75|8450|United States|Redondo Beach|Enzu Inc|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
 
 
 
