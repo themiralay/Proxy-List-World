@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|38.55.107.137|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|10|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|15|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|16|190.97.243.2|999|Venezuela|Mérida|Viginet C.A|
-|17|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|10|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|11|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|17|38.55.107.137|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|18|103.148.62.1|8080|India|Thane|Rae Internet Service Provider Private Limited|
+|19|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|20|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
 
 
 
