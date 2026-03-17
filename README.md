@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
 |4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|163.223.78.125|8080|Indonesia|Ngoro|PT Big Network Indonesia|
-|6|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
-|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|10|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|56.228.5.197|47208|Sweden|Stockholm|Amazon.com|
-|13|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|6|103.19.78.127|3125|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
+|7|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|8|56.228.5.197|47208|Sweden|Stockholm|Amazon.com|
+|9|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|10|181.78.79.155|999|Colombia|Caldas|IFX Networks Argentina S.R.L|
+|11|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|185.226.195.218|2222|Spain|Dos Hermanas|Pinkbear SLU|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|18|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|19|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|202.52.48.174|4444|Indonesia|Jakarta|PT ROKA LANE ASIA|
+|17|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|18|95.214.123.132|8080|Hungary|Kecskemét|Deltakon Kft.|
+|19|120.240.29.174|22222|China|Guangzhou|China Mobile communications corporation|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
