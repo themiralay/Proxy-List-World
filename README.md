@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|2|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|7|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|10|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|14|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|15|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|20|38.34.179.156|8447|United States|Redondo Beach|Enzu Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|11|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|12|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|13|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
