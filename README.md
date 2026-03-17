@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|103.160.205.86|8080|Indonesia|Timba Timuk|PRIME|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|220.81.123.23|48678|South Korea|Suseong-gu|Korea Telecom|
-|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|18|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|116.80.96.100|3172|Japan|Yokohama|InfoSphere|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|20|187.190.58.152|8081|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
 
 
 
