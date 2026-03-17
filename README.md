@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 |5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|10|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|36.95.173.90|8899|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|8|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|11|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|200.49.99.78|9991|Argentina|San Isidro|Telecom Argentina S.A|
+|18|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
