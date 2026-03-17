@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|5|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
 |6|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|9|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|10|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|15|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|18|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|192.3.203.158|1080|United States|Buffalo|HostPapa|
+|12|38.34.179.199|8448|United States|Redondo Beach|Enzu Inc|
+|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|18|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|19|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
