@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4869** proxies at the latest update. Usable proxies are below.
+> Scraper found **4847** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|184|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|678|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|86|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|2|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|103.220.23.131|7777|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|2|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|3|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|4|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
 |7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
-|9|206.84.201.101|999|Peru|Callao|Cogent Communications|
-|10|195.190.107.62|3389|Russia|Moscow|PJSC "Vimpelcom"|
-|11|56.228.5.197|47208|Sweden|Stockholm|Amazon.com|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|17|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|18|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|56.228.5.197|47208|Sweden|Stockholm|Amazon.com|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|38.210.179.106|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
+|15|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|17|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|18|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
 
 
 
