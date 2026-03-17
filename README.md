@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
 |3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|103.133.25.247|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|157.20.206.243|8080|Indonesia|Purwodadi Grobogan|PT Erajaya Telco Indonesia|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|16|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|19|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|10|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|13|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|15|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
+|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
