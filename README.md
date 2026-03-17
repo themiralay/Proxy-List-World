@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|8|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|9|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|10|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|5|182.253.221.147|8080|Indonesia|Jakarta|Biznet Networks|
+|6|192.3.203.158|1080|United States|Buffalo|HostPapa|
+|7|38.34.179.192|8450|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|10|151.245.137.49|40000|Netherlands|Amsterdam|Hostkey B.V.|
 |11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|177.229.197.154|999|Mexico|Tapachula|Mega Cable, S.A. de C.V.|
-|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|18|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|19|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|13|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|14|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|38.34.179.50|8450|United States|Redondo Beach|Enzu Inc|
+|17|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
+|20|122.52.157.209|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
