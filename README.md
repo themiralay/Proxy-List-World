@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4832** proxies at the latest update. Usable proxies are below.
+> Scraper found **4821** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|272|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|582|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|274|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|569|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2989|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|192.203.0.118|999|Puerto Rico|Yabucoa|Boom NET|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|222.127.103.129|8080|Philippines|Midsayap|INNOVE|
+|1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|6|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|7|94.102.193.91|8080|Ireland|Carlow|Regional Broadband Ireland Ltd|
+|8|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
 |10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.185.250.142|1452|Bangladesh|Sonargaon|L.J Broadband Network|
-|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|13|120.50.10.102|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|103.178.3.0|8080|Indonesia|Bandung|RSTNET|
+|11|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|12|178.236.245.17|3128|Ukraine|Kyiv|Cloud Hosting Solutions|
+|13|102.219.231.22|8080|South Africa|Standerton|Soepa Soap Vervaardigers CC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|18|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
