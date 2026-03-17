@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|103.175.46.162|8080|Indonesia|Sumber|PT Internet Keluarga Indonesia|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|12|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|103.109.96.161|4443|Bangladesh|Nawābganj|Digi Jadoo Broadband Ltd|
-|15|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|103.156.15.105|1111|Indonesia|Pangradin Satu|PT Lintas Jaringan Nusantara|
-|19|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|108.137.1.116|4497|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
+|13|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|14|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|15|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|16|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
+|17|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|18|182.252.74.40|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|19|181.78.203.148|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
