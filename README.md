@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|6|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|107.174.55.123|7878|United States|Los Angeles|HostPapa|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|4|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|5|103.93.93.221|8181|Indonesia|Kertosono|MYRISE|
+|6|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|7|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|12|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
 |15|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|16|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 
 
 
