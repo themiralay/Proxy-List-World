@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
-|11|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|12|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|103.105.76.49|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|17|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|19|222.127.55.149|8085|Philippines|Lahug|INNOVE|
-|20|102.219.231.22|8080|South Africa|Standerton|Soepa Soap Vervaardigers CC|
+|1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|6|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|10|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|15|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
+|16|185.200.38.221|8085|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|20|45.168.238.193|8443|Mexico|San Juan del Río|Wantelco SAS de CV|
 
 
 
