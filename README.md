@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|1|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 |6|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|7|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|8|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|9|190.15.194.72|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|8|45.136.130.197|8452|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|14|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|18|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|19|202.58.64.65|1111|Indonesia|Wonogiri|PT Mamura Inter Media|
+|20|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
 
 
 
