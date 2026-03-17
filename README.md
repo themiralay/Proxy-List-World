@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|3|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
-|6|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|14|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|3|62.60.177.204|34094|United States|Charlotte|Aeza International LTD|
+|4|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|6|202.58.77.112|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|7|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|12|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|15|82.129.233.4|1976|Egypt|Cairo|Vodafone Data - Egypt|
+|16|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
