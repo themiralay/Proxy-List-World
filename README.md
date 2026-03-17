@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|6|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|11|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|13|103.4.76.105|8589|Indonesia|Parung|PT Khazanah Net Indonesia|
-|14|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|15|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.96.105|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|10|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|11|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
