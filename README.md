@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|1|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|15|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|111.79.111.126|3128|China|Hangzhou|China Telecom|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
