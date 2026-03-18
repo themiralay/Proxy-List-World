@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4075** proxies at the latest update. Usable proxies are below.
+> Scraper found **4031** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|255|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|684|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|640|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2135|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|1|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|11|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|103.4.76.105|8589|Indonesia|Parung|PT Khazanah Net Indonesia|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|16|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|17|109.98.148.162|55555|Romania|Constanța|Romtelecom|
-|18|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|19|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
-|20|144.31.0.166|3128|Poland|Warsaw|H2nexus LTD|
+|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|12|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|15|119.148.36.65|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|45.136.131.36|8450|United States|Redondo Beach|Enzu Inc|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|103.193.145.137|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|20|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
