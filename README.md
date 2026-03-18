@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|3|45.122.122.71|8080|India|Pur|FusionNet|
-|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|9|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|10|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|11|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|1|211.171.114.154|3128|South Korea|Mapo-gu|LG DACOM Corporation|
+|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.122.122.71|8080|India|Pur|FusionNet|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|192.3.203.158|1080|United States|Buffalo|HostPapa|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|103.93.93.86|1111|Indonesia|Gampengrejo|MYRISE|
+|12|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|13|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|14|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |15|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
