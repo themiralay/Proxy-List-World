@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|8|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|9|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|20|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|163.61.55.103|1234|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|103.70.44.6|8080|India|Lowāda|Meghbela Cable & Broadband Services (P) Ltd|
+|12|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|16|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
 
 
 
