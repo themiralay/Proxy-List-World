@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4068** proxies at the latest update. Usable proxies are below.
+> Scraper found **4067** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2140|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|203.207.56.57|8080|Indonesia|Cileunyi|STARNET|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|154.56.114.10|8082|Philippines|Abulug|KEITH.NET INCORPORATED|
+|6|202.145.5.184|8080|Indonesia|Semarang|PT Jala Lintas Media|
+|7|38.34.179.178|8445|United States|Redondo Beach|Enzu Inc|
+|8|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
 |9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|11|41.33.203.238|1975|Egypt|Cairo|TE Data|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|41.216.186.46|8181|Indonesia|Jakarta|FASTHOSTING|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|190.52.110.43|999|Venezuela|Caracas|Gold Data Colombia|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|194.147.90.23|3128|Russia|Moscow|AZERTA.RU Hosting LLC|
-|19|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|20|107.174.55.123|7878|United States|Los Angeles|HostPapa|
+|10|167.71.245.33|3128|United States|Clifton|DigitalOcean, LLC|
+|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|12|163.5.128.87|14270|United States|Brooklyn|Windstream Communications LLC|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|43.216.1.13|50801|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|17|165.101.230.77|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|18|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|19|193.233.85.149|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
