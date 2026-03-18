@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|11|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|12|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|190.60.48.171|999|Colombia|Bosconia|IFX NETWORKS COLOMBIA|
-|18|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|19|38.210.179.112|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
-|20|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|5|103.163.103.208|8080|Indonesia|Jatiroto|PT Mamura Inter Media|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|103.227.186.209|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|12|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|13|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|14|103.177.10.253|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
+|15|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
+|16|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
