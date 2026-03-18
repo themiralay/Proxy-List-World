@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|5|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|9|103.17.246.60|1080|Indonesia|Banjar Badung|PT Media Sarana Data|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|13|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|176.117.104.163|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|103.3.58.162|8080|Indonesia|Gununglincingkrajan|PT. Java Digital Nusantara|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|2|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|3|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|14|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|20|38.34.179.192|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
