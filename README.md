@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|8|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
-|9|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|202.93.245.54|8080|Indonesia|Sidoarjo|DWPNAP|
-|11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|12|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|16|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|18|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|19|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|20|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
+|6|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
+|11|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|14|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|15|66.54.106.56|8104|United States|Greenwood|Mobile Communications, LLC|
+|16|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|89.169.3.180|1080|Russia|Moscow|JSC "TIMEWEB"|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
