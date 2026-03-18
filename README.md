@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|10|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|11|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|58.147.186.79|8080|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|15|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|16|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|17|192.3.203.158|1080|United States|Buffalo|HostPapa|
-|18|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|19|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|4|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|6|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|7|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|8|103.141.150.147|8080|Indonesia|Bandung|PRIMACOM|
+|9|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|12|91.236.156.30|8282|Ukraine|Shyshaky|Limited Liability Company AVATOR ISP|
+|13|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|15|192.3.203.158|1080|United States|Buffalo|HostPapa|
+|16|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
