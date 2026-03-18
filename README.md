@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|4|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|9|117.3.5.90|8080|Vietnam|Da Nang|VIETTEL|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|14|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|181.209.75.124|8080|Argentina|Apolinario Saravia|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|18|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
