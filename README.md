@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4047** proxies at the latest update. Usable proxies are below.
+> Scraper found **4022** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|590|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2140|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|3|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
-|10|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|11|103.39.51.184|8088|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|12|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|13|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|14|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
-|15|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|9|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|11|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|74.48.130.93|1080|United States|Los Angeles|Multacom Corporation|
+|17|190.97.239.16|999|Venezuela|Arauquita||
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
