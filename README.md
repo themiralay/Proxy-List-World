@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4037** proxies at the latest update. Usable proxies are below.
+> Scraper found **4394** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|612|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2149|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2506|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|10|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|11|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|17|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|45.93.30.241|6005|South Korea|Seoul|MOACK.Co.LTD|
+|5|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|14|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|38.156.15.156|999|Mexico|Teocaltiche|Wistarip Networks|
+|19|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|20|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 
 
 
