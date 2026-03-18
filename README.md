@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
-|5|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|9|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|10|103.166.159.227|8090|Indonesia|Bulakamba|PT Timor Lintas Nusantara|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|6|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|7|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|202.148.13.182|8080|Indonesia|Jakarta|DNET-SBY|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 |11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|15|203.76.98.21|45958|Bangladesh|Tāngāil|Link3 Technologies Limited|
-|16|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|17|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|18|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
+|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|86.53.183.16|1080|United Kingdom|City of London|GTT|
 
 
 
