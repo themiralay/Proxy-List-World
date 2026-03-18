@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|5|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|6|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|9|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|14|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|15|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|16|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|17|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|19|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|6|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|10|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|17|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|18|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 
 
 
