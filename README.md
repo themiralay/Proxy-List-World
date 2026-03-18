@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|3|45.136.131.59|8450|United States|Redondo Beach|Enzu Inc|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|103.3.58.162|8080|Indonesia|Gununglincingkrajan|PT. Java Digital Nusantara|
+|8|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
 |12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|15|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|16|103.193.145.137|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|20|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|16|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|120.50.10.102|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
+|19|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
 
 
 
