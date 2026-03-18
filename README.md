@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|4|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
-|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|12|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|15|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|16|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|17|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|3|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|9|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|10|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
+|11|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
+|12|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|13|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|16|89.169.3.180|1080|Russia|Moscow|JSC "TIMEWEB"|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
