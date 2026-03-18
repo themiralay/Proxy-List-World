@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|2|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|7|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|43.216.1.13|50801|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
-|12|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|13|103.78.83.21|8083|Indonesia|Jakarta|MORATELINDO|
-|14|103.78.83.23|8083|Indonesia|Jakarta|MORATELINDO|
-|15|212.175.61.31|8080|Turkey|Ümraniye|Turk Telekomunikasyon Anonim Sirketi|
-|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
+|13|45.4.202.147|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|14|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
+|15|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|16|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|17|103.78.83.23|8083|Indonesia|Jakarta|MORATELINDO|
 |18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|20|43.252.236.158|8080|Indonesia|Caringin|NET|
 
 
 
