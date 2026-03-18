@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|5|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
-|15|45.230.169.129|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|16|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|17|203.28.67.74|8080|Philippines|Cebu City|Responsible Internet Sustainability Effort|
-|18|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|1|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|4|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|17|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|20|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
