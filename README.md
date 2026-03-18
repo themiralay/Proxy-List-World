@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|192.3.203.158|1080|United States|Buffalo|HostPapa|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|11|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|12|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|15|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|19|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
+|7|192.3.203.158|1080|United States|Buffalo|HostPapa|
+|8|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|15|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|16|177.234.211.63|999|Ecuador|Naranjito|VUELATECHNOLOGY|
+|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
 |20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
