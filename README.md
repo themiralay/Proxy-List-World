@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
-|10|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|11|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
 |12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|13|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|14|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |16|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|19|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|20|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|18|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
 
 
 
