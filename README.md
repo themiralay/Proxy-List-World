@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
-|4|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
-|10|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|11|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|5|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|6|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|16|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
 |18|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|19|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 |20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
