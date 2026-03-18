@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|4|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|8|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|13|190.52.110.43|999|Venezuela|Caracas|Gold Data Colombia|
-|14|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|15|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|4|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|8|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|9|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|10|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|11|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
+|16|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|17|157.66.192.91|8080|Indonesia|Randudongkal|PT Indotech Digitama Superlink|
 |18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|20|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 
 
 
