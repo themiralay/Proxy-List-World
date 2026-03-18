@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
-|6|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|58.147.186.79|8080|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|11|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|43.252.236.158|8080|Indonesia|Caringin|NET|
-|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|20|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|4|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|5|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|6|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|7|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|10|149.50.116.240|1080|Poland|Warsaw|MEVSPACE sp. z o.o.|
+|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|12|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|15|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|16|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|17|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
