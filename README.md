@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|5|43.216.1.13|50801|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|7|145.220.178.15|8118|The Netherlands|Utrecht|SURFnet III d|
-|8|145.220.178.0|8080|The Netherlands|Utrecht|SURFnet III d|
-|9|145.220.178.8|8080|The Netherlands|Utrecht|SURFnet III d|
-|10|145.220.178.5|4145|The Netherlands|Utrecht|SURFnet III d|
+|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|145.220.178.5|4145|The Netherlands|Utrecht|SURFnet III d|
+|6|145.220.178.8|8080|The Netherlands|Utrecht|SURFnet III d|
+|7|145.220.178.4|1081|The Netherlands|Utrecht|SURFnet III d|
+|8|145.220.178.7|8080|The Netherlands|Utrecht|SURFnet III d|
+|9|145.220.178.3|1081|The Netherlands|Utrecht|SURFnet III d|
+|10|145.220.178.12|8118|The Netherlands|Utrecht|SURFnet III d|
 |11|145.220.178.11|8118|The Netherlands|Utrecht|SURFnet III d|
-|12|145.220.178.6|1081|The Netherlands|Utrecht|SURFnet III d|
-|13|145.220.178.1|4145|The Netherlands|Utrecht|SURFnet III d|
-|14|145.220.178.12|8118|The Netherlands|Utrecht|SURFnet III d|
-|15|145.220.178.7|8080|The Netherlands|Utrecht|SURFnet III d|
-|16|145.220.178.4|1081|The Netherlands|Utrecht|SURFnet III d|
-|17|145.220.178.10|4145|The Netherlands|Utrecht|SURFnet III d|
-|18|145.220.178.9|4145|The Netherlands|Utrecht|SURFnet III d|
-|19|145.220.178.14|9050|The Netherlands|Utrecht|SURFnet III d|
-|20|145.220.178.3|1081|The Netherlands|Utrecht|SURFnet III d|
+|12|145.220.178.9|4145|The Netherlands|Utrecht|SURFnet III d|
+|13|145.220.178.15|8118|The Netherlands|Utrecht|SURFnet III d|
+|14|145.220.178.14|9050|The Netherlands|Utrecht|SURFnet III d|
+|15|145.220.178.10|4145|The Netherlands|Utrecht|SURFnet III d|
+|16|145.220.178.6|1081|The Netherlands|Utrecht|SURFnet III d|
+|17|145.220.178.0|8080|The Netherlands|Utrecht|SURFnet III d|
+|18|145.220.178.1|4145|The Netherlands|Utrecht|SURFnet III d|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 
 
 
