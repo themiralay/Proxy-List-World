@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|10|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
-|11|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|12|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|13|116.212.182.74|8081|India|Mumbai|Microsense Private Limited|
-|14|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|16|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|17|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|3|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|10|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|11|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|12|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|20|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
 
 
 
