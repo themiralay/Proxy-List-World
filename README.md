@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.55.107.254|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|10|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|15|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|16|36.66.180.186|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|17|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|18|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|19|58.147.186.31|3125|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|20|204.199.139.72|999|Chile|Rengo|Ingbell Chile SPA|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|2|38.55.107.254|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|8|113.23.200.85|8081|Malaysia|Putrajaya|Extreme Broadband|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
+|13|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|17|102.0.18.120|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
