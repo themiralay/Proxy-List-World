@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|3|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|4|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|10|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|200.92.201.126|999|Mexico|San José Iturbide|Mega Cable, S.A. de C.V.|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|199.66.157.89|8080|United States|Odessa|SCT Broadband|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|12|201.77.110.33|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|13|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|19|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
