@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|1|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.55.107.254|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|7|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|17|137.184.6.37|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|14|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|103.165.123.109|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|18|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
