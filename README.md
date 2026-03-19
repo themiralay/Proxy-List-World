@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|103.122.65.242|8080|Indonesia|Banjar Dalam|PT. Jinom Network Indonesia|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|11|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
-|12|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|13|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|14|103.125.117.154|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
-|15|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|102.39.233.4|8080|South Africa|Bloemfontein|Vox Telecommunications (Pty) Limited|
-|18|190.97.254.254|999|Venezuela|Mérida|Viginet C.A|
-|19|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|5|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|203.205.49.2|10142|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
 
 
 
