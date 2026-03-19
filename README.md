@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|10|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|11|38.55.107.137|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|12|113.192.31.17|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|13|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|15|38.54.8.116|8880|United Arab Emirates|Dubai|Kaopu Cloud HK Limited|
-|16|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|18|41.216.186.46|8181|Indonesia|Jakarta|FASTHOSTING|
-|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|38.34.179.190|8450|United States|Redondo Beach|Enzu Inc|
+|9|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|10|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|11|157.66.50.37|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|16|38.34.183.225|8450|United States|Redondo Beach|Enzu Inc|
+|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|18|38.34.179.190|8450|United States|Redondo Beach|Enzu Inc|
+|19|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|20|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
 
 
 
