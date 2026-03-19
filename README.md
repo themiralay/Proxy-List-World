@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|77.105.168.97|1080|Russia|Moscow|JSC Selectel|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
 |4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|5|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|6|38.34.179.36|8443|United States|Redondo Beach|Enzu Inc|
-|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|8|38.34.179.36|8443|United States|Redondo Beach|Enzu Inc|
-|9|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|10|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|13|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|14|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|177.234.194.235|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|19|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|38.34.179.36|8443|United States|Redondo Beach|Enzu Inc|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|38.34.179.36|8443|United States|Redondo Beach|Enzu Inc|
+|14|119.92.71.40|8080|Philippines|Carmona|Philippine Long Distance Telephone Co.|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|77.105.168.97|1080|Russia|Moscow|JSC Selectel|
+|18|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|19|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|20|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
 
 
 
