@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4513** proxies at the latest update. Usable proxies are below.
+> Scraper found **4572** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|612|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|671|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2610|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|13|202.93.245.54|8080|Indonesia|Sidoarjo|DWPNAP|
-|14|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
-|17|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|18|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|20|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|9|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|11|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|12|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|13|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
+|14|89.169.3.180|1080|Russia|Moscow|JSC "TIMEWEB"|
+|15|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
