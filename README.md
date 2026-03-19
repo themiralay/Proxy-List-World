@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|4|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|5|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
 |7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|13|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|18|36.88.141.105|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|166.249.54.61|7234|United States|Plymouth Meeting|Verizon Business|
+|9|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|14|180.125.216.109|8118|China|Nanjing|Chinanet|
+|15|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|16|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|19|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
