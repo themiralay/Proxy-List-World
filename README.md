@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|1|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|6|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|12|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
-|13|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|19|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|20|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|5|168.138.175.189|7890|Singapore|Singapore|Oracle Corporation|
+|6|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|8|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
+|9|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|10|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|11|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|12|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|13|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
+|14|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|15|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|16|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|19|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|20|194.5.212.40|8080|Germany|Frankfurt am Main|M247 Europe SRL|
 
 
 
