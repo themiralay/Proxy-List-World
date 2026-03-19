@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|3|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|7|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|1|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.155.167.62|8080|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
+|4|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|5|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 |8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|89.169.3.180|1080|Russia|Moscow|JSC "TIMEWEB"|
-|10|56.228.5.197|47208|Sweden|Stockholm|Amazon.com|
-|11|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|12|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|13|181.94.197.37|8080|Paraguay|Fernando de la Mora|Núcleo S.A.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|16|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
-|18|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|19|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|20|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|51.161.209.7|6502|Australia|North Sydney|OVH SAS|
+|11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|12|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|15|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|16|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|17|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|19|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|20|102.39.233.4|8080|South Africa|Bloemfontein|Vox Telecommunications (Pty) Limited|
 
 
 
