@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|10|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|11|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|12|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
-|13|46.55.143.145|8080|Bulgaria|Kardzhali|DCC|
-|14|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|15|103.18.113.5|1111|Indonesia|Labuhan Tangga Besar|PT Kangen Network Solusindo|
-|16|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|4|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|9|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
+|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|11|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
+|12|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|13|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|19|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 
 
 
