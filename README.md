@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|45.136.131.41|8448|United States|Redondo Beach|Enzu Inc|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|77.105.168.97|1080|Russia|Moscow|JSC Selectel|
-|7|45.136.131.40|8448|United States|Redondo Beach|Enzu Inc|
-|8|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|12|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|13|38.34.179.190|8450|United States|Redondo Beach|Enzu Inc|
-|14|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|15|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|16|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|17|103.251.232.2|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
-|18|183.91.88.226|8087|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|19|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|4|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|5|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|8|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|77.105.168.97|1080|Russia|Moscow|JSC Selectel|
+|11|103.124.137.99|8080|Indonesia|Ambarawa|Global Media Data Prima|
+|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|13|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|15|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
+|16|187.102.211.253|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|17|103.193.145.137|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|18|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|19|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|20|103.4.76.105|8589|Indonesia|Parung|PT Khazanah Net Indonesia|
 
 
 
