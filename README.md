@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|5|77.105.168.97|1080|Russia|Moscow|JSC Selectel|
-|6|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|2|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|3|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|4|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|6|77.105.168.97|1080|Russia|Moscow|JSC Selectel|
+|7|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |9|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
-|16|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|17|222.184.48.251|22222|China|Nanjing|Chinanet|
-|18|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|10|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|11|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|13|222.184.48.251|22222|China|Nanjing|Chinanet|
+|14|45.136.131.36|8450|United States|Redondo Beach|Enzu Inc|
+|15|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|16|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|17|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|18|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
 |19|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|20|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|20|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
