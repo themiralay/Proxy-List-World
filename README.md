@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
 |2|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.55.107.137|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|3|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |8|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|101.255.151.245|8080|Indonesia|Jakarta|PT Remala Abadi|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|12|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|14|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
 |15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|17|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|19|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|20|204.199.139.72|999|Chile|Rengo|Ingbell Chile SPA|
+|16|200.71.111.90|999|Mexico|San Felipe Orizatlán|Digy Networks|
+|17|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|20|38.34.179.190|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
