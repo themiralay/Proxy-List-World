@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|4|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|10|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|16|56.228.5.197|47208|Sweden|Stockholm|Amazon.com|
-|17|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|18|122.52.213.79|62102|Philippines|San Pedro|Philippine Long Distance Telephone Co.|
-|19|49.146.55.77|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|20|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|9|56.228.5.197|47208|Sweden|Stockholm|Amazon.com|
+|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|13|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|14|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
+|15|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
