@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.155.12.161|443|Japan|Tokyo|Datacamp Limited|
-|2|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|3|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|4|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|5|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|8|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|9|171.227.173.219|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|157.245.194.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|1|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|6|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|9|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|13|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|16|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|17|171.227.173.219|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|19|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|20|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 
 
 
