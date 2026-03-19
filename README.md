@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|5|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|38.55.107.137|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|14|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|16|103.189.250.89|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|18|95.142.39.168|1080|Russia|Moscow|EuroByte LLC|
-|19|103.30.30.226|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|20|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|1|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|2|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|120.28.197.130|8080|Philippines|Davao City|Globe Telecom|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|10|95.142.39.168|1080|Russia|Moscow|EuroByte LLC|
+|11|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|12|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|15|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|144.31.0.166|3128|Poland|Warsaw|H2nexus LTD|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|19|122.185.198.242|7999|India|Navi Mumbai|Bharti Airtel Limited|
+|20|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
 
 
 
