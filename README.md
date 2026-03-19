@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|5|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|11|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
-|12|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
-|16|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|17|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
-|18|168.235.110.63|3128|United States|Piscataway|InMotion Hosting|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|190.185.112.58|999|Honduras|Tegucigalpa|Redes y Telecomunicaciones|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|138.124.53.25|7443|Germany|Frankfurt am Main|Aeza International LTD|
+|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|11|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
+|14|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|15|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|16|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
