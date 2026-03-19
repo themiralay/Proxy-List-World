@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|7|58.69.61.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|5.35.125.77|1080|Russia|Moscow|AdminVPS LLC|
-|9|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|10|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|13|34.236.148.220|30311|United States|Ashburn|Amazon.com, Inc.|
-|14|157.125.220.80|8080|United Kingdom|Stepps|Gamma Telecom Holdings Ltd|
-|15|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|16|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|17|108.137.1.116|4497|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.180.119.110|3212|Indonesia|Kemendung|PT Persada Data Multimedia|
+|2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|4|85.8.182.108|443|Hong Kong|Hong Kong|Bunny Communications|
+|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|10|108.137.1.116|4497|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|16|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
 
 
 
