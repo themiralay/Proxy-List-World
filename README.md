@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
-|2|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|1|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|2|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|8|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|9|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
-|10|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|11|113.176.118.255|7654|Vietnam|Hoi An|VNPT|
-|12|102.135.142.234|12354|South Africa|Centurion|Session Telecoms(PTY) Ltd|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|15|1.1.189.58|8080|Thailand|Roi Et|TOT Public Company Limited|
-|16|124.158.160.61|8080|Indonesia|Jakarta|ICON+|
-|17|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|19|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|5|38.55.104.99|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|6|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|9|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|10|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|38.55.104.8|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|15|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|17|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|19|186.96.160.219|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
 
 
 
