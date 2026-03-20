@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
 |2|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
-|7|103.109.96.161|4443|Bangladesh|Nawābganj|Digi Jadoo Broadband Ltd|
-|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|9|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|10|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|11|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|12|203.142.74.115|8080|Indonesia|Jakarta|BIZNET|
-|13|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|15|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|16|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|3|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
+|4|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|5|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|6|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|7|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|14.241.133.207|8080|Vietnam|Ho Chi Minh City|VNPT|
+|12|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|16|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
 
 
 
