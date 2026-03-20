@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|2|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|6|38.180.201.8|3128|Japan|Shibuya City|M247 Europe SRL|
-|7|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|10|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|3|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|7|115.245.89.250|8080|India|Aligarh|Reliance Jio Infocomm Limited|
+|8|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|9|38.180.201.8|3128|Japan|Shibuya City|M247 Europe SRL|
+|10|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |12|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|16|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|17|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|103.88.239.122|84|India|Hyderabad|Mana Communications|
+|17|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 
 
 
