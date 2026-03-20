@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|11|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|12|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|13|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|18|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|1|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
+|6|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|12|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|13|38.180.201.8|3128|Japan|Shibuya City|M247 Europe SRL|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
 
 
 
