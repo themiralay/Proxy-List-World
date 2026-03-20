@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4500** proxies at the latest update. Usable proxies are below.
+> Scraper found **4471** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|631|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|90|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2518|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|2|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|38.55.104.8|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|8|161.248.190.83|8080|Philippines|Trento|Gemstar Cable TV - Agusan Del SUR|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|11|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|12|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|13|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|16|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|18|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|19|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|1|38.180.201.8|3128|Japan|Shibuya City|M247 Europe SRL|
+|2|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|3|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|6|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|7|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|113.11.64.10|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|11|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|115.245.89.250|8080|India|Aligarh|Reliance Jio Infocomm Limited|
+|14|103.190.101.1|83|India|Bhubaneswar|Dotnet Broadband Private Limited|
+|15|116.105.21.153|9045|Vietnam|Da Nang|Viettel Group|
+|16|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|17|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|18|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|19|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|20|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
 
 
 
