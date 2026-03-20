@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|7|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|11|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|14|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|15|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|20|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|1|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|6|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|7|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|8|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|9|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|10|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|14|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|204.199.140.27|999|Chile|San Javier|Ingbell Chile SPA|
+|20|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
 
 
 
