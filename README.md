@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|5|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
 |6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|8|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|10|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|7|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|9|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|10|147.45.67.148|8080|Russia|Moscow|Global Connectivity Solutions LLP|
 |11|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|12|147.45.67.148|8080|Russia|Moscow|Global Connectivity Solutions LLP|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|18|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
-|20|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|12|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|85.117.61.74|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|19|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|20|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
