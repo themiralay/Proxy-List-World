@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|8|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|11|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|14|37.59.112.197|80|France|Roubaix|OVH SAS|
-|15|190.61.48.2|999|Honduras|Erandique|Ufinet Panama S.A.|
-|16|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|17|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|2|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|3|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|6|37.59.112.197|80|France|Roubaix|OVH SAS|
+|7|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
