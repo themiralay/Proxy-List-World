@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4518** proxies at the latest update. Usable proxies are below.
+> Scraper found **4527** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|711|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2518|✅|
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 |2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
-|7|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|8|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|38.55.104.8|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|12|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|13|38.55.104.68|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|4|38.55.104.99|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|5|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|6|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
+|9|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
+|10|103.247.14.170|7777|Indonesia|Gunung Kendil|TERABIT|
+|11|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
 |14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|38.55.104.99|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|15|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|16|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|17|84.22.48.28|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
+|18|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|103.143.105.138|8080|Indonesia|Ciamis|PT Aplikanusa Lintasarta|
 |20|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
 
 
