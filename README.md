@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|3|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|7|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|9|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|10|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|11|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|15|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|19|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|3|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|6|103.162.54.178|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|11|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|12|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|13|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|16|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|17|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
+|18|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|19|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
