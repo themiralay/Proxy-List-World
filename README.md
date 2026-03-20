@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|160.19.19.170|3125|Indonesia|Paseh|PT Indo Telemedia Solusi|
-|10|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.147.134.179|8080|Indonesia|Surabaya|PT.MURNI MAKMUR ABADI|
-|14|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
-|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|16|103.54.81.152|8085|Indonesia|Purbalingga|Lintas Data Prima, PT|
-|17|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|18|165.227.5.10|8888|United States|Santa Clara|DigitalOcean, LLC|
-|19|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|20|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|6|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|143.189.3.198|8080|Japan|Chiba|Sony Network Communications Inc|
+|9|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
+|10|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|11|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|12|38.55.107.137|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|13|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
