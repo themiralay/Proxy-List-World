@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.131.60|8448|United States|Redondo Beach|Enzu Inc|
+|1|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
 |2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|4|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|103.253.247.42|8090|Bangladesh|Sherpur|Innovative Online Ltd.|
-|7|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|10|45.136.131.60|8448|United States|Redondo Beach|Enzu Inc|
-|11|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|12|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|178.208.89.229|8118|Netherlands|Amsterdam|Iron Hosting Centre LTD|
-|15|103.155.198.253|8006|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
-|16|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|17|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|18|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|19|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|20|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
+|5|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|11|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|12|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|15|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
+|16|103.133.61.185|8080|Indonesia|Gedong Tataan|TLINK|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|103.189.117.82|1111|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
+|19|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|20|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
 
 
 
