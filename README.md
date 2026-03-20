@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|3|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|4|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|5|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|6|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|7|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|10|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|11|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|13|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|15|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|16|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|7|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|10|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|13|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|14|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|15|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|16|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|17|186.190.224.86|999|Colombia|Puerto López|TV AZTECA SUCURSAL COLOMBIA|
+|18|163.5.128.114|14270|United States|Brooklyn|Windstream Communications LLC|
+|19|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|20|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
