@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|1|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 |2|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
 |3|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
-|13|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|17|103.231.236.217|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|9|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|10|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|11|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|15|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|16|116.105.21.153|9045|Vietnam|Da Nang|Viettel Group|
+|17|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|18|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|19|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
 
 
 
