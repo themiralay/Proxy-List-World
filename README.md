@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|1|106.107.195.68|8080|Taiwan|Taichung|New Century InfoComm Tech. Co., Ltd|
+|2|8.220.132.96|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
-|7|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|10|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|11|45.229.204.123|999|Argentina|Avellaneda|Visio RED SRL|
-|12|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|13|188.132.249.231|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|5|165.99.239.19|3125|Indonesia|Demak|PT MERDEKA TELEKOMUNIKASI CENTER|
+|6|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
+|9|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|10|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|11|212.51.157.178|8080|Switzerland|Zurich|Init7 (Switzerland) Ltd.|
+|12|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|14|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|15|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|20|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
