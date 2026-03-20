@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
 |2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|3|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|8.220.132.96|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|38.55.104.68|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|93.100.125.249|8080|Russia|St Petersburg|SkyNet LLC|
-|14|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
-|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
-|17|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.249.122.198|8080|India|Puducherry|Airconnect Services|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.155.198.253|8006|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.55.104.68|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|8|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|9|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|10|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|11|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|14|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
+|17|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|18|200.119.141.114|999|Guatemala|Guatemala City|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|19|141.136.63.126|8080|Venezuela|La Grita|FRONTERA|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
