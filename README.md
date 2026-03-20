@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|3|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 |4|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|5|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|6|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
-|7|147.45.67.148|8080|Russia|Moscow|Global Connectivity Solutions LLP|
-|8|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
-|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|11|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|14|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
-|16|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|6|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|8|103.109.96.161|4443|Bangladesh|Nawābganj|Digi Jadoo Broadband Ltd|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
+|11|119.92.75.252|8181|Philippines|Carmona|Philippine Long Distance Telephone Co.|
+|12|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|13|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
+|14|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|15|45.133.107.246|81|Russia|Tul'skiy|Art-net LLC|
+|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|18|177.234.199.89|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|113.176.118.255|7654|Vietnam|Hoi An|VNPT|
 
 
 
