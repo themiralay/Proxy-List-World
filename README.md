@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|4|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
-|5|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
-|6|103.156.224.66|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
-|7|38.34.179.199|8448|United States|Redondo Beach|Enzu Inc|
-|8|84.22.48.150|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|147.45.67.148|8080|Russia|Moscow|Global Connectivity Solutions LLP|
-|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|13|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|14|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|202.51.196.226|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|17|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|18|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
-|19|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|20|179.185.89.251|8080|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
+|2|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
+|6|103.224.125.38|2024|Indonesia|Parung|PT Curug Lintas Indonesia|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|45.163.238.254|8080|Brazil|Itaipava do Grajaú|Intercol Serv de Aux a Internet eireli Me|
+|9|181.78.74.101|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|10|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|11|185.162.94.28|8080|Russia|St Petersburg|Miran Ltd.|
+|12|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
+|17|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|18|179.185.89.251|8080|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
+|19|124.122.255.66|8080|Thailand|Pathum Thani|True Internet Co., Ltd.|
+|20|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
 
 
 
