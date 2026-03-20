@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|7|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|8|104.251.81.175|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|9|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|10|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|103.124.139.170|8080|Indonesia|Ungaran|Global Media Data Prima|
-|15|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|18|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|3|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|6|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|7|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|8|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|147.45.67.148|8080|Russia|Moscow|Global Connectivity Solutions LLP|
+|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|13|77.105.188.54|10808|Russia|Moscow|MTS PJSC|
+|14|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|16|113.192.30.35|8181|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|19|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|20|192.110.167.138|7001|United States|Phoenix|Input Output Flood LLC|
 
 
 
