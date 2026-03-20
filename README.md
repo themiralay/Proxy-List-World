@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|5|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|6|38.55.104.8|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|3|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|9|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|38.34.179.228|8453|United States|Redondo Beach|Enzu Inc|
-|12|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
-|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|15|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|16|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
-|17|50.235.247.114|8085|United States|Richmond|Comcast Cable Communications, LLC|
-|18|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
-|19|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|20|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|8|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|9|143.189.3.198|8080|Japan|Chiba|Sony Network Communications Inc|
+|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|11|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
+|12|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|13|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|14|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|15|14.102.70.89|8080|India|Karnāl|World Phone Internet Services Pvt Ltd|
+|16|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|17|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|19|38.34.179.213|8450|United States|Redondo Beach|Enzu Inc|
+|20|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
