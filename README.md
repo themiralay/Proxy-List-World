@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.55.104.8|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|5|202.93.245.54|8080|Indonesia|Sidoarjo|DWPNAP|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|8|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
-|9|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|10|38.180.201.8|3128|Japan|Shibuya City|M247 Europe SRL|
-|11|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|12|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|13|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|14|49.148.132.119|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
-|15|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|16|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|18|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
-|19|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|4|38.55.104.99|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|5|103.191.92.157|1009|Indonesia|Semarang|PT Cloud Hosting Indonesia|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|103.242.104.178|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|9|38.55.104.8|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|10|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
+|11|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|12|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|15|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|16|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
+|17|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|18|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|103.165.250.81|8181|Indonesia|Kotawaringin|PT Aulia Sentral Multidata|
 
 
 
