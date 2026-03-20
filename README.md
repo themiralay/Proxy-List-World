@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|6|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|9|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|12|103.13.204.11|8090|Indonesia|Jontro|PT JARINGANKU SARANA NUSANTARA|
-|13|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|15|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|1|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|3|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
+|4|138.117.231.133|999|Guatemala|Huehuetenango|Fibernet S.A|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
+|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|9|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|12|190.210.62.131|8080|Argentina|Buenos Aires|NSS S.A.|
+|13|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|14|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |16|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|101.255.138.82|80|Indonesia|Jakarta|PT Remala Abadi|
-|19|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|20|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|17|188.129.255.58|80|Georgia|Tbilisi|Caucasus Online LLC|
+|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|85.117.56.115|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|20|210.61.216.63|60808|Taiwan|Wugu District|Chunghwa Telecom Co., Ltd.|
 
 
 
