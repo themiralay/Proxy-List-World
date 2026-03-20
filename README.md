@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.55.104.99|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|5|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|6|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
-|7|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|8|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|12|203.175.103.238|3125|Indonesia|Cikananga|PT. Mitra Kita Brilian|
-|13|106.0.168.138|8080|Thailand|Siao|Ministry of Education - EMISC|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|8|38.180.201.8|3128|Japan|Shibuya City|M247 Europe SRL|
+|9|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|10|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|12|38.55.104.8|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|15|13.212.222.137|14484|Singapore|Singapore|Amazon Technologies Inc.|
+|16|38.55.104.99|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|17|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|18|143.189.3.198|8080|Japan|Chiba|Sony Network Communications Inc|
+|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
