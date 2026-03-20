@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|14|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|15|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|1|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|6|157.20.207.61|9090|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|7|38.55.104.182|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|9|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|10|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|15|154.40.45.59|8888|Hong Kong|Hong Kong|NetLab Global|
+|16|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
+|17|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
 |18|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|19|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
 
 
 
