@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4495** proxies at the latest update. Usable proxies are below.
+> Scraper found **4499** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|582|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2632|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
 |3|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |5|194.147.115.50|3128|The Netherlands|Dronten|MIRhosting B.V.|
-|6|188.132.249.231|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
-|7|103.48.70.105|83|India|Hyderabad|Country Online Services PVT LTD|
-|8|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|38.52.183.33|999|Peru|Lurín|Nexsatel Sociedad Anonima Cerrada - .A.C.|
-|11|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|12|103.36.10.27|1080|Indonesia|Pandaan|PT Awinet Global Mandiri|
-|13|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|14|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|16|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|20|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
+|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|10|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|11|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|113.176.118.255|7654|Vietnam|Hoi An|VNPT|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|20|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
 
 
 
