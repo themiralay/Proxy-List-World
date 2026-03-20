@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|6|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|8|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|9|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|10|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
-|11|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|12|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|13|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|14|38.156.23.36|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|15|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|16|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|17|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|18|38.34.179.190|8450|United States|Redondo Beach|Enzu Inc|
-|19|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|38.180.201.8|3128|Japan|Shibuya City|M247 Europe SRL|
+|2|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|7|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|8|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|10|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
+|11|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
+|12|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|14|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
+|17|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|18|116.105.21.153|9045|Vietnam|Da Nang|Viettel Group|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
