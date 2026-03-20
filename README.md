@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
-|2|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|7|93.100.125.249|8080|Russia|St Petersburg|SkyNet LLC|
-|8|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|118.179.151.57|5020|Bangladesh|Dhaka|Amber IT Limited|
-|11|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|12|103.179.252.74|3128|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|13|190.60.61.52|999|Colombia|Barranquilla|IFX NETWORKS COLOMBIA|
-|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|15|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|16|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
-|17|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|2|45.125.67.37|443|Hong Kong|Fanling|Tele Asia Limited|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|103.191.254.2|8080|Indonesia|Rembang|PT Ayodya Data Internusa|
+|5|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|6|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|7|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|8|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
+|11|38.34.183.225|8450|United States|Redondo Beach|Enzu Inc|
+|12|178.214.80.27|1981|Palestinian Territory|Dhannābah|Gemzo information technology Private Joint-Stock company|
+|13|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
+|15|113.192.30.43|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|200.119.141.114|999|Guatemala|Guatemala City|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |19|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
-|20|103.48.68.19|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|144.31.253.242|1080|Netherlands|Amsterdam|u1host ltd|
 
 
 
