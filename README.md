@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.55.104.99|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|5|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|6|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
-|9|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
-|10|103.247.14.170|7777|Indonesia|Gunung Kendil|TERABIT|
-|11|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|103.172.42.125|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|16|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|17|84.22.48.28|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
-|18|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.143.105.138|8080|Indonesia|Ciamis|PT Aplikanusa Lintasarta|
-|20|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|1|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|154.64.243.50|7890|United States|Los Angeles|NetLab Global|
+|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|5|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|6|109.120.185.119|8118|Finland|Helsinki|Aeza International LTD|
+|7|38.55.104.99|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|10|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|13|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|14|118.71.113.3|8081|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|15|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|16|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
