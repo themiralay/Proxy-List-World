@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4349** proxies at the latest update. Usable proxies are below.
+> Scraper found **4364** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2394|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|7|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
-|9|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|11|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|15|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|16|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|17|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|1|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|7|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|8|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
+|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|15|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|16|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 
 
 
