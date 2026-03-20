@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|4|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
 |5|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|120.50.10.102|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|10|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|11|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|20|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
+|6|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|8|178.156.187.185|10001|United States|Ashburn|Hetzner Online GmbH|
+|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|15|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|17|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
+|19|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|20|180.191.23.26|8081|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
