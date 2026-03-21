@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|2|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 |3|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|4|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|8|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|9|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|10|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|12|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|16|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
-|17|103.31.135.214|8181|Indonesia|Bekasi|PT Arthatama Adhiprima Persada|
-|18|177.93.48.140|999|Colombia|Pore|TV AZTECA SUCURSAL COLOMBIA|
-|19|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|4|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|5|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|6|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|7|154.64.240.85|1080|United States|Los Angeles|NetLab Global|
+|8|195.9.15.186|10080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|10|103.171.183.146|7777|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
+|11|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|14|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|18|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
