@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5052** proxies at the latest update. Usable proxies are below.
+> Scraper found **5077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|687|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3082|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|3|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|4|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|9|38.34.183.8|8450|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|12|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|14|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|16|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|19|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|20|45.70.236.194|999|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
+|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|9|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|11|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|12|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|15|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|16|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|18|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
+|19|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|20|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
