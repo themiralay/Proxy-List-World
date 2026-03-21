@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|8|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|9|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|10|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|38.34.179.190|8450|United States|Redondo Beach|Enzu Inc|
+|7|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|8|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|9|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|10|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
 |13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|17|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|18|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|17|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|202.179.69.216|58080|India|Pune|Ankhnet|
+|20|190.52.110.43|999|Venezuela|Caracas|Gold Data Colombia|
 
 
 
