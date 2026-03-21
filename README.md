@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|2|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|3|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|4|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|3|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|4|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|7|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |9|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|10|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|163.5.128.210|14270|United States|Brooklyn|Windstream Communications LLC|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
+|10|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |16|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|144.31.0.166|3128|Poland|Warsaw|H2nexus LTD|
+|17|5.129.237.45|49488|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
