@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
-|9|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
-|10|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|149.88.94.216|7890|Hong Kong|Kwai Chung|cognetcloud INC|
-|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|16|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|17|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
-|18|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|19|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|20|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|8|103.174.161.6|8082|India|Vuyyūru|Speed Link Communications|
+|9|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|10|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
+|12|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|45.4.0.18|999|Chile|Santiago|Tlink SPA|
+|15|160.30.83.10|83|India|Chennai|Virtel Communications Private Limited|
+|16|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|19|202.183.236.219|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
