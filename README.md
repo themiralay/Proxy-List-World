@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|1|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|5|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.34.178.155|8448|United States|Redondo Beach|Enzu Inc|
-|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|9|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|10|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
-|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|14|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
-|15|38.34.178.155|8448|United States|Redondo Beach|Enzu Inc|
-|16|212.252.71.30|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|17|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|18|103.156.248.79|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
+|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.172.71.107|1111|Indonesia|Karawang|AZNET|
+|8|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|103.162.54.178|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|103.165.123.109|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|15|103.156.248.79|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|16|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
+|17|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|18|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
