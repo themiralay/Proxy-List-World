@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4568** proxies at the latest update. Usable proxies are below.
+> Scraper found **4535** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|623|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|574|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2652|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2668|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|45.136.131.25|8450|United States|Redondo Beach|Enzu Inc|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|38.34.178.186|8451|United States|Redondo Beach|Enzu Inc|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
-|12|45.136.130.178|8449|United States|Redondo Beach|Enzu Inc|
-|13|38.34.183.8|8450|United States|Redondo Beach|Enzu Inc|
-|14|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|15|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|16|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
-|18|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|3|163.5.128.56|14270|United States|Brooklyn|Windstream Communications LLC|
+|4|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|8|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|9|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|10|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|15|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|16|23.148.244.81|20215|United States|Keokuk|FiberPower LLC|
+|17|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|18|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|222.184.48.251|22222|China|Nanjing|Chinanet|
+|20|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
