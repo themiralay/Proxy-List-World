@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4446** proxies at the latest update. Usable proxies are below.
+> Scraper found **4470** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|594|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|37|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2607|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|8|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|9|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|11|45.93.29.147|6005|South Korea|Seoul|MOACK.Co.LTD|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|8.220.132.96|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|37.238.45.74|8080|Iraq|Baghdad|EarthLink Ltd. Communications&|
+|9|201.159.104.121|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
+|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|181.111.164.210|999|Argentina|Yapeyú|Telecom Argentina S.A|
+|12|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|14|103.17.246.60|1080|Indonesia|Banjar Badung|PT Media Sarana Data|
 |15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|175.100.34.177|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|117.18.17.93|3125|Indonesia|Sragen|PT ALUCIO|
-|20|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|16|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|19|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|20|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
 
 
 
