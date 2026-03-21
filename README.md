@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|11|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|11|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|12|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
 |14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|15|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|92.51.122.174|8080|Georgia|Kutaisi|Deltanet-net Network|
+|18|138.0.207.246|8082|Brazil|Monte Aprazível|Nets Telecomunicacoes Ltda|
+|19|103.193.145.137|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
