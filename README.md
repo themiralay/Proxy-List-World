@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|7|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
-|11|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|12|38.34.183.8|8450|United States|Redondo Beach|Enzu Inc|
-|13|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|14|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|15|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|16|202.58.77.114|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|17|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
-|18|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|1|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|6|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|38.194.251.246|999|Mexico|Querétaro City|Cogent Communications|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|41.59.115.217|8081|Tanzania|Dar es Salaam|TTCL|
+|11|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|12|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|116.6.106.33|3128|China|Shenzhen|China Telecom Next Generation Carrier Network|
+|14|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|18|103.48.71.50|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|20|201.184.68.220|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
