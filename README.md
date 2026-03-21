@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|195.133.44.205|8443|Germany|Frankfurt am Main|Big Data Host LLC|
-|3|94.200.195.220|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|4|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|89.43.135.76|8080|Syria|Shuyūkh Taḩtānī|High Speed For Internet Services L.L.C|
-|6|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|118.97.137.68|8080|Indonesia|Utan|PT. TELKOM INDONESIA|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|3|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|4|122.54.198.112|3128|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|5|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|20|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
