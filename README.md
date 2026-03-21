@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|17|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|18|45.230.169.5|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|2|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
+|3|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|8|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|103.17.150.25|8080|Bangladesh|Dhaka|SYSSOLUTION|
+|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|14|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|15|180.148.25.190|3128|Indonesia|Cirebon|PT GIGA NETWORK INDONESIA|
+|16|46.55.143.145|8080|Bulgaria|Kardzhali|DCC|
+|17|222.252.144.246|8080|Vietnam|Vĩnh Lộc|VietNam Post and Telecom Corporation|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
 
 
 
