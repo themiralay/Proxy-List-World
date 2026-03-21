@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4605** proxies at the latest update. Usable proxies are below.
+> Scraper found **4647** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|620|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|662|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3009|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|2|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|5|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.34.179.203|8451|United States|Redondo Beach|Enzu Inc|
+|6|45.136.130.189|8451|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
+|8|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
+|11|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
 |12|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
-|13|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|15|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
-|16|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
-|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|18|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|19|154.64.240.85|1080|United States|Los Angeles|NetLab Global|
-|20|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|13|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|14|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
+|15|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
+|16|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|17|38.34.179.78|8445|United States|Redondo Beach|Enzu Inc|
+|18|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|19|38.34.179.19|8449|United States|Redondo Beach|Enzu Inc|
+|20|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
 
 
 
