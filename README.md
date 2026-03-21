@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4640** proxies at the latest update. Usable proxies are below.
+> Scraper found **4656** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|684|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|700|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|71|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2653|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|5|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
-|6|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|7|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|8|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.32|8451|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
-|12|45.136.131.30|8451|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.72|8445|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.91|8444|United States|Redondo Beach|Enzu Inc|
-|15|38.145.220.8|8452|United States|Redondo Beach|Enzu Inc|
-|16|45.136.131.34|8451|United States|Redondo Beach|Enzu Inc|
-|17|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|18|38.34.179.80|8452|United States|Redondo Beach|Enzu Inc|
-|19|38.34.183.164|8453|United States|Redondo Beach|Enzu Inc|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|103.68.215.57|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
+|4|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|103.193.144.81|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|7|103.48.71.46|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|9|38.194.224.134|1452|Mexico|León|Cogent Communications|
+|10|154.40.45.59|8888|Hong Kong|Hong Kong|NetLab Global|
+|11|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|14|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|202.154.241.199|808|Pakistan|Islamabad|LINKdotNET Telecom Limited|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|20|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
