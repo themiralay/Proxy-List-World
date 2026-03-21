@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|3|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.190|8450|United States|Redondo Beach|Enzu Inc|
-|5|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.23|8444|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|8|38.34.183.225|8450|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
 |10|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.23|8444|United States|Redondo Beach|Enzu Inc|
-|12|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
-|13|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.184|8450|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|16|38.34.183.211|8453|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|19|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|20|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|11|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
+|12|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|13|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|15|45.136.130.167|8444|United States|Redondo Beach|Enzu Inc|
+|16|38.34.179.91|8444|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.228|8453|United States|Redondo Beach|Enzu Inc|
+|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|20|38.34.178.141|8453|United States|Redondo Beach|Enzu Inc|
 
 
 
