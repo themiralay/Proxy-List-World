@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
-|4|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|7|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|8|190.60.37.242|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|9|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|10|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|16|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|17|200.118.238.71|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|20|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|45.136.130.178|8449|United States|Redondo Beach|Enzu Inc|
+|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|49.156.22.70|8082|Indonesia|Salatiga|PalapaNET|
+|7|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|9|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|12|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|13|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
 
 
 
