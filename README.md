@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|3|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
-|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|13|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
-|14|105.27.130.22|9812|South Africa|Sandton|SEACOM Limited Networks|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|20|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|171.227.173.219|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|10|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
+|11|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|12|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|43.252.236.158|8080|Indonesia|Caringin|NET|
+|15|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|16|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|19|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|20|139.99.238.95|8080|Australia|Sydney|OVH SAS|
 
 
 
