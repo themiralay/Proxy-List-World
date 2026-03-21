@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
-|7|38.34.179.78|8445|United States|Redondo Beach|Enzu Inc|
-|8|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|9|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|3|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|4|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|5|94.200.195.220|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|6|103.167.229.147|8080|Nepal|Janakpur Dham|Fiberworld Communication Pvt. Ltd|
+|7|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|124.107.71.252|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
+|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|11|113.160.155.121|19132|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|176.117.104.163|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
 |13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|38.253.87.10|999|Dominican Republic|Maimón|Cogent Communications|
-|16|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|17|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|102.68.135.147|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|19|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
+|20|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
 
 
 
