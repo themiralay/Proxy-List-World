@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|93.183.69.162|1080|Netherlands|Amsterdam|ZTV CORP LLC|
-|9|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|10|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|13|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|14|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|15|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|16|120.28.220.219|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|19|103.133.27.239|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|20|112.209.35.51|8082|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
+|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|9|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|93.183.69.162|1080|Netherlands|Amsterdam|ZTV CORP LLC|
+|12|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|17|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
+|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|20|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
 
 
 
