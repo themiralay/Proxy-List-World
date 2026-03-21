@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|9|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|11|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|12|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|15|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|5|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|6|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|10|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|16|103.76.108.137|1111|Indonesia|Rejoagung|PT Mahawira Nusantara Grup|
+|17|201.184.68.220|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
 
 
 
