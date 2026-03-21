@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|2|171.227.173.219|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|3|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
-|6|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|11|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|12|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
-|13|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|14|177.220.230.71|8080|Brazil|Maçambara|Vogel Soluções em Telecom e Informática S/A|
-|15|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|6|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|9|38.34.179.228|8453|United States|Redondo Beach|Enzu Inc|
+|10|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
+|11|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
+|12|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|15|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
 |16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
-|18|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|19|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
-|20|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|17|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|18|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|19|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|20|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
 
 
 
