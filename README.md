@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|2|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|5|38.34.179.72|8445|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.72|8445|United States|Redondo Beach|Enzu Inc|
-|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
-|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|11|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|12|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|13|180.191.122.122|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|14|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|19|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|2|88.216.98.236|53983|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|3|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|195.9.15.186|10080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|9|180.191.122.122|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|10|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|12|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 |20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
