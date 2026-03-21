@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|2|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|11|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|6|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
+|7|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
 |13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|14.225.205.164|7890|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|204.186.254.106|8080|United States|Easton|PenTeleData Inc|
+|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|18|223.205.57.57|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|19|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
+|20|196.251.223.29|8103|South Africa|Brits|Info-Gro (PTY) Ltd|
 
 
 
