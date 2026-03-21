@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4675** proxies at the latest update. Usable proxies are below.
+> Scraper found **4677** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|718|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2653|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2655|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|2|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|3|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
-|5|103.126.87.181|7777|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|38.145.220.8|8452|United States|Redondo Beach|Enzu Inc|
-|8|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|9|38.34.178.154|8445|United States|Redondo Beach|Enzu Inc|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.72|8445|United States|Redondo Beach|Enzu Inc|
-|13|38.34.183.225|8450|United States|Redondo Beach|Enzu Inc|
-|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|15|115.178.49.111|8080|Indonesia|Margabakti|NOC SIMAYA|
-|16|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|17|103.160.182.33|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
-|18|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|210.87.74.71|8080|Indonesia|Jetis|PT.Global Media Data Prima|
+|1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|5|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.23|8444|United States|Redondo Beach|Enzu Inc|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
+|11|45.136.130.198|8449|United States|Redondo Beach|Enzu Inc|
+|12|102.38.7.110|1972|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|13|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|14|5.58.7.214|8080|Ukraine|Ternopil|Columbus|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|17|38.183.146.159|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|18|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|19|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
+|20|38.34.179.25|8444|United States|Redondo Beach|Enzu Inc|
 
 
 
