@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4658** proxies at the latest update. Usable proxies are below.
+> Scraper found **4651** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|678|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|671|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2672|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 |5|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|6|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
-|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|8|171.227.173.219|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
-|11|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|6|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|7|171.227.173.219|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
+|10|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|15|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|16|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|16|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
 |17|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|20|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|18|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|19|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|20|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
 
 
 
