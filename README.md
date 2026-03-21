@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.201.8|3128|Japan|Shibuya City|M247 Europe SRL|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|7|103.156.16.160|8080|Indonesia|Indramayu|RSTNET|
-|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|163.223.78.89|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|11|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|160.187.221.74|8080|Philippines|Kidapawan|Imtech Solution and Data Providers|
-|13|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|2|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|160.187.221.74|8080|Philippines|Kidapawan|Imtech Solution and Data Providers|
+|7|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|8|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|11|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
+|15|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|16|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 |17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|19|154.64.240.85|1080|United States|Los Angeles|NetLab Global|
-|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|18|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
