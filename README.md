@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|18.188.15.200|8888|United States|Dublin|Amazon.com, Inc.|
-|4|140.82.34.41|1080|Germany|Frankfurt am Main|The Constant Company|
-|5|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|9|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|10|45.136.131.34|8451|United States|Redondo Beach|Enzu Inc|
-|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|12|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|13|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|17|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|18.188.15.200|8888|United States|Dublin|Amazon.com, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|38.34.178.245|8446|United States|Redondo Beach|Enzu Inc|
+|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|13|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|17|45.119.85.216|3128|Vietnam|Quận Một|Long Van System Solution JSC|
+|18|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|19|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|20|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
 
 
 
