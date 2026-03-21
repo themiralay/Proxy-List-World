@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|11|140.238.43.186|7890|Japan|Tokyo|Oracle Corporation|
-|12|45.93.29.147|6005|South Korea|Seoul|MOACK.Co.LTD|
-|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|14|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|17|45.123.142.82|1111|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
-|18|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|19|120.50.10.102|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|3|45.93.29.147|6005|South Korea|Seoul|MOACK.Co.LTD|
+|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|12|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
