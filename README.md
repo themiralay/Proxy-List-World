@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|4|31.132.151.158|8080|Russia|Bryansk|JSC "ER-Telecom Holding"|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|8|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|11|112.203.34.250|8082|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
-|12|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|163.5.128.135|14270|United States|Brooklyn|Windstream Communications LLC|
-|15|112.209.35.51|8082|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
-|16|190.60.48.212|999|Colombia|Barrancabermeja|IFX NETWORKS COLOMBIA|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|4|124.107.71.252|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
+|5|5.134.48.59|8080|Azerbaijan|Baku|SUPERONLAYN|
+|6|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|7|103.173.140.157|8080|Indonesia|Banyumas|WIFIAN ID|
+|8|190.83.15.2|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|16|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
 
 
 
