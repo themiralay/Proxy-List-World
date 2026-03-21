@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|7|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
-|8|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|190.97.249.30|999|Venezuela|Mérida|Viginet C.A|
-|15|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|20|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|7|212.252.73.29|8080|Turkey|Ankara|Superonline Iletisim Hizmetleri A.S.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|11|102.38.7.110|1972|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|12|190.97.249.30|999|Venezuela|Mérida|Viginet C.A|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|103.135.227.230|8080|Indonesia|Soreang|SUPERCORRIDOR|
+|15|164.90.151.28|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|122.52.94.92|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|20|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
 
 
 
