@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|6|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|45.93.29.147|6005|South Korea|Seoul|MOACK.Co.LTD|
-|9|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|10|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|1|38.145.203.86|8443|United States|Redondo Beach|Enzu Inc|
+|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|5|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|6|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|7|38.145.218.27|8443|United States|Redondo Beach|Enzu Inc|
+|8|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|9|38.145.218.217|8443|United States|Redondo Beach|Enzu Inc|
+|10|38.145.208.240|8443|United States|Redondo Beach|Enzu Inc|
+|11|38.145.218.212|8443|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.58|8443|United States|Redondo Beach|Enzu Inc|
+|13|38.145.218.211|8443|United States|Redondo Beach|Enzu Inc|
+|14|38.145.208.246|8443|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|8.220.132.96|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|19|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|20|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
 
 
 
