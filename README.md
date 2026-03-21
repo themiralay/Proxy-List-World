@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4560** proxies at the latest update. Usable proxies are below.
+> Scraper found **4512** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|34|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2655|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2607|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|3|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|4|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|8|45.229.17.130|999|Argentina|Posadas|Turbonet S.A.|
-|9|103.242.104.209|8080|Indonesia|Kudus|PT Lintas Jaringan Nusantara|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|13|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|45.119.85.216|3128|Vietnam|Quận Một|Long Van System Solution JSC|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|5.134.48.59|8080|Azerbaijan|Baku|SUPERONLAYN|
+|3|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|4|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|5|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|6|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
+|7|110.164.175.110|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|10|103.251.232.15|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|201.182.85.185|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|13|23.148.244.54|20116|United States|Keokuk|FiberPower LLC|
+|14|38.253.87.10|999|Dominican Republic|Maimón|Cogent Communications|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|200.10.30.19|999|Colombia|Pereira|Super Redes S.A.S|
+|18|193.68.115.14|8080|Bulgaria|Ablanitsa|Sarnica-Net LTD|
+|19|38.194.246.34|999|Mexico|Los Ramírez|Cogent Communications|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
