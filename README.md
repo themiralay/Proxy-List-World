@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|38.34.179.89|8444|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
-|5|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|10|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|11|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
-|12|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|13|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.89|8444|United States|Redondo Beach|Enzu Inc|
-|19|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
-|20|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
+|8|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|9|182.53.200.156|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
+|11|38.34.179.89|8444|United States|Redondo Beach|Enzu Inc|
+|12|172.93.42.71|3128|United States|Los Angeles|IT7 Networks Inc|
+|13|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|3.137.216.199|1080|United States|Dublin|Amazon.com, Inc.|
+|18|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
 
 
 
