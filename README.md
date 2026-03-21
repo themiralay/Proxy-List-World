@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|6|103.169.53.145|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|7|202.154.18.25|8080|Indonesia|Babat|DIGITNET|
-|8|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
-|11|104.251.81.228|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|12|147.45.67.148|8080|Russia|Moscow|Global Connectivity Solutions LLP|
-|13|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
-|14|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|15|45.136.130.178|8449|United States|Redondo Beach|Enzu Inc|
-|16|109.224.242.209|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
-|17|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|12|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|103.132.52.32|8080|Indonesia|Wonopringgo|PT Adeaksa Indo Jayatama|
+|15|181.94.197.37|8080|Paraguay|Fernando de la Mora|Núcleo S.A.|
+|16|133.242.138.34|8100|Japan|Chiyoda City|SAKURA Internet Inc.|
+|17|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|18|45.136.130.178|8449|United States|Redondo Beach|Enzu Inc|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
 
 
 
