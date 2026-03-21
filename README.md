@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
-|6|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|12|103.150.254.80|9108|Bangladesh|Kāfrul|RED ONLINE|
-|13|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|103.17.214.242|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|17|102.213.179.56|8081|Kenya|Nairobi|NEXT THING NETWORKS Limited|
-|18|38.34.183.8|8450|United States|Redondo Beach|Enzu Inc|
-|19|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|20|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|174.138.24.77|1080|Singapore|Singapore|DigitalOcean, LLC|
+|9|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|12|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
+|18|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|19|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|20|103.150.254.80|9108|Bangladesh|Kāfrul|RED ONLINE|
 
 
 
