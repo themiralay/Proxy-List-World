@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|2|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.74|8449|United States|Redondo Beach|Enzu Inc|
-|8|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.203|8451|United States|Redondo Beach|Enzu Inc|
-|11|157.66.192.91|8080|Indonesia|Randudongkal|PT Indotech Digitama Superlink|
-|12|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|13|45.136.130.189|8451|United States|Redondo Beach|Enzu Inc|
-|14|103.30.31.59|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|15|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|16|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|17|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
-|18|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|19|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|20|38.34.183.211|8453|United States|Redondo Beach|Enzu Inc|
+|1|38.34.179.100|8443|United States|Redondo Beach|Enzu Inc|
+|2|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|3|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|4|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
+|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|6|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|7|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
+|10|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|12|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|13|45.136.130.167|8444|United States|Redondo Beach|Enzu Inc|
+|14|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
+|16|8.220.132.96|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|19|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
+|20|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
 
 
 
