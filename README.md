@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |8|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|9|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|10|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|12|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|13|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|19|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|14|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
+|15|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|103.174.145.46|83|India|Gandhinagar|Vaidik Netsol OPC PVT LTD|
+|17|165.16.92.193|8103|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|20|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
