@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|1|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|5|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
 |6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
 |7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |8|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|10|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
-|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|14|45.122.122.71|8080|India|Pur|FusionNet|
-|15|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
-|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|38.52.183.33|999|Peru|Lurín|Nexsatel Sociedad Anonima Cerrada - .A.C.|
-|19|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|20|103.30.30.5|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
+|9|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
+|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|13|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|17|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|18|103.71.161.0|3125|Indonesia|Munjungan|PT. Menaksopal Link Nusantara|
+|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
