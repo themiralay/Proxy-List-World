@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|180.191.230.220|8082|Philippines|Perrelos|Globe Telecom|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|222.184.48.251|22222|China|Nanjing|Chinanet|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
+|1|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|45.122.122.71|8080|India|Pur|FusionNet|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|103.165.155.195|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|11|46.161.195.133|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|12|170.239.205.185|999|Colombia|Medellín|FIBERNET|
+|13|186.211.157.19|8080|Brazil|Campo Grande|BR.Digital Telecom|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
+|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|202.154.18.56|8080|Indonesia|Mojokerto|DIGITNET|
 
 
 
