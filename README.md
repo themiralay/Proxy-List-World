@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4356** proxies at the latest update. Usable proxies are below.
+> Scraper found **4338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|50|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|659|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2636|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 |6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |7|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|163.227.144.240|8080|Bangladesh|Nowlamary|Bright Technologies Limited|
-|10|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|11|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|182.253.204.196|8080|Indonesia|Bandung|BIZNET|
-|16|45.93.30.241|6005|South Korea|Seoul|MOACK.Co.LTD|
-|17|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|9|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
+|10|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|11|181.104.70.198|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|12|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|103.178.86.10|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|185.20.216.158|8088|Ukraine|Kyiv|Protelecom LLC|
+|16|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|150.40.179.167|443|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|20|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
 
 
 
