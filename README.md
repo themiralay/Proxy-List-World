@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|5|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
-|7|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
-|10|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|157.20.252.154|1111|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|119.93.87.65|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|1.20.169.218|8080|Thailand|Pattaya|TOT Public Company Limited|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|19|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|20|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|12|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|13|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|14|157.20.252.154|1111|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|15|38.34.179.106|8446|United States|Redondo Beach|Enzu Inc|
+|16|202.58.73.216|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|19|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|20|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
 
 
 
