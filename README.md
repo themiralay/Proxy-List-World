@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4569** proxies at the latest update. Usable proxies are below.
+> Scraper found **4545** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|629|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2659|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|202.152.194.190|8000|Indonesia|South Tangerang|PT. Bakrie Telecom Tbk|
-|8|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|13|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|14|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|15|45.171.111.255|999|Ecuador|Tena|Lagonet-tv Cia. Ltda.|
-|16|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|17|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|2|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|3|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
+|5|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|6|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|10|202.152.194.190|8000|Indonesia|South Tangerang|PT. Bakrie Telecom Tbk|
+|11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|16|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|17|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
+|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|19|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
