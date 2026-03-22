@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|103.93.93.86|1111|Indonesia|Gampengrejo|MYRISE|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|12|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|13|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|14|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|154.19.38.169|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|7|122.52.90.167|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|8|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|188.72.43.129|47193|Iraq|Xebat|Pirmam For Information Technology Services Ltd|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|113.11.65.229|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|19|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
