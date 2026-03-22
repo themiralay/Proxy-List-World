@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|5|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
-|6|103.254.104.22|8010|Indonesia|Jabung|PT Giga Patra Multimedia|
-|7|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|8|103.72.137.209|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
 |9|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|10|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|13|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|14|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
-|15|202.179.69.216|58080|India|Pune|Ankhnet|
-|16|116.80.96.95|3172|Japan|Yokohama|InfoSphere|
-|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|12|112.198.18.206|8080|Philippines|Taguig|Globe Telecom|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|15|138.121.15.230|999|Colombia|Cartagena|Liberty Networks De Colombia|
+|16|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
+|20|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
 
 
 
