@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|202.58.73.216|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|6|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|36.67.114.94|8187|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|9|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|10|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|12|202.152.194.190|8000|Indonesia|South Tangerang|PT. Bakrie Telecom Tbk|
-|13|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|103.242.105.70|8080|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
-|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|9|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
+|10|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|12|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|13|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|16|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|17|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|18|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|19|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|20|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
