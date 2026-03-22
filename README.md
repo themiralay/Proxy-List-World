@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
 |8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|10|103.93.93.86|1111|Indonesia|Gampengrejo|MYRISE|
-|11|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|16|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|18|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|20|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|9|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
+|10|102.211.216.18|8080|Kenya|Juja|Rasmilink Limited|
+|11|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|13|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|14|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|16|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
