@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|2|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|9|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|10|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|14|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|1|103.106.219.171|8081|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|7|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|8|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
+|9|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|10|58.147.186.31|3125|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|11|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
+|12|103.160.202.158|3125|Indonesia|Padusan|PT Sembilan Mediadata Nusaraya|
+|13|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|14|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
 |15|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|16|38.34.178.141|8453|United States|Redondo Beach|Enzu Inc|
-|17|41.203.76.166|8080|Nigeria|Lagos|GLO|
-|18|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
-|19|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|20|84.22.48.150|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|149.28.157.177|1080|Singapore|Singapore|The Constant Company|
+|18|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|19|177.234.211.151|999|Ecuador|Naranjito|VUELATECHNOLOGY|
+|20|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
