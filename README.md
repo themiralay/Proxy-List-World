@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
 |6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|10|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|45.93.30.241|6005|South Korea|Seoul|MOACK.Co.LTD|
-|14|103.19.48.60|8082|Pakistan|Islamabad|Pace Telecom and Brodcasting Private Limited|
-|15|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|16|185.162.94.28|8080|Russia|St Petersburg|Miran Ltd.|
-|17|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|18|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|19|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|7|45.93.30.241|6005|South Korea|Seoul|MOACK.Co.LTD|
+|8|160.19.18.42|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
+|9|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
+|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|11|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
+|12|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
+|13|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|16|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|17|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|18|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|19|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|20|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
 
 
 
