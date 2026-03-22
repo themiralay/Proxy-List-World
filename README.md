@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|3|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
 |4|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|38.34.178.155|8448|United States|Redondo Beach|Enzu Inc|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|10|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|38.34.178.155|8448|United States|Redondo Beach|Enzu Inc|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|5|203.205.49.2|10110|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|6|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|9|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|10|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|11|209.14.112.97|999|Colombia|Cogua|Cogent Communications|
+|12|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|13|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|38.156.235.37|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
+|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
