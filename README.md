@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|7|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|11|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|12|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|13|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|38.156.235.37|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
-|16|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|6|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|9|38.211.24.26|8091|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|14|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|17|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
 |18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
 |20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
 
 
