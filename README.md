@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|694|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|50|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2636|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|2|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|3|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|9|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
-|10|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|11|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|15|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|16|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|2|59.11.138.229|3128|South Korea|Suwon|Korea Telecom|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|11|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
+|12|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|20|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
 
 
 
