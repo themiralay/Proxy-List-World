@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|38.34.179.203|8451|United States|Redondo Beach|Enzu Inc|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
 |5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|7|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|11|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|12|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
-|13|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
-|14|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
-|15|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
-|16|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|17|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
-|18|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|20|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|8|180.191.230.220|8082|Philippines|Perrelos|Globe Telecom|
+|9|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|10|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|11|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|12|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|14|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|15|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|16|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|20|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
 
 
 
