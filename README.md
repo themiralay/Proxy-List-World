@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|6|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|15.204.151.148|3128|United States|Reston|OVH SAS|
-|10|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|11|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|185.41.152.110|3128|France|Valenciennes|global|
-|15|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|5|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|8|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
+|9|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|10|185.41.152.110|3128|France|Valenciennes|global|
+|11|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|13|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
+|16|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|19|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
