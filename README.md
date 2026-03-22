@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|41|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|40|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|627|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3080|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|2|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
-|3|45.136.131.31|8451|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|5|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
-|6|45.136.131.30|8451|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.48|8449|United States|Redondo Beach|Enzu Inc|
-|10|45.136.131.42|8447|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|14|45.136.131.34|8451|United States|Redondo Beach|Enzu Inc|
-|15|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|16|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
-|19|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
-|20|45.136.130.189|8451|United States|Redondo Beach|Enzu Inc|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|38.34.179.81|8446|United States|Redondo Beach|Enzu Inc|
+|16|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|17|38.145.208.197|8443|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.73|8446|United States|Redondo Beach|Enzu Inc|
+|19|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|20|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
