@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|1|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|4|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|7|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|8|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|9|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|12|103.154.52.5|1111|Indonesia|Majenang|WIFIKITA|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|20|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|103.93.93.86|1111|Indonesia|Gampengrejo|MYRISE|
+|11|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|16|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|18|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|20|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
 
 
 
