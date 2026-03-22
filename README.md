@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|12|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|13|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|16|103.188.173.152|8080|Indonesia|Jakarta|PT Satria Digital Media|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|103.247.23.242|1111|Indonesia|Banyumas|PT wifian Solution|
-|20|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
+|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|8|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|10|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|11|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|12|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|13|38.65.174.107|999|Mexico|Amealco de Bonfil|Wantelco SAS de CV|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|16|200.35.34.134|999|Colombia|San Roque|UNE EPM TELECOMUNICACIONES S.A|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
