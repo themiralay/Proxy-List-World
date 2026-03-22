@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|6|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|7|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|4|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|5|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|6|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
 |10|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|11|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |12|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|14|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|17|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|13|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|103.30.31.59|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|17|38.183.146.29|7080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
 |18|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|36.67.194.162|8042|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
