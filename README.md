@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|4|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|8|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
-|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|103.78.83.24|8083|Indonesia|Jakarta|MORATELINDO|
-|16|103.120.174.75|1818|Indonesia|Bekasi|PT. Eka Mas Republik|
-|17|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|104.168.93.120|8080|United States|Buffalo|HostPapa|
+|3|103.143.197.41|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|4|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|8|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|9|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|10|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|11|116.105.21.153|9045|Vietnam|Da Nang|Viettel Group|
+|12|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|13|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
 
 
 
