@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|6|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|1|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|6|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
+|7|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
 |8|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|9|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|10|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|11|103.156.15.210|1111|Indonesia|Pangradin Satu|PT Lintas Jaringan Nusantara|
-|12|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|15|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|16|103.162.54.170|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|17|113.11.64.177|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
+|13|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
+|14|18.230.117.5|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|15|56.124.8.22|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|16|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|17|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|20|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
 
 
 
