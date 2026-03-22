@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|5|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|38.34.183.11|8446|United States|Redondo Beach|Enzu Inc|
-|9|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|10|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
-|11|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|3|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|4|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|7|103.156.15.210|1111|Indonesia|Pangradin Satu|PT Lintas Jaringan Nusantara|
+|8|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|9|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|10|38.34.183.11|8446|United States|Redondo Beach|Enzu Inc|
+|11|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|12|154.127.219.242|999|Angola|Luanda|TV CABO ANGOLA LDA|
+|13|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|14|188.0.167.195|8080|Russia|Grozny|Vainah Telecom|
 |15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|38.156.72.10|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|16|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |19|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|38.34.178.186|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
