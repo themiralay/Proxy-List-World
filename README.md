@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |2|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
 |4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|6|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|10|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|11|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|14|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
-|15|103.134.220.122|1080|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|16|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|17|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|19|103.162.221.165|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|8|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|10|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|13|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|38.210.179.30|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
+|18|103.125.117.154|8080|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|19|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|20|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
 
 
 
