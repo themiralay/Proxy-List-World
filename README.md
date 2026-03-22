@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|8|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|9|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|10|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|72.56.79.129|1080|Netherlands|Amsterdam|Timeweb, LLP|
-|13|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|14|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|15|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|16|181.119.111.59|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|17|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|18|38.194.246.34|999|Mexico|Los Ramírez|Cogent Communications|
-|19|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
-|20|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|10|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|17|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|18|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|19|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|20|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
