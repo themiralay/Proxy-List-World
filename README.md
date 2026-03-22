@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|8|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|161.49.89.217|8081|Philippines|Pasig|Converge ICT Solution Inc|
-|11|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|12|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|15|103.82.23.118|5216|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
+|4|36.67.99.31|7023|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|5|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|6|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|7|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
+|10|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|11|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|13|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|14|103.82.23.118|5216|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|20|103.130.182.41|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
 
 
 
