@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|187.189.63.149|8080|Mexico|Puerto Morelos|Total Play Telecomunicaciones SA De CV|
-|6|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
-|8|85.198.96.242|3128|Russia|Moscow|Beget LLC|
-|9|38.34.183.8|8450|United States|Redondo Beach|Enzu Inc|
-|10|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|14|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|16|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
-|17|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|7|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|38.34.183.8|8450|United States|Redondo Beach|Enzu Inc|
+|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|13|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
+|16|103.181.255.219|7777|Indonesia|Den Timur|PT Giga Digital Nusantara|
+|17|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|18|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|38.34.179.57|8453|United States|Redondo Beach|Enzu Inc|
+|20|38.34.179.57|8453|United States|Redondo Beach|Enzu Inc|
 
 
 
