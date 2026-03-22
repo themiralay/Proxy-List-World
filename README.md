@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|103.67.46.241|8080|Indonesia|Jakarta|PT JARINGANKU SARANA NUSANTARA|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|14|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|15|111.79.111.126|3128|China|Hangzhou|China Telecom|
-|16|38.7.195.50|999|Chile|Santiago|Grupo ZGH SPA|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|11|38.22.93.158|1080|Hong Kong|Hong Kong|NetLab Global|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|209.62.196.68|8080|United States|Cut Off|EATEL|
 |18|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
