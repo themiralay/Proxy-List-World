@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4433** proxies at the latest update. Usable proxies are below.
+> Scraper found **4447** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|669|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|689|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2717|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|59.11.138.229|3128|South Korea|Suwon|Korea Telecom|
-|4|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|5|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|12|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
-|13|18.230.117.5|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|14|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|15|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|17|210.87.92.77|7777|Indonesia|Krajan Wetan Wonojoyo|PT Indo Telemedia Solusi|
-|18|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|19|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|3|175.158.63.166|1111|Indonesia|Jakarta|CBNNAP|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|18.230.117.5|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|9|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|12|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|13|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|14|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|103.247.22.15|1111|Indonesia|Bekasi|PT wifian Solution|
 
 
 
