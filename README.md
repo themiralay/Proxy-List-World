@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.179.106|8446|United States|Redondo Beach|Enzu Inc|
-|2|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|5|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|8|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
-|9|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|12|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|13|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|16|38.34.183.219|8446|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|18|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
-|20|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|1|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|2|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|3|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|36.67.114.94|8187|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|8|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|9|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|10|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|103.156.15.105|1111|Indonesia|Pangradin Satu|PT Lintas Jaringan Nusantara|
+|12|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
+|13|49.147.68.237|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
+|14|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|15|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|16|45.136.130.162|8443|United States|Redondo Beach|Enzu Inc|
+|17|157.20.252.154|1111|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
 
 
 
