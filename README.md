@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|77.232.135.22|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|103.120.174.75|1818|Indonesia|Bekasi|PT. Eka Mas Republik|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|85.198.96.242|3128|Russia|Moscow|Beget LLC|
+|6|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
+|7|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|9|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|123.253.93.192|8082|Pakistan|Rawalpindi|Pace Telecom and Brodcasting Private Limited|
+|13|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|14|103.120.174.75|1818|Indonesia|Bekasi|PT. Eka Mas Republik|
+|15|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|20|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
 
 
 
