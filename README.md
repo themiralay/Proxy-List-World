@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4307** proxies at the latest update. Usable proxies are below.
+> Scraper found **4312** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|630|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|635|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2636|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|7|18.230.117.5|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|8|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |10|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|11|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|12|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
-|14|18.230.117.5|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|17|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|11|103.63.26.231|1111|Indonesia|Probolinggo|PT Global Media Data Prima|
+|12|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|45.151.183.183|1080|Czechia|Prague|Mastersoft S.R.L.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|103.245.110.198|1452|Bangladesh|Dhaka|ACE IT Networks Limited|
+|17|103.120.222.201|8083|Bangladesh|Paltan|Touhidul Islam Polash|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
