@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|50|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|681|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2636|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
-|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|11|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|12|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|59.11.138.229|3128|South Korea|Suwon|Korea Telecom|
-|14|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|16|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|17|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|7|38.34.179.106|8446|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.106|8446|United States|Redondo Beach|Enzu Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|11|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|12|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|13|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|15|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|16|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|17|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|20|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
 
 
 
