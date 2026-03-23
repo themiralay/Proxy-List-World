@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|109.110.53.170|45810|Russia|Vladivostok|Podryad Nets|
-|9|103.142.254.101|1111|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
-|10|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|14|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
-|15|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|18|113.11.113.65|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|4|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|109.110.53.170|45810|Russia|Vladivostok|Podryad Nets|
+|13|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
