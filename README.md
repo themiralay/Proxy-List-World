@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4646** proxies at the latest update. Usable proxies are below.
+> Scraper found **4656** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|652|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2960|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|3|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|4|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|8|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|9|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|11|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|12|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|13|113.11.126.150|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
-|15|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|16|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
-|17|103.97.198.253|8080|Indonesia|Sekadau|PT Borneo Global Persada|
-|18|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|20|45.150.192.213|1080|United States|Fremont|ZhouyiSat Communications|
+|2|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.11.126.150|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|5|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|6|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|7|103.102.12.105|8080|Indonesia|Rembang|FISNET|
+|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|20.253.30.69|3128|United States|Boydton|Microsoft Corporation|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|13|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|15|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|16|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
