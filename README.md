@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |2|13.230.197.159|10808|Japan|Tokyo|Amazon Technologies Inc.|
-|3|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|5|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
-|9|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|14|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|15|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|16|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|19|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|122.116.180.77|8080|Taiwan|Daxi|Chunghwa Telecom Co., Ltd.|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|125.160.122.185|3128|Indonesia|Samarinda|Telekomunikasi Indonesia|
+|16|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|17|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|18|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|19|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|20|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
