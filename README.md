@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
-|10|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|11|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|17|202.141.161.53|30001|China|Hefei|Chinanet|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|103.159.194.209|7777|Indonesia|Ketanggungan|PT Giga Digital Nusantara|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|4|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|10|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|11|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|12|43.242.200.24|20005|Hong Kong|Kwai Chung|cognetcloud INC|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
