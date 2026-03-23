@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|6|119.18.144.3|30226|Bangladesh|Chittagong|BBTS Network|
-|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|11|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|12|5.129.237.45|49488|The Netherlands|Amsterdam|Timeweb, LLP|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|15|175.100.34.177|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|103.173.141.9|8080|Indonesia|Ngawi|DIAZANETWORKS|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
+|4|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|113.11.76.233|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|8|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|9|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|45.184.124.33|1985|Mexico|Chihuahua City|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
+|11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|12|103.193.145.155|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|13|24.199.124.151|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|119.18.145.50|30226|Bangladesh|Chittagong|BBTS Network|
+|16|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|17|56.228.5.197|59788|Sweden|Stockholm|Amazon.com|
 |18|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
