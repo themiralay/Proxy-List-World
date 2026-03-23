@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|7|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|9|202.47.188.193|7777|Indonesia|Ponorogo|Lintas Data Prima, PT|
-|10|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
-|12|45.168.238.193|8443|Mexico|San Juan del Río|Wantelco SAS de CV|
-|13|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|14|163.5.128.114|14270|United States|Brooklyn|Windstream Communications LLC|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|17|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|18|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|9|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|12|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|13|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
