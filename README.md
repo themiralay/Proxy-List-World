@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
-|6|103.175.202.138|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
-|7|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
 |8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|9|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|10|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|11|109.110.53.170|45810|Russia|Vladivostok|Podryad Nets|
-|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|13|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|14|113.11.97.193|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|17|202.162.199.102|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|18|157.15.40.222|8080|Indonesia|Ponorogo|PT Trisari Data Indonusa|
-|19|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|20|167.71.60.190|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|11|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|14|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|15|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|16|160.19.18.29|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
+|17|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
