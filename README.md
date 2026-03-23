@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|9|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
-|10|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.34.178.155|8448|United States|Redondo Beach|Enzu Inc|
+|4|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|7|23.148.244.107|20012|United States|Keokuk|FiberPower LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
-|15|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
-|16|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|17|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
-|20|194.87.151.34|1080|Russia|Moscow|JSC "TIMEWEB"|
+|13|38.34.178.155|8448|United States|Redondo Beach|Enzu Inc|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|18|38.34.179.59|8444|United States|Redondo Beach|Enzu Inc|
+|19|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
