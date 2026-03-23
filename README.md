@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|103.160.205.86|8080|Indonesia|Timba Timuk|PRIME|
-|4|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|7|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|8|157.15.144.102|1111|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
-|9|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|10|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|11|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|12|119.18.151.153|6713|Bangladesh|Chittagong|BBTS Network|
-|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|190.210.62.131|8080|Argentina|Buenos Aires|NSS S.A.|
-|16|102.219.231.22|8080|South Africa|Standerton|Soepa Soap Vervaardigers CC|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|19|103.76.201.109|8080|Indonesia|Cileungsir|PT. Arjuna Global Teknologi Indonesia|
-|20|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|7|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|8|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|9|157.15.144.102|1111|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|13|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
 
 
 
