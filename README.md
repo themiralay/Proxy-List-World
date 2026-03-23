@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4645** proxies at the latest update. Usable proxies are below.
+> Scraper found **4646** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|69|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|5|160.19.19.170|3125|Indonesia|Paseh|PT Indo Telemedia Solusi|
-|6|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
-|7|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
-|8|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|103.171.245.184|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|11|38.156.15.156|999|Mexico|Teocaltiche|Wistarip Networks|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|14|94.68.245.147|8080|Greece|Thessaloniki|OTEnet|
-|15|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|18|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|120.28.193.225|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|5|119.93.81.143|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|9|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|10|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|11|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|12|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|13|213.230.110.191|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|15|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|102.38.7.110|1972|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
