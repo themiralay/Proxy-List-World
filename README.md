@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|3|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
-|7|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|8|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|10|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|11|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
-|15|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|2|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|3|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|11|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|15|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
 |16|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|19|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|18|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|38.34.179.17|8446|United States|Redondo Beach|Enzu Inc|
 
 
 
