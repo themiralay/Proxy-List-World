@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|9|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
-|10|38.34.183.8|8450|United States|Redondo Beach|Enzu Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |11|45.123.142.82|1111|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
-|12|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|201.150.116.3|999|Mexico|Tetepango|Hulux Telecomunicaciones|
-|16|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
-|17|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|18|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|19|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|119.18.144.12|20326|Bangladesh|Chittagong|BBTS Network|
+|15|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
+|16|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|17|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
+|20|113.11.64.137|30226|Bangladesh|Dhaka|BDCOM Online Limited|
 
 
 
