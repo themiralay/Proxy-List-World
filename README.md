@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
 |2|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|38.145.208.208|8447|United States|Redondo Beach|Enzu Inc|
-|13|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|14|38.145.208.208|8447|United States|Redondo Beach|Enzu Inc|
-|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|20|158.160.227.117|8888|Russia|Moscow|Yandex.Cloud LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|10|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|15|111.92.173.3|8080|Indonesia|Yogyakarta|IP JogjaMedianet 4|
+|16|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.78|8445|United States|Redondo Beach|Enzu Inc|
+|18|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
+|19|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|20|166.88.55.83|7890|Hong Kong|Hong Kong|Ace Data Centers II|
 
 
 
