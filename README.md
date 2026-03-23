@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|11|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
-|12|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|15|199.66.157.89|8080|United States|Odessa|SCT Broadband|
-|16|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|1|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
+|2|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|38.145.208.208|8447|United States|Redondo Beach|Enzu Inc|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|8|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|10|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|11|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|12|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|13|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|14|38.145.208.208|8447|United States|Redondo Beach|Enzu Inc|
+|15|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|18|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|19|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
 |20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
