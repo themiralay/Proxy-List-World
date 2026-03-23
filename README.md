@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|2|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.192|8451|United States|Redondo Beach|Enzu Inc|
-|8|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|9|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|10|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|11|38.34.179.13|8446|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.17|8446|United States|Redondo Beach|Enzu Inc|
-|13|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|7|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|103.155.198.142|1080|Indonesia|Cikampek|PT Lintas Jaringan Nusantara|
+|11|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|13|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|14|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|15|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|18|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
