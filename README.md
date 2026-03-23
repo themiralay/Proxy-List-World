@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|10|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|11|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|104.251.81.37|14270|United States|San Jose|Frontier Communications of America, Inc.|
-|14|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
-|15|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|156.246.88.104|11111|Japan|Tokyo|Akile LTD|
-|19|103.255.66.109|8080|Pakistan|Islamabad|Transworld Enterprise Services|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|5|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|9|157.15.144.80|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|10|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|11|38.34.179.101|8446|United States|Redondo Beach|Enzu Inc|
+|12|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|160.22.215.17|8085|Bangladesh|Dhaka|Akbor Power|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|193.43.140.85|8080|Syria|Ḩarastā|Syrian Telecom|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|12.89.166.42|8080|United States|Sacramento|AT&T Enterprises, LLC|
+|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
 
 
 
