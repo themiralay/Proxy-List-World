@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
-|4|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|201.150.116.3|999|Mexico|Tetepango|Hulux Telecomunicaciones|
-|9|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|103.184.56.122|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|120.50.10.106|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
-|17|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|187.102.210.138|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|120.50.10.106|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
+|9|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|10|45.93.30.177|6005|South Korea|Seoul|MOACK.Co.LTD|
+|11|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
+|15|122.54.198.112|3128|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|102.213.216.98|8080|Kenya|Garissa|Celcom Networks Limited|
+|17|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|18|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
