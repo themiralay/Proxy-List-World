@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|13.230.197.159|10808|Japan|Tokyo|Amazon Technologies Inc.|
-|4|122.116.180.77|8080|Taiwan|Daxi|Chunghwa Telecom Co., Ltd.|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|125.160.122.185|3128|Indonesia|Samarinda|Telekomunikasi Indonesia|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|1|13.230.197.159|10808|Japan|Tokyo|Amazon Technologies Inc.|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|36.92.106.41|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |11|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|109.110.53.170|45810|Russia|Vladivostok|Podryad Nets|
-|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|15|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|202.93.244.66|1111|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
-|18|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
-|19|103.156.16.227|8080|Indonesia|Indramayu|RSTNET|
-|20|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|12|109.110.53.170|45810|Russia|Vladivostok|Podryad Nets|
+|13|103.178.86.10|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
+|14|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|15|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
+|16|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|202.162.199.102|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|20|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
