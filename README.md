@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|2|38.145.203.97|8443|United States|Redondo Beach|Enzu Inc|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
-|5|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|7|38.145.203.97|8443|United States|Redondo Beach|Enzu Inc|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|11|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
-|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|15|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
-|16|116.254.113.86|8080|Indonesia|Semarang|PT Media Sarana Data|
-|17|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|18|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|4|120.28.193.225|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|5|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|6|113.11.126.150|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|119.93.81.143|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|10|49.151.176.55|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|11|103.102.12.86|1111|Indonesia|Rembang|FISNET|
+|12|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|202.58.77.73|8800|Indonesia|Surabaya|PT Data Buana Nusantara|
+|15|20.253.30.69|3128|United States|Boydton|Microsoft Corporation|
+|16|202.5.37.104|17382|Bangladesh|Dhaka|BBTS-NEW|
+|17|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|18|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|19|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
 
 
 
