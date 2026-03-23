@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |2|203.194.114.217|3128|Indonesia|Pugeran Maguwoharjo|CV. Rumahweb Indonesia|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|12|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|17|103.169.254.45|6080|Indonesia|Jekulo|PT Master Star Network|
-|18|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|20|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|6|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|7|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.247.23.28|9223|Indonesia|Bekasi|PT wifian Solution|
+|10|38.34.179.59|8444|United States|Redondo Beach|Enzu Inc|
+|11|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|12|23.148.244.54|20116|United States|Keokuk|FiberPower LLC|
+|13|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|38.252.218.69|999|Peru|Ventanilla|Cogent Communications|
+|17|71.14.23.121|8080|United States|Auburn|Spectrum|
+|18|92.51.122.174|8080|Georgia|Kutaisi|Deltanet-net Network|
+|19|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.174.64.255|8097|Indonesia|Bekasi|PT Patra Sinar Teknologi|
 
 
 
