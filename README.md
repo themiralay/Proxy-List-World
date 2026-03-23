@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|7|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|10|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|122.3.121.231|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|12|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|14|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|6|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|9|103.48.68.218|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|103.54.80.151|8080|Indonesia|Purbalingga|MEDIACOMPUTINDO|
+|13|38.22.93.158|1080|Hong Kong|Hong Kong|NetLab Global|
+|14|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|15|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|18|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
 
 
 
