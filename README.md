@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|6|212.192.12.90|6005|Hong Kong|Hong Kong|Baxet Group Inc.|
-|7|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
-|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|9|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|10|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
+|2|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|5|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|8|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
+|9|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |11|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|12|186.208.81.214|3129|Brazil|Sarandi|RazaoInfo Internet Ltda|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|20|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
