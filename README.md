@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.152.238.84|1080|Indonesia|Cikarang|APRIN|
+|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|6|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|119.18.144.12|20326|Bangladesh|Chittagong|BBTS Network|
 |11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|12|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|13|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|16|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|17|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
-|18|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|113.11.113.65|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|14|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|17|103.163.135.57|7777|Indonesia|Kalipuro|PROVITEL|
+|18|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
