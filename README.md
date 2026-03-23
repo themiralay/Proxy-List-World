@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4384** proxies at the latest update. Usable proxies are below.
+> Scraper found **4422** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|54|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|602|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|640|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2741|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|7|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|103.171.183.146|7777|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
-|11|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|14|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|103.171.255.204|8080|Indonesia|Godean|ZKI|
-|19|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|36.50.56.210|8818|Indonesia|Sawangan|PT Andromega Data Nusantara|
+|7|203.194.114.217|3128|Indonesia|Pugeran Maguwoharjo|CV. Rumahweb Indonesia|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
+|14|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|15|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
 
 
 
