@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.19.19.122|8090|Indonesia|Mranggen|PT Indo Telemedia Solusi|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|20|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|1|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|2|8.212.130.232|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|103.97.198.253|8080|Indonesia|Sekadau|PT Borneo Global Persada|
+|9|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|10|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|11|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|13|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|188.121.116.87|8443|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|103.159.96.171|3122|Indonesia|Kertosono|PT Jinde Grup Indonesia|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
