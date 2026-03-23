@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|36.50.56.210|8818|Indonesia|Sawangan|PT Andromega Data Nusantara|
-|7|203.194.114.217|3128|Indonesia|Pugeran Maguwoharjo|CV. Rumahweb Indonesia|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|103.26.110.125|84|India|Mayiladuthurai|Niss Networks|
-|14|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
-|15|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|6|203.194.114.217|3128|Indonesia|Pugeran Maguwoharjo|CV. Rumahweb Indonesia|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|10|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|38.34.179.57|8453|United States|Redondo Beach|Enzu Inc|
+|12|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|13|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|14|103.247.23.28|9223|Indonesia|Bekasi|PT wifian Solution|
+|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|16|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|19|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|20|45.189.117.52|999|Peru|Lima|Conex TV E.I.R.L.|
 
 
 
