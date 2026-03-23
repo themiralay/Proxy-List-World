@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|103.247.22.84|8080|Indonesia|Purbalingga|PT wifian Solution|
-|4|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|5|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
-|6|180.191.14.210|8081|Philippines|Cabanatuan City|Globe Telecom|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|10|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|12|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|13|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|10|165.0.136.30|8080|South Africa|Somerset West|RSAWEB (PTY) LTD|
+|11|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
-|18|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|17|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
