@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|203.194.114.217|3128|Indonesia|Pugeran Maguwoharjo|CV. Rumahweb Indonesia|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|150.241.77.172|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|8|202.47.188.193|7777|Indonesia|Ponorogo|Lintas Data Prima, PT|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|217.174.244.117|3129|United Kingdom|London|IONOS SE|
-|11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|12|103.81.64.89|8080|Indonesia|Sukoharjo Satu|QIUNET|
-|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|18|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|103.164.231.243|8080|Indonesia|Bendungan|PT Global Media Telekomunikasi Network|
+|11|190.97.231.0|999|Venezuela|Ruiz Pineda|Viginet C.A|
+|12|217.174.244.117|3129|United Kingdom|London|IONOS SE|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|15|160.19.18.45|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
+|16|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
+|17|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|102.36.133.62|8080|Nigeria|Ilupeju|Syscodes Communications|
 
 
 
