@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|154.19.38.169|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|9|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|10|103.156.15.210|1111|Indonesia|Pangradin Satu|PT Lintas Jaringan Nusantara|
-|11|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|9|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|10|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|103.39.51.184|8088|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|20|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
 
 
 
