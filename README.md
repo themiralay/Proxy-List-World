@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|103.122.64.139|8085|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|8|122.54.119.79|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|9|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|10|56.228.5.197|59788|Sweden|Stockholm|Amazon.com|
-|11|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|12|38.49.135.30|999|Mexico|Las Rosas|IENTC S de RL de CV|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|194.67.99.194|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|15|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|19|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|20|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|6|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
+|7|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
+|8|201.150.6.201|8081|Mexico|San Nicolás de los Garza|Jose Miguel Macias Contreras|
+|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|11|103.168.207.42|8080|Bangladesh|Tongi|DigiCon Telecommunication Ltd|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|18|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
