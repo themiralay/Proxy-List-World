@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|11|193.148.58.165|3128|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|12|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.103|8448|United States|Redondo Beach|Enzu Inc|
+|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|12|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
 |13|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|38.34.179.71|8444|United States|Redondo Beach|Enzu Inc|
-|16|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|17|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|18|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|19|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.103|8448|United States|Redondo Beach|Enzu Inc|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|122.52.108.244|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|19|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|20|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
 
 
 
