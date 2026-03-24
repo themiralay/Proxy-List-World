@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4349** proxies at the latest update. Usable proxies are below.
+> Scraper found **4324** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|89|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2683|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|178.62.184.67|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|119.18.144.3|30226|Bangladesh|Chittagong|BBTS Network|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|11|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|103.99.27.43|3125|Indonesia|Brebes|PT Lintas Network Solusi|
-|18|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|1|103.162.36.13|8080|Indonesia|Cileunyi|PT Lintas Satu Visi|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|178.62.184.67|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|5|170.245.132.82|9000|Paraguay|Primero de Marzo|MACHADO BAEZ, NERY JAVIER|
+|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|9|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|14|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|16|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|17|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|81.0.50.19|8080|Spain|Tudela|MasMovil Access Network|
 
 
 
