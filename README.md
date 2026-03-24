@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|7|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|10|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|11|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|16|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|17|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|18|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|8|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|14|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|15|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|16|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|18|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
 
 
 
