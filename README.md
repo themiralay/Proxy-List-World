@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|3|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|4|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|125.160.122.185|3128|Indonesia|Samarinda|Telekomunikasi Indonesia|
-|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|9|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|10|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|11|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
-|15|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|16|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|17|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
-|18|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|19|38.34.179.91|8444|United States|Redondo Beach|Enzu Inc|
-|20|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.34.183.219|8446|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|7|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|8|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|9|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|10|38.34.179.91|8444|United States|Redondo Beach|Enzu Inc|
+|11|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|12|38.34.183.232|8453|United States|Redondo Beach|Enzu Inc|
+|13|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|14|188.132.249.231|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
+|15|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
+|16|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|19|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
+|20|103.82.126.243|8080|Indonesia|Curug|PT.PLATINUM CITRA INDONESIA|
 
 
 
