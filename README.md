@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.71|8444|United States|Redondo Beach|Enzu Inc|
-|12|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|14|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|8|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|9|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|10|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|103.30.31.59|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|14|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |16|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|17|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|103.133.27.42|8090|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
