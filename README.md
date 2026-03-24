@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
-|6|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|7|158.101.113.18|80|United States|Ashburn|Oracle Corporation|
-|8|103.82.126.243|8080|Indonesia|Curug|PT.PLATINUM CITRA INDONESIA|
-|9|38.145.208.209|8444|United States|Redondo Beach|Enzu Inc|
-|10|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
-|11|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
-|12|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|13|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|16|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.145.208.209|8444|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.54|8446|United States|Redondo Beach|Enzu Inc|
+|6|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|7|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|10|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|11|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|8.212.172.106|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|142.171.224.229|7890|United States|Los Angeles|Multacom Corporation|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|138.59.11.192|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
