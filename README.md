@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|6|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|8|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|15|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|11|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|13|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|17|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |18|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
