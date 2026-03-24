@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|3|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|45.136.130.198|8449|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.72|8445|United States|Redondo Beach|Enzu Inc|
-|8|38.145.208.179|8447|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|10|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|11|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
-|12|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|13|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
-|15|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|16|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
-|17|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|18|167.71.245.33|3128|United States|Clifton|DigitalOcean, LLC|
-|19|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|20|116.0.54.25|8080|Pakistan|Karachi|Supernet|
+|3|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|6|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|7|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|9|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|10|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|11|103.82.126.243|8080|Indonesia|Curug|PT.PLATINUM CITRA INDONESIA|
+|12|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
+|13|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
+|17|190.12.150.244|999|Ecuador|Quito|Servitelconet Cia. Ltda.|
+|18|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|19|1.234.153.14|80|South Korea|Seocho-gu|SK Broadband Co Ltd|
+|20|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
 
 
 
