@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.145.208.209|8444|United States|Redondo Beach|Enzu Inc|
-|5|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
-|6|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|7|103.158.62.130|8080|Bangladesh|Sylhet|SEARCH IT|
-|8|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|9|38.34.179.91|8444|United States|Redondo Beach|Enzu Inc|
-|10|190.12.150.244|999|Ecuador|Quito|Servitelconet Cia. Ltda.|
-|11|190.15.194.72|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|4|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|5|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|181.115.65.194|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|7|103.165.229.172|8080|Indonesia|Menteng Dalam|PT iForte Global Internet|
+|8|38.145.208.209|8444|United States|Redondo Beach|Enzu Inc|
+|9|190.109.6.113|999|Colombia|Tocancipá|Liberty Networks De Colombia|
+|10|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |12|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|177.234.244.139|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|13|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |14|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
-|16|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
+|15|103.61.16.9|8097|Indonesia|Suryabakti|TWINSDATAPRATAMA|
+|16|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
 |17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|18|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
+|19|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|20|201.77.110.245|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
 
 
 
