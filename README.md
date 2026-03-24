@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
 |2|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
 |3|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|4|58.69.61.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|12|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|13|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|176.88.191.254|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|19|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
+|6|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|10|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
+|11|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|45.207.200.120|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|14|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|15|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
