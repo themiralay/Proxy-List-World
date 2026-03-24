@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4575** proxies at the latest update. Usable proxies are below.
+> Scraper found **4606** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|89|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|623|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|654|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|50|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2881|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|11|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|12|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
+|4|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|125.160.122.185|3128|Indonesia|Samarinda|Telekomunikasi Indonesia|
+|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|9|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
+|10|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|11|38.34.179.97|8448|United States|Redondo Beach|Enzu Inc|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|38.145.220.11|8445|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|15|155.212.132.241|3128|Russia|Moscow|Beget LLC|
 |16|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|17|103.167.23.139|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|18|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|19|177.234.244.139|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|20|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|18|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|19|38.34.179.91|8444|United States|Redondo Beach|Enzu Inc|
+|20|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
