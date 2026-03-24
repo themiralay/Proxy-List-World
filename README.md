@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|5|108.181.0.167|3128|United States|Los Angeles|Psychz Networks|
-|6|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|11|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|12|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|13|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|122.53.59.59|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|17|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|11|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
+|12|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|13|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|14|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|17|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|18|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
