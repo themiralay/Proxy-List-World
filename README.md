@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
 |2|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|3|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|4|38.145.208.208|8447|United States|Redondo Beach|Enzu Inc|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|93.43.251.159|80|Italy|Turin|Fastweb Networks|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|12|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|13|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|14|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|16|45.136.130.193|8444|United States|Redondo Beach|Enzu Inc|
-|17|45.136.130.197|8444|United States|Redondo Beach|Enzu Inc|
-|18|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
-|19|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.208|8447|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|11|38.34.179.104|8448|United States|Redondo Beach|Enzu Inc|
+|12|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|14|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
+|15|38.145.208.208|8447|United States|Redondo Beach|Enzu Inc|
+|16|38.145.208.179|8447|United States|Redondo Beach|Enzu Inc|
+|17|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|19|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
