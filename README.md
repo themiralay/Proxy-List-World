@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
-|5|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|4|125.160.122.185|3128|Indonesia|Samarinda|Telekomunikasi Indonesia|
+|5|38.34.179.199|8448|United States|Redondo Beach|Enzu Inc|
 |6|38.145.208.209|8444|United States|Redondo Beach|Enzu Inc|
-|7|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|9|38.34.179.49|8450|United States|Redondo Beach|Enzu Inc|
-|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|11|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|13|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
-|14|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|103.251.9.197|8181|Indonesia|Sukadana|PT Trika Global Media|
-|17|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|20|103.109.57.10|8090|Bangladesh|Maijdi|Skynet Chowmuhani|
+|7|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|8|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|11|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|12|190.12.150.244|999|Ecuador|Quito|Servitelconet Cia. Ltda.|
+|13|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.204|8446|United States|Redondo Beach|Enzu Inc|
+|16|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|103.242.105.70|8080|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|8.217.106.71|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
