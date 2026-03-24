@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|45.136.131.32|8445|United States|Redondo Beach|Enzu Inc|
-|5|38.34.179.71|8444|United States|Redondo Beach|Enzu Inc|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
-|8|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|9|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
+|10|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|11|84.22.48.28|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
+|12|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |14|45.175.160.97|999|Argentina|Tupungato|OSORIO SERGIO ANGELINO(NETVDU).|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|38.156.72.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
