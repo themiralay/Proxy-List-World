@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|3|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|103.151.226.133|8080|Indonesia|Margahayukencana|URBANACCESS|
+|7|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
 |8|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|9|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|113.11.97.193|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|14|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|16|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
-|19|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
-|20|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|11|38.34.179.75|8453|United States|Redondo Beach|Enzu Inc|
+|12|45.207.200.85|1080|Hong Kong|Hong Kong|Fastnet Data Inc|
+|13|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|14|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
+|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|16|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|17|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|18|170.233.192.225|999|Chile|Santiago|MI INTERNET SPA|
+|19|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|20|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
 
 
 
