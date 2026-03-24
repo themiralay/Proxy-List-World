@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|103.171.255.59|8080|Indonesia|Godean|ZKI|
-|9|45.229.17.62|999|Ecuador|San Juan|Turbonet S.A.|
-|10|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|11|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|12|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|13|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|14|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|17|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|18|95.84.164.92|8998|Russia|Moscow|NCNET|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|7|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|8|103.124.139.170|8080|Indonesia|Ungaran|Global Media Data Prima|
+|9|154.18.255.117|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|16|103.142.69.169|8885|Bangladesh|Kāfrul|MIR INFO SYSTEMS LTD.|
+|17|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 |20|45.167.124.52|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
