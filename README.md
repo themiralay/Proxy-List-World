@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4566** proxies at the latest update. Usable proxies are below.
+> Scraper found **4578** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|104|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|691|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2744|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|45.136.130.178|8449|United States|Redondo Beach|Enzu Inc|
-|4|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
-|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|11|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|7|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|11|144.31.137.23|8080|Netherlands|Amsterdam|u1host ltd|
 |12|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|15|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|16|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|49.147.68.237|8082|Philippines|Santa Rosa|Philippine Long Distance Telephone Co.|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|13|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|14|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|15|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|16|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|17|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|20|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 
 
 
