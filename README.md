@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.98|8453|United States|Redondo Beach|Enzu Inc|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|16|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|17|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|7|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|8|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|12|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|18|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|19|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
 
 
 
