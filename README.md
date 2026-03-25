@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|38.145.220.193|8443|United States|Redondo Beach|Enzu Inc|
-|8|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
-|9|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|10|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|11|38.145.220.196|8443|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.57|8453|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|14|38.145.220.72|8443|United States|Redondo Beach|Enzu Inc|
-|15|38.145.220.182|8443|United States|Redondo Beach|Enzu Inc|
-|16|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
-|18|45.136.131.39|8443|United States|Redondo Beach|Enzu Inc|
-|19|38.145.220.56|8443|United States|Redondo Beach|Enzu Inc|
-|20|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|1|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|38.145.220.193|8443|United States|Redondo Beach|Enzu Inc|
+|4|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|6|45.136.131.39|8443|United States|Redondo Beach|Enzu Inc|
+|7|38.145.220.196|8443|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|10|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
+|11|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|13|38.145.220.72|8443|United States|Redondo Beach|Enzu Inc|
+|14|38.145.220.179|8443|United States|Redondo Beach|Enzu Inc|
+|15|38.145.220.60|8447|United States|Redondo Beach|Enzu Inc|
+|16|38.145.208.209|8444|United States|Redondo Beach|Enzu Inc|
+|17|38.145.220.182|8443|United States|Redondo Beach|Enzu Inc|
+|18|38.145.220.56|8443|United States|Redondo Beach|Enzu Inc|
+|19|38.145.220.173|8443|United States|Redondo Beach|Enzu Inc|
+|20|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
