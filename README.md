@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5176** proxies at the latest update. Usable proxies are below.
+> Scraper found **5178** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|119|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|810|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|811|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|86|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3229|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|103.156.248.53|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|7|103.165.250.30|8181|Indonesia|Manismata|PT Aulia Sentral Multidata|
-|8|45.136.130.191|8453|United States|Redondo Beach|Enzu Inc|
-|9|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|10|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|11|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|14|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|15|38.34.183.219|8446|United States|Redondo Beach|Enzu Inc|
-|16|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|17|163.227.149.135|8080|Indonesia|Kurungannyawa|PT Andalas Solusi Network|
-|18|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|20|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
+|2|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|103.165.250.30|8181|Indonesia|Manismata|PT Aulia Sentral Multidata|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|6|45.136.130.191|8453|United States|Redondo Beach|Enzu Inc|
+|7|58.69.248.180|8080|Philippines|Laiya|Philippine Long Distance Telephone Co.|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|10|38.34.179.57|8453|United States|Redondo Beach|Enzu Inc|
+|11|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|45.136.131.59|8450|United States|Redondo Beach|Enzu Inc|
+|15|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
+|16|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
+|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.157.78.118|7777|Indonesia|Jakarta|PT Super Media Indonesia|
+|19|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|20|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
