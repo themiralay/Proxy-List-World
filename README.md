@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|6|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|6|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 |9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|13|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|163.5.128.110|14270|United States|Brooklyn|Windstream Communications LLC|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|19|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|20|166.249.54.61|7234|United States|Plymouth Meeting|Verizon Business|
+|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|11|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|12|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|17|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
 
 
 
