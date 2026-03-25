@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4242** proxies at the latest update. Usable proxies are below.
+> Scraper found **4286** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|108|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|623|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2514|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|45.189.252.243|999|Mexico|Alvarado|Tracered SA De CV|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|20|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|7|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|9|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|13|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|125.26.4.219|8080|Thailand|Ko Samui|TOT Public Company Limited|
+|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|19|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
