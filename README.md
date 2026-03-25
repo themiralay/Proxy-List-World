@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
+|1|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|4|112.204.108.216|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|6|45.93.30.241|6005|South Korea|Seoul|MOACK.Co.LTD|
-|7|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|8|103.157.78.118|7777|Indonesia|Jakarta|PT Super Media Indonesia|
-|9|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|11|103.165.250.30|8181|Indonesia|Manismata|PT Aulia Sentral Multidata|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|19|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
-|20|200.57.28.140|999|Mexico|Ciudad Hidalgo|Operbes, S.A. de C.V.|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|13|103.157.78.118|7777|Indonesia|Jakarta|PT Super Media Indonesia|
+|14|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|15|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|16|112.204.108.216|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|17|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|19|31.15.169.77|808|Slovenia|Celje|Telemach Slovenija d.o.o.|
+|20|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
 
 
 
