@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|163.227.149.135|8080|Indonesia|Kurungannyawa|PT Andalas Solusi Network|
+|1|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
 |2|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
-|3|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|4|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|5|45.136.130.191|8453|United States|Redondo Beach|Enzu Inc|
-|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|10|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|11|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|12|103.157.78.118|7777|Indonesia|Jakarta|PT Super Media Indonesia|
-|13|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|14|112.204.108.216|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|38.34.183.225|8450|United States|Redondo Beach|Enzu Inc|
-|17|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|3|45.136.130.191|8453|United States|Redondo Beach|Enzu Inc|
+|4|103.165.250.30|8181|Indonesia|Manismata|PT Aulia Sentral Multidata|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|38.34.183.219|8446|United States|Redondo Beach|Enzu Inc|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|9|38.34.179.57|8453|United States|Redondo Beach|Enzu Inc|
+|10|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|11|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|12|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|13|200.57.28.140|999|Mexico|Ciudad Hidalgo|Operbes, S.A. de C.V.|
+|14|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|15|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|16|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
+|17|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|18|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|19|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|20|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
