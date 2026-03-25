@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|10|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|11|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
+|12|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|15|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|16|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|18|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+
 
 
 ## Contributing
