@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|5|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|6|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|6|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|8|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
 |11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|13|103.134.220.122|1080|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|13|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|14|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|16|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
