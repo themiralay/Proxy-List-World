@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|1|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
 |2|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|12|45.136.130.178|8449|United States|Redondo Beach|Enzu Inc|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|15|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|16|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
-|17|194.150.220.97|3128|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|18|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.161|8448|United States|Redondo Beach|Enzu Inc|
-|20|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|3|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|4|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|7|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
+|8|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|9|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|10|45.136.130.186|8451|United States|Redondo Beach|Enzu Inc|
+|11|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|13|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
+|16|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|17|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|18|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|19|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
