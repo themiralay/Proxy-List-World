@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|2|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|5|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|6|45.8.157.38|3128|United States|Newark|NKtelecom INC|
-|7|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
-|8|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|9|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|10|181.129.147.163|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|11|45.171.111.255|999|Ecuador|Tena|Lagonet-tv Cia. Ltda.|
-|12|112.209.21.243|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|45.136.131.32|8445|United States|Redondo Beach|Enzu Inc|
-|16|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|18|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
+|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
+|6|103.154.152.104|2020|Indonesia|Denpasar|MORATELINDONAP|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|45.8.157.38|3128|United States|Newark|NKtelecom INC|
+|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|11|103.154.53.69|1111|Indonesia|Ciherang|WIFIKITA|
+|12|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|13|31.169.125.138|3129|United States|Secaucus|Baykov Ilya Sergeevich|
+|14|102.222.231.25|2333|Democratic Republic of the Congo|Kinshasa|Orioncom SPRL|
+|15|201.182.85.12|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|16|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|18|182.253.44.9|3128|Indonesia|Jakarta|BIZNET|
+|19|177.234.217.234|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
 
 
 
