@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|45.178.55.2|999|Argentina|Posadas|Globalweb S.R.L.|
-|10|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|11|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|18|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|6|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|163.5.128.129|14270|United States|Brooklyn|Windstream Communications LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|103.227.186.61|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
 
 
 
