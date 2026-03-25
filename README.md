@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|7|113.11.111.145|30226|Bangladesh|Dhaka|BDCOM Online Limited|
 |8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|19|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|11|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|12|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|13|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|14|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|15|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|16|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|20|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
