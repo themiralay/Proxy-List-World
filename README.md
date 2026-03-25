@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
-|4|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|5|103.231.239.137|58080|Bangladesh|Baniachang|Carnival Internet|
-|6|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|11|170.9.253.20|8888|United States|Chicago|Oracle Corporation|
-|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|210.87.74.71|8080|Indonesia|Jetis|PT.Global Media Data Prima|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|103.153.63.146|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|103.142.69.169|8885|Bangladesh|Kāfrul|MIR INFO SYSTEMS LTD.|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|9|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
