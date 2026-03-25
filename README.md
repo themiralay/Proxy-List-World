@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|9|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|13|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|14|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|17|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|18|41.90.167.149|8082|Kenya|Nairobi|Safaricom Limited|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|7|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|91.107.148.58|53967|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|104.168.158.236|10808|United States|Seattle|Hostwinds LLC.|
+|12|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|13|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
 
 
 
