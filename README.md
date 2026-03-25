@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
-|3|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|4|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|5|155.212.132.241|3128|Russia|Moscow|Beget LLC|
-|6|113.11.76.233|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|13|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|14|179.1.234.30|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|15|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|19|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|20|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|45.136.131.68|8444|United States|Redondo Beach|Enzu Inc|
+|7|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
+|8|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|10|103.171.255.178|8080|Indonesia|Godean|ZKI|
+|11|155.212.132.241|3128|Russia|Moscow|Beget LLC|
+|12|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|45.136.131.31|8451|United States|Redondo Beach|Enzu Inc|
+|15|190.97.239.24|999|Venezuela|Acarigua||
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|18|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
+|19|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
 
 
 
