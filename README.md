@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4719** proxies at the latest update. Usable proxies are below.
+> Scraper found **4748** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|111|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|754|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|112|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|782|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2853|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.34.179.77|8443|United States|Redondo Beach|Enzu Inc|
-|3|38.34.179.78|8445|United States|Redondo Beach|Enzu Inc|
-|4|114.141.50.210|8080|Indonesia|Jakarta|PT Cyberplus Media Pratama|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|10|121.101.130.181|8080|Indonesia|Batang|PT SELARAS CITRA TERABIT|
-|11|38.145.208.211|8451|United States|Redondo Beach|Enzu Inc|
-|12|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|13|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|14|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|38.34.179.78|8445|United States|Redondo Beach|Enzu Inc|
+|3|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.77|8443|United States|Redondo Beach|Enzu Inc|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.179.218.5|8080|Indonesia|Ciruas|WIMATE|
+|9|103.17.246.60|1080|Indonesia|Banjar Badung|PT Media Sarana Data|
+|10|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|38.34.179.161|8448|United States|Redondo Beach|Enzu Inc|
+|14|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 |15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|38.145.208.211|8451|United States|Redondo Beach|Enzu Inc|
-|17|45.136.131.53|8452|United States|Redondo Beach|Enzu Inc|
-|18|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|19|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|20|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|16|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|19|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
+|20|199.66.157.89|8080|United States|Odessa|SCT Broadband|
 
 
 
