@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4670** proxies at the latest update. Usable proxies are below.
+> Scraper found **4675** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|109|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|712|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2853|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.130.191|8453|United States|Redondo Beach|Enzu Inc|
-|2|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|3|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|157.245.194.13|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.68.214.136|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
+|4|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|5|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
+|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
 |8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|10|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
-|11|164.92.148.68|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|15|103.210.35.182|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|16|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|18|103.126.86.29|9090|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|19|119.18.145.241|30226|Bangladesh|Chittagong|BBTS Network|
-|20|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|12|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|15|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|16|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
+|19|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|20|86.53.183.16|1080|United Kingdom|City of London|GTT|
 
 
 
