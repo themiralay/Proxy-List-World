@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|2|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
-|3|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|10|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|1|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
+|2|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
+|3|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
+|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|6|154.12.59.102|6005|United States|Los Angeles|NetLab Global|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
+|10|177.234.217.234|999|Ecuador|Quito|Ufinet Panama S.A.|
 |11|45.8.157.38|3128|United States|Newark|NKtelecom INC|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|38.34.179.16|8451|United States|Redondo Beach|Enzu Inc|
-|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|16|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|17|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
-|20|45.136.131.59|8450|United States|Redondo Beach|Enzu Inc|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|38.123.48.50|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|14|45.136.130.191|8453|United States|Redondo Beach|Enzu Inc|
+|15|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
+|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|17|204.199.140.18|999|Chile|San Javier|Ingbell Chile SPA|
+|18|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
+|19|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|20|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
 
 
 
