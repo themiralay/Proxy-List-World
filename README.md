@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|103.133.27.239|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|103.193.144.16|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|139.135.182.132|8081|Philippines|Jones|ComClark Network & Technology Corp|
-|10|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|11|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|49.146.153.161|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|13|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|14|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|20|103.247.22.15|1111|Indonesia|Bekasi|PT wifian Solution|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
+|5|49.146.153.161|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|6|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|7|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|8|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|9|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|12|113.11.111.145|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|15|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|16|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|38.145.208.206|8448|United States|Redondo Beach|Enzu Inc|
 
 
 
