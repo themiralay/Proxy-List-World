@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|119.18.148.2|30226|Bangladesh|Chittagong|BBTS Network|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
-|15|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|16|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|180.190.202.141|8082|Philippines|Lahug|Globe Telecom|
-|18|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|19|160.19.19.101|8080|Indonesia|Kresek|PT Indo Telemedia Solusi|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|20|180.190.202.141|8082|Philippines|Lahug|Globe Telecom|
 
 
 
