@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
-|2|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
-|7|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
-|10|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|13|113.11.126.6|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|8|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|16|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
