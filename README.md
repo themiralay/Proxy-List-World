@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
-|4|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|13|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|14|119.18.148.2|30226|Bangladesh|Chittagong|BBTS Network|
-|15|137.220.150.104|6005|Singapore|Singapore|CTG Server Limited|
-|16|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|112.202.246.202|8181|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|18|113.11.126.62|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|19|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|20|190.60.61.42|8080|Colombia|Barranquilla|IFX NETWORKS COLOMBIA|
+|1|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|2|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|38.34.183.233|8448|United States|Redondo Beach|Enzu Inc|
+|5|47.77.193.180|1080|United States|Minkler|Alibaba.com LLC|
+|6|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|137.220.151.110|6005|Singapore|Singapore|CTG Server Limited|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|113.11.126.62|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|11|31.58.158.150|80|Singapore|Singapore|PT Perwira Media Solusi|
+|12|140.238.43.186|7890|Japan|Tokyo|Oracle Corporation|
+|13|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|14|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
+|18|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|19|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|20|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 
 
 
