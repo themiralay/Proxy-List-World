@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|12|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|16|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|17|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|18|177.93.48.139|999|Colombia|Pore|TV AZTECA SUCURSAL COLOMBIA|
-|19|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|20|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|3|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|4|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|113.160.115.254|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|9|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|13|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|14|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|150.107.104.46|1111|Indonesia|Karawang|PT Graha Multimedia Nusantara|
+|16|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|17|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|18|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|157.10.182.173|8080|Indonesia|Citeureup|PT Linea Global Teknologi|
 
 
 
