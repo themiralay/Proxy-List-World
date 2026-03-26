@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|45.136.130.191|8453|United States|Redondo Beach|Enzu Inc|
-|7|193.181.35.171|8118|Sweden|Stockholm|PVDataNet AB|
-|8|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
-|12|49.146.153.161|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|13|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|14|181.78.0.34|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|15|190.97.254.180|8080|Venezuela|Mérida|Viginet C.A|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.11.126.6|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|19|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
