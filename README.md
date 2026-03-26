@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|6|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|7|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|192.232.48.28|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|15|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|17|103.180.118.99|8044|Indonesia|Babat|PT Persada Data Multimedia|
-|18|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
-|19|103.39.51.184|8088|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|20|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|103.156.15.105|1111|Indonesia|Pangradin Satu|PT Lintas Jaringan Nusantara|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|8|184.57.87.36|80|United States|Cambridge|Charter Communications|
+|9|103.153.191.119|3128|Indonesia|Malang|WANET|
+|10|113.11.64.49|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|11|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|12|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|124.107.39.186|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|16|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|19|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
