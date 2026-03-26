@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4637** proxies at the latest update. Usable proxies are below.
+> Scraper found **4650** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|709|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|722|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2627|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|103.180.118.99|8044|Indonesia|Babat|PT Persada Data Multimedia|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|17|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|118.99.68.227|8090|Indonesia|Surabaya|Biznet Metronet|
-|20|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|38.183.146.181|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|185.225.204.5|3128|Slovakia|Giraltovce|DELTA ONLINE spol. s r.o.|
+|18|185.87.193.198|8080|Russia|Moscow|IHC|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|118.99.68.227|8090|Indonesia|Surabaya|Biznet Metronet|
 
 
 
