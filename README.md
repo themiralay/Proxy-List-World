@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|38.34.179.161|8448|United States|Redondo Beach|Enzu Inc|
-|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|38.34.179.161|8448|United States|Redondo Beach|Enzu Inc|
+|3|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|103.156.16.160|8080|Indonesia|Indramayu|RSTNET|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |9|38.34.179.161|8448|United States|Redondo Beach|Enzu Inc|
-|10|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|113.11.98.200|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|11|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|15|38.34.183.211|8445|United States|Redondo Beach|Enzu Inc|
+|16|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|17|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|20|82.146.58.184|1080|Russia|Moscow|JSC IOT|
 
 
 
