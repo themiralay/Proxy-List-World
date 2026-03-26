@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|4|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
-|11|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|12|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|16|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|17|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|103.126.86.29|9090|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|20|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|1|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|2|157.120.34.237|3128|Japan|Minato|NTT PC Communications, Inc.|
+|3|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|137.220.150.22|6005|Singapore|Singapore|CTG Server Limited|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
+|9|119.18.145.50|30226|Bangladesh|Chittagong|BBTS Network|
+|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|11|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
+|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|17|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|18|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
+|19|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
