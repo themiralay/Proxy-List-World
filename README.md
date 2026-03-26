@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
-|13|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|14|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
-|15|38.123.220.190|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
-|18|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|19|192.232.48.28|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|5|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|18|110.44.115.83|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
 
 
 
