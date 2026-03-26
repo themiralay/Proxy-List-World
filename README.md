@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|4|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|12|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|13|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|15|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|16|103.134.220.122|1080|Indonesia|Depok|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|17|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|18|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|19|212.108.115.68|8080|Syria|Qal‘at al Maḑīq|High Speed For Internet Services L.L.C|
-|20|119.18.146.139|20326|Bangladesh|Chittagong|BBTS Network|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|38.51.207.184|999|Venezuela|Maracaibo|Tecnoven Services C.A|
+|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|103.247.22.15|1111|Indonesia|Bekasi|PT wifian Solution|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|143.255.111.114|3128|Brazil|Brasília|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
 
 
 
