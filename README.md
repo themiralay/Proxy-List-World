@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
-|10|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|106.107.195.68|8080|Taiwan|Taichung|New Century InfoComm Tech. Co., Ltd|
+|4|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
+|5|103.48.71.30|84|India|Hyderabad|Country Online Services PVT LTD|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |15|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|16|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
 |17|160.250.73.139|8082|Philippines|Sierra Bullones|KEITH.NET INCORPORATED|
-|18|103.120.174.75|1818|Indonesia|Bekasi|PT. Eka Mas Republik|
-|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|18|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|19|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
