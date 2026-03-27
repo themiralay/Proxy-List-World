@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|8|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|103.109.96.86|4429|Bangladesh|Kāfrul|Digi Jadoo Broadband Ltd|
-|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|6|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|103.175.202.163|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
+|12|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
 |13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|16|103.109.96.193|8080|Bangladesh|Kāfrul|Digi Jadoo Broadband Ltd|
-|17|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|103.164.231.243|8080|Indonesia|Bendungan|PT Global Media Telekomunikasi Network|
+|16|200.39.137.137|999|Chile|Valparaíso|Iconex SPA|
+|17|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|18|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
 |19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|109.224.242.208|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
 
 
 
