@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|3|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|5|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|1|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
 |6|45.229.17.161|999|Ecuador|Baba|Turbonet S.A.|
-|7|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|8|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|11|103.178.86.178|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
-|12|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|45.136.131.32|8445|United States|Redondo Beach|Enzu Inc|
+|9|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
+|13|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|14|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|15|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|19|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
