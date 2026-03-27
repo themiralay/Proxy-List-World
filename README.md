@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
-|7|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
-|10|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|11|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|14|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|15|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|103.38.104.173|8080|Indonesia|Wonosobo|PT Tunas Media Data|
-|18|94.68.245.147|8080|Greece|Thessaloniki|OTEnet|
-|19|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|20|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|45.136.130.171|8445|United States|Redondo Beach|Enzu Inc|
+|6|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|15|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|16|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|17|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|18|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
+|19|103.61.16.50|8080|Indonesia|Suryabakti|TWINSDATAPRATAMA|
+|20|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
 
 
 
