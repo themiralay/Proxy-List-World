@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|7|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|8|103.81.65.190|1111|Indonesia|Sukoharjo Satu|QIUNET|
-|9|103.19.78.127|3125|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
-|10|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|11|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|12|103.177.10.253|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|15|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
-|16|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|190.60.45.51|999|Colombia|Los Santos|IFX NETWORKS COLOMBIA|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|6|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|10|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|18|190.60.57.42|3128|Colombia|San Diego|IFX NETWORKS COLOMBIA|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|180.191.52.179|8082|Philippines|Tarlac City|Globe Telecom|
 
 
 
