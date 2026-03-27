@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|4|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|121.91.60.68|8080|Pakistan|Daultala|CMPak Limited|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|220.81.123.23|48678|South Korea|Suseong-gu|Korea Telecom|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|89.43.132.233|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|181.78.203.148|999|Ecuador|Quito|Ufinet Panama S.A.|
+|18|103.156.74.156|3125|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|19|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
 
 
 
