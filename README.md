@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
+|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|6|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|181.209.111.147|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
-|18|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|165.99.151.246|10001|Indonesia|Bogor|PT Win Akselerasi Net Indonesia|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
