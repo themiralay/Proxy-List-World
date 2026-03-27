@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|8|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
-|13|222.252.144.246|8080|Vietnam|Vĩnh Lộc|VietNam Post and Telecom Corporation|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|103.145.34.166|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|16|103.153.191.10|8080|Indonesia|Malang|WANET|
-|17|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|11|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|12|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|38.34.178.186|8451|United States|Redondo Beach|Enzu Inc|
+|15|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|16|38.34.179.25|8444|United States|Redondo Beach|Enzu Inc|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|94.72.57.157|8080|Russia|St Petersburg|MTS PJSC|
+|19|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|20|38.34.179.161|8448|United States|Redondo Beach|Enzu Inc|
 
 
 
