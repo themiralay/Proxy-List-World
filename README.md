@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4600** proxies at the latest update. Usable proxies are below.
+> Scraper found **4604** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|689|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|83|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2596|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|9|38.34.179.172|8451|United States|Redondo Beach|Enzu Inc|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|82.146.58.184|1080|Russia|Moscow|JSC IOT|
-|13|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|9|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|10|163.5.128.114|14270|United States|Brooklyn|Windstream Communications LLC|
+|11|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
+|12|38.145.208.209|8444|United States|Redondo Beach|Enzu Inc|
+|13|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|82.146.58.184|1080|Russia|Moscow|JSC IOT|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|20|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
