@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|2|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|3|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
-|4|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|6|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|8|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.25|8444|United States|Redondo Beach|Enzu Inc|
-|12|113.11.64.177|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|38.145.220.32|8447|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.151|8452|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.91|8444|United States|Redondo Beach|Enzu Inc|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|38.145.220.32|8447|United States|Redondo Beach|Enzu Inc|
+|2|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
+|3|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|64.188.67.156|8088|Germany|Frankfurt am Main|Play2go International Limited|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|13|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|45.136.130.168|8452|United States|Redondo Beach|Enzu Inc|
+|16|38.145.208.209|8444|United States|Redondo Beach|Enzu Inc|
+|17|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|20|124.106.116.34|1337|Philippines|Pasay|Philippine Long Distance Telephone Co.|
 
 
 
