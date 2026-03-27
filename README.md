@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|45.136.130.196|8448|United States|Redondo Beach|Enzu Inc|
-|5|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
-|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|7|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
-|8|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
-|9|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|10|170.78.208.245|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|11|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|38.34.179.25|8444|United States|Redondo Beach|Enzu Inc|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|103.99.27.156|3125|Indonesia|Brebes|PT Lintas Network Solusi|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
+|5|38.34.178.245|8449|United States|Redondo Beach|Enzu Inc|
+|6|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|9|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.96|8451|United States|Redondo Beach|Enzu Inc|
+|11|38.145.203.19|8449|United States|Redondo Beach|Enzu Inc|
+|12|38.145.208.241|8453|United States|Redondo Beach|Enzu Inc|
+|13|170.78.208.251|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|14|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|15|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|16|86.53.183.16|1080|United Kingdom|City of London|GTT|
 |17|103.172.71.202|1111|Indonesia|Karawang|AZNET|
-|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|19|181.57.171.254|8095|Colombia|Cajibío|Telmex Colombia S.A.|
-|20|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|38.34.183.225|8450|United States|Redondo Beach|Enzu Inc|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
