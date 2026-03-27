@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|4|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|103.126.87.181|7777|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|10|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
-|11|103.155.130.134|8082|India|Mumbai|Haash Media|
-|12|206.84.201.101|999|Peru|Callao|Cogent Communications|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
-|17|84.51.15.250|32650|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|18|181.209.118.250|999|Argentina|General Güemes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|15|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
