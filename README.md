@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
 |7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|10|160.238.65.3|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|11|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|12|160.238.65.8|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
+|10|202.58.77.77|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|11|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
 |14|195.62.50.25|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|15|160.238.65.6|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|16|160.238.65.9|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|17|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|18|94.72.57.157|8080|Russia|St Petersburg|MTS PJSC|
-|19|45.136.130.191|8453|United States|Redondo Beach|Enzu Inc|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|94.72.57.157|8080|Russia|St Petersburg|MTS PJSC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|179.1.234.30|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|18|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
