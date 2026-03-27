@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
-|11|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|157.20.233.184|8080|Indonesia|Depok|PT Applewifi Selalu Lancar|
-|15|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|16|190.94.213.132|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|71.14.23.121|8080|United States|Auburn|Spectrum|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|181.78.203.148|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|188.129.255.58|8080|Georgia|Tbilisi|Caucasus Online LLC|
+|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|184.57.87.36|80|United States|Cambridge|Charter Communications|
 
 
 
