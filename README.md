@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|13|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|14|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
-|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|16|113.11.36.205|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|17|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|18|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|11|38.183.146.29|7080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|103.197.47.42|8080|Pakistan|Lahore|Netsol Technologies Limited|
+|15|102.221.238.238|8080|Nigeria|Lagos|Ciudad Infrastructure Limited|
+|16|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|17|154.18.255.73|3125|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|180.191.14.210|8081|Philippines|Cabanatuan City|Globe Telecom|
+|19|200.69.83.203|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
