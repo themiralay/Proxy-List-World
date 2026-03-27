@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|3|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|5|119.18.144.12|20326|Bangladesh|Chittagong|BBTS Network|
-|6|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|7|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
 |8|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
-|9|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
-|10|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
-|11|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|12|38.34.179.178|8445|United States|Redondo Beach|Enzu Inc|
-|13|103.125.174.151|1111|Indonesia|Pekan Bahapal|PT Trinity Teknologi Nusantara|
-|14|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|16|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|18|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
+|12|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
+|13|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|14|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
+|15|103.156.75.42|8989|Indonesia|Pecatu|PT Trika Global Media|
+|16|209.62.196.68|8080|United States|Cut Off|EATEL|
+|17|210.87.74.31|8080|Indonesia|Jetis|PT.Global Media Data Prima|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|20|185.82.99.204|92|Lebanon|Baalbek|NET 360 S.A.R.L|
 
 
 
