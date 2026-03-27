@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|124.107.39.186|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|11|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|12|102.221.238.238|8080|Nigeria|Lagos|Ciudad Infrastructure Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
-|15|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|222.127.206.145|8085|Philippines|Makati City|GLBB|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
+|9|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|144.31.79.117|8888|Finland|Helsinki|u1host ltd|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|16|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
 |17|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|18|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|19|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
