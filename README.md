@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.19.78.136|1111|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|5|103.30.30.6|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|12|106.107.195.68|8080|Taiwan|Taichung|New Century InfoComm Tech. Co., Ltd|
-|13|188.132.249.234|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|16|103.122.64.232|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|17|85.117.56.147|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|202.47.87.5|9090|Vietnam|Cửa Nam|KIENPHONGITS|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|9|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|38.10.91.119|8084|Philippines|Iloilo City|Cogent Communications|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|19|103.133.27.137|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
 
 
 
