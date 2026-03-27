@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|38.145.203.46|8448|United States|Redondo Beach|Enzu Inc|
+|4|38.145.203.46|8448|United States|Redondo Beach|Enzu Inc|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |7|38.145.203.135|8444|United States|Redondo Beach|Enzu Inc|
-|8|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
 |10|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|38.145.203.135|8444|United States|Redondo Beach|Enzu Inc|
-|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|103.133.27.42|8090|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
+|14|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|17|38.145.203.135|8444|United States|Redondo Beach|Enzu Inc|
+|18|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
 
 
 
