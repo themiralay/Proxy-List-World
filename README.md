@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|103.189.249.145|1111|Indonesia|Sekarjalak|PT Berkah Media Kusuma Vision|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|103.159.249.145|8080|India|Kurnool|Dvr Broadband Services|
-|18|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|12|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|16|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|20|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
