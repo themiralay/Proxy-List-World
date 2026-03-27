@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|5|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|6|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|9|103.247.22.15|1111|Indonesia|Bekasi|PT wifian Solution|
-|10|103.193.144.81|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|11|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|190.97.254.250|999|Venezuela|Mérida|Viginet C.A|
-|14|222.127.156.134|8082|Philippines|San Juan|Globe Telecom|
-|15|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|10|122.52.108.244|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|11|164.77.40.112|8080|Chile|Temuco|Entel Chile S.A.|
+|12|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|190.9.108.134|999|Mexico|Juárez|Megabit Telecomunicaciones SA De CV|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|137.220.150.170|6005|Singapore|Singapore|CTG Server Limited|
+|19|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
 |20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
