@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
-|5|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|113.11.64.137|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|9|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
 |10|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
-|11|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|201.20.79.182|8088|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|12|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
 |13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|111.79.111.126|3128|China|Hangzhou|China Telecom|
-|17|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|103.120.174.75|1818|Indonesia|Bekasi|PT. Eka Mas Republik|
-|19|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|18|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|203.150.113.18|8080|Thailand|Ang Thong|Internet Thailand Company Ltd.|
 
 
 
