@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4850** proxies at the latest update. Usable proxies are below.
+> Scraper found **4787** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|759|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|696|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2785|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
+|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|8|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
 |9|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
-|10|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
-|11|201.20.79.182|8088|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|12|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|203.150.113.18|8080|Thailand|Ang Thong|Internet Thailand Company Ltd.|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|38.252.213.69|999|Peru|Bajo Pichanaqui|Telcom Mikrotik Peru S.A.C|
+|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|38.145.203.135|8444|United States|Redondo Beach|Enzu Inc|
+|17|36.66.130.147|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|18|54.37.72.89|80|Germany|Saarbrücken|OVH SAS|
+|19|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
