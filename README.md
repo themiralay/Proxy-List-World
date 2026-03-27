@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|5|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
+|6|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
 |7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
-|13|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |14|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|17|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|190.97.226.48|999|Venezuela|Santa Bárbara|Viginet C.A|
+|17|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
 |18|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|19|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|20|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|19|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|20|168.222.254.136|8888|India|Noida|Intezio Worldwide Limited|
 
 
 
