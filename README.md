@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
-|9|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|10|103.166.91.59|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
-|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
-|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|121.101.133.220|7777|Indonesia|Kutoarjo|PT SELARAS CITRA TERABIT|
-|18|103.165.250.30|8181|Indonesia|Manismata|PT Aulia Sentral Multidata|
-|19|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|51.79.71.106|8080|Canada|Montreal|OVH SAS|
+|9|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
+|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|49.151.183.68|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|16|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|17|124.83.115.54|8085|Philippines|San Jose|Philippine Long Distance Telephone Co.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|103.175.202.163|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
+|20|41.59.200.27|3030|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
 
 
 
