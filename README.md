@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3890** proxies at the latest update. Usable proxies are below.
+> Scraper found **3877** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1935|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|7|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
-|8|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
-|12|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
-|13|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|14|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|15|103.156.75.42|8989|Indonesia|Pecatu|PT Trika Global Media|
-|16|209.62.196.68|8080|United States|Cut Off|EATEL|
-|17|210.87.74.31|8080|Indonesia|Jetis|PT.Global Media Data Prima|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|20|185.82.99.204|92|Lebanon|Baalbek|NET 360 S.A.R.L|
+|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|197.248.37.31|8104|Kenya|Nairobi|Safaricom Limited|
+|10|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|11|212.108.115.39|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|12|103.68.214.136|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|13|103.99.27.156|3125|Indonesia|Brebes|PT Lintas Network Solusi|
+|14|121.101.133.220|7777|Indonesia|Kutoarjo|PT SELARAS CITRA TERABIT|
+|15|13.60.218.140|8083|Sweden|Stockholm|Amazon.com, Inc.|
+|16|103.149.238.100|1111|Indonesia|Purwodadi Grobogan|PT BITNIAGA CIPTA GEMILANG|
+|17|103.180.119.182|8082|Indonesia|Kemendung|PT Persada Data Multimedia|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|38.34.179.26|8450|United States|Redondo Beach|Enzu Inc|
+|20|203.223.89.185|8080|Bangladesh|Azimpur|Md Rofikul Islam|
 
 
 
