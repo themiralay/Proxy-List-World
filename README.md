@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4663** proxies at the latest update. Usable proxies are below.
+> Scraper found **4627** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|694|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|79|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2658|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|10|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
-|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|17|103.147.247.191|8080|Indonesia|Pasarkemis|PLBNET|
-|18|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
+|7|177.52.221.100|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
+|10|176.236.227.98|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
+|11|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|14|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|20|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
 
 
 
