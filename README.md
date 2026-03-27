@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|9|117.236.124.188|3128|India|Gandhinagar|BSNL Internet|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|45.136.130.178|8449|United States|Redondo Beach|Enzu Inc|
-|13|176.117.104.174|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|14|103.203.232.69|1080|Indonesia|Batu|PT Inti Data Guna|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|121.101.129.97|8080|Indonesia|Batang|PT SELARAS CITRA TERABIT|
-|18|103.147.247.193|8080|Indonesia|Pasarkemis|PLBNET|
-|19|103.254.104.22|8010|Indonesia|Jabung|PT Giga Patra Multimedia|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|103.166.158.251|1111|Indonesia|Pangkalan|PT Timor Lintas Nusantara|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|15|103.232.228.138|8080|Nepal|Kathmandu|RO-228 BroadLink|
+|16|103.154.53.9|1111|Indonesia|Majenang|WIFIKITA|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
