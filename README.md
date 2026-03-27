@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
 |7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|13|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|18|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
+|14|103.203.232.69|1080|Indonesia|Batu|PT Inti Data Guna|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|190.60.47.165|999|Colombia|Polonuevo|IFX NETWORKS COLOMBIA|
+|17|103.147.247.193|8080|Indonesia|Pasarkemis|PLBNET|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
