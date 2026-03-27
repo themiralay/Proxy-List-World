@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|177.234.213.250|8080|Ecuador|Quito|Ufinet Panama S.A.|
-|9|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
-|10|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
-|11|190.60.45.51|999|Colombia|Los Santos|IFX NETWORKS COLOMBIA|
-|12|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|103.90.67.35|8080|Indonesia|Balai Pungut|PT Rajawali Bintang Cemerlang Telkomedia|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|10|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|103.19.78.127|3125|Indonesia|Sembungan Kidul|PT Persada Data Multimedia|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|15|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
+|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|17|103.147.247.191|8080|Indonesia|Pasarkemis|PLBNET|
 |18|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
