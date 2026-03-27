@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|182.253.36.52|33128|Indonesia|Cirebon|BIZNET|
-|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|6|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|9|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|188.132.249.234|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
-|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|181.209.59.182|999|Argentina|Tafí del Valle|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|192.232.48.28|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|12|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|190.97.254.250|999|Venezuela|Mérida|Viginet C.A|
+|17|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|18|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
