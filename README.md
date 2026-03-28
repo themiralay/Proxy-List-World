@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|12|38.145.208.208|8447|United States|Redondo Beach|Enzu Inc|
-|13|200.49.99.78|9991|Argentina|San Isidro|Telecom Argentina S.A|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|16|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|38.183.183.114|999|Peru|Huaura|Forza Bussines S.A.C|
-|19|190.90.224.234|999|Colombia|Popayán|Dobleclick Software E Ingeneria|
-|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|91.238.123.111|8000|Germany|Frankfurt am Main|dataforest GmbH|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
+|11|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
+|12|38.145.208.246|8450|United States|Redondo Beach|Enzu Inc|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
+|16|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|17|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
+|18|103.153.63.146|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|19|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
