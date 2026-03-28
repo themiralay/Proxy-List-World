@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
 |9|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|10|104.128.228.69|8118|United States|Los Angeles|HostUS|
-|11|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|12|119.18.146.114|30226|Bangladesh|Chittagong|BBTS Network|
-|13|37.187.92.9|1029|France|Roubaix|OVH SAS|
-|14|38.145.208.246|8450|United States|Redondo Beach|Enzu Inc|
-|15|45.201.208.192|8080|Cambodia|Phnom Penh|EZECOM Co|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|177.19.167.242|80|Brazil|Novo Hamburgo|Vivo|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|10|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|14|119.18.146.114|30226|Bangladesh|Chittagong|BBTS Network|
+|15|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.109.96.161|4443|Bangladesh|Nawābganj|Digi Jadoo Broadband Ltd|
+|17|125.26.99.41|8080|Thailand|Ban Thaen|TOT Public Company Limited|
+|18|185.76.241.128|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|19|38.49.159.54|999|Mexico|San Miguel Caltepantla|IENTC S de RL de CV|
+|20|38.145.208.205|8445|United States|Redondo Beach|Enzu Inc|
 
 
 
