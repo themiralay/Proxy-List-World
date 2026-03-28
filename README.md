@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|8|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|38.34.179.20|8445|United States|Redondo Beach|Enzu Inc|
-|11|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|15|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|18|222.184.48.251|22222|China|Nanjing|Chinanet|
-|19|119.18.151.153|6713|Bangladesh|Chittagong|BBTS Network|
-|20|177.234.199.89|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|7|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
+|8|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|9|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|10|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|15|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|17|38.10.90.134|8084|Philippines|Iloilo City|Cogent Communications|
+|18|85.117.56.147|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|19|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|20|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
 
 
 
