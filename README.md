@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|11|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
-|14|123.200.7.190|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|122.52.34.247|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|180.191.14.210|8081|Philippines|Cabanatuan City|Globe Telecom|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|119.18.144.3|30226|Bangladesh|Chittagong|BBTS Network|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|9|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
+|12|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|13|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|113.11.111.145|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|103.76.151.202|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
+|17|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
+|18|111.79.111.126|3128|China|Hangzhou|China Telecom|
+|19|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
+|20|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
 
 
 
