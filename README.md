@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
 |7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |8|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
 |9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|103.144.18.91|8080|Indonesia|Telengsari|PT Gasatek Bintang Nusantara|
-|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|160.20.38.102|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|37.187.92.9|1029|France|Roubaix|OVH SAS|
+|12|119.18.144.3|30226|Bangladesh|Chittagong|BBTS Network|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|103.144.18.91|8080|Indonesia|Telengsari|PT Gasatek Bintang Nusantara|
 |15|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
 |16|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|17|143.255.147.242|8080|Brazil|Sombrio|Pontonet Computadores e Redes Ltda Epp|
+|18|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 |20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
