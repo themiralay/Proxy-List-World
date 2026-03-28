@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|103.30.31.59|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|11|119.18.148.2|30226|Bangladesh|Chittagong|BBTS Network|
 |12|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
