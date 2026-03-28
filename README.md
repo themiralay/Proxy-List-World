@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|121.101.129.72|3128|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
-|5|38.34.179.106|8450|United States|Redondo Beach|Enzu Inc|
+|3|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|4|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
-|9|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|10|37.59.112.197|80|France|Roubaix|OVH SAS|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|13|139.135.141.12|8095|Philippines|Mamburao|ComClark Network & Technology Corp|
-|14|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|163.223.230.230|39227|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
-|20|163.223.230.92|39089|Vietnam|Phù Mỹ|Tino Group Joint Stock Company|
+|7|119.18.144.3|30226|Bangladesh|Chittagong|BBTS Network|
+|8|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|9|37.59.112.197|80|France|Roubaix|OVH SAS|
+|10|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|11|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|38.34.179.106|8450|United States|Redondo Beach|Enzu Inc|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|19|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
