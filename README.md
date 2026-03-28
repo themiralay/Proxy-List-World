@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
-|6|38.34.183.8|8448|United States|Redondo Beach|Enzu Inc|
-|7|38.34.183.8|8448|United States|Redondo Beach|Enzu Inc|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
 |9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|14|38.252.213.69|999|Peru|Bajo Pichanaqui|Telcom Mikrotik Peru S.A.C|
-|15|185.76.240.50|10001|Russia|Moscow|GIR SER|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|37.35.65.190|8080|Kosovo|Gjilan|Artmotion Sh.P.K.|
-|19|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|13|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
