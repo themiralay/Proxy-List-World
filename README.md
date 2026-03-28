@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|38.34.179.79|8451|United States|Redondo Beach|Enzu Inc|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.145.203.135|8444|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.79|8451|United States|Redondo Beach|Enzu Inc|
+|6|38.145.203.135|8444|United States|Redondo Beach|Enzu Inc|
+|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |9|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|12|126.209.17.228|8080|Philippines|Davao City|Infinivan Incorporated|
-|13|103.247.22.15|1111|Indonesia|Bekasi|PT wifian Solution|
-|14|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|15|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|16|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|20|103.30.31.59|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|13|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|14|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|113.192.31.165|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|103.19.228.4|8080|Indonesia|Banjar Parekan|PT Bali Towerindo Sentra|
+|18|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|19|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
 
 
 
