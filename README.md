@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|185.76.240.150|10001|Russia|Moscow|GIR SER|
-|12|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|13|45.136.131.29|8453|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.178|8445|United States|Redondo Beach|Enzu Inc|
-|15|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|16|180.191.59.56|8081|Philippines|Tarlac City|Globe Telecom|
-|17|103.156.15.210|1111|Indonesia|Pangradin Satu|PT Lintas Jaringan Nusantara|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|124.122.115.165|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|20|180.191.49.73|8090|Philippines|Tarlac City|Globe Telecom|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|110.235.136.71|8081|Philippines|Quezon City|RADIUS TELECOMS, INC.|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|103.81.64.89|8080|Indonesia|Sukoharjo Satu|QIUNET|
+|14|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
+|15|103.156.15.210|1111|Indonesia|Pangradin Satu|PT Lintas Jaringan Nusantara|
+|16|45.136.131.29|8453|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|18|5.83.248.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|122.54.198.112|3128|Philippines|Manila|Philippine Long Distance Telephone Co.|
 
 
 
