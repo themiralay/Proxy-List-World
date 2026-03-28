@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|10|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|177.93.46.188|999|Colombia|Tenza|TV AZTECA SUCURSAL COLOMBIA|
 |11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|17|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|18|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|19|203.223.89.185|8080|Bangladesh|Azimpur|Md Rofikul Islam|
-|20|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
+|12|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|38.183.146.57|8080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|14|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|15|180.191.36.250|8081|Philippines|Cabanatuan City|Globe Telecom|
+|16|121.101.133.220|7777|Indonesia|Kutoarjo|PT SELARAS CITRA TERABIT|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|20|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
 
 
 
