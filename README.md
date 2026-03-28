@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4027** proxies at the latest update. Usable proxies are below.
+> Scraper found **4018** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2090|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|201.184.68.220|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|15|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
-|16|36.92.199.158|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|18|1.1.213.177|8080|Thailand|Akat Amnuai|TOT Public Company Limited|
-|19|36.95.17.15|80|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|20|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|18|113.11.97.193|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|19|192.232.48.25|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
