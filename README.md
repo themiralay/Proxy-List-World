@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|103.147.246.188|8080|Indonesia|Demak|PLBNET|
-|12|103.167.23.140|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
+|5|103.147.246.188|8080|Indonesia|Demak|PLBNET|
+|6|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 |13|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|113.11.126.6|30226|Bangladesh|Dhaka|BDCOM Online Limited|
 |15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|16|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|17|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|18|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
-|19|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|20|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
