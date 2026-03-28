@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|9|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|10|103.171.255.242|8086|Indonesia|Godean|ZKI|
+|11|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
 |12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|121.101.129.72|3128|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
-|14|36.66.130.147|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|15|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|16|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
-|17|202.138.240.249|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|18|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|209.14.108.98|999|United States|Lima|Corporacion Tarazona Catv S.A.C|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
+|15|103.31.235.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|103.139.99.238|8080|Indonesia|Panaragan|Digital Network Setiawan|
+|17|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|18|103.217.216.71|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|19|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
