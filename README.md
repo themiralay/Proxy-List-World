@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|12|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|114.141.50.210|8080|Indonesia|Jakarta|PT Cyberplus Media Pratama|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
+|14|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|15|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|20|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
