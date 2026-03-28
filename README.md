@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|5|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|38.145.220.11|8446|United States|Redondo Beach|Enzu Inc|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
 |10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|102.68.128.211|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|12|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|17|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|18|103.30.31.59|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|103.159.96.171|3122|Indonesia|Kertosono|PT Jinde Grup Indonesia|
+|14|103.137.218.113|83|India|Bhagalpur|Nandbalaji Connecting Zone Pvt. Ltd|
+|15|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 
 
 
