@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|6|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |8|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|14.99.215.106|1111|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|121.101.133.220|7777|Indonesia|Kutoarjo|PT SELARAS CITRA TERABIT|
-|14|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|20|202.58.73.216|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|113.11.97.193|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|12|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
