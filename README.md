@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|122.52.16.235|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|119.18.144.3|30226|Bangladesh|Chittagong|BBTS Network|
-|15|38.190.100.168|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L|
-|16|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|20|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|9|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
 
 
 
