@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|5|103.106.219.107|8081|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|6|190.192.45.168|3128|Argentina|Rosario|Telecom Argentina S.A.|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
-|10|103.147.246.188|8080|Indonesia|Demak|PLBNET|
-|11|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|13|38.49.150.131|999|Mexico|San Luis de la Paz|IENTC S de RL de CV|
-|14|38.156.14.34|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|17|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
-|18|103.130.182.41|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
-|19|190.122.185.170|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|202.154.19.63|8083|Indonesia|Kertosono|DIGITNET|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|38.145.220.77|8447|United States|Redondo Beach|Enzu Inc|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|14|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|15|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|16|103.130.182.41|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
+|17|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|38.145.220.77|8447|United States|Redondo Beach|Enzu Inc|
 
 
 
