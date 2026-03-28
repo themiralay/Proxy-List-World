@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|185.200.38.201|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|103.87.171.108|32650|India|Jaipur|Tejays|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|38.34.179.52|8445|United States|Redondo Beach|Enzu Inc|
-|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|124.107.39.186|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|16|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
-|17|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|16|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|160.250.226.118|8090|Indonesia|Cirebon|PT Apci Network Solutions|
 |18|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|186.96.160.219|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|19|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|20|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
 
 
 
