@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.106|8450|United States|Redondo Beach|Enzu Inc|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|38.34.179.106|8450|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.72|8445|United States|Redondo Beach|Enzu Inc|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|137.220.150.152|6005|Singapore|Singapore|CTG Server Limited|
-|9|38.34.179.72|8445|United States|Redondo Beach|Enzu Inc|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|14|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|15|38.34.179.165|8446|United States|Redondo Beach|Enzu Inc|
-|16|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
+|13|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|14|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
+|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|16|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|103.106.34.49|4995|Bangladesh|Nārāyanganj|ProgotiIT|
 |20|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
 
 
