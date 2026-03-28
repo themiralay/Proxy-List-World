@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4383** proxies at the latest update. Usable proxies are below.
+> Scraper found **4371** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|689|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2405|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|16|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|202.47.185.2|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|18|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|19|45.230.169.129|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|9|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|12|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|13|82.146.58.184|1080|Russia|Moscow|JSC IOT|
+|14|45.230.169.129|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|15|103.68.215.57|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
