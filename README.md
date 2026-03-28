@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|122.52.16.235|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|200.10.30.166|999|Colombia|Pereira|Super Redes S.A.S|
-|8|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|103.162.221.162|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|11|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|12|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|13|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|16|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|17|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|6|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|7|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|103.166.255.170|8080|Indonesia|Pagar Alam|PT Instanet Media Nusantara|
+|13|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|14|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
+|15|180.190.202.141|8082|Philippines|Lahug|Globe Telecom|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|103.133.24.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 
 
 
