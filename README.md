@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|5|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|116.80.65.83|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|19|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|4|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|160.30.189.163|20326|Bangladesh|Dhaka|Invision IT|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|103.171.255.242|8086|Indonesia|Godean|ZKI|
+|13|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
+|18|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 
 
 
