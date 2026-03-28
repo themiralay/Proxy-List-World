@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|6|103.120.221.129|8090|Bangladesh|Kāfrul|Touhidul Islam Polash|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|38.34.179.85|8450|United States|Redondo Beach|Enzu Inc|
+|6|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
 |7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |8|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|10|185.76.240.37|10001|Russia|Moscow|GIR SER|
-|11|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|14|103.109.96.193|8080|Bangladesh|Kāfrul|Digi Jadoo Broadband Ltd|
-|15|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|16|36.92.199.158|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|203.172.136.211|8080|Thailand|Hang Dong|Ministry of Education - EMISC|
-|20|122.53.59.59|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|9|103.120.221.129|8090|Bangladesh|Kāfrul|Touhidul Islam Polash|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|103.147.246.188|8080|Indonesia|Demak|PLBNET|
+|14|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|18|190.60.45.83|999|Colombia|La Apartada|IFX NETWORKS COLOMBIA|
+|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|20|122.52.16.235|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
 
 
 
