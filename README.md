@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|103.178.21.104|3125|Indonesia|Malang|PT Trisna Mega Abadi|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|11|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|103.19.228.4|8080|Indonesia|Banjar Parekan|PT Bali Towerindo Sentra|
-|13|177.136.44.194|54443|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
-|14|38.156.15.156|999|Mexico|Teocaltiche|Wistarip Networks|
-|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|16|103.164.214.122|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|45.229.17.74|999|Ecuador|Echeandia|Turbonet S.A.|
-|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|20|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|7|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|8|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|9|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|103.152.140.182|8090|Indonesia|Jakarta|IDEANET|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|203.172.201.226|8080|Thailand|Yasothon|Ministry of Education - EMISC|
+|20|82.146.58.184|1080|Russia|Moscow|JSC IOT|
 
 
 
