@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|11|177.93.46.190|999|Colombia|Garagoa|TV AZTECA SUCURSAL COLOMBIA|
+|12|36.64.193.226|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|14|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
