@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
-|14|38.145.220.198|8448|United States|Redondo Beach|Enzu Inc|
-|15|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|10|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|11|182.16.171.101|8080|Indonesia|Tangerang|PT iForte Global Internet|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|38.252.213.69|999|Peru|Bajo Pichanaqui|Telcom Mikrotik Peru S.A.C|
+|14|45.174.191.135|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
+|15|185.76.240.50|10001|Russia|Moscow|GIR SER|
+|16|38.156.235.37|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
+|17|113.11.97.193|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|18|157.20.204.40|8080|Indonesia|Probolinggo|PT Berbaur Network Connected|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
