@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|10|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|11|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|16|202.179.16.2|443|Mongolia|Ulan Bator|Mongolia Telecom|
-|17|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|18|31.145.149.75|9090|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|19|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|20|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|10|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|11|82.146.58.184|1080|Russia|Moscow|JSC IOT|
+|12|102.0.18.198|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|13|41.72.213.182|8090|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|14|185.76.240.150|10001|Russia|Moscow|GIR SER|
+|15|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|16|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|17|187.245.214.11|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|20|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
 
 
 
