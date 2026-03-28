@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|2|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|3|103.99.136.66|8080|Indonesia|Nagrog|PT Jelajah Kreasi Informatika|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|188.0.167.195|8080|Russia|Grozny|Vainah Telecom|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|102.0.20.152|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|38.41.0.62|11201|Venezuela|Cúa|MDS TELECOM C.A.|
-|16|43.225.151.174|43030|Bangladesh|Dhaka|Next Online|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|19|45.93.28.159|6005|South Korea|Seoul|MOACK.Co.LTD|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|5|103.166.255.170|8080|Indonesia|Pagar Alam|PT Instanet Media Nusantara|
+|6|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|11|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|12|122.52.16.235|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|13|46.175.148.17|2040|The Netherlands|Amsterdam|Serverius Holding B.V.|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|18|103.188.252.65|1234|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 
 
 
