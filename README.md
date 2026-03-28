@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|113.11.126.6|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|10|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|11|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
 |12|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
-|16|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
 |17|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|18|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|19|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
 |20|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
 
 
