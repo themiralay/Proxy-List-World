@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
 |4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|45.136.131.29|8453|United States|Redondo Beach|Enzu Inc|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|12|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|13|82.146.58.184|1080|Russia|Moscow|JSC IOT|
-|14|45.230.169.129|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|15|103.68.215.57|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|160.19.19.23|8080|Indonesia|Cianjur|PT Indo Telemedia Solusi|
+|17|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|122.54.198.112|3128|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|19|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|20|45.230.169.129|999|Venezuela|Caracas|Soluciones DCN Network C.A|
 
 
 
