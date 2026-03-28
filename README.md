@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|6|185.76.240.43|10001|Russia|Moscow|GIR SER|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
 |7|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 |10|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|12|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|186.148.180.46|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|19|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|20|114.9.55.102|1111|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
