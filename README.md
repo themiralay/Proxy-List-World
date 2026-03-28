@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|119.18.145.52|20326|Bangladesh|Chittagong|BBTS Network|
-|5|103.147.246.188|8080|Indonesia|Demak|PLBNET|
-|6|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|13|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|14|113.11.126.6|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|7|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|11|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|15|38.194.246.34|999|Mexico|Los Ramírez|Cogent Communications|
+|16|45.119.85.216|3128|Vietnam|Quận Một|Long Van System Solution JSC|
+|17|85.117.62.70|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|18|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 
 
 
