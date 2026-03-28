@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|4|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.71|8444|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|4|103.245.16.133|8080|Indonesia|Utan|PT Quantum Tera Network|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|8|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|9|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
 |10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
-|15|45.136.131.35|8452|United States|Redondo Beach|Enzu Inc|
-|16|45.136.131.28|8447|United States|Redondo Beach|Enzu Inc|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|45.136.131.62|8449|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|20|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
+|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|16|212.108.115.151|8085|Syria|Kafranbel|High Speed For Internet Services L.L.C|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
 
 
 
