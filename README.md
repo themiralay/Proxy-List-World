@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4773** proxies at the latest update. Usable proxies are below.
+> Scraper found **4797** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|654|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|678|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2823|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|5|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|10|192.232.48.25|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|36.93.106.71|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|160.191.83.102|8082|Bangladesh|Lalmonirhat|Kloud Technologies Limited|
-|14|180.191.124.149|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|15|36.95.27.91|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|17|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|20|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|7|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|11|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|12|190.9.108.134|999|Mexico|Juárez|Megabit Telecomunicaciones SA De CV|
+|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|181.114.61.17|8085|Argentina|Villa Ramallo|INTERAIR|
+|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
