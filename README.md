@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.63.64|7777|Japan|Yokohama|InfoSphere|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
+|10|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |13|16.25.91.180|8080|Bahrain|Manama|Amazon.com, Inc.|
 |14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|94.72.57.157|8080|Russia|St Petersburg|MTS PJSC|
-|16|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|20|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|20|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
