@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|180.180.218.250|8080|Thailand|Khlong Sam Wa|TOT Public Company Limited|
-|4|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|103.139.138.194|3128|Indonesia|Balige|PT. TOBA JAYA NET|
-|8|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|10|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|11|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|12|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
 |13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|185.76.240.52|10001|Russia|Moscow|GIR SER|
+|14|157.20.204.40|8080|Indonesia|Probolinggo|PT Berbaur Network Connected|
+|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
