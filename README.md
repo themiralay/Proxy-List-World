@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|11|103.30.31.59|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|12|103.173.139.10|8080|Indonesia|Semarang|PT Serayu Multi Connection|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|103.165.250.81|8181|Indonesia|Kotawaringin|PT Aulia Sentral Multidata|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|20|181.114.61.17|8085|Argentina|Villa Ramallo|INTERAIR|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|185.76.240.48|10001|Russia|Moscow|GIR SER|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|185.76.240.243|10001|Russia|Moscow|GIR SER|
+|13|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|38.252.213.69|999|Peru|Bajo Pichanaqui|Telcom Mikrotik Peru S.A.C|
+|19|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
