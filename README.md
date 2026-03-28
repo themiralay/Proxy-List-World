@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|10|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
-|11|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|45.136.131.32|8445|United States|Redondo Beach|Enzu Inc|
-|14|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|15|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
-|17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|18|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.19.228.4|8080|Indonesia|Banjar Parekan|PT Bali Towerindo Sentra|
-|20|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|45.136.131.29|8453|United States|Redondo Beach|Enzu Inc|
+|8|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|13|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|38.156.15.156|999|Mexico|Teocaltiche|Wistarip Networks|
+|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|19|154.73.87.241|8080|Botswana|Gaborone|STATURE (PTY) LTD|
+|20|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
 
 
 
