@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
-|2|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|14|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|18|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|19|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|11|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|13|89.43.132.242|8080|Syria|Ma‘arrat an Nu‘mān|High Speed For Internet Services L.L.C|
+|14|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
 |20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
