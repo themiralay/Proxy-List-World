@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|6|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|7|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |12|116.80.96.107|3172|Japan|Yokohama|InfoSphere|
-|13|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
-|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|20|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|16|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
