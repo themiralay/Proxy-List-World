@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|6|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.153.63.146|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
-|10|103.139.99.238|8080|Indonesia|Panaragan|Digital Network Setiawan|
-|11|103.120.220.194|8090|Bangladesh|Paltan|Touhidul Islam Polash|
-|12|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|36.66.130.147|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|20|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|119.18.148.2|30226|Bangladesh|Chittagong|BBTS Network|
+|10|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|15|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|18|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
+|19|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
+|20|186.33.40.17|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
