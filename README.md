@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
-|11|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|12|200.39.153.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|9|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|181.78.51.157|999|Guatemala|Santa Cruz Balanyá|UFINET Guatemala S. A|
-|16|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|160.19.84.23|61943|Indonesia|Mojokerto|CV CRON INTERDATA NUSANTARA|
+|17|180.180.175.11|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
