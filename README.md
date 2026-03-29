@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|6|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|180.191.22.27|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|6|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|7|38.34.179.73|8445|United States|Redondo Beach|Enzu Inc|
+|8|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 |17|78.186.117.18|1953|Türkiye|Ankara|Turk Telekomunikasyon A.S|
 |18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
