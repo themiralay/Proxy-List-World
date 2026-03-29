@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|103.30.29.115|20326|Bangladesh|Tongi|Broad Band Telecom Services Ltd|
-|13|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|14|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|17|103.9.78.2|3128|Vietnam|Ho Chi Minh City|VINAHOST|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|12|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|18|39.185.46.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|19|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|20|43.225.151.174|43030|Bangladesh|Dhaka|Next Online|
 
 
 
