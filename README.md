@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|103.150.166.160|8090|Bangladesh|Comilla|Kazi Md Mukid|
-|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|87.126.65.11|1388|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|16|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|17|203.175.103.25|8080|Indonesia|Nagarakembang|PT. Mitra Kita Brilian|
-|18|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|19|43.225.151.174|43030|Bangladesh|Dhaka|Next Online|
-|20|103.170.22.44|8080|Indonesia|Alurbulu|PT Puskomedia Indonesia Kreatif|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
+|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|101.47.73.135|3128|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|116.80.96.102|3172|Japan|Yokohama|InfoSphere|
+|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
 
 
 
