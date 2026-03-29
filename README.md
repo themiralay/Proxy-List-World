@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.22|3128|Japan|Yokohama|InfoSphere|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
+|6|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|10|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|11|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
-|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
