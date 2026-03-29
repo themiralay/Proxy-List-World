@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|4|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
+|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|6|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|38.34.179.106|8450|United States|Redondo Beach|Enzu Inc|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
 |13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|14|212.253.14.173|1953|Türkiye|Istanbul|Tellcom Main Network Statement|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |16|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
 
 
 
