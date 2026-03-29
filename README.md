@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|176.117.104.174|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|14|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|103.86.117.82|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|10|103.133.27.229|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|11|38.145.208.246|8450|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.80|8453|United States|Redondo Beach|Enzu Inc|
+|13|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|180.191.14.210|8081|Philippines|Cabanatuan City|Globe Telecom|
 |17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|18|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|157.100.69.19|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|212.253.14.173|1953|Türkiye|Istanbul|Tellcom Main Network Statement|
+|19|103.22.173.77|1111|India|Hyderabad|Vainavi Industries Ltd.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
