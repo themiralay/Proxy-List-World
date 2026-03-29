@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.166.91.42|8090|Indonesia|Cikarang|PT Regynet Data Solusindo|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|12|177.234.211.79|999|Ecuador|Naranjito|VUELATECHNOLOGY|
-|13|113.11.97.193|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|15|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|103.156.74.156|3125|Indonesia|Banjar Tandangbuanasari|PT Trika Global Media|
+|13|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|38.194.251.246|999|Mexico|Querétaro City|Cogent Communications|
+|17|182.253.110.130|8080|Indonesia|Pekalongan|BIZNET|
 |18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|222.184.48.251|22222|China|Nanjing|Chinanet|
+|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
