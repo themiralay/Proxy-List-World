@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
 |7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|9|212.253.14.173|1953|Türkiye|Istanbul|Tellcom Main Network Statement|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|8|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|11|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|12|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|14|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
 
 
 
