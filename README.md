@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|3|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 |11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|38.34.179.192|8450|United States|Redondo Beach|Enzu Inc|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |17|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |20|39.185.46.193|5911|China|Hangzhou|China Mobile Communications Corporation|
 
 
