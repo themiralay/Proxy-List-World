@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|36.93.163.219|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|8|38.145.208.244|8448|United States|Redondo Beach|Enzu Inc|
-|9|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|10|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|11|78.186.117.18|1953|Türkiye|Ankara|Turk Telekomunikasyon A.S|
-|12|176.41.147.37|1953|Türkiye|Istanbul|Tellcom Broadband Network Statement|
-|13|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|16|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|193.43.145.124|8080|Syria|Al-Nashabiyah|Syrian Telecom|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|78.189.16.138|1953|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|12|36.93.163.219|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
