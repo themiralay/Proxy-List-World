@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|3|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
 |7|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 |11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
