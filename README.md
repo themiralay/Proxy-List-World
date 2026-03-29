@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.126.86.29|9090|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|10|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
-|11|38.34.179.56|8452|United States|Redondo Beach|Enzu Inc|
-|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|61.118.38.234|60808|Japan|Ishigaki|Open Computer Network|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|80.80.163.194|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
+|12|177.19.167.242|80|Brazil|Novo Hamburgo|Vivo|
+|13|103.102.14.50|1111|Indonesia|Rembang|FISNET|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|144.124.227.90|21074|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|103.30.30.5|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
 |17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|188.132.249.249|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|222.184.48.251|22222|China|Nanjing|Chinanet|
+|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 
 
 
