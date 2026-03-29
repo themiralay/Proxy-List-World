@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|3|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|119.18.145.49|30226|Bangladesh|Chittagong|BBTS Network|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|103.82.36.237|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
-|11|41.65.55.27|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
-|12|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|41.65.55.27|1981|Egypt|Cairo|Etisalat Misr Mobile BB|
+|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|103.102.12.105|8080|Indonesia|Rembang|FISNET|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
