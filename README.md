@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|10|175.139.211.38|8080|Malaysia|Shah Alam|TM TECHNOLOGY SERVICES SDN BHD|
-|11|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|12|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|13|103.185.43.242|8080|Indonesia|Pandaan|HELLONET|
-|14|37.204.248.33|443|Russia|Moscow|NCNET|
-|15|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|20|85.208.108.43|2094|Canada|Toronto|Tangram Canada Inc.|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|103.234.35.199|3128|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|181.78.49.177|999|Guatemala|San Marcos|UFINET Guatemala S. A|
+|15|182.253.221.147|8080|Indonesia|Jakarta|Biznet Networks|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|219.117.204.211|7799|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
