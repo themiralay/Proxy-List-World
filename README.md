@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4165** proxies at the latest update. Usable proxies are below.
+> Scraper found **4204** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|597|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|199|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2407|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
-|8|192.203.0.210|999|Puerto Rico|Yabucoa|Boom NET|
-|9|125.26.4.219|8080|Thailand|Ko Samui|TOT Public Company Limited|
-|10|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|8|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
+|10|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
 |11|38.34.179.25|8444|United States|Redondo Beach|Enzu Inc|
-|12|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|13|38.183.146.97|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|13|185.76.240.147|10001|Russia|Moscow|GIR SER|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|16|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
+|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
