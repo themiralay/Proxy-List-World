@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|163.223.78.135|9090|Indonesia|Ngoro|PT Big Network Indonesia|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|157.15.144.80|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|5|163.223.78.135|9090|Indonesia|Ngoro|PT Big Network Indonesia|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|190.188.131.87|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
-|11|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|37.204.248.33|443|Russia|Moscow|NCNET|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|19|185.225.40.184|8080|Syria|Qaţanā|sy-samaweb|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|121.101.133.220|7777|Indonesia|Kutoarjo|PT SELARAS CITRA TERABIT|
+|8|103.185.43.242|8080|Indonesia|Pandaan|HELLONET|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|49.0.26.215|8080|Indonesia|Maduran|SIMS Jabar Banten Medianet|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|36.93.214.253|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|185.21.252.234|3128|Brazil|Taquara|SRX TECNOLOGIA DA INFORMACAO LTDA|
+|20|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
