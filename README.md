@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|2|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|11|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|12|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|16|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|17|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|18|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|19|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|20|103.188.169.69|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|11|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
+|12|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|13|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|14|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|16|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
+|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 
 
 
