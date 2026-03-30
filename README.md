@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4311** proxies at the latest update. Usable proxies are below.
+> Scraper found **4338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|240|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2471|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|1|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|6|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|7|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.172.71.141|3127|Indonesia|Karangampel|AZNET|
+|7|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |9|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
-|10|38.7.16.194|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|11|45.15.10.174|3128|Hong Kong|Ha Kwai Chung|HK Kwaifong Group Limited|
-|12|185.76.240.48|10001|Russia|Moscow|GIR SER|
-|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|190.60.44.234|999|Colombia|San Juan Nepomuceno|IFX NETWORKS COLOMBIA|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|18|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|19|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|179.51.199.87|8099|Brazil|Bom Princípio do Piauí|Fortinet Telecomunicacoes Eireli|
+|12|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|13|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|14|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|15|103.17.88.18|8080|Vietnam|Hanoi|VNTT|
+|16|219.93.111.125|9412|Malaysia|Chemor|ADSL Streamyx Telekom Malaysia|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|38.145.208.182|8450|United States|Redondo Beach|Enzu Inc|
+|19|185.76.240.48|10001|Russia|Moscow|GIR SER|
+|20|103.107.84.191|8080|Indonesia|Ngemplak|PT. Media Jaringan Indonesia|
 
 
 
