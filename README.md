@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.95.238|7777|Japan|Yokohama|InfoSphere|
-|2|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.95.238|7777|Japan|Yokohama|InfoSphere|
 |3|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|13|31.56.177.74|1090|Finland|Helsinki|CGI GLOBAL LIMITED|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|45.136.131.27|8444|United States|Redondo Beach|Enzu Inc|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|31.56.177.74|1090|Finland|Helsinki|CGI GLOBAL LIMITED|
 
 
 
