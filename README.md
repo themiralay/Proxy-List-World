@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|5|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|6|182.16.171.101|8080|Indonesia|Tangerang|PT iForte Global Internet|
-|7|27.116.41.156|8470|India|Bhubaneswar|RailTel Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|103.120.220.194|8090|Bangladesh|Paltan|Touhidul Islam Polash|
 |8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|84.22.48.28|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
-|12|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
-|13|103.147.134.115|8082|Indonesia|Surabaya|PT.MURNI MAKMUR ABADI|
-|14|103.17.88.18|8080|Vietnam|Hanoi|VNTT|
-|15|190.94.213.5|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|103.126.87.181|7777|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|11|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
