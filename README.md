@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
 |5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|113.11.66.57|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
+|7|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |10|103.132.52.196|8080|Indonesia|Kedungwuni|PT Adeaksa Indo Jayatama|
-|11|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|12|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|13|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|15|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|180.180.123.40|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|18|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|19|39.185.46.193|5911|China|Hangzhou|China Mobile Communications Corporation|
+|20|154.73.29.33|8080|Libya|Tripoli|Rawafed|
 
 
 
