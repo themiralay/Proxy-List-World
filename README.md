@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4240** proxies at the latest update. Usable proxies are below.
+> Scraper found **4211** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|221|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|700|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|681|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|84|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2293|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|1|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|5|38.145.220.77|8447|United States|Redondo Beach|Enzu Inc|
 |6|193.233.22.29|10808|United States|New York|Aleksei Fedorov PR Krusevac|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|9|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|10|45.93.30.241|6005|South Korea|Seoul|MOACK.Co.LTD|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|39.185.46.193|5911|China|Hangzhou|China Mobile Communications Corporation|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|10|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|12|103.145.34.210|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|13|45.136.131.50|8452|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.17|8446|United States|Redondo Beach|Enzu Inc|
+|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|185.200.38.201|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
