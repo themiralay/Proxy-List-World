@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
-|3|179.61.98.3|999|Chile|Talca|SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.|
-|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|5|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|6|185.200.38.201|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|2|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
+|3|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|103.171.255.60|8080|Indonesia|Godean|ZKI|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|38.34.179.17|8446|United States|Redondo Beach|Enzu Inc|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |9|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|116.80.49.167|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.49.169|3172|Japan|Yokohama|InfoSphere|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|177.234.247.234|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|190.128.134.66|999|Paraguay|Caaguazú|Telecel S.A.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
