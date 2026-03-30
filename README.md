@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|89.169.168.25|3128|Russia|Moscow|Yandex.Cloud LLC|
 |11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 |12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 |16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|113.11.126.6|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|19|190.97.230.146|999|Venezuela|Cumaná|Viginet C.A|
-|20|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
+|19|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|20|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
 
 
 
