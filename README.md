@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4547** proxies at the latest update. Usable proxies are below.
+> Scraper found **4556** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|154|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|692|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2704|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.104|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|45.15.158.60|2222|Russia|Moscow|xorek.cloud International LTD|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|15|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|8|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|38.34.179.25|8444|United States|Redondo Beach|Enzu Inc|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|200.121.48.195|999|Peru|La Esperanza|Telefonica del Peru|
+|13|155.212.131.230|3128|Russia|Moscow|Beget LLC|
+|14|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|131.72.69.209|8080|Brazil|Euclides da Cunha|TOP NET SERVIÇOS LTDA|
 |17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|103.170.46.245|8080|India|Sirohi|Vanshika Itlam India PVT LTD|
-|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|179.60.53.26|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|19|212.253.14.173|1953|Türkiye|Istanbul|Tellcom Main Network Statement|
+|20|103.129.175.43|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
 
 
 
