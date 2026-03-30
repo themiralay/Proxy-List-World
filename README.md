@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|38.34.179.60|8446|United States|Redondo Beach|Enzu Inc|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
-|6|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
-|7|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|11|38.34.179.95|8444|United States|Redondo Beach|Enzu Inc|
-|12|185.162.94.28|8080|Russia|St Petersburg|Miran Ltd.|
-|13|185.76.240.50|10001|Russia|Moscow|GIR SER|
-|14|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|17|212.253.14.173|1953|Türkiye|Istanbul|Tellcom Main Network Statement|
-|18|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
-|19|36.50.56.105|8818|Indonesia|Bogor|PT Andromega Data Nusantara|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.95|8444|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|38.34.179.60|8446|United States|Redondo Beach|Enzu Inc|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|185.76.240.243|10001|Russia|Moscow|GIR SER|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|20|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
 
 
 
