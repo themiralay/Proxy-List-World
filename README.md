@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|8|31.56.177.74|1090|Finland|Helsinki|CGI GLOBAL LIMITED|
-|9|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|13|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|14|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|16|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|17|78.9.232.205|8080|Poland|Świnoujście|Netia SA|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
+|7|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|8|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|9|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|10|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|103.17.246.60|1080|Indonesia|Banjar Badung|PT Media Sarana Data|
+|15|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|217.150.43.253|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
