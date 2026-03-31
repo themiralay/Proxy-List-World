@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|8|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|119.18.148.2|30226|Bangladesh|Chittagong|BBTS Network|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
