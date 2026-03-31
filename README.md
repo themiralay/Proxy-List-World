@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
-|6|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|7|119.18.148.2|30226|Bangladesh|Chittagong|BBTS Network|
-|8|103.170.22.44|8080|Indonesia|Alurbulu|PT Puskomedia Indonesia Kreatif|
-|9|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
-|10|119.93.87.65|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
-|12|102.211.216.18|8080|Kenya|Juja|Rasmilink Limited|
-|13|31.56.177.74|1090|Finland|Helsinki|CGI GLOBAL LIMITED|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|11|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|12|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|13|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
+|14|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|15|119.18.148.2|30226|Bangladesh|Chittagong|BBTS Network|
+|16|45.190.79.40|999|Mexico|Zapopan|Meta Networks SA De CV|
+|17|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
+|18|101.255.32.42|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|31.56.177.74|1090|Finland|Helsinki|CGI GLOBAL LIMITED|
+|20|103.172.120.180|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
 
 
 
