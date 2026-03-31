@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|88.216.98.205|53983|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
 |8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
-|11|66.231.77.68|999|Ecuador|Cuenca|Cubotelecom Cia. Ltda.|
-|12|194.87.85.138|3128|Netherlands|Amsterdam|xorek.cloud International LTD|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
+|11|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|12|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
 |13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|14|113.11.65.9|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|117.247.233.48|8080|India|Jīnd|BSNL Internet|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|78.186.117.18|1953|Türkiye|Ankara|Turk Telekomunikasyon A.S|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|194.87.85.138|3128|Netherlands|Amsterdam|xorek.cloud International LTD|
+|20|138.0.143.119|8080|Brazil|Valparaíso|F.B. BABETO ME|
 
 
 
