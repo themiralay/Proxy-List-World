@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|45.136.131.27|8444|United States|Redondo Beach|Enzu Inc|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|8|45.136.131.27|8444|United States|Redondo Beach|Enzu Inc|
-|9|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|15|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
-|16|38.34.179.98|8451|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.98|8451|United States|Redondo Beach|Enzu Inc|
-|18|45.136.131.50|8452|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.87.202.18|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|38.34.179.98|8451|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.98|8451|United States|Redondo Beach|Enzu Inc|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|11|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 
 
 
