@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|10|113.11.65.229|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|11|38.34.179.47|8452|United States|Redondo Beach|Enzu Inc|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|8|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|9|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|10|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|11|186.250.53.192|8080|Brazil|Guarulhos|Redfox Telecomunicações Ltda.|
+|12|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|103.59.45.249|8080|Indonesia|Menggala|PT INDONESIA TRANS NETWORK|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
