@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|103.175.237.36|8080|Indonesia|Selorok|PT Marva Global Telekomunikasi|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
-|7|203.142.74.115|8080|Indonesia|Jakarta|BIZNET|
-|8|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|9|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
-|10|185.241.5.57|3128|Israel|Haifa|O.M.C. COMPUTERS & COMMUNICATIONS LTD|
-|11|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|13|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|5|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|6|198.59.68.130|3128|United States|Ashburn|CenturyLink Communications, LLC|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|103.148.206.198|83|India|Hyderabad|Willaegis Online Private Limited|
+|10|182.253.10.21|8080|Indonesia|Jakarta|BIZNET|
+|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|89.200.217.250|8080|Türkiye|Antalya|Veganet Teknolojileri ve Hizmetleri LTD STI|
+|14|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|15|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|16|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
