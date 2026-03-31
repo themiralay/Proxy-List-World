@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|4|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|187.102.211.253|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|20|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|8|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|11|190.60.57.42|3128|Colombia|San Diego|IFX NETWORKS COLOMBIA|
+|12|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|89.43.132.242|8080|Syria|Ma‘arrat an Nu‘mān|High Speed For Internet Services L.L.C|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|20|103.247.13.203|8090|Indonesia|Magelang|TERABIT|
 
 
 
