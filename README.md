@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|38.34.179.54|8453|United States|Redondo Beach|Enzu Inc|
-|6|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|2|2.56.173.45|10808|Finland|Helsinki|WorkTitans B.V.|
+|3|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|4|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|5|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|10|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|11|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|45.136.130.177|8448|United States|Redondo Beach|Enzu Inc|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|103.138.185.81|82|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
-|20|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|9|124.6.44.250|65535|United States|New York|SG.GS|
+|10|38.34.183.225|8450|United States|Redondo Beach|Enzu Inc|
+|11|103.189.197.9|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|38.34.179.54|8453|United States|Redondo Beach|Enzu Inc|
+|18|103.164.214.122|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
