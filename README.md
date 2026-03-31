@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|9|91.238.123.111|8000|Germany|Frankfurt am Main|dataforest GmbH|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|91.238.123.230|8000|Germany|Frankfurt am Main|dataforest GmbH|
-|12|27.124.80.58|82|Indonesia|Bantul|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|14|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
-|15|103.158.155.99|8080|Indonesia|Bakalan|CUBIESPOT|
+|1|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.59.67|3128|Japan|Yokohama|InfoSphere|
+|5|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|6|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|13|103.133.27.229|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|45.93.30.241|6005|South Korea|Seoul|MOACK.Co.LTD|
+|15|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 |16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |17|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
+|19|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
+|20|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
