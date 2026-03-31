@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
-|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|9|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|38.34.179.74|8449|United States|Redondo Beach|Enzu Inc|
+|8|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|9|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
 |10|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|12|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|31.58.158.150|80|Singapore|Singapore|PT Perwira Media Solusi|
+|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|13|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|14|41.169.150.194|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|45.136.131.27|8444|United States|Redondo Beach|Enzu Inc|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
 
 
 
