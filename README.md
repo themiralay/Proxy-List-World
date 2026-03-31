@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
-|17|103.235.181.245|8080|Indonesia|Sindangsari|PT Top Class Universal|
-|18|185.200.38.221|8085|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|31.56.177.74|1090|Finland|Helsinki|CGI GLOBAL LIMITED|
-|20|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|202.148.26.19|3128|Indonesia|Jakarta|PT. Core Mediatech|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|11|103.251.232.2|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|14|185.21.252.234|3128|Brazil|Taquara|SRX TECNOLOGIA DA INFORMACAO LTDA|
+|15|190.60.45.139|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|16|38.145.208.185|8449|United States|Redondo Beach|Enzu Inc|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
+|19|103.56.206.67|4000|Indonesia|Jakarta|Argon Data Communication|
+|20|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
 
 
 
