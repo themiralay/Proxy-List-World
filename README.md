@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
-|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|6|116.80.59.67|3128|Japan|Yokohama|InfoSphere|
-|7|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|8|103.133.27.229|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|9|103.161.195.22|3125|Indonesia|Singosari|PT Java Media Grup|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|102.207.128.2|8080|Angola|Luanda|MSBYTE-SOLUTION, LIMITADA|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|17|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|191.5.38.6|54121|Brazil|Brumadinho|Sempre Telecomunicacoes Ltda|
-|20|160.25.119.101|8181|Indonesia|Purwodadi Grobogan|PT High Speed Connection|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.227.186.209|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|9|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|91.238.123.111|8000|Germany|Frankfurt am Main|dataforest GmbH|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
+|16|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
+|17|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|18|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
+|19|91.238.123.230|8000|Germany|Frankfurt am Main|dataforest GmbH|
+|20|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
 
 
 
