@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|9|117.247.233.48|8080|India|Jīnd|BSNL Internet|
-|10|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
-|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|14|103.169.154.4|83|India|Alara|Speedpulse Fibernet PVT LTD|
-|15|101.108.79.48|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|194.87.85.138|3128|Netherlands|Amsterdam|xorek.cloud International LTD|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|202.47.188.191|8080|Indonesia|Madiun|Lintas Data Prima, PT|
+|20|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
 
 
 
