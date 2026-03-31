@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|116.80.64.44|7777|Japan|Yokohama|InfoSphere|
-|4|38.34.179.228|8453|United States|Redondo Beach|Enzu Inc|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|119.18.148.2|30226|Bangladesh|Chittagong|BBTS Network|
 |6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|13|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|165.99.151.252|8080|Indonesia|Bogor|PT Win Akselerasi Net Indonesia|
-|15|38.34.179.228|8453|United States|Redondo Beach|Enzu Inc|
-|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|17|186.226.167.191|3128|Brazil|Eunápolis|Infortel Comunicacoes Ltda|
-|18|84.22.48.150|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
-|19|202.35.251.72|8080|Japan|Yamagata|Research Organization of Information and Systems, National Institute of Informa|
-|20|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|7|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|8|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
+|9|46.101.190.71|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|36.95.22.27|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|38.34.183.234|8450|United States|Redondo Beach|Enzu Inc|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
+|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|20|116.80.49.172|3172|Japan|Yokohama|InfoSphere|
 
 
 
