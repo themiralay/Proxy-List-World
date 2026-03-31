@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|8|45.144.28.81|10808|The Netherlands|Meppel|WorkTitans B.V.|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|183.249.5.117|22222|China|Hangzhou|China Mobile Communications Corporation|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|6|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|12|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|15|202.58.77.73|8800|Indonesia|Surabaya|PT Data Buana Nusantara|
+|16|31.56.177.74|1090|Finland|Helsinki|CGI GLOBAL LIMITED|
+|17|103.17.246.60|1080|Indonesia|Banjar Badung|PT Media Sarana Data|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|103.84.95.54|7890|Hong Kong|Tsim Sha Tsui|TRS|
 
 
 
