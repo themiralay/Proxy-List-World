@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|103.17.246.60|1080|Indonesia|Banjar Badung|PT Media Sarana Data|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|38.34.179.18|8444|United States|Redondo Beach|Enzu Inc|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|38.145.218.228|8447|United States|Redondo Beach|Enzu Inc|
+|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|13|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|16|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
