@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|119.18.145.241|30226|Bangladesh|Chittagong|BBTS Network|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|113.11.98.200|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|7|113.11.113.65|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|11|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|12|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
-|13|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|103.165.250.81|8181|Indonesia|Kotawaringin|PT Aulia Sentral Multidata|
+|8|124.106.83.244|8083|Philippines|General Trias|Philippine Long Distance Telephone Co.|
+|9|103.191.254.134|8080|Indonesia|Rembang|PT Ayodya Data Internusa|
+|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|11|41.128.72.70|1981|Egypt|Cairo|LINKdotNET AS number|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|16|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|17|116.80.49.170|3172|Japan|Yokohama|InfoSphere|
+|18|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
