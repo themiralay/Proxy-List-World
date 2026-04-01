@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|112.209.17.110|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|7|163.5.128.250|14270|United States|Brooklyn|Windstream Communications LLC|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|150.107.104.46|1111|Indonesia|Karawang|PT Graha Multimedia Nusantara|
-|18|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|20|181.78.49.177|999|Guatemala|San Marcos|UFINET Guatemala S. A|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|7|190.52.100.192|999|Venezuela|Caracas|Gold Data USA Inc|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|12|77.52.187.196|18080|Ukraine|Shyroke|PrJSC "VF UKRAINE"|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|78.109.34.192|8080|Russia|Irkutsk|MTS Irkutsk|
+|19|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|20|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
 
 
 
