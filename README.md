@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
 |2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|103.154.230.96|8090|Indonesia|Lamongan|DIGITNET|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|10|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|13|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
+|14|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
 |15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|18|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|103.162.54.170|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
 
 
 
