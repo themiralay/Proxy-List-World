@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.10.90.133|8084|Philippines|Iloilo City|Cogent Communications|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|163.5.180.103|56297|Netherlands|Amsterdam|Ipxo LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|119.18.145.241|30226|Bangladesh|Chittagong|BBTS Network|
-|7|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|13|45.249.77.145|83|India|Hyderabad|Tejasri Communications|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|16|188.132.249.229|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
-|17|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|103.142.69.169|8885|Bangladesh|Kāfrul|MIR INFO SYSTEMS LTD.|
-|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|3|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
+|5|163.5.180.103|56297|Netherlands|Amsterdam|Ipxo LLC|
+|6|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|10|103.16.118.78|8070|Indonesia|Caruban|CV Trustnet Media|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|17|181.78.243.102|999|Ecuador|Guayaquil|IFX Corporation|
+|18|217.197.100.249|8000|Italy|Poppi|WISP.ONE S.R.L.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
