@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|103.133.25.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|8|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|9|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|12|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|16|103.143.197.218|8008|Indonesia|Karanganom|JERNIHNETWORK|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|138.117.84.194|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|4|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|5|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|103.78.98.74|8888|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|8|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|9|89.43.133.231|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|20|181.78.49.177|999|Guatemala|San Marcos|UFINET Guatemala S. A|
 
 
 
