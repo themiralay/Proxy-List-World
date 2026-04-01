@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
-|5|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|8|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|150.31.45.65|8118|Japan|Chiyoda City|Internet Initiative Japan Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|38.145.208.215|8447|United States|Redondo Beach|Enzu Inc|
+|5|38.145.208.220|8447|United States|Redondo Beach|Enzu Inc|
+|6|38.145.208.221|8447|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.16|8447|United States|Redondo Beach|Enzu Inc|
+|8|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|45.136.130.197|8452|United States|Redondo Beach|Enzu Inc|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|38.34.179.72|8445|United States|Redondo Beach|Enzu Inc|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|38.34.183.219|8446|United States|Redondo Beach|Enzu Inc|
+|11|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|38.145.220.77|8447|United States|Redondo Beach|Enzu Inc|
+|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|16|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|17|38.34.183.225|8450|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.54|8453|United States|Redondo Beach|Enzu Inc|
+|19|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|20|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
 
 
 
