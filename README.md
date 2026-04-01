@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|6|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|163.5.128.41|14270|United States|Brooklyn|Windstream Communications LLC|
-|9|82.114.228.67|1080|Russia|Saratov|SCTS|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|13|103.171.255.60|8080|Indonesia|Godean|ZKI|
 |14|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
 |16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|180.148.4.74|8080|Vietnam|Ho Chi Minh City|VNTT|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
