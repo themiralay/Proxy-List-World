@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|13|45.136.131.36|8450|United States|Redondo Beach|Enzu Inc|
-|14|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|15|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|16|186.148.160.69|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|17|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|18|148.222.152.14|999|Mexico|Tejupilco de Hidalgo|Rafael Rigoberto Lopez Orozco|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|9|195.123.213.129|1080|Latvia|Riga|Green Floid LLC|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|163.5.128.201|14270|United States|Brooklyn|Windstream Communications LLC|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|157.10.184.115|8080|Indonesia|Cikampek|PT Internet Tjepat Indonesia|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
