@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|3|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|11|109.120.135.118|3128|Sweden|Stockholm|Aeza International LTD|
+|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|203.76.98.21|45958|Bangladesh|Tāngāil|Link3 Technologies Limited|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|16|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
+|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|18|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|19|103.38.101.218|8080|Indonesia|Tulangan Utara|LAXONET|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
