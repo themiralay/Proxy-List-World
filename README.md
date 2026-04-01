@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5048** proxies at the latest update. Usable proxies are below.
+> Scraper found **5054** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|632|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|72|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3144|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|157.20.252.154|1111|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|9|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|103.166.159.227|1080|Indonesia|Bulakamba|PT Timor Lintas Nusantara|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
 
 
 
