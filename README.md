@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|177.220.230.71|8080|Brazil|Maçambara|Vogel Soluções em Telecom e Informática S/A|
-|12|103.222.255.161|8055|Indonesia|Wates|PT Iktiar Doa Tawakal|
-|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|57.128.188.167|9157|United Kingdom|Erith|OVH SAS|
+|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|16|82.114.228.67|1080|Russia|Saratov|SCTS|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
