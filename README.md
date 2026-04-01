@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
-|5|42.118.99.137|80|Vietnam|Hanoi|FPT Telecom Company|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|163.5.128.165|14270|United States|Brooklyn|Windstream Communications LLC|
-|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|14|177.234.194.234|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|16|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|17|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|20|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|5|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|6|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|7|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
+|13|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|14|103.78.83.21|8083|Indonesia|Jakarta|MORATELINDO|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|17|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
+|18|103.19.228.4|8080|Indonesia|Banjar Parekan|PT Bali Towerindo Sentra|
+|19|41.128.72.70|1981|Egypt|Cairo|LINKdotNET AS number|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
