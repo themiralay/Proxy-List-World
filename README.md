@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|10|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|11|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|6|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|10|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|40.192.16.115|44780|India|Hyderabad|Amazon.com, Inc.|
+|15|113.192.31.206|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|16|187.141.184.235|8080|Mexico|Mexico City|UNINET|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|38.145.220.188|8444|United States|Redondo Beach|Enzu Inc|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
