@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|103.16.118.78|8070|Indonesia|Caruban|CV Trustnet Media|
-|4|163.5.180.103|56297|Netherlands|Amsterdam|Ipxo LLC|
-|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|6|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|7|119.18.145.241|30226|Bangladesh|Chittagong|BBTS Network|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|11|89.43.132.242|8080|Syria|Ma‘arrat an Nu‘mān|High Speed For Internet Services L.L.C|
-|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|103.78.83.23|8083|Indonesia|Jakarta|MORATELINDO|
-|15|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|188.132.249.234|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|163.5.180.103|56297|Netherlands|Amsterdam|Ipxo LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|8|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|11|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|113.11.126.6|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|181.78.49.177|999|Guatemala|San Marcos|UFINET Guatemala S. A|
+|17|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|45.119.85.216|3128|Vietnam|Quận Một|Long Van System Solution JSC|
+|20|167.160.191.204|6005|Canada|Toronto|HostPapa|
 
 
 
