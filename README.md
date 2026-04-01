@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
-|7|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|8|102.214.104.56|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|9|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|10|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
-|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
-|15|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|16|103.50.25.7|8888|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
-|17|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|18|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|19|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|5|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|6|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|7|115.127.176.210|2327|Bangladesh|Dhaka|BRACNet Limited|
+|8|71.168.71.12|8888|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|9|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|10|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
+|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|116.80.49.161|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
