@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5056** proxies at the latest update. Usable proxies are below.
+> Scraper found **5023** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|297|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|611|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3123|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 |11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|103.166.159.225|8080|Indonesia|Bulakamba|PT Timor Lintas Nusantara|
-|19|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|20|45.174.56.21|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|13|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
+|14|103.209.88.75|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|116.0.54.25|8080|Pakistan|Karachi|Supernet|
+|17|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|36.94.149.149|8090|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
