@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|46.250.251.246|80|United Kingdom|London|Contabo Asia Private Limited|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|177.234.194.234|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|8|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|7|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|14.102.70.89|8080|India|Karnāl|World Phone Internet Services Pvt Ltd|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|103.165.155.196|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
+|13|82.114.228.67|1080|Russia|Saratov|SCTS|
+|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|16|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
+|19|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|20|201.230.15.57|999|Peru|Piedra Blanca|Telefonica del Peru|
 
 
 
