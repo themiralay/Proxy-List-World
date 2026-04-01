@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|118.97.137.68|8080|Indonesia|Utan|PT. TELKOM INDONESIA|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|118.97.137.68|8080|Indonesia|Utan|PT. TELKOM INDONESIA|
 |8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|103.123.168.202|3932|Bangladesh|Mātuail|Sajid Trading Ltd.|
-|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|1.0.171.213|8080|Thailand|Ko Lanta Yai|TOT Public Company Limited|
-|16|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|17|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
-|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|19|188.132.249.234|8080|Türkiye|Reyhanlı|High Speed For Internet Services L.L.C|
-|20|157.10.184.115|8080|Indonesia|Cikampek|PT Internet Tjepat Indonesia|
+|9|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|10|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|11|113.11.111.145|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|41.128.72.70|1981|Egypt|Cairo|LINKdotNET AS number|
+|18|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|19|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
