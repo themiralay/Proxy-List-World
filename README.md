@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|157.20.229.225|8080|India|Agra|Windnet Pvt Ltd|
-|8|103.133.26.45|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|18|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|19|112.209.17.110|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|20|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|11|112.209.17.110|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|12|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|181.209.111.147|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
 
 
 
