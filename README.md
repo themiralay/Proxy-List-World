@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|110.164.128.124|8080|Thailand|Lak Si|Triple T Broadband Public Company Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|185.103.134.4|8080|Russia|Moscow|Address AS 57191|
+|11|163.5.128.178|14270|United States|Brooklyn|Windstream Communications LLC|
 |12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|14|168.197.182.222|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
-|15|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|16|103.22.99.137|3125|Indonesia|Magetan|KHALISTAGROUP|
-|17|31.58.158.150|80|Singapore|Singapore|PT Perwira Media Solusi|
-|18|203.96.226.154|8080|Bangladesh|Dhaka|House# 06|
-|19|65.20.154.62|28080|Iraq|Baghdad|Hulum|
-|20|102.135.142.234|12354|South Africa|Centurion|Session Telecoms(PTY) Ltd|
+|13|31.58.158.150|80|Singapore|Singapore|PT Perwira Media Solusi|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|16|147.75.34.105|443|The Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
 
 
 
