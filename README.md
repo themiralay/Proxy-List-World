@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|9|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
-|12|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|185.103.134.4|8080|Russia|Moscow|Address AS 57191|
-|15|103.154.230.96|8090|Indonesia|Lamongan|DIGITNET|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|203.76.98.21|45958|Bangladesh|Tāngāil|Link3 Technologies Limited|
+|8|31.58.158.150|80|Singapore|Singapore|PT Perwira Media Solusi|
+|9|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|10|103.144.102.60|8181|Indonesia|Majalengka|PANDAWANET|
+|11|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|12|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|13|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
+|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|212.175.61.31|8080|Turkey|Ümraniye|Turk Telekomunikasyon Anonim Sirketi|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
