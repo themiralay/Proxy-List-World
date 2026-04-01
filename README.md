@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|167.160.191.204|6005|Canada|Toronto|HostPapa|
-|6|190.97.239.24|999|Venezuela|Acarigua||
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|157.66.50.37|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
-|12|69.75.140.157|8080|United States|North Hollywood|Spectrum|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|122.52.108.244|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|18|103.78.83.21|8083|Indonesia|Jakarta|MORATELINDO|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|122.52.108.244|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|10|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|122.3.121.231|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|45.174.56.21|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
 |19|82.114.228.67|1080|Russia|Saratov|SCTS|
-|20|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
