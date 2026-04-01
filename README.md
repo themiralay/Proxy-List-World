@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|182.253.73.13|443|Indonesia|Denpasar|BIZNET|
 |6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|103.239.41.85|8080|Indonesia|Serpong|PT Data Telematika Indonesia|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|82.114.228.67|1080|Russia|Saratov|SCTS|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|17|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
+|9|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|201.159.97.109|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
+|13|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|103.124.136.251|8080|Indonesia|Karanganyar|Global Media Data Prima|
+|20|167.160.191.204|6005|Canada|Toronto|HostPapa|
 
 
 
