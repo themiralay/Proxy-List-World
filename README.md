@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
 |2|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|11|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|16|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|38.3.162.129|999|Chile|Puente Alto|Servicios Integrales Metfy Telecom SPA|
+|14|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
