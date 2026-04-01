@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|113.23.200.85|8081|Malaysia|Putrajaya|Extreme Broadband|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|11|103.155.130.134|8082|India|Mumbai|Haash Media|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|36.88.141.105|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|113.192.31.199|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|15|84.255.40.228|8998|Malta|Sliema|Melita plc|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|190.121.136.185|999|Colombia|Villanueva|Media Commerce Partners S.A|
-|18|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
-|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|12|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|13|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|14|37.230.58.20|999|Paraguay|Ciudad del Este|Startelecom S.A.|
+|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|16|82.114.228.67|1080|Russia|Saratov|SCTS|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|113.192.31.199|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
 
 
 
