@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|120.28.197.130|8080|Philippines|Davao City|Globe Telecom|
-|12|114.129.19.139|8080|Indonesia|Legian|PT Hipernet Indodata|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|103.50.25.7|8888|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|13|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|14|103.188.169.69|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|15|65.20.154.62|28080|Iraq|Baghdad|Hulum|
+|16|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
+|17|190.15.194.72|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|18|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|19|181.78.195.137|999|Ecuador|Nabón|Ufinet Panama S.A.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
