@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|119.18.147.81|20326|Bangladesh|Chittagong|BBTS Network|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|103.176.96.243|1111|Indonesia|Subang|PT Global Sarana Elektronika|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|157.15.144.80|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|8|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|120.50.10.109|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
+|12|82.114.228.67|1080|Russia|Saratov|SCTS|
+|13|103.38.101.218|8080|Indonesia|Tulangan Utara|LAXONET|
 |14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|163.223.78.69|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|15|113.11.97.193|30226|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|17|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|185.218.202.182|8080|Ukraine|Hostomel|"DOMINET" LLC|
+|20|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 
 
 
