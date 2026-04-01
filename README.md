@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|38.145.208.215|8447|United States|Redondo Beach|Enzu Inc|
-|7|38.145.208.221|8447|United States|Redondo Beach|Enzu Inc|
-|8|38.145.208.220|8447|United States|Redondo Beach|Enzu Inc|
-|9|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|10|45.136.130.197|8452|United States|Redondo Beach|Enzu Inc|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|31.58.158.150|80|Singapore|Singapore|PT Perwira Media Solusi|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|112.209.21.243|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|15|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL - Vercara|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|5|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|6|31.58.158.150|80|Singapore|Singapore|PT Perwira Media Solusi|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|103.157.83.231|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|181.78.195.137|999|Ecuador|Nabón|Ufinet Panama S.A.|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
