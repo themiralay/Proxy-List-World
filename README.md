@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |2|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
-|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|45.136.130.197|8452|United States|Redondo Beach|Enzu Inc|
-|10|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|107.174.3.75|3128|United States|Los Angeles|HostPapa|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|6|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
+|9|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|14|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|15|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|38.145.218.229|8450|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
+|15|45.136.130.197|8452|United States|Redondo Beach|Enzu Inc|
+|16|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|17|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|121.126.185.63|25152|South Korea|Gwangmyeong|Korea Telecom|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|38.145.208.213|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
