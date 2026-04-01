@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
-|3|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
-|6|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|11|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|116.80.82.92|7777|Japan|Yokohama|InfoSphere|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|20|190.217.17.10|999|Colombia|Bogotá|Level 3 Colombia S.A|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|160.25.237.130|1111|Indonesia|Cikarang|PT Nada Freedom Indonesia|
+|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|124.106.83.244|8083|Philippines|General Trias|Philippine Long Distance Telephone Co.|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
