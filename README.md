@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4688** proxies at the latest update. Usable proxies are below.
+> Scraper found **4643** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|715|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2697|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|4|110.164.128.124|8080|Thailand|Lak Si|Triple T Broadband Public Company Limited|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|45.136.130.197|8452|United States|Redondo Beach|Enzu Inc|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|9|76.72.147.141|3128|United States|Hollister|Razzo Link, Inc.|
-|10|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
-|11|103.156.14.227|8080|Indonesia|Tubei|PT Lintas Jaringan Nusantara|
-|12|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|103.174.236.88|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
-|18|103.78.83.25|8083|Indonesia|Jakarta|MORATELINDO|
-|19|103.189.97.38|1080|Indonesia|Sragen|Lintas Data Prima, PT|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|6|38.145.208.215|8447|United States|Redondo Beach|Enzu Inc|
+|7|38.145.208.220|8447|United States|Redondo Beach|Enzu Inc|
+|8|38.145.208.221|8447|United States|Redondo Beach|Enzu Inc|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|203.96.226.154|8080|Bangladesh|Dhaka|House# 06|
+|11|46.161.195.133|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|12|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
+|13|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|14|38.145.208.203|8451|United States|Redondo Beach|Enzu Inc|
+|15|103.78.83.25|8083|Indonesia|Jakarta|MORATELINDO|
+|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|17|41.33.89.100|1981|Egypt|Cairo|TE Data|
+|18|168.197.182.222|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
