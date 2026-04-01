@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|163.5.180.103|56297|Netherlands|Amsterdam|Ipxo LLC|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|167.160.191.204|6005|Canada|Toronto|HostPapa|
-|7|167.160.191.204|6005|Canada|Toronto|HostPapa|
-|8|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|9|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|103.109.96.161|4443|Bangladesh|Nawābganj|Digi Jadoo Broadband Ltd|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|163.5.180.103|56297|Netherlands|Amsterdam|Ipxo LLC|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|11|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 |18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
