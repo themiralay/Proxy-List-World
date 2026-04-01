@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|8|138.118.106.121|999|Guatemala|Antigua Guatemala|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|9|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|10|103.193.144.13|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|11|82.114.228.67|1080|Russia|Saratov|SCTS|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|9|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|103.156.14.15|8080|Indonesia|Tubei|PT Lintas Jaringan Nusantara|
-|14|185.82.238.42|8888|Czechia|Šebetov|O2 Czech Republic, a.s.|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|103.30.31.202|20326|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|18|103.50.25.7|8888|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|181.78.243.102|999|Ecuador|Guayaquil|IFX Corporation|
 
 
 
