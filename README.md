@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|7|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|38.34.179.98|8451|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.98|8451|United States|Redondo Beach|Enzu Inc|
-|11|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|13|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
-|14|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|18|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|20|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|38.145.220.33|8448|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|38.34.179.155|8448|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.94|8451|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.106|8450|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.84|8451|United States|Redondo Beach|Enzu Inc|
+|16|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|17|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|18|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|19|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|20|45.136.130.167|8444|United States|Redondo Beach|Enzu Inc|
 
 
 
