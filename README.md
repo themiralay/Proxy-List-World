@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|45.186.208.34|8080|Venezuela|Caracas|Viginet C.A|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|112.209.17.110|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|12|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|13|116.0.54.25|8080|Pakistan|Karachi|Supernet|
-|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
-|17|181.209.111.147|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|9|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|10|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|11|115.127.176.210|2327|Bangladesh|Dhaka|BRACNet Limited|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|116.80.49.159|3172|Japan|Yokohama|InfoSphere|
+|18|45.4.202.147|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|19|103.138.185.81|82|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
+|20|181.94.197.37|8080|Paraguay|Fernando de la Mora|Núcleo S.A.|
 
 
 
