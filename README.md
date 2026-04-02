@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |12|31.192.106.135|8005|Russia|Moscow|HOSTKEY|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|15|103.56.93.16|1935|Indonesia|Semarang|Argon Data Communication|
-|16|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|17|103.133.223.22|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|194.19.244.94|3128|Latvia|Jelgava|SIA Tet|
+|18|157.66.50.37|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
