@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |8|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
 |9|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|15|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
-|16|103.156.16.227|8080|Indonesia|Indramayu|RSTNET|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
