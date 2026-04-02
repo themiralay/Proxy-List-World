@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|182.253.38.179|3128|Indonesia|Semarang|BIZNET|
-|12|167.250.141.73|8080|Brazil|Caicó|Meganet Servicos De Comunicacao E Multimidia Ltda|
-|13|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|14|103.164.229.149|8080|Indonesia|Pecangaan|PT Muria Data Utama|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|198.59.68.130|3128|United States|Ashburn|CenturyLink Communications, LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
 |16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|103.68.213.6|8080|Indonesia|Malang|PT Mars Data Telekomunikasi|
-|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|20|46.185.34.136|8187|Ukraine|Poltava|Kyivstar UA|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|202.29.215.78|8080|Thailand|Ratchathewi|Office of Info.Tech. Admin. for Educational Development|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|185.65.254.161|8081|Iraq|Baghdad|IZONE|
 
 
 
