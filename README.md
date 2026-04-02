@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|112.198.178.194|8080|Philippines|Nasugbu|Globe Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|157.66.50.37|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|103.158.253.162|1111|Indonesia|Brebes|Rapid Network|
+|10|82.114.228.67|1080|Russia|Saratov|SCTS|
 |11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|82.114.228.67|1080|Russia|Saratov|SCTS|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|182.93.75.162|8080|Nepal|Kathmandu|Subisu Cablenet|
-|16|85.208.108.43|10808|Canada|Toronto|Tangram Canada Inc.|
-|17|103.106.119.217|8081|Bangladesh|Thakurgaon|Earth-TEL|
-|18|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|19|167.160.191.204|6005|Canada|Toronto|HostPapa|
-|20|202.78.193.58|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
+|12|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|15|116.80.65.76|3172|Japan|Yokohama|InfoSphere|
+|16|187.63.156.133|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|20|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
 
 
 
