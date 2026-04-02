@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 |9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|31.192.106.135|8005|Russia|Moscow|HOSTKEY|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|89.43.132.233|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|15|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|95.0.100.40|8085|Turkey|Ceylanpınar|Turk Telekomunikasyon Anonim Sirketi|
-|17|45.119.85.216|3128|Vietnam|Quận Một|Long Van System Solution JSC|
-|18|143.208.57.163|999|Guatemala|Comalapa|Comunicaciones Metropolitanas Cablecolor|
-|19|177.234.244.139|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
-|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|31.192.106.135|8005|Russia|Moscow|HOSTKEY|
+|13|186.182.6.191|3129|Argentina|Catamarca|Techtel LMDS Comunicaciones Interactivas S.A.|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
