@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|5|124.106.83.244|8083|Philippines|General Trias|Philippine Long Distance Telephone Co.|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|103.147.230.130|8090|Bangladesh|Joypur Hāt|Friends BroadBand Network|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|190.60.47.174|999|Colombia|Malambo|IFX NETWORKS COLOMBIA|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|8|163.61.55.103|1234|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|200.106.124.75|999|Peru|Tacna|Telefonica del Peru|
+|12|202.35.251.72|8080|Japan|Yamagata|Research Organization of Information and Systems, National Institute of Informa|
+|13|101.255.119.25|8080|Indonesia|Bekasi|PT Remala Abadi|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|202.183.236.219|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
+|16|103.203.232.170|3125|Indonesia|Batu|PT Inti Data Guna|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|19|202.154.19.7|8080|Indonesia|Kertosono|DIGITNET|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
