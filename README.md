@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
 |2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 |14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|18|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|103.83.80.70|8080|India|Bhānpura|Syntego Technologies India Private Limited|
+|15|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|38.41.0.60|11201|Venezuela|Cúa|MDS TELECOM C.A.|
 
 
 
