@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|38.207.164.82|6005|Hong Kong|Hong Kong|VMISS Inc|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|4|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|5|38.207.164.82|6005|Hong Kong|Hong Kong|VMISS Inc|
+|6|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 |7|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|8|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|8|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
 |9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|14|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|15|45.180.26.1|999|Chile|Ovalle|Roberto Mena Oyarzun Comunicaciones Eirl|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|19|122.52.108.244|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|20|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|10|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|11|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|116.80.49.156|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
