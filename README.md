@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.34.179.47|8452|United States|Redondo Beach|Enzu Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
 |8|38.34.179.47|8452|United States|Redondo Beach|Enzu Inc|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|177.93.46.190|999|Colombia|Garagoa|TV AZTECA SUCURSAL COLOMBIA|
-|12|38.34.179.88|8446|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|82.114.228.67|1080|Russia|Saratov|SCTS|
-|17|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|11|38.34.179.47|8452|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|15|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
