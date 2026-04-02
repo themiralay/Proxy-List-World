@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.101|3172|Japan|Yokohama|InfoSphere|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|126.209.18.46|8082|Philippines|Davao City|Infinivan Incorporated|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|195.87.182.10|9090|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetleri A.S.|
-|14|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|19|82.114.228.67|1080|Russia|Saratov|SCTS|
-|20|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|17|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|18|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|19|82.214.86.82|8080|Serbia|Belgrade|AKTON|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
