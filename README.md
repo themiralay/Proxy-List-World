@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |9|31.192.106.135|8005|Russia|Moscow|HOSTKEY|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 |11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|89.200.217.250|8080|Türkiye|Antalya|Veganet Teknolojileri ve Hizmetleri LTD STI|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|45.177.178.242|999|Mexico|Pedro Escobedo|Wantelco SAS de CV|
-|19|212.252.71.9|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|120.50.10.109|5555|Bangladesh|Kāfrul|TelNET Communication Ltd|
 
 
 
