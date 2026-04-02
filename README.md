@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.109.96.129|2610|Bangladesh|Kāfrul|Digi Jadoo Broadband Ltd|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|15|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|18|170.245.132.85|999|Paraguay|Primero de Marzo|MACHADO BAEZ, NERY JAVIER|
-|19|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|20|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|3|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|7|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|10|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|11|176.215.178.120|8080|Russia|Moscow|JSC "ER-Telecom" Holding"|
+|12|181.143.181.35|8080|Colombia|Cajicá|EPM Telecomunicaciones S.A. E.S.P.|
+|13|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
+|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|202.183.236.219|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|103.122.1.26|8080|Indonesia|Kayu Agung|PT. Java Digital Nusantara|
+|20|116.80.96.108|3172|Japan|Yokohama|InfoSphere|
 
 
 
