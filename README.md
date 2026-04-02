@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|103.78.83.21|8083|Indonesia|Jakarta|MORATELINDO|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|157.10.184.115|8080|Indonesia|Cikampek|PT Internet Tjepat Indonesia|
+|9|103.171.83.49|8080|Indonesia|Bekasi|PT Multi Network Indonesia|
+|10|120.28.212.240|5050|Philippines|Davao City|Globe Telecom|
+|11|198.59.68.130|3128|United States|Ashburn|CenturyLink Communications, LLC|
+|12|185.89.156.2|44224|Albania|Elbasan|ATU|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|16|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|17|46.185.34.136|8187|Ukraine|Poltava|Kyivstar UA|
+|18|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|116.80.63.67|7777|Japan|Yokohama|InfoSphere|
 
 
 
