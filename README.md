@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|202.58.64.67|1111|Indonesia|Wonogiri|PT Mamura Inter Media|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|202.183.236.219|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|19|190.52.110.35|999|Venezuela|Caracas|Gold Data Colombia|
+|1|38.207.164.82|6005|Hong Kong|Hong Kong|VMISS Inc|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|190.52.110.35|999|Venezuela|Caracas|Gold Data Colombia|
+|8|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|103.50.25.7|8888|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
+|11|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|12|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|17|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |20|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
 
 
