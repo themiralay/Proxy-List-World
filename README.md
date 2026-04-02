@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4600** proxies at the latest update. Usable proxies are below.
+> Scraper found **4658** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|585|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|643|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2727|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|198.59.68.130|3128|United States|Ashburn|CenturyLink Communications, LLC|
-|9|103.165.250.30|8181|Indonesia|Manismata|PT Aulia Sentral Multidata|
-|10|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|13|138.0.143.120|8080|Brazil|Valparaíso|F.B. BABETO ME|
-|14|197.232.158.189|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|198.59.68.130|3128|United States|Ashburn|CenturyLink Communications, LLC|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|179.185.89.251|8080|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
-|18|38.49.152.195|999|Mexico|Irapuato|IENTC S de RL de CV|
-|19|78.9.234.55|8080|Poland|Szczecin|Netia SA|
-|20|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|103.251.232.40|8090|Bangladesh|Dhaka|Virtual American Companies (BD) Limited|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
