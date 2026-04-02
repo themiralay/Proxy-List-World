@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|7|15.152.42.175|1080|Japan|Osaka|Amazon Technologies Inc.|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|103.99.27.46|3125|Indonesia|Brebes|PT Lintas Network Solusi|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|103.161.195.22|3125|Indonesia|Singosari|PT Java Media Grup|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
 |11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|202.78.193.58|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|103.50.25.7|8888|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|115.147.16.205|5050|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|17|103.195.252.161|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
 |18|116.80.49.165|3172|Japan|Yokohama|InfoSphere|
 |19|116.80.65.77|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
+|20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
