@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|2|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|9|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|10|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
-|11|202.183.236.219|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
-|12|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|16|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.49.168|3172|Japan|Yokohama|InfoSphere|
-|18|209.14.108.98|999|United States|Lima|Corporacion Tarazona Catv S.A.C|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|209.62.196.68|8080|United States|Cut Off|EATEL|
+|1|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|9|192.145.228.226|8083|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|10|165.101.230.77|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|11|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|12|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|13|203.175.103.25|8080|Indonesia|Nagarakembang|PT. Mitra Kita Brilian|
+|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|16|45.119.85.216|3128|Vietnam|Quận Một|Long Van System Solution JSC|
+|17|103.38.101.218|8080|Indonesia|Tulangan Utara|LAXONET|
+|18|31.15.169.77|808|Slovenia|Celje|Telemach Slovenija d.o.o.|
+|19|116.80.65.75|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.49.166|3172|Japan|Yokohama|InfoSphere|
 
 
 
