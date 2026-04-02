@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
-|5|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|3|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
-|16|36.95.176.38|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|17|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|103.132.52.250|8888|Indonesia|Kajen|PT Adeaksa Indo Jayatama|
-|20|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|7|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|13|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
+|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|15|31.192.106.135|8005|Russia|Moscow|HOSTKEY|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 
 
 
