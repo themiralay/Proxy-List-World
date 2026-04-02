@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4610** proxies at the latest update. Usable proxies are below.
+> Scraper found **5008** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|679|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2635|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3033|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |8|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.38|8447|United States|Redondo Beach|Enzu Inc|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|194.87.73.134|3128|Belgium|Brussels|Baxet Group Inc.|
-|12|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.38|8447|United States|Redondo Beach|Enzu Inc|
-|14|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|15|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
-|19|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|194.87.73.134|3128|Belgium|Brussels|Baxet Group Inc.|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|14|103.126.87.203|8082|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|15|212.108.115.74|8080|Syria|Qal‘at al Maḑīq|High Speed For Internet Services L.L.C|
+|16|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|19|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|20|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
