@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|116.80.48.38|7777|Japan|Yokohama|InfoSphere|
 |5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|16|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|157.10.184.115|8080|Indonesia|Cikampek|PT Internet Tjepat Indonesia|
-|20|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|11|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|13|38.34.179.27|8451|United States|Redondo Beach|Enzu Inc|
+|14|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|15|103.54.81.152|8085|Indonesia|Purbalingga|Lintas Data Prima, PT|
+|16|31.192.106.135|8005|Russia|Moscow|HOSTKEY|
+|17|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|18|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|19|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|20|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 
 
 
