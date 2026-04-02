@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4659** proxies at the latest update. Usable proxies are below.
+> Scraper found **4642** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|640|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2727|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2710|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|11|167.160.191.204|6005|Canada|Toronto|HostPapa|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|103.81.194.165|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|13|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|103.122.1.26|8080|Indonesia|Kayu Agung|PT. Java Digital Nusantara|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|18|181.48.234.214|8080|Colombia|Santa Marta|Telmex Colombia S.A.|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
