@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|159.223.71.162|443|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|38.34.179.54|8453|United States|Redondo Beach|Enzu Inc|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|38.34.179.54|8453|United States|Redondo Beach|Enzu Inc|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|12|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|15|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|16|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
-|17|181.78.49.177|999|Guatemala|San Marcos|UFINET Guatemala S. A|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|116.80.65.74|3172|Japan|Yokohama|InfoSphere|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|10|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|11|38.34.179.54|8453|United States|Redondo Beach|Enzu Inc|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|15|146.196.97.193|57413|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|16|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.49.163|3172|Japan|Yokohama|InfoSphere|
+|20|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
 
 
 
