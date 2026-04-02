@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.191.2.165|8081|Philippines|Cabanatuan City|Globe Telecom|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|222.252.97.26|8008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|10|142.93.195.158|80|United States|North Bergen|DigitalOcean, LLC|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|14|43.242.241.47|8080|Mongolia|Ulan Bator|MCS Com Co Ltd|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|4|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|8|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|9|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|10|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|116.80.60.44|7777|Japan|Yokohama|InfoSphere|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|116.80.65.82|3172|Japan|Yokohama|InfoSphere|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
