@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|157.15.62.23|8085|Indonesia|Malang|AMAN ISP Customer Malang|
-|7|113.192.1.146|8181|Indonesia|Jakarta|PT Surya Bestari Lestari|
-|8|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|103.169.38.242|8080|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|180.149.232.33|8080|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|15|103.142.69.169|8885|Bangladesh|Kāfrul|MIR INFO SYSTEMS LTD.|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|6|13.61.155.35|1720|Sweden|Stockholm|Amazon.com, Inc.|
+|7|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|31.192.106.135|8010|Russia|Moscow|HOSTKEY|
+|11|116.80.65.81|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.77.99|7777|Japan|Yokohama|InfoSphere|
+|13|38.210.179.73|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
+|14|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|103.78.83.21|8083|Indonesia|Jakarta|MORATELINDO|
+|18|116.80.48.217|7777|Japan|Yokohama|InfoSphere|
+|19|203.150.166.170|8080|Thailand|Khon Kaen|Internet Thailand Company Ltd.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
