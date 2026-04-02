@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
-|8|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
-|9|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
-|10|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|11|103.172.0.69|8090|Indonesia|Pekanbaru|PT Cubiespot Pilar Data Nusantara|
-|12|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|177.242.132.38|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
-|16|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|18|190.97.254.250|999|Venezuela|Mérida|Viginet C.A|
-|19|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|116.80.65.79|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.64.158|7777|Japan|Yokohama|InfoSphere|
+|6|116.80.48.16|7777|Japan|Yokohama|InfoSphere|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|9|116.80.65.85|3172|Japan|Yokohama|InfoSphere|
+|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|116.80.65.78|3172|Japan|Yokohama|InfoSphere|
+|16|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|17|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|18|64.227.76.27|1080|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|116.80.64.41|7777|Japan|Yokohama|InfoSphere|
 
 
 
