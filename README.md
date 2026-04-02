@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|116.80.49.162|3172|Japan|Yokohama|InfoSphere|
-|3|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|103.50.25.7|8888|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|27.147.137.234|9108|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|103.156.16.227|8080|Indonesia|Indramayu|RSTNET|
-|15|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|125.27.24.41|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|8|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
+|9|192.203.0.210|999|Puerto Rico|Yabucoa|Boom NET|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|12|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|45.144.232.5|11741|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|103.38.101.218|8080|Indonesia|Tulangan Utara|LAXONET|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
