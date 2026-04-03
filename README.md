@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
-|10|172.245.67.195|7890|United States|Buffalo|HostPapa|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
-|14|106.0.168.138|8080|Thailand|Siao|Ministry of Education - EMISC|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
+|10|116.80.63.67|7777|Japan|Kita|InfoSphere|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|16|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|172.245.67.195|7890|United States|Buffalo|HostPapa|
+|19|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|20|116.80.96.107|3172|Japan|Kita|InfoSphere|
 
 
 
