@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|4|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|5|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|6|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|36.50.56.211|8818|Indonesia|Sawangan|PT Andromega Data Nusantara|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|11|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
-|16|116.80.64.44|7777|Japan|Kita|InfoSphere|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|116.80.65.74|3172|Japan|Kita|InfoSphere|
+|14|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|92.62.149.82|8080|Russia|Orenburg|FCOMM|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
