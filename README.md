@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|192.3.181.90|1234|United States|Buffalo|HostPapa|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|192.3.181.90|1234|United States|Buffalo|HostPapa|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|116.254.113.86|8080|Indonesia|Semarang|PT Media Sarana Data|
-|9|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|11|116.80.48.38|7777|Japan|Kita|InfoSphere|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|116.80.64.44|7777|Japan|Kita|InfoSphere|
-|14|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|15|116.80.49.156|3172|Japan|Kita|InfoSphere|
-|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|116.80.96.107|3172|Japan|Kita|InfoSphere|
-|18|200.49.99.78|9991|Argentina|San Isidro|Telecom Argentina S.A|
-|19|192.3.181.90|1234|United States|Buffalo|HostPapa|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|72.11.151.159|6005|Canada|Toronto|HostPapa|
+|11|157.10.184.115|8080|Indonesia|Cikarang|PT Internet Tjepat Indonesia|
+|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|103.193.144.13|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|16|185.200.38.221|8085|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|116.80.48.38|7777|Japan|Kita|InfoSphere|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|116.80.65.74|3172|Japan|Kita|InfoSphere|
+|20|116.80.64.44|7777|Japan|Kita|InfoSphere|
 
 
 
