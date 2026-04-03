@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4021** proxies at the latest update. Usable proxies are below.
+> Scraper found **4018** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|576|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|46|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2367|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|192.3.181.90|1234|United States|Buffalo|HostPapa|
-|6|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
-|7|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|217.150.43.249|8080|Russia|Moscow|Joint Stock Company TransTeleCom|
-|15|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|16|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|4|72.11.151.159|6005|Canada|Toronto|HostPapa|
+|5|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|6|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|7|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
+|8|103.172.71.209|1080|Indonesia|Kampunganyar Krajan|AZNET|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|45.15.10.174|3128|Hong Kong|Ha Kwai Chung|HK Kwaifong Group Limited|
+|16|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|17|138.117.85.217|999|Colombia|La Argentina|Sinergy Soluciones Integrales|
 |18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|122.52.108.244|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
