@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.133.26.11|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|116.80.65.78|3172|Japan|Kita|InfoSphere|
+|6|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
 |7|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|11|116.80.65.78|3172|Japan|Kita|InfoSphere|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|202.154.19.34|8085|Indonesia|Kertosono|DIGITNET|
-|14|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|15|121.101.130.173|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
-|16|103.147.134.179|8080|Indonesia|Pakong|PT.MURNI MAKMUR ABADI|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|116.80.49.162|3172|Japan|Kita|InfoSphere|
+|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
+|11|103.109.96.129|2610|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|181.174.231.26|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.49.162|3172|Japan|Kita|InfoSphere|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|116.80.49.168|3172|Japan|Kita|InfoSphere|
 
 
 
