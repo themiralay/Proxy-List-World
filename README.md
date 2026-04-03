@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|159.223.71.162|443|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
-|13|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
-|14|190.94.212.160|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|38.210.179.204|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
-|17|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
-|18|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|190.97.232.54|999|Venezuela|Sabaneta|Viginet C.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|45.136.131.61|8444|United States|Redondo Beach|Enzu Inc|
+|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|14|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|177.234.217.83|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|181.78.203.148|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|116.80.96.107|3172|Japan|Kita|InfoSphere|
 
 
 
