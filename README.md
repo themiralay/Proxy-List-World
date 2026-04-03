@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4767** proxies at the latest update. Usable proxies are below.
+> Scraper found **4749** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|657|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2826|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 |7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|116.80.64.41|7777|Japan|Kita|InfoSphere|
-|20|124.106.83.244|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|9|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|11|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|17|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|116.80.48.217|7777|Japan|Kita|InfoSphere|
 
 
 
