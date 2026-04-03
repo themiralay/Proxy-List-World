@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|86.53.183.16|1080|United Kingdom|City of London|GTT|
 |8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|11|36.50.56.211|8818|Indonesia|Sawangan|PT Andromega Data Nusantara|
-|12|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|13|38.145.218.87|8451|United States|Redondo Beach|Enzu Inc|
-|14|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|82.114.228.67|1080|Russia|Saratov|SCTS|
+|10|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
 |17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|116.80.65.78|3172|Japan|Kita|InfoSphere|
+|18|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|19|116.80.65.78|3172|Japan|Kita|InfoSphere|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
