@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|86.53.183.16|1080|United Kingdom|City of London|GTT|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|5|112.198.18.206|8080|Philippines|Taguig|Globe Telecom|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|119.93.83.106|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|12|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|13|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
