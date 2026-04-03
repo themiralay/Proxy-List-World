@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|103.247.13.203|8090|Indonesia|Magelang|TERABIT|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|116.80.65.78|3172|Japan|Kita|InfoSphere|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|1.234.153.14|80|South Korea|Seocho-gu|SK Broadband Co Ltd|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|116.80.65.81|3172|Japan|Kita|InfoSphere|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.65.82|3172|Japan|Kita|InfoSphere|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|116.80.64.41|7777|Japan|Kita|InfoSphere|
+|8|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|103.156.75.194|3125|Indonesia|Gianyar|PT Trika Global Media|
+|11|45.87.140.155|8080|Russia|Moscow|Teraline Telecom Ltd|
+|12|103.247.13.203|8090|Indonesia|Magelang|TERABIT|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|116.80.65.78|3172|Japan|Kita|InfoSphere|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
