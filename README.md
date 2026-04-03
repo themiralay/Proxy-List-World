@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|38.145.218.216|8449|United States|Redondo Beach|Enzu Inc|
+|2|38.145.220.39|8452|United States|Redondo Beach|Enzu Inc|
+|3|38.145.218.87|8451|United States|Redondo Beach|Enzu Inc|
 |4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.145.220.82|8448|United States|Redondo Beach|Enzu Inc|
 |6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.145.220.82|8448|United States|Redondo Beach|Enzu Inc|
-|8|38.34.178.154|8445|United States|Redondo Beach|Enzu Inc|
+|7|38.145.220.72|8445|United States|Redondo Beach|Enzu Inc|
+|8|38.145.208.242|8451|United States|Redondo Beach|Enzu Inc|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
-|11|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
-|12|38.145.220.72|8445|United States|Redondo Beach|Enzu Inc|
-|13|38.145.220.72|8445|United States|Redondo Beach|Enzu Inc|
-|14|38.145.218.227|8445|United States|Redondo Beach|Enzu Inc|
-|15|38.34.178.154|8445|United States|Redondo Beach|Enzu Inc|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|38.34.179.106|8445|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.150|8449|United States|Redondo Beach|Enzu Inc|
-|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|38.145.220.72|8445|United States|Redondo Beach|Enzu Inc|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|38.145.208.229|8453|United States|Redondo Beach|Enzu Inc|
+|15|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
+|16|45.136.131.61|8444|United States|Redondo Beach|Enzu Inc|
+|17|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
+|18|38.34.178.154|8445|United States|Redondo Beach|Enzu Inc|
+|19|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
+|20|45.136.131.58|8445|United States|Redondo Beach|Enzu Inc|
 
 
 
