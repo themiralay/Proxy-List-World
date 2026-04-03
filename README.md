@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|192.3.181.90|1234|United States|Buffalo|HostPapa|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|7|192.3.181.90|1234|United States|Buffalo|HostPapa|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|10|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|19|116.80.49.168|3172|Japan|Kita|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|103.165.155.196|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|103.133.26.45|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|45.229.17.164|999|Ecuador|Baba|Turbonet S.A.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
