@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|17|106.0.168.138|8080|Thailand|Siao|Ministry of Education - EMISC|
-|18|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|7|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|10|172.245.67.195|7890|United States|Buffalo|HostPapa|
+|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|13|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|15|45.174.56.21|999|Mexico|Panindícuaro|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|45.180.26.1|999|Chile|Ovalle|Roberto Mena Oyarzun Comunicaciones Eirl|
+|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|19|203.205.49.2|10159|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|20|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 
 
 
