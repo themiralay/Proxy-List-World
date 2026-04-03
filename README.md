@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|4|38.207.164.82|6005|Hong Kong|Hong Kong|VMISS Inc|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|167.71.245.33|3128|United States|Clifton|DigitalOcean, LLC|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|120.50.11.225|5555|Bangladesh|Azimpur|Telnet Communication Limited|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
+|13|72.11.151.159|6005|Canada|Toronto|HostPapa|
+|14|36.92.199.158|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
 
 
 
