@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4231** proxies at the latest update. Usable proxies are below.
+> Scraper found **4690** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|590|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2367|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2826|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.80.138.81|50000|Japan|Tokyo|China Telecom|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|212.112.121.130|8080|Kyrgyzstan|Bishkek|AKNET Ltd|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|10|103.133.24.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|116.80.49.168|3172|Japan|Kita|InfoSphere|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|116.80.65.77|3172|Japan|Kita|InfoSphere|
-|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|116.80.48.38|7777|Japan|Kita|InfoSphere|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|7|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|72.11.151.159|6005|Canada|Toronto|HostPapa|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|13|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
