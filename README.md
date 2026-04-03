@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|192.3.181.90|1234|United States|Buffalo|HostPapa|
 |4|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.165.155.254|2016|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
-|8|103.83.80.70|8080|India|Dhanpuri|Syntego Technologies India Private Limited|
-|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|10|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|116.80.65.83|3172|Japan|Kita|InfoSphere|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|192.3.181.90|1234|United States|Buffalo|HostPapa|
-|20|45.229.17.74|999|Ecuador|Echeandia|Turbonet S.A.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|103.165.155.254|2016|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|103.141.247.6|8080|India|Shōranūr|Vinayaga Communications Pvt Ltd|
+|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|16|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.65.83|3172|Japan|Kita|InfoSphere|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
