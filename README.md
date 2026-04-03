@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|72.11.151.159|6005|Canada|Toronto|HostPapa|
 |4|38.145.208.235|8452|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|38.145.218.161|8445|United States|Redondo Beach|Enzu Inc|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
-|11|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|12|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
+|5|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|123.253.96.213|3214|Bangladesh|Dhaka|Md Rezaul Karim|
+|10|103.163.236.142|8081|Bangladesh|Nawāb Char|Ali Muhammad Faisal|
+|11|103.172.71.209|1080|Indonesia|Kampunganyar Krajan|AZNET|
+|12|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
 |13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|188.132.249.242|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|18|116.80.65.85|3172|Japan|Kita|InfoSphere|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|14|83.239.34.82|8080|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|15|103.224.65.89|8080|Indonesia|Jember|BLAMBANGAN|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|116.80.65.85|3172|Japan|Kita|InfoSphere|
+|18|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
