@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|203.80.138.81|50000|Japan|Tokyo|China Telecom|
-|6|222.127.76.123|8082|Philippines|Lahug|INNOVE|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|103.169.26.114|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
-|12|138.117.231.133|999|Guatemala|Huehuetenango|Fibernet S.A|
-|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|14|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
-|15|187.251.222.69|8080|Mexico|Gustavo Adolfo Madero|Total Play Telecomunicaciones SA De CV|
-|16|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|102.213.179.194|8081|Kenya|Nairobi|NEXT THING NETWORKS Limited|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|203.80.138.81|50000|Japan|Tokyo|China Telecom|
+|7|188.0.167.195|8080|Russia|Grozny|Vainah Telecom|
+|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|9|202.58.77.112|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|10|103.51.205.168|8080|Indonesia|Surakarta|Lintas Data Prima, PT|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|103.19.228.4|8080|Indonesia|Banjar Parekan|PT Bali Towerindo Sentra|
+|16|103.177.235.194|83|India|Udupi|Coastal Live Channel|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|199.66.157.89|8080|United States|Blanchard|SCT Broadband|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
