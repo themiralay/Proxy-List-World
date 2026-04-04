@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.82.232|3172|Japan|Kita|InfoSphere|
 |2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|38.34.183.164|8444|United States|Redondo Beach|Enzu Inc|
-|11|38.34.183.164|8444|United States|Redondo Beach|Enzu Inc|
-|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|13|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|17|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|78.9.234.55|8080|Poland|Szczecin|Netia SA|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|103.125.56.83|8080|Indonesia|Depok|PT. Eka Mas Republik|
 |18|36.37.147.34|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|20|78.9.234.55|8080|Poland|Szczecin|Netia SA|
+|19|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
