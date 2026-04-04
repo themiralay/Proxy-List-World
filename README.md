@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|45.136.130.195|8446|United States|Redondo Beach|Enzu Inc|
-|5|45.136.131.47|8452|United States|Redondo Beach|Enzu Inc|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|45.136.131.66|8448|United States|Redondo Beach|Enzu Inc|
-|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.136.131.66|8448|United States|Redondo Beach|Enzu Inc|
+|5|38.34.178.141|8453|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.66|8448|United States|Redondo Beach|Enzu Inc|
+|7|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 |9|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|10|45.136.131.66|8448|United States|Redondo Beach|Enzu Inc|
-|11|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
-|12|38.145.220.179|8444|United States|Redondo Beach|Enzu Inc|
-|13|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
-|14|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
-|15|103.162.54.170|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|16|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|17|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|38.145.218.208|8446|United States|Redondo Beach|Enzu Inc|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|103.247.21.229|3231|Indonesia|Purbalingga|PT wifian Solution|
+|11|45.136.130.195|8446|United States|Redondo Beach|Enzu Inc|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|14|38.145.218.208|8446|United States|Redondo Beach|Enzu Inc|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|38.34.178.153|8453|United States|Redondo Beach|Enzu Inc|
+|18|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
