@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.96.95|3172|Japan|Kita|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|5|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|6|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|7|45.136.130.251|8449|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|45.136.131.58|8445|United States|Redondo Beach|Enzu Inc|
-|13|45.136.131.58|8445|United States|Redondo Beach|Enzu Inc|
-|14|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|45.136.130.251|8449|United States|Redondo Beach|Enzu Inc|
-|16|103.134.246.90|8080|Indonesia|Banjar Triwangsakelusa|Wisuandha Network Globalindo|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|8|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
+|9|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
+|10|179.60.53.26|999|Ecuador|Gima|Stealth Telecom del Ecuador|
+|11|14.232.228.80|8080|Vietnam|Hanoi|VNPT|
+|12|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|45.136.131.58|8445|United States|Redondo Beach|Enzu Inc|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
