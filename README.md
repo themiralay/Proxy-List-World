@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.232|3172|Japan|Kita|InfoSphere|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|6|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
-|7|197.255.125.190|7777|Ghana|Accra|UG 2|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|12|103.105.76.49|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|13|103.156.14.26|8080|Indonesia|Tubei|PT Lintas Jaringan Nusantara|
-|14|103.247.23.11|8549|Indonesia|Purbalingga|PT wifian Solution|
-|15|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|202.148.12.114|8083|Indonesia|Kebomas|DNET-SBY|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|103.124.197.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|191.103.216.234|8085|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
