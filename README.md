@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|6|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|7|38.34.179.22|8452|United States|Redondo Beach|Enzu Inc|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|103.156.74.209|3125|Indonesia|Banjar Tengah|PT Trika Global Media|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|38.34.179.36|8453|United States|Redondo Beach|Enzu Inc|
-|16|38.145.220.39|8452|United States|Redondo Beach|Enzu Inc|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|181.78.198.151|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|1|38.145.208.183|8448|United States|Redondo Beach|Enzu Inc|
+|2|38.145.208.186|8448|United States|Redondo Beach|Enzu Inc|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|45.136.130.195|8446|United States|Redondo Beach|Enzu Inc|
+|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|9|38.145.208.170|8453|United States|Redondo Beach|Enzu Inc|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|45.136.131.46|8443|United States|Redondo Beach|Enzu Inc|
+|12|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|103.120.221.185|8090|Bangladesh|Kafrul|Touhidul Islam Polash|
+|15|45.136.130.192|8450|United States|Redondo Beach|Enzu Inc|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|190.52.110.79|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|38.34.179.179|8449|United States|Redondo Beach|Enzu Inc|
 
 
 
