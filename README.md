@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|202.43.162.2|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|103.123.168.202|3932|Bangladesh|Mātuail|Sajid Trading Ltd.|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|154.205.140.214|3128|Vietnam|Hanoi|Kaopu Cloud HK Limited|
-|10|160.19.19.122|8090|Indonesia|Subang|PT Indo Telemedia Solusi|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|103.156.75.49|8282|Indonesia|Gianyar|PT Trika Global Media|
-|15|182.253.109.177|8080|Indonesia|Semarang|Biznet Metronet|
-|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|188.166.110.62|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|190.60.47.62|999|Colombia|Malambo|IFX NETWORKS COLOMBIA|
+|5|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|193.43.149.54|8080|Syria|Al Mulayḩah|Syrian Telecom|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|185.22.172.135|3128|Latvia|Riga|SIA VEESP|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|13|12.232.227.99|8080|United States|Dallas|AT&T Enterprises, LLC|
+|14|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|15|112.202.246.202|8181|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|16|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|103.183.8.59|8181|Indonesia|Jakarta|PT Cepat Multi Data|
+|20|103.121.199.138|62797|Indonesia|Caringin|PT Parsaoran Global Datatrans|
 
 
 
