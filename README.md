@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.145.220.32|8449|United States|Redondo Beach|Enzu Inc|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
-|10|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|11|38.145.220.41|8444|United States|Redondo Beach|Enzu Inc|
-|12|45.136.130.182|8446|United States|Redondo Beach|Enzu Inc|
-|13|38.145.218.206|8444|United States|Redondo Beach|Enzu Inc|
-|14|38.145.218.216|8449|United States|Redondo Beach|Enzu Inc|
-|15|38.145.220.82|8448|United States|Redondo Beach|Enzu Inc|
-|16|38.145.218.9|8445|United States|Redondo Beach|Enzu Inc|
-|17|38.145.220.15|8451|United States|Redondo Beach|Enzu Inc|
-|18|38.145.220.41|8444|United States|Redondo Beach|Enzu Inc|
-|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|20|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|2|38.145.220.41|8444|United States|Redondo Beach|Enzu Inc|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.145.218.206|8444|United States|Redondo Beach|Enzu Inc|
+|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.34.179.83|8445|United States|Redondo Beach|Enzu Inc|
+|10|45.136.130.182|8446|United States|Redondo Beach|Enzu Inc|
+|11|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.213|8452|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.199|8452|United States|Redondo Beach|Enzu Inc|
+|14|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
+|15|38.145.218.216|8449|United States|Redondo Beach|Enzu Inc|
+|16|38.145.220.27|8445|United States|Redondo Beach|Enzu Inc|
+|17|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|18|38.34.179.83|8445|United States|Redondo Beach|Enzu Inc|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
 
 
 
