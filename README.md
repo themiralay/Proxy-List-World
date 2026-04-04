@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.145.208.230|8446|United States|Redondo Beach|Enzu Inc|
-|6|38.145.208.228|8445|United States|Redondo Beach|Enzu Inc|
-|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|9|38.145.208.179|8450|United States|Redondo Beach|Enzu Inc|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|12|38.34.179.47|8452|United States|Redondo Beach|Enzu Inc|
-|13|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|14|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
-|15|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
-|16|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|45.15.10.174|3128|Hong Kong|Ha Kwai Chung|HK Kwaifong Group Limited|
-|19|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|198.59.68.130|3128|United States|Ashburn|CenturyLink Communications, LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
+|3|38.145.220.15|8451|United States|Redondo Beach|Enzu Inc|
+|4|38.145.220.35|8446|United States|Redondo Beach|Enzu Inc|
+|5|38.145.220.33|8446|United States|Redondo Beach|Enzu Inc|
+|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.145.208.179|8450|United States|Redondo Beach|Enzu Inc|
+|8|38.145.208.180|8451|United States|Redondo Beach|Enzu Inc|
+|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
+|11|157.15.172.30|8080|Indonesia|Andoolo|MITRATELEKOMUNIKASINUSANTARA|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|20|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
