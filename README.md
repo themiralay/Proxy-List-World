@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|38.145.220.32|8449|United States|Redondo Beach|Enzu Inc|
-|8|38.145.220.32|8449|United States|Redondo Beach|Enzu Inc|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|38.145.220.32|8449|United States|Redondo Beach|Enzu Inc|
+|5|38.145.220.32|8449|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.53|8451|United States|Redondo Beach|Enzu Inc|
+|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 |9|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|202.58.73.216|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
-|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|10|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 |18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|37.204.248.33|443|Russia|Moscow|NCNET|
+|19|37.204.248.33|443|Russia|Moscow|NCNET|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
