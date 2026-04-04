@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|80.250.165.242|3128|Russia|Lesnoy Gorodok|LLC Stroysvyazkonsaling|
-|5|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|4|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|6|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|7|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|65.20.154.62|28080|Iraq|Baghdad|Hulum|
 |12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|190.217.17.10|999|Colombia|Bogotá|Level 3 Colombia S.A|
+|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
