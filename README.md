@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.173.138.157|3125|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|103.214.82.92|8090|Bangladesh|Bājitpur|Jhongkar IT|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|38.145.220.27|8445|United States|Redondo Beach|Enzu Inc|
-|18|38.145.220.60|8447|United States|Redondo Beach|Enzu Inc|
-|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|202.43.162.2|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|11|182.252.74.40|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|103.102.12.134|1111|Indonesia|Rembang|FISNET|
+|14|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|15|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|17|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|18|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|19|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
