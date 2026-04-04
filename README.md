@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|87.126.65.11|1388|Bulgaria|Stara Zagora|Vivacom Bulgaria EAD|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|4|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|8|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 |11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 |12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.247.13.203|8090|Indonesia|Magelang|TERABIT|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|13|45.180.26.1|999|Chile|Ovalle|Roberto Mena Oyarzun Comunicaciones Eirl|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|111.227.254.9|22222|China|Shijiazhuang|Chinanet|
+|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
