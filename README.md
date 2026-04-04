@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|7|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |9|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|193.181.35.106|8118|Sweden|Stockholm|PVDataNet AB|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|170.80.202.217|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|16|37.26.86.206|47464|Albania|Elbasan|ATU|
+|17|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|116.80.49.156|3172|Japan|Kita|InfoSphere|
+|19|116.80.96.107|3172|Japan|Kita|InfoSphere|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
