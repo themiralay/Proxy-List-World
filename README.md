@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
-|8|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
-|9|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
-|10|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|14|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|190.97.232.54|999|Venezuela|Sabaneta|Viginet C.A|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|9|38.34.183.130|8452|United States|Redondo Beach|Enzu Inc|
+|10|45.136.130.182|8446|United States|Redondo Beach|Enzu Inc|
+|11|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
+|12|45.136.131.59|8444|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.103|8448|United States|Redondo Beach|Enzu Inc|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|38.145.208.177|8450|United States|Redondo Beach|Enzu Inc|
+|20|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
