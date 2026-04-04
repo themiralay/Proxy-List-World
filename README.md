@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.145.203.106|8448|United States|Redondo Beach|Enzu Inc|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|37.228.129.14|3128|Poland|Warsaw|FlokiNET ehf|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|103.162.54.170|8080|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|11|38.145.203.124|8444|United States|Redondo Beach|Enzu Inc|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|38.145.218.216|8449|United States|Redondo Beach|Enzu Inc|
-|14|38.145.218.216|8449|United States|Redondo Beach|Enzu Inc|
-|15|45.136.130.178|8453|United States|Redondo Beach|Enzu Inc|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|38.145.220.60|8447|United States|Redondo Beach|Enzu Inc|
-|20|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.222.255.195|8080|Indonesia|Wates|PT Iktiar Doa Tawakal|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|8|45.136.131.59|8444|United States|Redondo Beach|Enzu Inc|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
