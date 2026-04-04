@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.96.95|3172|Japan|Kita|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
+|4|38.34.179.201|8446|United States|Redondo Beach|Enzu Inc|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|38.145.208.243|8447|United States|Redondo Beach|Enzu Inc|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|14|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|15|38.34.179.8|8444|United States|Redondo Beach|Enzu Inc|
-|16|38.145.208.185|8453|United States|Redondo Beach|Enzu Inc|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|38.145.208.177|8450|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.201|8446|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.177|8450|United States|Redondo Beach|Enzu Inc|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|186.5.94.206|999|Ecuador|Guayaquil|Telconet S.A|
+|10|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|38.145.208.185|8453|United States|Redondo Beach|Enzu Inc|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|17|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
+|18|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|38.34.179.8|8444|United States|Redondo Beach|Enzu Inc|
 
 
 
