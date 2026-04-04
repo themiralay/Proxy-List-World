@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|10|102.0.14.38|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|51.79.71.106|8080|Canada|Montreal|OVH SAS|
-|13|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|38.145.208.171|8452|United States|Redondo Beach|Enzu Inc|
-|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|122.52.108.244|8082|Philippines|Olongapo City|Philippine Long Distance Telephone Co.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|112.198.178.194|8080|Philippines|Nasugbu|Globe Telecom|
+|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|7|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|8|103.164.214.122|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|9|24.119.238.146|10000|United States|Payson|CABLE ONE, INC.|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|45.189.116.209|999|Peru|Lima|Conex TV E.I.R.L|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|186.250.53.192|8080|Brazil|Guarulhos|Redfox Telecomunicações Ltda.|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|18|148.222.152.4|999|Mexico|Tejupilco de Hidalgo|Rafael Rigoberto Lopez Orozco|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|190.52.108.145|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
