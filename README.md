@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|38.145.220.13|8450|United States|Redondo Beach|Enzu Inc|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|38.34.183.164|8444|United States|Redondo Beach|Enzu Inc|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|103.48.68.138|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|79.137.204.101|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|13|45.136.130.187|8449|United States|Redondo Beach|Enzu Inc|
-|14|104.168.92.24|3128|United States|Los Angeles|HostPapa|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|38.145.220.13|8450|United States|Redondo Beach|Enzu Inc|
-|18|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|1|38.145.220.168|8444|United States|Redondo Beach|Enzu Inc|
+|2|38.145.203.87|8444|United States|Redondo Beach|Enzu Inc|
+|3|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.34.183.164|8444|United States|Redondo Beach|Enzu Inc|
+|6|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|7|38.145.203.87|8444|United States|Redondo Beach|Enzu Inc|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|10|38.145.220.168|8444|United States|Redondo Beach|Enzu Inc|
+|11|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|13|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|14|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
+|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|200.69.83.203|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
