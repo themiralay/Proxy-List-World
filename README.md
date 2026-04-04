@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|45.136.130.246|8446|United States|Redondo Beach|Enzu Inc|
-|6|38.145.218.13|8446|United States|Redondo Beach|Enzu Inc|
-|7|38.252.215.11|999|Peru|Carabayllo|Cogent Communications|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|116.80.65.81|3172|Japan|Kita|InfoSphere|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|17|187.62.241.136|8080|Brazil|Rio de Janeiro|Metroflex Telecomunicacoes Ltda|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|6|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|7|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|9|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|103.76.107.3|8085|Indonesia|Patuk|PT Geka Solusi Utama|
+|11|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
