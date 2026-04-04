@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.34.179.103|8448|United States|Redondo Beach|Enzu Inc|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|8|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
+|9|38.145.203.45|8451|United States|Redondo Beach|Enzu Inc|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|38.34.179.172|8447|United States|Redondo Beach|Enzu Inc|
+|12|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.42.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|38.34.179.79|8451|United States|Redondo Beach|Enzu Inc|
+|15|38.10.90.134|8084|Philippines|Iloilo City|Cogent Communications|
+|16|38.145.220.49|8444|United States|Redondo Beach|Enzu Inc|
+|17|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
