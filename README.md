@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|8|116.80.60.44|7777|Japan|Kita|InfoSphere|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|6|116.80.60.44|7777|Japan|Kita|InfoSphere|
+|7|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|12|103.97.224.223|8841|Indonesia|Kudus|PT Sistem Interkoneksi Data|
+|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 |14|116.80.65.81|3172|Japan|Kita|InfoSphere|
 |15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|120.50.10.109|5555|Bangladesh|Kafrul|TelNET Communication Ltd|
-|17|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|177.234.217.82|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
 |18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |20|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
