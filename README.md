@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|38.145.208.185|8453|United States|Redondo Beach|Enzu Inc|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|19|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|20|190.94.213.20|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|1|116.80.65.74|3172|Japan|Kita|InfoSphere|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|18|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
