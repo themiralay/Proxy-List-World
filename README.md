@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.34.179.82|8447|United States|Redondo Beach|Enzu Inc|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|163.223.116.244|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|111.227.254.9|22222|China|Shijiazhuang|Chinanet|
-|17|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|111.227.254.10|22222|China|Shijiazhuang|Chinanet|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|6|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|111.227.254.10|22222|China|Shijiazhuang|Chinanet|
 
 
 
