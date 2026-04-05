@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|38.145.220.182|8450|United States|Redondo Beach|Enzu Inc|
-|7|38.145.220.102|8453|United States|Redondo Beach|Enzu Inc|
-|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|45.136.131.39|8451|United States|Redondo Beach|Enzu Inc|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|45.136.131.39|8451|United States|Redondo Beach|Enzu Inc|
+|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 |14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |16|116.80.65.83|3172|Japan|Kita|InfoSphere|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|116.80.65.75|3172|Japan|Kita|InfoSphere|
-|19|190.217.17.10|999|Colombia|Bogotá|Level 3 Colombia S.A|
-|20|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|17|116.80.65.75|3172|Japan|Kita|InfoSphere|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
