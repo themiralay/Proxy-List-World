@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |3|116.80.65.83|3172|Japan|Kita|InfoSphere|
 |4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 |8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|89.43.135.41|8080|Syria|Manbij|High Speed For Internet Services L.L.C|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|13|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|19|38.145.218.51|8444|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.210|8448|United States|Redondo Beach|Enzu Inc|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
 
 
 
