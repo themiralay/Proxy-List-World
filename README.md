@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5106** proxies at the latest update. Usable proxies are below.
+> Scraper found **4086** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|760|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3252|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2232|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
-|10|200.10.28.254|999|Colombia|Manizales|Super Redes S.A.S|
-|11|38.145.203.86|8449|United States|Redondo Beach|Enzu Inc|
-|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|15|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|18|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|3|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.34.178.241|8444|United States|Redondo Beach|Enzu Inc|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|12|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
+|13|38.145.220.65|8446|United States|Redondo Beach|Enzu Inc|
+|14|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|16|38.145.208.235|8447|United States|Redondo Beach|Enzu Inc|
+|17|38.145.220.27|8445|United States|Redondo Beach|Enzu Inc|
+|18|175.158.63.166|1111|Indonesia|South Tangerang|CBNNAP|
+|19|38.145.220.27|8445|United States|Redondo Beach|Enzu Inc|
+|20|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
