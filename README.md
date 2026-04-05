@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|8|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|9|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|116.80.49.161|3172|Japan|Kita|InfoSphere|
-|11|116.80.65.78|3172|Japan|Kita|InfoSphere|
-|12|116.80.48.217|7777|Japan|Kita|InfoSphere|
-|13|116.80.65.81|3172|Japan|Kita|InfoSphere|
-|14|116.80.64.158|7777|Japan|Kita|InfoSphere|
-|15|116.80.96.108|3172|Japan|Kita|InfoSphere|
-|16|116.80.65.76|3172|Japan|Kita|InfoSphere|
-|17|116.80.65.83|3172|Japan|Kita|InfoSphere|
-|18|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|19|116.80.48.16|7777|Japan|Kita|InfoSphere|
-|20|116.80.48.38|7777|Japan|Kita|InfoSphere|
+|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|43.225.151.194|43030|Bangladesh|Dhaka|Next Online|
+|11|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|12|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|38.145.220.11|8447|United States|Redondo Beach|Enzu Inc|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|116.80.65.78|3172|Japan|Kita|InfoSphere|
+|17|116.80.48.217|7777|Japan|Kita|InfoSphere|
+|18|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|19|116.80.96.108|3172|Japan|Kita|InfoSphere|
+|20|116.80.64.158|7777|Japan|Kita|InfoSphere|
 
 
 
