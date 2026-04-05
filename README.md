@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|45.136.131.67|8453|United States|Redondo Beach|Enzu Inc|
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|38.34.179.82|8447|United States|Redondo Beach|Enzu Inc|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|38.145.208.185|8453|United States|Redondo Beach|Enzu Inc|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|9|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|10|116.80.96.101|3172|Japan|Kita|InfoSphere|
-|11|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
-|12|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|8|38.145.218.9|8445|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.82|8447|United States|Redondo Beach|Enzu Inc|
+|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|116.80.96.101|3172|Japan|Kita|InfoSphere|
 |13|116.80.96.108|3172|Japan|Kita|InfoSphere|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|14|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|20|202.152.194.190|8000|Indonesia|Grogol|PT. Bakrie Telecom Tbk|
 
 
 
