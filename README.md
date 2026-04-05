@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
-|7|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|10|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
-|11|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
-|12|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|13|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
-|15|116.80.65.81|3172|Japan|Kita|InfoSphere|
-|16|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|17|116.80.64.41|7777|Japan|Kita|InfoSphere|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|38.34.179.189|8445|United States|Redondo Beach|Enzu Inc|
-|20|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|13|116.80.60.44|7777|Japan|Kita|InfoSphere|
+|14|116.80.64.41|7777|Japan|Kita|InfoSphere|
+|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|116.80.65.75|3172|Japan|Kita|InfoSphere|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
