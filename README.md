@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|38.34.178.241|8444|United States|Redondo Beach|Enzu Inc|
-|7|49.146.228.153|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|8|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|38.156.23.36|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|13|38.145.218.87|8451|United States|Redondo Beach|Enzu Inc|
-|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.155.118.255|8081|Bangladesh|Bherāmāra|Race Online Ltd.|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|203.171.252.7|8080|Cambodia|Phnom Penh|MEKONGNET|
-|18|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|1|116.80.65.83|3172|Japan|Kita|InfoSphere|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|7|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|13|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|14|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|15|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|142.171.95.105|3128|United States|Los Angeles|Multacom Corporation|
+|19|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|20|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
 
 
 
