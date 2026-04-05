@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|118.97.137.68|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|10|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|116.80.64.44|7777|Japan|Kita|InfoSphere|
-|14|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
-|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|38.145.208.218|8447|United States|Redondo Beach|Enzu Inc|
+|9|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|45.136.131.25|8453|United States|Redondo Beach|Enzu Inc|
+|11|38.145.208.218|8447|United States|Redondo Beach|Enzu Inc|
+|12|38.183.146.29|7080|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|13|103.167.156.14|8084|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|15|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
+|16|160.19.18.99|8080|Indonesia|Cigunung|PT Indo Telemedia Solusi|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
