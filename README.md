@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|116.80.65.81|3172|Japan|Kita|InfoSphere|
-|15|116.80.65.82|3172|Japan|Kita|InfoSphere|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.48.16|7777|Japan|Kita|InfoSphere|
-|19|116.80.49.168|3172|Japan|Kita|InfoSphere|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|6|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
+|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|10|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|116.80.65.82|3172|Japan|Kita|InfoSphere|
+|13|116.80.65.81|3172|Japan|Kita|InfoSphere|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|16|116.80.48.16|7777|Japan|Kita|InfoSphere|
+|17|116.80.49.168|3172|Japan|Kita|InfoSphere|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
