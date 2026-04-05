@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|11|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|116.80.49.172|3172|Japan|Kita|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
-|16|177.234.244.139|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|9|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|116.80.49.172|3172|Japan|Kita|InfoSphere|
+|13|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|14|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 |17|116.80.65.77|3172|Japan|Kita|InfoSphere|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|20|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
