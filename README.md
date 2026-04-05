@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
-|5|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|116.80.48.16|7777|Japan|Kita|InfoSphere|
-|8|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.53|8451|United States|Redondo Beach|Enzu Inc|
-|10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|2|38.34.179.173|8452|United States|Redondo Beach|Enzu Inc|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|10|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 |11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|38.34.178.152|8451|United States|Redondo Beach|Enzu Inc|
-|14|111.227.254.11|22222|China|Shijiazhuang|Chinanet|
-|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|16|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|19|38.34.179.11|8447|United States|Redondo Beach|Enzu Inc|
-|20|111.227.254.9|22222|China|Shijiazhuang|Chinanet|
+|12|116.80.48.16|7777|Japan|Kita|InfoSphere|
+|13|111.227.254.11|22222|China|Shijiazhuang|Chinanet|
+|14|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|15|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|17|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|19|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|20|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
 
 
 
