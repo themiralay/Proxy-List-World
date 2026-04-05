@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4704** proxies at the latest update. Usable proxies are below.
+> Scraper found **4671** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|7|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|722|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|689|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2994|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
-|3|38.145.208.246|8450|United States|Redondo Beach|Enzu Inc|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 |4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|38.145.203.41|8453|United States|Redondo Beach|Enzu Inc|
-|7|38.145.218.161|8445|United States|Redondo Beach|Enzu Inc|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|7|116.80.49.161|3172|Japan|Kita|InfoSphere|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.136.131.25|8453|United States|Redondo Beach|Enzu Inc|
-|12|45.136.130.192|8450|United States|Redondo Beach|Enzu Inc|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|38.34.179.201|8446|United States|Redondo Beach|Enzu Inc|
-|17|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
-|18|45.136.130.168|8448|United States|Redondo Beach|Enzu Inc|
-|19|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
-|20|38.34.179.59|8447|United States|Redondo Beach|Enzu Inc|
+|10|116.80.96.101|3172|Japan|Kita|InfoSphere|
+|11|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|12|103.82.23.118|5171|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|14|170.9.253.20|8888|United States|Chicago|Oracle Corporation|
+|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|17|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|111.227.254.11|22222|China|Shijiazhuang|Chinanet|
 
 
 
