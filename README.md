@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|12|103.120.222.17|8083|Bangladesh|Motijheel|Touhidul Islam Polash|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|163.223.116.244|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |13|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
-|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|38.158.83.241|999|Peru|Arequipa|Fiberred SAC|
 |18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
