@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|103.133.26.11|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|6|38.145.220.11|8447|United States|Redondo Beach|Enzu Inc|
-|7|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|8|46.55.143.145|8080|Bulgaria|Kardzhali|DCC|
-|9|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|3|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|45.136.130.182|8446|United States|Redondo Beach|Enzu Inc|
+|6|38.145.208.227|8447|United States|Redondo Beach|Enzu Inc|
+|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|10|116.80.49.162|3172|Japan|Kita|InfoSphere|
 |11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|116.80.49.162|3172|Japan|Kita|InfoSphere|
+|12|116.80.65.81|3172|Japan|Kita|InfoSphere|
 |13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|116.80.65.81|3172|Japan|Kita|InfoSphere|
-|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|14|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|15|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
 |16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
 |20|116.80.48.38|7777|Japan|Kita|InfoSphere|
 
 
