@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|5|116.80.96.101|3172|Japan|Kita|InfoSphere|
-|6|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|12|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.150.254.80|9108|Bangladesh|Kafrul|RED ONLINE|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|222.127.68.126|8080|Philippines|Lahug|INNOVE|
-|16|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|116.80.49.162|3172|Japan|Kita|InfoSphere|
-|19|116.80.48.38|7777|Japan|Kita|InfoSphere|
-|20|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|38.34.179.23|8444|United States|Redondo Beach|Enzu Inc|
+|8|116.80.96.101|3172|Japan|Kita|InfoSphere|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|13|45.136.130.182|8446|United States|Redondo Beach|Enzu Inc|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
