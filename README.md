@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|2|45.136.130.178|8453|United States|Redondo Beach|Enzu Inc|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.136.130.182|8446|United States|Redondo Beach|Enzu Inc|
+|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.145.218.9|8445|United States|Redondo Beach|Enzu Inc|
+|3|38.145.208.243|8447|United States|Redondo Beach|Enzu Inc|
+|4|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.136.130.178|8453|United States|Redondo Beach|Enzu Inc|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|160.19.18.29|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
-|11|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.11|8447|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|14|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|15|45.136.130.182|8446|United States|Redondo Beach|Enzu Inc|
-|16|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|17|38.145.203.86|8449|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.86|8452|United States|Redondo Beach|Enzu Inc|
-|19|150.5.166.194|1080|Hong Kong|Hong Kong|Byteplus Pte. Ltd.|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|9|38.145.208.243|8447|United States|Redondo Beach|Enzu Inc|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|186.167.112.90|999|Venezuela|Valencia|Corporacion Digitel C.A|
+|12|38.34.179.105|8449|United States|Redondo Beach|Enzu Inc|
+|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|14|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
+|15|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|116.80.49.156|3172|Japan|Kita|InfoSphere|
+|18|86.53.183.16|1080|United Kingdom|City of London|GTT|
+|19|116.80.96.107|3172|Japan|Kita|InfoSphere|
+|20|116.80.64.158|7777|Japan|Kita|InfoSphere|
 
 
 
