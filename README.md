@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.108|3172|Japan|Kita|InfoSphere|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|5|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
-|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|8|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|181.78.49.177|999|Guatemala|San Marcos|UFINET Guatemala S. A|
-|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|13|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|38.34.179.6|8449|United States|Redondo Beach|Enzu Inc|
+|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
