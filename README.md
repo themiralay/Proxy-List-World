@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.49.162|3172|Japan|Kita|InfoSphere|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|38.145.208.208|8444|United States|Redondo Beach|Enzu Inc|
-|9|116.80.96.107|3172|Japan|Kita|InfoSphere|
-|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|13|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|116.80.65.75|3172|Japan|Kita|InfoSphere|
-|17|119.195.17.15|3112|South Korea|Changwon|Korea Telecom|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|188.132.249.242|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.167.237.94|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|13|116.80.96.107|3172|Japan|Kita|InfoSphere|
+|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|20|190.60.45.51|999|Colombia|Los Santos|IFX NETWORKS COLOMBIA|
 
 
 
