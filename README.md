@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|103.145.146.3|3125|Indonesia|Pekanbaru|PT INTI MEDIA TEKNOLOGI|
 |3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.145.220.179|8444|United States|Redondo Beach|Enzu Inc|
-|5|103.169.41.58|3125|Indonesia|Medan|Telnet Indonesia|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|103.169.41.58|3125|Indonesia|Medan|Telnet Indonesia|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.56.115.156|7890|Hong Kong|San Po Kong|Colocation at Shatin China Telecom|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
 |11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
-|19|95.181.174.211|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|20|194.58.47.219|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|12|38.244.204.7|3128|United States|Chicago|HIVELOCITY, Inc.|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|19|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
