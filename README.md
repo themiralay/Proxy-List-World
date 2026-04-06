@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.107|3172|Japan|Kita|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|10|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|112.198.138.14|8082|Philippines|General Trias|Globe Telecom|
-|12|51.161.209.6|6534|Australia|North Sydney|OVH SAS|
+|7|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|38.145.218.9|8445|United States|Redondo Beach|Enzu Inc|
+|10|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 |13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|38.145.218.162|8448|United States|Redondo Beach|Enzu Inc|
-|15|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
-|16|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|17|160.20.128.15|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|185.21.252.234|3128|Brazil|Taquara|SRX TECNOLOGIA DA INFORMACAO LTDA|
-|20|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|19|116.80.65.82|3172|Japan|Kita|InfoSphere|
+|20|201.182.242.4|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
 
 
 
