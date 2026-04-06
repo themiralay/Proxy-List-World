@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|194.67.119.10|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|5|203.210.84.100|8182|Indonesia|Bandung|Infrastruktur STARNET|
-|6|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|7|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|8|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|43.167.237.94|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|38.145.208.204|8446|United States|Redondo Beach|Enzu Inc|
+|7|194.67.119.10|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|38.145.208.204|8446|United States|Redondo Beach|Enzu Inc|
+|10|38.145.208.177|8450|United States|Redondo Beach|Enzu Inc|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|15|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|16|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |19|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
