@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.167.237.94|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
 |7|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|8|177.220.230.71|8080|Brazil|Maçambara|Vogel Soluções em Telecom e Informática S/A|
-|9|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|177.220.230.71|8080|Brazil|Maçambara|Vogel Soluções em Telecom e Informática S/A|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|13|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|49.156.44.10|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
