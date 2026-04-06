@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|116.80.49.162|3172|Japan|Kita|InfoSphere|
 |5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|12|38.34.179.82|8447|United States|Redondo Beach|Enzu Inc|
-|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 |14|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|45.136.130.253|8449|United States|Redondo Beach|Enzu Inc|
-|17|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|18|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|116.80.96.107|3172|Japan|Kita|InfoSphere|
+|18|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
 |19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|20|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|12.232.227.99|8080|United States|Dallas|AT&T Enterprises, LLC|
 
 
 
