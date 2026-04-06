@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|3|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
-|6|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|7|116.80.96.107|3172|Japan|Kita|InfoSphere|
-|8|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
-|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|2|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|3|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|10|116.80.96.107|3172|Japan|Kita|InfoSphere|
 |11|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|116.80.65.76|3172|Japan|Kita|InfoSphere|
-|13|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|13|116.80.65.76|3172|Japan|Kita|InfoSphere|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|203.205.49.2|10227|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|19|103.147.52.97|3125|Indonesia|Batam|KejoraNet|
 |20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
