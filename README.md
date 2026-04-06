@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.44|7777|Japan|Kita|InfoSphere|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|11|116.80.49.172|3172|Japan|Kita|InfoSphere|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|116.80.65.74|3172|Japan|Kita|InfoSphere|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|116.80.49.172|3172|Japan|Kita|InfoSphere|
+|10|186.227.246.82|8080|Brazil|São José da Barra|Rede Exitus Ltda|
+|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
+|18|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
 
 
 
