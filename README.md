@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4857** proxies at the latest update. Usable proxies are below.
+> Scraper found **4259** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|160|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|50|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2971|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2440|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.82|3172|Japan|Kita|InfoSphere|
-|2|116.80.63.67|7777|Japan|Kita|InfoSphere|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|7|154.19.39.151|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
-|8|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|9|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|10|103.159.194.209|7777|Indonesia|Ketanggungan|PT Giga Digital Nusantara|
-|11|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|12|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|20|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|116.80.65.74|3172|Japan|Kita|InfoSphere|
+|10|116.80.64.41|7777|Japan|Kita|InfoSphere|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|17|186.227.246.82|8080|Brazil|São José da Barra|Rede Exitus Ltda|
+|18|16.78.119.130|443|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
