@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|103.130.182.41|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
-|6|45.136.131.57|8449|United States|Redondo Beach|Enzu Inc|
-|7|148.135.22.89|1080|United States|Los Angeles|Multacom Corporation|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.162.54.147|8080|Indonesia|Jatiwangi|PT Pratama Asia Globalindo|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |8|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
 |11|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.80|8452|United States|Redondo Beach|Enzu Inc|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
-|16|146.19.56.212|7890|United States|Houston|Rackvolt Cloud Solutions Private Limited|
-|17|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|18|146.19.56.212|7890|United States|Houston|Rackvolt Cloud Solutions Private Limited|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|45.136.131.57|8449|United States|Redondo Beach|Enzu Inc|
+|13|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|17|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
+|18|38.145.220.81|8453|United States|Redondo Beach|Enzu Inc|
+|19|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
+|20|160.187.174.82|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
 
 
 
