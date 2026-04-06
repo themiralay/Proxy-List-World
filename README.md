@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.107|3172|Japan|Kita|InfoSphere|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|116.80.48.217|7777|Japan|Kita|InfoSphere|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|116.80.49.162|3172|Japan|Kita|InfoSphere|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|2|45.136.131.26|8446|United States|Redondo Beach|Enzu Inc|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.145.220.27|8445|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.26|8446|United States|Redondo Beach|Enzu Inc|
+|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|10|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
+|11|89.43.132.242|8080|Syria|Ma‘arrat an Nu‘mān|High Speed For Internet Services L.L.C|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|45.136.131.37|8447|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.228|8453|United States|Redondo Beach|Enzu Inc|
+|15|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.175.237.36|8080|Indonesia|Tempursari Wetan|PT Marva Global Telekomunikasi|
+|17|38.145.218.217|8450|United States|Redondo Beach|Enzu Inc|
+|18|43.167.237.94|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|19|116.80.48.217|7777|Japan|Kita|InfoSphere|
+|20|116.80.65.74|3172|Japan|Kita|InfoSphere|
 
 
 
