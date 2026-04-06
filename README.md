@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|103.109.212.29|2231|Bangladesh|Khagrachhari|Bismillah Telecom Service|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|103.147.246.138|1080|Indonesia|Pasarkemis|PLBNET|
-|13|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|9|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |14|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|17|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|177.220.230.71|8080|Brazil|Maçambara|Vogel Soluções em Telecom e Informática S/A|
-|19|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|190.217.17.10|999|Colombia|Bogotá|Level 3 Colombia S.A|
+|18|103.177.199.97|1111|Indonesia|Lebaksiu|PT Eyza Kausa Sinergi Abadi|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
