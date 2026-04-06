@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.44|7777|Japan|Kita|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|4|116.80.65.74|3172|Japan|Kita|InfoSphere|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
 |8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|13|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
-|14|116.80.48.217|7777|Japan|Kita|InfoSphere|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|201.150.6.201|8081|Mexico|Saltillo|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|9|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|103.81.194.165|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|116.80.48.217|7777|Japan|Kita|InfoSphere|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|201.150.6.201|8081|Mexico|Saltillo|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|20|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
