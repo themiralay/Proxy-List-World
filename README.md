@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.63.67|7777|Japan|Kita|InfoSphere|
 |2|116.80.65.82|3172|Japan|Kita|InfoSphere|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|181.79.80.181|999|Colombia|Villa Rica|IFX Networks Argentina S.R.L|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|16|64.227.76.27|1080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|179.60.53.26|999|Ecuador|Gima|Stealth Telecom del Ecuador|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|116.80.65.74|3172|Japan|Kita|InfoSphere|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|12|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
