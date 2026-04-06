@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4575** proxies at the latest update. Usable proxies are below.
+> Scraper found **4551** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|219|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|673|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2653|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|51.250.25.180|1080|Russia|Moscow|Yandex.Cloud LLC|
-|9|146.19.56.212|7890|United States|Houston|Rackvolt Cloud Solutions Private Limited|
-|10|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|11|89.169.35.12|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|95.181.174.211|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|16|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|7|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|10|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|103.227.187.13|6080|Indonesia|Kendalrejo|PT Master Star Network|
+|14|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|146.19.56.212|7890|United States|Houston|Rackvolt Cloud Solutions Private Limited|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|38.145.220.60|8447|United States|Redondo Beach|Enzu Inc|
 
 
 
