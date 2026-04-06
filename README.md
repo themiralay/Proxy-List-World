@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|38.145.220.49|8444|United States|Redondo Beach|Enzu Inc|
-|10|45.136.131.47|8452|United States|Redondo Beach|Enzu Inc|
-|11|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|13|194.67.119.10|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|14|38.34.179.175|8445|United States|Redondo Beach|Enzu Inc|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|38.145.220.49|8444|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.175|8445|United States|Redondo Beach|Enzu Inc|
+|9|194.67.119.10|10808|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|10|104.168.93.120|8080|United States|Buffalo|HostPapa|
+|11|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|14|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|15|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 |19|104.168.93.120|8080|United States|Buffalo|HostPapa|
-|20|104.168.93.120|8080|United States|Buffalo|HostPapa|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
