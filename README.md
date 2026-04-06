@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|150.109.10.12|7890|Singapore|Singapore|Aceville Pte.ltd|
-|8|146.19.56.212|7890|United States|Houston|Rackvolt Cloud Solutions Private Limited|
-|9|38.34.179.36|8453|United States|Redondo Beach|Enzu Inc|
-|10|95.181.174.211|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|6|146.19.56.212|7890|United States|Houston|Rackvolt Cloud Solutions Private Limited|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|194.87.94.82|7890|Russia|Korolyov|JSC Mediasoft ekspert|
 |11|89.169.35.12|1080|Sweden|Stockholm|xorek.cloud International LTD|
-|12|194.87.94.82|7890|Russia|Korolyov|JSC Mediasoft ekspert|
-|13|202.145.5.184|8080|Indonesia|Semarang|PT Jala Lintas Media|
-|14|51.250.25.180|1080|Russia|Moscow|Yandex.Cloud LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|38.145.218.113|8446|United States|Redondo Beach|Enzu Inc|
-|18|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|20|38.34.179.229|8447|United States|Redondo Beach|Enzu Inc|
+|12|51.250.25.180|1080|Russia|Moscow|Yandex.Cloud LLC|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|200.24.138.73|999|Ecuador|Echeandía|Ufinet Panama S.A.|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
+|17|150.109.10.12|7890|Singapore|Singapore|Aceville Pte.ltd|
+|18|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
