@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4076** proxies at the latest update. Usable proxies are below.
+> Scraper found **4044** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|247|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|634|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|85|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|83|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2148|✅|
 
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|116.80.65.214|3172|Japan|Kita|InfoSphere|
 |2|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|141.11.210.159|8888|United States|Los Angeles|Virtual Machine Solutions LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|116.98.55.133|4002|Vietnam|Da Nang|Viettel Group|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|146.19.56.212|7890|United States|Houston|Rackvolt Cloud Solutions Private Limited|
-|18|184.82.173.157|8080|Thailand|Sakon Nakhon|AIS-Fibre|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.145.203.76|8446|United States|Redondo Beach|Enzu Inc|
+|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|38.145.208.177|8450|United States|Redondo Beach|Enzu Inc|
+|13|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
+|16|38.145.218.14|8446|United States|Redondo Beach|Enzu Inc|
+|17|41.254.47.66|19000|Libya|Tripoli|LTT Network Backbone and POPs|
+|18|89.43.133.200|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
+|19|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 |20|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
