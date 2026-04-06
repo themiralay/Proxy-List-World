@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.82|3172|Japan|Kita|InfoSphere|
 |2|116.80.63.67|7777|Japan|Kita|InfoSphere|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|9|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |10|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|19|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|116.80.65.74|3172|Japan|Kita|InfoSphere|
+|16|43.167.237.94|3128|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
