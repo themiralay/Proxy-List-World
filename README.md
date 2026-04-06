@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|14|24.152.53.68|999|Guatemala|Jalapa|TV CABLE UNIVERSAL S.A|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|19|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|103.184.67.119|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|103.163.111.56|1111|Indonesia|Tasikmalaya|PT Galunggung Access Solutions|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|151.240.0.20|1664|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
