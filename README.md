@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.82|3172|Japan|Kita|InfoSphere|
-|2|116.80.63.67|7777|Japan|Kita|InfoSphere|
+|1|116.80.63.67|7777|Japan|Kita|InfoSphere|
+|2|116.80.65.82|3172|Japan|Kita|InfoSphere|
 |3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|7|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|8|103.159.195.183|1080|Indonesia|Sumenep|PT Giga Digital Nusantara|
-|9|89.109.23.80|3128|Russia|Nizhniy Novgorod|PJSC Rostelecom|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|116.80.65.74|3172|Japan|Kita|InfoSphere|
 |10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|103.172.71.209|1080|Indonesia|Kampunganyar Krajan|AZNET|
-|14|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|11|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|103.159.194.209|7777|Indonesia|Ketanggungan|PT Giga Digital Nusantara|
-|19|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|190.52.110.71|999|Venezuela|Caracas|Gold Data USA Inc|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|190.97.226.134|999|Venezuela|Barinas|Viginet C.A|
+|20|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
 
 
 
