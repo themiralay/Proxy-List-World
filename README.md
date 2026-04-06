@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.179.178|8444|United States|Redondo Beach|Enzu Inc|
-|2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|6|38.145.218.87|8451|United States|Redondo Beach|Enzu Inc|
+|1|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|2|38.34.179.101|8453|United States|Redondo Beach|Enzu Inc|
+|3|38.145.218.87|8451|United States|Redondo Beach|Enzu Inc|
+|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
 |7|38.145.220.82|8448|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|9|45.136.130.178|8453|United States|Redondo Beach|Enzu Inc|
-|10|38.145.208.172|8446|United States|Redondo Beach|Enzu Inc|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|13|38.145.220.82|8448|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|38.145.208.207|8445|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.167|8451|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.165|8450|United States|Redondo Beach|Enzu Inc|
-|19|38.145.220.20|8450|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.99|8446|United States|Redondo Beach|Enzu Inc|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|38.145.203.32|8452|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.80|8452|United States|Redondo Beach|Enzu Inc|
+|15|38.145.220.82|8448|United States|Redondo Beach|Enzu Inc|
+|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
+|18|38.145.220.33|8446|United States|Redondo Beach|Enzu Inc|
+|19|38.145.203.32|8452|United States|Redondo Beach|Enzu Inc|
+|20|38.145.220.33|8446|United States|Redondo Beach|Enzu Inc|
 
 
 
