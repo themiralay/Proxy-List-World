@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|216.24.209.3|4000|United States|Seattle|The Constant Company, LLC|
-|9|38.145.208.217|8450|United States|Redondo Beach|Enzu Inc|
-|10|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|11|38.145.208.217|8450|United States|Redondo Beach|Enzu Inc|
-|12|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|38.34.179.175|8445|United States|Redondo Beach|Enzu Inc|
-|14|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|203.205.49.2|10227|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|16|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|4|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
+|9|45.136.131.25|8453|United States|Redondo Beach|Enzu Inc|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|38.34.179.47|8450|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.101|8453|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.56|8450|United States|Redondo Beach|Enzu Inc|
+|14|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|38.34.179.42|8443|United States|Redondo Beach|Enzu Inc|
+|16|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|18|38.145.208.217|8450|United States|Redondo Beach|Enzu Inc|
+|19|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|38.34.179.74|8447|United States|Redondo Beach|Enzu Inc|
 
 
 
