@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.34.179.178|8444|United States|Redondo Beach|Enzu Inc|
-|2|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
-|3|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
-|4|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.145.203.132|8450|United States|Redondo Beach|Enzu Inc|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|11|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|12|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|6|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|7|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|11|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|16|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|111.227.254.10|22222|China|Shijiazhuang|Chinanet|
 
 
 
