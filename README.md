@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.13|8446|United States|Redondo Beach|Enzu Inc|
-|7|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|10|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|5|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.81|8443|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.175|8445|United States|Redondo Beach|Enzu Inc|
+|8|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|9|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|170.81.241.226|999|Peru|Chiclayo|Inventa Telecomunicaciones Eirl|
+|12|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
+|13|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|38.145.208.223|8450|United States|Redondo Beach|Enzu Inc|
+|16|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|17|38.34.179.175|8445|United States|Redondo Beach|Enzu Inc|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|38.34.179.36|8453|United States|Redondo Beach|Enzu Inc|
+|20|61.216.156.222|60808|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
 
 
 
