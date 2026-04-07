@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|5|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|38.34.179.160|8446|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.135|8450|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
-|10|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|38.34.179.160|8446|United States|Redondo Beach|Enzu Inc|
-|13|38.145.208.229|8453|United States|Redondo Beach|Enzu Inc|
+|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|103.180.118.99|8044|Indonesia|Mojoagung|PT Persada Data Multimedia|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|38.145.208.229|8453|United States|Redondo Beach|Enzu Inc|
+|11|45.136.130.191|8447|United States|Redondo Beach|Enzu Inc|
+|12|38.145.208.229|8453|United States|Redondo Beach|Enzu Inc|
+|13|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
 |14|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
-|15|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.189|8445|United States|Redondo Beach|Enzu Inc|
-|19|38.145.208.229|8453|United States|Redondo Beach|Enzu Inc|
-|20|38.34.179.135|8450|United States|Redondo Beach|Enzu Inc|
+|15|194.58.47.219|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.167|8451|United States|Redondo Beach|Enzu Inc|
+|19|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|20|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
