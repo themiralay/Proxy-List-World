@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.34.179.57|8448|United States|Redondo Beach|Enzu Inc|
-|8|103.173.162.201|8080|Indonesia|Cirebon|Paket Data Andal|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|15|38.145.203.76|8446|United States|Redondo Beach|Enzu Inc|
-|16|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
-|17|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
-|18|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|19|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|38.34.179.57|8448|United States|Redondo Beach|Enzu Inc|
+|3|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.34.179.38|8447|United States|Redondo Beach|Enzu Inc|
+|6|38.145.203.43|8448|United States|Redondo Beach|Enzu Inc|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
+|9|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|11|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
+|14|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.199|8452|United States|Redondo Beach|Enzu Inc|
+|16|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|17|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
+|18|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
 
 
 
