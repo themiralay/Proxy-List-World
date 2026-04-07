@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.64|8451|United States|Redondo Beach|Enzu Inc|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|16|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|186.250.202.104|8080|Brazil|Itajubá|G6 Internet|
-|18|103.135.102.161|8081|Hong Kong|Wan Chai|ASSN-AKRN|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|38.34.179.64|8451|United States|Redondo Beach|Enzu Inc|
+|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
+|12|186.250.202.104|8080|Brazil|Itajubá|G6 Internet|
+|13|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|14|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|19|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
