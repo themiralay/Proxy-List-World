@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|11|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|45.122.122.71|8080|India|Gurugram|FusionNet|
-|16|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|17|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|18|193.23.200.251|10808|Sweden|Stockholm|SERV.HOST GROUP LTD|
-|19|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.135|8450|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|38.34.179.160|8446|United States|Redondo Beach|Enzu Inc|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|45.122.122.71|8080|India|Gurugram|FusionNet|
+|15|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|16|38.34.179.161|8451|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.162|8451|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.156|8451|United States|Redondo Beach|Enzu Inc|
+|19|103.38.101.218|8080|Indonesia|Tulangan Utara|LAXONET|
+|20|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
