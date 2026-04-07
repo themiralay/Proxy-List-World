@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|38.145.218.162|8448|United States|Redondo Beach|Enzu Inc|
-|12|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
-|14|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.133.25.99|8787|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|16|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.147.134.133|3125|Indonesia|Pakong|PT.MURNI MAKMUR ABADI|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
