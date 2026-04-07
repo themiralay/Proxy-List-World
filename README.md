@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.194|3172|Japan|Kita|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.63.194|3172|Japan|Kita|InfoSphere|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |18|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|19|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
-|20|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
 
 
 
