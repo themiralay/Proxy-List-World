@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
-|9|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|66.80.0.214|1085|United States|Los Angeles|Bunny Communications|
-|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|124.120.48.20|8080|Thailand|Phuket|TRUEBB|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|176.124.222.8|1080|Russia|Moscow|Aeza Group LLC|
-|18|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|11|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|176.124.222.8|1080|Russia|Moscow|Aeza Group LLC|
+|14|89.169.35.12|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
