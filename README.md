@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
-|11|216.24.209.3|4000|United States|Seattle|The Constant Company, LLC|
-|12|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|6|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|103.173.162.201|8080|Indonesia|Cirebon|Paket Data Andal|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |13|116.80.65.74|3172|Japan|Kita|InfoSphere|
-|14|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|119.93.139.196|8082|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
+|15|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|181.78.243.102|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|190.97.241.10|999|Venezuela|Mérida|Viginet C.A|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
