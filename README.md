@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4472** proxies at the latest update. Usable proxies are below.
+> Scraper found **4351** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|254|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|929|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|257|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|805|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|116|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2241|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|103.145.146.3|3125|Indonesia|Pekanbaru|PT INTI MEDIA TEKNOLOGI|
-|3|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|38.34.179.21|8443|United States|Redondo Beach|Enzu Inc|
-|9|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.199|8452|United States|Redondo Beach|Enzu Inc|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|38.244.204.7|3128|United States|Chicago|HIVELOCITY, Inc.|
-|13|45.136.131.26|8446|United States|Redondo Beach|Enzu Inc|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|45.136.131.26|8446|United States|Redondo Beach|Enzu Inc|
-|16|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|17|38.145.203.19|8447|United States|Redondo Beach|Enzu Inc|
-|18|95.181.174.211|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|19|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|5|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|38.145.208.178|8444|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|10|38.145.203.19|8447|United States|Redondo Beach|Enzu Inc|
+|11|38.145.218.113|8446|United States|Redondo Beach|Enzu Inc|
+|12|38.34.178.245|8446|United States|Redondo Beach|Enzu Inc|
+|13|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|16|95.181.174.211|1080|Germany|Frankfurt am Main|Aeza International LTD|
+|17|38.34.179.18|8451|United States|Redondo Beach|Enzu Inc|
+|18|38.34.179.18|8451|United States|Redondo Beach|Enzu Inc|
+|19|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
