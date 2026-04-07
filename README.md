@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.194|3172|Japan|Kita|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.136.131.46|8443|United States|Redondo Beach|Enzu Inc|
+|2|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.145.218.113|8446|United States|Redondo Beach|Enzu Inc|
+|10|38.34.178.245|8446|United States|Redondo Beach|Enzu Inc|
 |11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|66.80.0.214|1085|United States|Los Angeles|Bunny Communications|
-|18|38.145.218.216|8449|United States|Redondo Beach|Enzu Inc|
-|19|212.108.115.59|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|45.136.131.46|8443|United States|Redondo Beach|Enzu Inc|
+|17|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|18|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
