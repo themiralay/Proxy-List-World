@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|45.122.122.71|8080|India|Gurugram|FusionNet|
-|7|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|38.145.203.111|8450|United States|Redondo Beach|Enzu Inc|
-|10|89.169.35.12|1080|Sweden|Stockholm|xorek.cloud International LTD|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|5|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|216.24.209.174|4000|United States|Seattle|The Constant Company, LLC|
+|7|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 |11|216.24.209.3|4000|United States|Seattle|The Constant Company, LLC|
-|12|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|176.124.222.8|1080|Russia|Moscow|Aeza Group LLC|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|13|176.124.222.8|1080|Russia|Moscow|Aeza Group LLC|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
