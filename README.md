@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.63.194|3172|Japan|Kita|InfoSphere|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|38.145.208.173|8444|United States|Redondo Beach|Enzu Inc|
-|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|38.145.208.173|8444|United States|Redondo Beach|Enzu Inc|
-|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|11|45.136.131.55|8451|United States|Redondo Beach|Enzu Inc|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|202.154.18.72|8084|Indonesia|Babat|DIGITNET|
-|19|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|38.145.218.233|8444|United States|Redondo Beach|Enzu Inc|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|38.145.208.173|8444|United States|Redondo Beach|Enzu Inc|
+|12|38.145.220.198|8446|United States|Redondo Beach|Enzu Inc|
+|13|38.145.218.233|8444|United States|Redondo Beach|Enzu Inc|
+|14|45.136.130.166|8447|United States|Redondo Beach|Enzu Inc|
+|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
