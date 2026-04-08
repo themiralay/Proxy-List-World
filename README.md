@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|116.80.65.76|3172|Japan|Kita|InfoSphere|
+|2|116.80.65.75|3172|Japan|Kita|InfoSphere|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |8|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|9|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|11|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|185.76.240.29|10001|Russia|Moscow|GIR SER|
 |12|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|13|185.76.240.215|10001|Russia|Moscow|GIR SER|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|16|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|185.76.240.29|10001|Russia|Moscow|GIR SER|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|202.58.77.112|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|16|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
