@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
 |6|38.34.179.81|8443|United States|Redondo Beach|Enzu Inc|
 |7|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
 |8|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|9|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|9|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
 |10|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
-|12|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|103.56.112.120|7890|Hong Kong|San Po Kong|Colocation at Shatin China Telecom|
-|16|38.145.220.60|8447|United States|Redondo Beach|Enzu Inc|
-|17|38.145.220.182|8450|United States|Redondo Beach|Enzu Inc|
-|18|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|19|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|20|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|87.121.86.166|1080|Estonia|Tallinn|OC NETWORKS LIMITED|
+|12|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
+|13|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|24.119.238.146|10000|United States|Payson|CABLE ONE, INC.|
+|16|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
+|17|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
