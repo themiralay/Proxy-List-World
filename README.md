@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4177** proxies at the latest update. Usable proxies are below.
+> Scraper found **4939** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|700|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|79|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2166|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2928|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|45.136.131.26|8446|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.81|8443|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|9|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
 |11|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|13|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|15|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|16|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|18|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|14|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|38.34.179.81|8443|United States|Redondo Beach|Enzu Inc|
+|16|104.168.93.120|8080|United States|Buffalo|HostPapa|
+|17|38.34.179.229|8447|United States|Redondo Beach|Enzu Inc|
+|18|103.176.97.223|3127|Indonesia|Bekasi|PT Global Sarana Elektronika|
+|19|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
+|20|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
 
 
 
