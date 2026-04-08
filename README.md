@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.76|3172|Japan|Kita|InfoSphere|
 |2|116.80.65.75|3172|Japan|Kita|InfoSphere|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|185.76.240.29|10001|Russia|Moscow|GIR SER|
-|11|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|15|119.93.170.95|8085|Philippines|Angeles City|Philippine Long Distance Telephone Co.|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|190.52.110.95|999|Venezuela|Caracas|Gold Data USA Inc|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|6|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|7|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|9|45.122.122.71|8080|India|Gurugram|FusionNet|
+|10|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
+|16|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|17|185.76.240.29|10001|Russia|Moscow|GIR SER|
+|18|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
 
 
 
