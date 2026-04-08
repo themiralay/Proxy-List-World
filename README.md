@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4720** proxies at the latest update. Usable proxies are below.
+> Scraper found **4747** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|675|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|702|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|133|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2680|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|38.34.179.167|8451|United States|Redondo Beach|Enzu Inc|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|38.145.208.253|8443|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.173|8451|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.167|8451|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.175|8445|United States|Redondo Beach|Enzu Inc|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|12|38.145.218.9|8445|United States|Redondo Beach|Enzu Inc|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|38.34.179.178|8444|United States|Redondo Beach|Enzu Inc|
-|15|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|16|38.145.218.234|8447|United States|Redondo Beach|Enzu Inc|
-|17|38.145.208.215|8444|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.175|8445|United States|Redondo Beach|Enzu Inc|
-|19|103.22.99.26|8080|Indonesia|Magetan|KHALISTAGROUP|
-|20|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
+|6|45.136.131.46|8443|United States|Redondo Beach|Enzu Inc|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|9|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|20.204.175.243|3128|India|Pune|Microsoft Corporation|
+|12|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|13|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
+|14|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
+|17|45.136.131.47|8452|United States|Redondo Beach|Enzu Inc|
+|18|45.136.131.47|8452|United States|Redondo Beach|Enzu Inc|
+|19|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
+|20|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
 
 
 
