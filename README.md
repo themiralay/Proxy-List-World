@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.95.250|3172|Japan|Kita|InfoSphere|
-|2|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|185.46.11.139|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
-|11|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|12|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|38.145.208.253|8443|United States|Redondo Beach|Enzu Inc|
-|18|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|20|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|185.76.240.29|10001|Russia|Moscow|GIR SER|
+|9|182.253.93.3|53281|Indonesia|Madiun|BIZNET|
+|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|11|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|49.48.83.196|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|14|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|116.80.82.239|3172|Japan|Kita|InfoSphere|
 
 
 
