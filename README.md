@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.96|3172|Japan|Kita|InfoSphere|
-|2|116.80.95.231|3172|Japan|Kita|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|38.34.179.94|8444|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.94|8444|United States|Redondo Beach|Enzu Inc|
-|16|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|17|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|18|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|19|140.245.66.105|8081|South Korea|Chuncheon|Oracle Corporation|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|38.34.179.94|8444|United States|Redondo Beach|Enzu Inc|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|38.34.179.94|8444|United States|Redondo Beach|Enzu Inc|
+|13|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|17|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|18|176.124.222.8|1080|Russia|Moscow|Aeza Group LLC|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
