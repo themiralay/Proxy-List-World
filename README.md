@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|3|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.210.35.183|8080|Indonesia|Yogyakarta|Diskominfo DIY|
-|7|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|11|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|12|116.80.95.250|3172|Japan|Kita|InfoSphere|
-|13|176.124.222.8|1080|Russia|Moscow|Aeza Group LLC|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|103.175.202.178|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
-|18|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|116.80.95.250|3172|Japan|Kita|InfoSphere|
+|2|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|6|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|7|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|13|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|14|103.229.127.31|7890|Hong Kong|San Po Kong|Hosted in Cloudie Limited|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|103.102.12.134|1111|Indonesia|Rembang|FISNET|
+|17|103.133.26.45|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|187.102.211.244|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
 
 
 
