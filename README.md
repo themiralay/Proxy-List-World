@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|49.156.22.177|8082|Indonesia|Salatiga|PalapaNET|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|4|38.145.218.9|8445|United States|Redondo Beach|Enzu Inc|
 |5|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|8|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|38.34.179.47|8450|United States|Redondo Beach|Enzu Inc|
-|11|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|45.136.131.40|8444|United States|Redondo Beach|Enzu Inc|
-|16|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|202.154.18.72|8084|Indonesia|Babat|DIGITNET|
-|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|6|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|17|36.66.211.7|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
