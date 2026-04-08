@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4760** proxies at the latest update. Usable proxies are below.
+> Scraper found **4781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2821|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.67|7777|Japan|Kita|InfoSphere|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|116.80.63.67|7777|Japan|Kita|InfoSphere|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|121.101.133.220|7777|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
-|10|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|12|216.24.209.3|4000|United States|Seattle|The Constant Company, LLC|
-|13|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|14|45.122.122.71|8080|India|Gurugram|FusionNet|
-|15|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
-|17|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|20|185.76.240.29|10001|Russia|Moscow|GIR SER|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|103.109.213.134|4949|Bangladesh|Khagrachhari|Bismillah Telecom Service|
+|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|203.192.217.6|8080|India|Pune|Entire In2Cable|
+|11|112.198.178.194|8080|Philippines|Nasugbu|Globe Telecom|
+|12|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|103.217.213.124|32650|India|Guntur|E Net Entertainment Pvt Ltd|
+|15|167.71.245.33|3128|United States|Clifton|DigitalOcean, LLC|
+|16|202.58.66.44|8080|Indonesia|Jakarta|PT Mamura Inter Media|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
+|20|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
 
 
 
