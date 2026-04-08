@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|124.105.79.237|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|116.80.82.92|7777|Japan|Kita|InfoSphere|
-|15|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|16|158.160.212.239|8888|Russia|Moscow|Yandex.Cloud LLC|
-|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|18|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|18|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|19|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|20|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
 
 
 
