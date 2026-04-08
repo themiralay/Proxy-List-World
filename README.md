@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.131.179.49|36590|Hong Kong|Hong Kong|Xnnet LLC|
+|6|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
-|10|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|13|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|103.121.199.138|62797|Indonesia|Caringin|PT Parsaoran Global Datatrans|
-|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|16|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|185.76.240.29|10001|Russia|Moscow|GIR SER|
+|8|38.145.220.182|8450|United States|Redondo Beach|Enzu Inc|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|14|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|17|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 
 
 
