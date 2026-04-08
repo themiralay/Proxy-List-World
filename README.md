@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|1|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|38.145.208.169|8452|United States|Redondo Beach|Enzu Inc|
-|7|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|9|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|185.76.240.29|10001|Russia|Moscow|GIR SER|
-|11|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
-|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|38.145.203.19|8447|United States|Redondo Beach|Enzu Inc|
-|17|103.247.15.53|7777|Indonesia|Kutoarjo|TERABIT|
-|18|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|7|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|8|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|13|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|16|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|20|74.48.130.93|1080|United States|Los Angeles|Multacom Corporation|
 
 
 
