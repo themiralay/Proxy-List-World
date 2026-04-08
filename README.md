@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|5|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|11|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|12|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|13|74.48.130.93|1080|United States|Los Angeles|Multacom Corporation|
-|14|113.192.1.44|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|15|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|16|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|103.247.15.53|7777|Indonesia|Kutoarjo|TERABIT|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|10|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.56.92.67|1935|Indonesia|Semarang|Argon Data Communication|
+|12|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|103.102.12.134|1111|Indonesia|Rembang|FISNET|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
