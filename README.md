@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
-|3|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|4|185.76.240.184|10001|Russia|Moscow|GIR SER|
-|5|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|6|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|7|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|8|171.232.43.57|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|10|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|1|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
+|2|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|3|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
+|7|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|8|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
+|9|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|185.76.240.225|10001|Russia|Moscow|GIR SER|
+|13|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|14|185.76.240.102|10001|Russia|Moscow|GIR SER|
+|15|38.145.220.188|8451|United States|Redondo Beach|Enzu Inc|
+|16|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
