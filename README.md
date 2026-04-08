@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.64.96|3172|Japan|Kita|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.80.95.231|3172|Japan|Kita|InfoSphere|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.239.23.133|3125|Indonesia|Karanglo|PT Foura Inti Sinergi|
-|10|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|11|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|116.80.95.231|3172|Japan|Kita|InfoSphere|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|116.80.64.96|3172|Japan|Kita|InfoSphere|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
-|15|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
-|18|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|19|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|20|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
+|14|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|45.136.131.34|8444|United States|Redondo Beach|Enzu Inc|
 
 
 
