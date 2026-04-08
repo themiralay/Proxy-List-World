@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4613** proxies at the latest update. Usable proxies are below.
+> Scraper found **4640** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|653|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|680|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2658|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.217.55|8119|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.145.208.243|8447|United States|Redondo Beach|Enzu Inc|
-|5|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|38.34.179.229|8447|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.204|8447|United States|Redondo Beach|Enzu Inc|
-|8|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
+|7|38.145.208.243|8447|United States|Redondo Beach|Enzu Inc|
+|8|185.76.240.29|10001|Russia|Moscow|GIR SER|
 |9|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|10|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|38.34.179.229|8447|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.204|8447|United States|Redondo Beach|Enzu Inc|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
 |13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|38.156.72.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
+|14|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|19|103.66.47.9|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|20|176.124.222.8|1080|Russia|Moscow|Aeza Group LLC|
 
 
 
