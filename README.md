@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.38.154.7|1080|United States|Santa Clara|DigitalOcean, LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|198.59.68.130|3128|United States|Ashburn|CenturyLink Communications, LLC|
-|11|82.114.228.67|1080|Russia|Saratov|SCTS|
-|12|27.147.28.73|8080|Taiwan|Xindian District|Extra-Lan Technologies Co., LTD|
-|13|185.76.240.29|10001|Russia|Moscow|GIR SER|
+|2|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|7|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|10|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|11|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|12|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|176.124.222.8|1080|Russia|Moscow|Aeza Group LLC|
 |14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|198.59.68.130|3128|United States|Ashburn|CenturyLink Communications, LLC|
-|16|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|20|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|202.58.77.112|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 
 
 
