@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.145.220.79|8450|United States|Redondo Beach|Enzu Inc|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.192.31.7|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|5|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
-|6|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|7|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|8|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|38.34.179.100|8452|United States|Redondo Beach|Enzu Inc|
-|12|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
-|13|185.76.241.162|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|14|185.76.240.50|10001|Russia|Moscow|GIR SER|
-|15|185.76.240.44|10001|Russia|Moscow|GIR SER|
-|16|185.76.240.193|10001|Russia|Moscow|GIR SER|
-|17|185.76.240.194|10001|Russia|Moscow|GIR SER|
-|18|185.76.240.106|10001|Russia|Moscow|GIR SER|
-|19|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
-|20|185.76.240.224|10001|Russia|Moscow|GIR SER|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
+|6|45.136.131.59|8444|United States|Redondo Beach|Enzu Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
+|9|38.145.220.188|8451|United States|Redondo Beach|Enzu Inc|
+|10|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|11|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|12|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|13|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|14|38.145.203.19|8447|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
+|16|185.76.240.184|10001|Russia|Moscow|GIR SER|
+|17|185.76.240.119|10001|Russia|Moscow|GIR SER|
+|18|185.76.241.195|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|19|113.192.31.7|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
