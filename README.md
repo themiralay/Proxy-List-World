@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
-|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|87.121.86.166|1080|Estonia|Tallinn|OC NETWORKS LIMITED|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.145.220.182|8450|United States|Redondo Beach|Enzu Inc|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
+|10|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|11|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|12|87.121.86.166|1080|Estonia|Tallinn|OC NETWORKS LIMITED|
+|13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
 |14|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|16|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|17|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|45.136.131.46|8443|United States|Redondo Beach|Enzu Inc|
-|20|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|15|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|16|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|17|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|18|45.136.131.46|8443|United States|Redondo Beach|Enzu Inc|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|116.80.82.92|7777|Japan|Kita|InfoSphere|
 
 
 
