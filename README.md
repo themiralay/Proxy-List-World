@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4752** proxies at the latest update. Usable proxies are below.
+> Scraper found **4777** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2821|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.67|7777|Japan|Kita|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|3|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
 |4|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|6|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|5|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.247.15.91|7777|Indonesia|Magelang|TERABIT|
-|12|103.142.254.101|1111|Indonesia|Penambangan|PT.CITRA BERDIKARI NUSANTARA|
-|13|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|15|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|38.145.208.227|8447|United States|Redondo Beach|Enzu Inc|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|103.126.87.182|8080|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|19|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|8|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|9|38.145.208.169|8452|United States|Redondo Beach|Enzu Inc|
+|10|38.145.208.169|8452|United States|Redondo Beach|Enzu Inc|
+|11|203.207.56.57|8080|Indonesia|Cileunyi|STARNET|
+|12|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|15|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|17|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
