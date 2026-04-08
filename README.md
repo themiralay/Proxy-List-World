@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|9|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|185.76.240.29|10001|Russia|Moscow|GIR SER|
-|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|45.122.122.71|8080|India|Gurugram|FusionNet|
+|6|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|8|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|14|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|185.76.240.29|10001|Russia|Moscow|GIR SER|
+|18|165.22.57.158|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
