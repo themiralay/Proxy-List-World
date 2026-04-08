@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.76|3172|Japan|Kita|InfoSphere|
 |2|116.80.65.75|3172|Japan|Kita|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|8|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|185.76.240.29|10001|Russia|Moscow|GIR SER|
-|13|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|14|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|109.107.179.140|8090|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|159.223.213.91|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|178.128.24.162|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|196.15.149.177|8080|South Africa|Venterstad|SHISAS|
+|12|157.66.192.91|8080|Indonesia|Randudongkal|PT Indotech Digitama Superlink|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|16|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|17|185.76.240.29|10001|Russia|Moscow|GIR SER|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|159.223.71.162|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
