@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|116.80.63.46|7777|Japan|Kita|InfoSphere|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|1|116.80.63.46|7777|Japan|Kita|InfoSphere|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|119.92.71.40|8080|Philippines|Talisay|Philippine Long Distance Telephone Co.|
-|8|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|11|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|16|45.136.130.185|8444|United States|Redondo Beach|Enzu Inc|
-|17|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|18|45.136.130.186|8444|United States|Redondo Beach|Enzu Inc|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|10|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|12|103.122.64.213|8080|Indonesia|Sungaigerong|PT. Jinom Network Indonesia|
+|13|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|103.162.221.162|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|103.147.134.133|3125|Indonesia|Pakong|PT.MURNI MAKMUR ABADI|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|185.76.241.98|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
 
 
 
