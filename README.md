@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.16|7777|Japan|Kita|InfoSphere|
 |2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|116.80.63.194|3172|Japan|Kita|InfoSphere|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|1.234.153.14|80|South Korea|Seocho-gu|SK Broadband Co Ltd|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|185.76.240.29|10001|Russia|Moscow|GIR SER|
-|11|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|12|185.76.240.60|10001|Russia|Moscow|GIR SER|
-|13|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|14|185.76.241.96|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|15|185.76.240.201|10001|Russia|Moscow|GIR SER|
-|16|185.76.240.51|10001|Russia|Moscow|GIR SER|
-|17|185.76.240.59|10001|Russia|Moscow|GIR SER|
-|18|185.76.240.199|10001|Russia|Moscow|GIR SER|
-|19|157.10.90.47|8080|Indonesia|Ponorogo|PNGWIFI|
-|20|185.76.240.109|10001|Russia|Moscow|GIR SER|
+|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|11|38.34.179.28|8444|United States|Redondo Beach|Enzu Inc|
+|12|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|13|116.80.63.194|3172|Japan|Kita|InfoSphere|
+|14|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|185.76.240.60|10001|Russia|Moscow|GIR SER|
+|16|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|17|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|18|185.76.240.58|10001|Russia|Moscow|GIR SER|
+|19|185.76.240.54|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.51|10001|Russia|Moscow|GIR SER|
 
 
 
