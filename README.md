@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|5|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|6|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|7|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|12|190.60.48.171|999|Colombia|Bosconia|IFX NETWORKS COLOMBIA|
-|13|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|14|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|15|84.32.6.251|49146|United States|Columbia|Windstream Communications LLC|
-|16|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|17|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|18|185.76.240.184|10001|Russia|Moscow|GIR SER|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|163.223.116.244|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
+|4|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|9|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|34.231.145.203|7000|United States|Ashburn|Amazon.com, Inc.|
+|12|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|13|185.76.241.99|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|14|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|15|185.76.240.184|10001|Russia|Moscow|GIR SER|
+|16|185.76.240.115|10001|Russia|Moscow|GIR SER|
+|17|185.76.240.178|10001|Russia|Moscow|GIR SER|
+|18|185.76.240.14|10001|Russia|Moscow|GIR SER|
+|19|185.76.240.231|10001|Russia|Moscow|GIR SER|
+|20|63.151.67.7|8080|United States|Steamboat Springs|CenturyLink Communications|
 
 
 
