@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 |2|116.80.64.158|7777|Japan|Kita|InfoSphere|
-|3|38.145.208.170|8449|United States|Redondo Beach|Enzu Inc|
-|4|38.145.203.111|8450|United States|Redondo Beach|Enzu Inc|
-|5|38.145.208.208|8444|United States|Redondo Beach|Enzu Inc|
-|6|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|38.145.208.180|8451|United States|Redondo Beach|Enzu Inc|
-|9|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
-|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|11|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|12|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|13|38.145.203.111|8450|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.7|8444|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.65|8448|United States|Redondo Beach|Enzu Inc|
-|16|38.145.218.212|8448|United States|Redondo Beach|Enzu Inc|
-|17|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
-|18|38.145.208.226|8448|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.199|8452|United States|Redondo Beach|Enzu Inc|
-|20|45.136.130.178|8453|United States|Redondo Beach|Enzu Inc|
+|3|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|4|38.145.220.81|8445|United States|Redondo Beach|Enzu Inc|
+|5|38.145.218.212|8448|United States|Redondo Beach|Enzu Inc|
+|6|38.34.178.245|8446|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.50|8444|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|38.145.220.82|8448|United States|Redondo Beach|Enzu Inc|
+|11|38.145.203.46|8447|United States|Redondo Beach|Enzu Inc|
+|12|38.145.208.208|8444|United States|Redondo Beach|Enzu Inc|
+|13|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|14|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|15|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|38.145.220.55|8444|United States|Redondo Beach|Enzu Inc|
+|18|38.145.220.65|8444|United States|Redondo Beach|Enzu Inc|
+|19|38.34.179.30|8448|United States|Redondo Beach|Enzu Inc|
+|20|38.145.218.206|8444|United States|Redondo Beach|Enzu Inc|
 
 
 
