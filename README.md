@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 |2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|11|38.34.179.26|8448|United States|Redondo Beach|Enzu Inc|
 |12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|14|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|151.245.137.49|40000|The Netherlands|Amsterdam|Hostkey B.V.|
-|17|103.180.126.114|8080|Indonesia|Jakarta|PT Alam Media Data|
-|18|160.22.92.24|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
-|19|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|1.20.248.184|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|103.76.12.158|8080|Indonesia|Ciputat|PT Mora Telematika Indonesia|
+|19|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|38.34.179.26|8448|United States|Redondo Beach|Enzu Inc|
 
 
 
