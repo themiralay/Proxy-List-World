@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|1|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
 |2|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|4|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
-|8|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
-|15|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|17|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|20|175.158.63.166|1111|Indonesia|South Tangerang|CBNNAP|
+|3|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|103.76.108.227|1256|Indonesia|Probolinggo|PT Mahawira Nusantara Grup|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|9|38.34.179.19|8448|United States|Redondo Beach|Enzu Inc|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|38.145.220.41|8444|United States|Redondo Beach|Enzu Inc|
+|12|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|14|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
+|16|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|17|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|18|193.93.55.175|34526|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|19|38.145.208.179|8450|United States|Redondo Beach|Enzu Inc|
+|20|38.145.208.179|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
