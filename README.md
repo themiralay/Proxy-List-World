@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |4|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|5|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
-|8|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|11|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|16|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|9|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|14|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|38.34.179.178|8444|United States|Redondo Beach|Enzu Inc|
 |17|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|19|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|20|185.76.240.61|10001|Russia|Moscow|GIR SER|
 
 
 
