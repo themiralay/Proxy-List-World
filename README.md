@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|4|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|5|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|9|185.76.240.127|10001|Russia|Moscow|GIR SER|
-|10|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|104.168.93.120|8080|United States|Buffalo|HostPapa|
-|13|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|14|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|157.15.112.41|8080|Indonesia|Banjar Jabejero|HEBIT|
-|17|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|181.143.181.35|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|111.227.254.12|22222|China|Shijiazhuang|Chinanet|
-|20|180.148.25.182|8085|Indonesia|Cianjur|PT GIGA NETWORK INDONESIA|
+|2|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|3|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
+|4|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|103.154.77.192|8085|Indonesia|Sleman|T2NET|
+|8|176.88.166.202|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|147.45.167.84|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|185.76.240.64|10001|Russia|Moscow|GIR SER|
+|12|185.76.240.203|10001|Russia|Moscow|GIR SER|
+|13|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|14|185.76.240.200|10001|Russia|Moscow|GIR SER|
+|15|185.76.240.114|10001|Russia|Moscow|GIR SER|
+|16|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|17|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
