@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4371** proxies at the latest update. Usable proxies are below.
+> Scraper found **4362** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|117|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2345|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.46|7777|Japan|Kita|InfoSphere|
-|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|10|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|12|103.122.64.213|8080|Indonesia|Sungaigerong|PT. Jinom Network Indonesia|
-|13|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|103.162.221.162|3125|Indonesia|Madiun|PT Trisari Data Indonusa|
-|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|103.147.134.133|3125|Indonesia|Pakong|PT.MURNI MAKMUR ABADI|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|185.76.241.98|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|2|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
+|3|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|9|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|11|103.160.40.10|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
+|16|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|17|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
