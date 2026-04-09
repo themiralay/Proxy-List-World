@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|116.80.64.158|7777|Japan|Kita|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
-|5|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|8|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.50|8444|United States|Redondo Beach|Enzu Inc|
-|10|38.145.218.162|8448|United States|Redondo Beach|Enzu Inc|
-|11|38.145.220.81|8445|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.67|8446|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.22|8449|United States|Redondo Beach|Enzu Inc|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|16|38.145.208.182|8452|United States|Redondo Beach|Enzu Inc|
-|17|38.145.208.183|8448|United States|Redondo Beach|Enzu Inc|
-|18|38.145.220.79|8450|United States|Redondo Beach|Enzu Inc|
-|19|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|20|38.145.220.43|8450|United States|Redondo Beach|Enzu Inc|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|38.145.203.45|8449|United States|Redondo Beach|Enzu Inc|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|6|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|38.34.179.66|8444|United States|Redondo Beach|Enzu Inc|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|38.145.208.246|8445|United States|Redondo Beach|Enzu Inc|
+|16|38.145.218.9|8445|United States|Redondo Beach|Enzu Inc|
+|17|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
+|18|45.136.131.46|8443|United States|Redondo Beach|Enzu Inc|
+|19|45.136.131.46|8443|United States|Redondo Beach|Enzu Inc|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
