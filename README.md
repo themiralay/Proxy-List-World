@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|112.199.40.53|8080|Philippines|Makati City|Eastern Telecommunications Philippines|
-|6|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|13|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|15|185.76.241.99|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|103.152.238.83|1080|Indonesia|Cikarang|APRIN|
-|20|103.88.91.103|8090|Indonesia|Malang|PT Paket Switch Bersama|
+|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|103.134.246.90|8080|Indonesia|Banjar Triwangsakelusa|Wisuandha Network Globalindo|
+|6|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|11|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|12|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
+|13|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|14|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
+|16|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|103.99.27.43|3125|Indonesia|Brebes|PT Lintas Network Solusi|
+|18|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
 
 
 
