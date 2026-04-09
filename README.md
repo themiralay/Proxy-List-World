@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 |2|116.80.49.168|3172|Japan|Kita|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|11|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|14|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|212.113.102.190|33362|Sweden|Stockholm|xorek.cloud International LTD|
-|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|17|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|19|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|38.34.179.64|8451|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.145.220.81|8445|United States|Redondo Beach|Enzu Inc|
+|10|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
+|11|103.51.205.101|1080|Indonesia|Surakarta|Lintas Data Prima, PT|
+|12|38.34.179.64|8451|United States|Redondo Beach|Enzu Inc|
+|13|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|14|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|38.145.220.81|8445|United States|Redondo Beach|Enzu Inc|
+|17|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|18|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
 
 
 
