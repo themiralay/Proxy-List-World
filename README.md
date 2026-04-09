@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|3|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|4|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|7|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|10|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
+|8|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|9|202.58.77.77|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|10|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
 |11|195.123.209.48|3128|Latvia|Riga|Green Floid LLC|
-|12|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
-|13|185.76.240.195|10001|Russia|Moscow|GIR SER|
-|14|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|185.76.240.184|10001|Russia|Moscow|GIR SER|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|185.76.240.126|10001|Russia|Moscow|GIR SER|
-|19|150.241.71.15|1080|Germany|Frankfurt Am Main|xorek.cloud International LTD|
-|20|190.60.60.36|8080|Colombia|Galapa|IFX NETWORKS COLOMBIA|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
+|15|185.76.241.99|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|16|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|31.15.169.77|808|Slovenia|Celje|Telemach Slovenija d.o.o.|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
