@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
-|2|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
+|3|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|38.145.208.177|8450|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
 |6|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|7|38.145.208.177|8450|United States|Redondo Beach|Enzu Inc|
-|8|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|9|185.76.240.203|10001|Russia|Moscow|GIR SER|
-|10|185.76.240.61|10001|Russia|Moscow|GIR SER|
-|11|185.76.241.226|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|12|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|13|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
-|14|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
-|15|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|16|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|17|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
-|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|9|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|185.76.240.157|10001|Russia|Moscow|GIR SER|
+|13|38.34.179.57|8448|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.52|8449|United States|Redondo Beach|Enzu Inc|
+|15|185.76.240.227|10001|Russia|Moscow|GIR SER|
+|16|185.76.240.114|10001|Russia|Moscow|GIR SER|
+|17|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
+|18|185.76.240.239|10001|Russia|Moscow|GIR SER|
+|19|185.76.240.137|10001|Russia|Moscow|GIR SER|
+|20|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
 
 
 
