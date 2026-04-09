@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|2|45.136.130.187|8449|United States|Redondo Beach|Enzu Inc|
-|3|38.34.179.27|8453|United States|Redondo Beach|Enzu Inc|
-|4|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|5|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.34.179.52|8449|United States|Redondo Beach|Enzu Inc|
-|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|9|38.34.179.27|8453|United States|Redondo Beach|Enzu Inc|
-|10|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.154|8444|United States|Redondo Beach|Enzu Inc|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|45.136.130.249|8446|United States|Redondo Beach|Enzu Inc|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|38.145.218.13|8446|United States|Redondo Beach|Enzu Inc|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|94.72.57.157|8080|Russia|St Petersburg|MTS PJSC|
-|20|114.129.19.139|8080|Indonesia|Legian|PT Hipernet Indodata|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
+|6|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
+|7|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|9|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|14|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
 
 
 
