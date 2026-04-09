@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4338** proxies at the latest update. Usable proxies are below.
+> Scraper found **4416** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|722|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|117|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2345|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.46|7777|Japan|Kita|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|11|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|15|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|16|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|113.11.2.213|8080|Bangladesh|Dhaka|BDCOM Online Limited|
-|18|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|19|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|20|157.10.184.115|8080|Indonesia|Cikarang|PT Internet Tjepat Indonesia|
+|9|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
+|10|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|103.160.40.10|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|15|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|185.76.240.61|10001|Russia|Moscow|GIR SER|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
