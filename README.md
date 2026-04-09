@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 |2|116.80.48.16|7777|Japan|Kita|InfoSphere|
-|3|116.80.63.194|3172|Japan|Kita|InfoSphere|
-|4|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
+|3|1.234.153.14|80|South Korea|Seocho-gu|SK Broadband Co Ltd|
+|4|116.80.63.194|3172|Japan|Kita|InfoSphere|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
 |8|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|11|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|12|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|15|185.76.240.29|10001|Russia|Moscow|GIR SER|
-|16|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|17|185.76.240.184|10001|Russia|Moscow|GIR SER|
-|18|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|19|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|23.27.177.232|24574|United States|Los Angeles|Ace Data Centers II|
+|11|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|12|38.34.179.101|8453|United States|Redondo Beach|Enzu Inc|
+|13|45.136.130.252|8453|United States|Redondo Beach|Enzu Inc|
+|14|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|34.231.145.203|7000|United States|Ashburn|Amazon.com, Inc.|
+|16|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|17|185.76.241.96|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|18|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|19|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|20|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
