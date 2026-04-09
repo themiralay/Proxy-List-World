@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
-|9|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|182.253.44.9|3128|Indonesia|Jakarta|BIZNET|
-|16|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|122.52.34.55|8082|Philippines|Dasmariñas|Philippine Long Distance Telephone Co.|
-|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|185.76.240.12|10001|Russia|Moscow|GIR SER|
+|8|185.76.240.19|10001|Russia|Moscow|GIR SER|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|45.136.130.169|8444|United States|Redondo Beach|Enzu Inc|
+|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|119.93.14.61|8082|Philippines|Villadolid|Philippine Long Distance Telephone Co.|
+|20|148.222.152.7|999|Mexico|Tejupilco de Hidalgo|Rafael Rigoberto Lopez Orozco|
 
 
 
