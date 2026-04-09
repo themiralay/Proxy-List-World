@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|11|103.48.71.114|83|India|Lal Bahadur Nagar|Country Online Services PVT LTD|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|188.166.230.157|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|5|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|6|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|10|128.90.169.82|8118|Türkiye|Istanbul|Powerhouse Management, Inc.|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|160.25.223.14|8181|Indonesia|Palembang|PT Telemedia Prima Nusantara|
+|13|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|14|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|185.76.240.177|10001|Russia|Moscow|GIR SER|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
