@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.119.21|41816|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
 |3|38.145.203.109|8449|United States|Redondo Beach|Enzu Inc|
-|4|160.19.19.43|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|5|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|6|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|9|38.145.208.212|8446|United States|Redondo Beach|Enzu Inc|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|103.124.137.150|20|Indonesia|Purworejo|Global Media Data Prima|
-|13|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|14|38.145.203.109|8449|United States|Redondo Beach|Enzu Inc|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|38.145.208.214|8446|United States|Redondo Beach|Enzu Inc|
-|17|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
-|18|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
-|19|38.145.208.212|8446|United States|Redondo Beach|Enzu Inc|
-|20|185.76.240.195|10001|Russia|Moscow|GIR SER|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
+|6|38.145.208.226|8448|United States|Redondo Beach|Enzu Inc|
+|7|38.145.208.187|8449|United States|Redondo Beach|Enzu Inc|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|10|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|11|38.145.220.20|8450|United States|Redondo Beach|Enzu Inc|
+|12|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
+|13|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|14|38.145.208.212|8446|United States|Redondo Beach|Enzu Inc|
+|15|38.145.208.187|8449|United States|Redondo Beach|Enzu Inc|
+|16|38.145.203.109|8449|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.104|8447|United States|Redondo Beach|Enzu Inc|
+|18|38.145.218.160|8448|United States|Redondo Beach|Enzu Inc|
+|19|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|20|38.34.179.104|8447|United States|Redondo Beach|Enzu Inc|
 
 
 
