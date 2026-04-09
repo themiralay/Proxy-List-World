@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|9|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|13|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|14|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|17|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|18|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|19|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
+|1|38.34.179.178|8444|United States|Redondo Beach|Enzu Inc|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|4|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|5|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|8|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|13|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|14|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|15|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|16|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
