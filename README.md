@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|185.76.240.177|10001|Russia|Moscow|GIR SER|
-|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|202.5.37.104|17382|Bangladesh|Dhaka|BBTS-NEW|
-|14|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|15|212.108.115.106|8080|Syria|Kafr Lāhā|High Speed For Internet Services L.L.C|
-|16|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|38.49.142.174|999|Mexico|Juventino Rosas|IENTC S de RL de CV|
-|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|2|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|192.203.0.70|999|Puerto Rico|Comunas|Boom NET|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|11|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|12|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|38.145.208.177|8450|United States|Redondo Beach|Enzu Inc|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|185.76.240.12|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.17|10001|Russia|Moscow|GIR SER|
 
 
 
