@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.46|7777|Japan|Kita|InfoSphere|
-|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|9|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|10|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
-|12|38.145.203.107|8448|United States|Redondo Beach|Enzu Inc|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|38.145.203.107|8448|United States|Redondo Beach|Enzu Inc|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|18|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|19|185.76.240.20|10001|Russia|Moscow|GIR SER|
-|20|45.229.17.130|999|Ecuador|Vinces|Turbonet S.A.|
+|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|116.80.63.46|7777|Japan|Kita|InfoSphere|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|5|38.34.179.167|8451|United States|Redondo Beach|Enzu Inc|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
+|8|38.145.203.107|8448|United States|Redondo Beach|Enzu Inc|
+|9|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|10|103.141.150.147|8080|Indonesia|Bandung|PRIMACOM|
+|11|38.145.208.173|8444|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
+|13|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
+|14|38.145.208.174|8444|United States|Redondo Beach|Enzu Inc|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|38.145.208.173|8444|United States|Redondo Beach|Enzu Inc|
+|17|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|103.122.64.213|8080|Indonesia|Sungaigerong|PT. Jinom Network Indonesia|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|38.145.203.107|8448|United States|Redondo Beach|Enzu Inc|
 
 
 
