@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
 |2|116.80.64.158|7777|Japan|Kita|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
-|9|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
-|10|38.34.178.245|8446|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.98|8445|United States|Redondo Beach|Enzu Inc|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|14|38.145.208.226|8448|United States|Redondo Beach|Enzu Inc|
-|15|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
-|16|38.145.218.212|8448|United States|Redondo Beach|Enzu Inc|
-|17|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|38.145.218.234|8447|United States|Redondo Beach|Enzu Inc|
-|19|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|20|38.145.208.208|8444|United States|Redondo Beach|Enzu Inc|
+|3|43.99.25.221|46509|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|45.136.131.29|8444|United States|Redondo Beach|Enzu Inc|
+|5|38.34.179.61|8445|United States|Redondo Beach|Enzu Inc|
+|6|47.86.57.71|30963|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|7|38.34.179.98|8445|United States|Redondo Beach|Enzu Inc|
+|8|38.145.220.102|8445|United States|Redondo Beach|Enzu Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|45.136.131.27|8444|United States|Redondo Beach|Enzu Inc|
+|11|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|38.244.54.190|31168|United States|Los Angeles|Cogent Communications|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|15|45.136.130.195|8451|United States|Redondo Beach|Enzu Inc|
+|16|38.147.160.208|24239|United States|Los Angeles|Cogent Communications|
+|17|38.145.203.87|8444|United States|Redondo Beach|Enzu Inc|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|38.145.218.212|8448|United States|Redondo Beach|Enzu Inc|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
