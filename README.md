@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|116.80.63.46|7777|Japan|Kita|InfoSphere|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|45.81.131.145|8888|United States|Los Angeles|Zenlayer Inc|
-|12|38.145.208.237|8447|United States|Redondo Beach|Enzu Inc|
-|13|104.234.0.145|55554|United States|Los Angeles|WAP.AC LTD|
-|14|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|15|193.93.55.175|34526|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|17|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|18|38.145.218.82|8446|United States|Redondo Beach|Enzu Inc|
-|19|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.204|8446|United States|Redondo Beach|Enzu Inc|
+|1|116.80.63.46|7777|Japan|Kita|InfoSphere|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
+|5|38.145.218.82|8446|United States|Redondo Beach|Enzu Inc|
+|6|38.145.218.82|8446|United States|Redondo Beach|Enzu Inc|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.122.64.213|8080|Indonesia|Sungaigerong|PT. Jinom Network Indonesia|
+|9|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|10|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|38.145.203.39|8445|United States|Redondo Beach|Enzu Inc|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|14|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|185.200.37.43|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|102.68.77.47|8080|Kenya|Nairobi|Unwired Communications Ltd|
+|19|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|20|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 
 
 
