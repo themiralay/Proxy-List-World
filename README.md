@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.76|3172|Japan|Kita|InfoSphere|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.145.218.227|8447|United States|Redondo Beach|Enzu Inc|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|10|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|11|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|12|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|13|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|15|77.91.77.220|3128|Georgia||Cloud Hosting Solutions, Limited.|
-|16|185.76.240.135|10001|Russia|Moscow|GIR SER|
-|17|185.76.240.140|10001|Russia|Moscow|GIR SER|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|20|185.76.240.150|10001|Russia|Moscow|GIR SER|
+|2|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|6|103.132.52.32|8080|Indonesia|Kajen|PT Adeaksa Indo Jayatama|
+|7|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|147.45.166.46|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|103.102.12.105|8080|Indonesia|Rembang|FISNET|
+|10|103.126.86.29|9090|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|14|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|202.179.13.161|443|Mongolia|Ulan Bator|Mongolia Telecom|
+|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 
 
 
