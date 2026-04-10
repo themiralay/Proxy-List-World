@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|610|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|610|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|610|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|116.80.65.82|3172|Japan|Kita|InfoSphere|
-|3|45.136.131.40|8444|United States|Redondo Beach|Enzu Inc|
-|4|38.145.203.35|8450|United States|Redondo Beach|Enzu Inc|
-|5|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|6|38.145.220.72|8451|United States|Redondo Beach|Enzu Inc|
-|7|38.34.179.202|8448|United States|Redondo Beach|Enzu Inc|
-|8|38.145.218.134|8446|United States|Redondo Beach|Enzu Inc|
-|9|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.75|8447|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.76|8444|United States|Redondo Beach|Enzu Inc|
-|12|38.145.203.97|8446|United States|Redondo Beach|Enzu Inc|
-|13|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|15|38.145.208.179|8450|United States|Redondo Beach|Enzu Inc|
-|16|38.145.218.235|8453|United States|Redondo Beach|Enzu Inc|
-|17|38.183.146.159|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|18|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|3|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|38.145.218.234|8447|United States|Redondo Beach|Enzu Inc|
+|6|38.34.179.194|8451|United States|Redondo Beach|Enzu Inc|
+|7|116.80.65.82|3172|Japan|Kita|InfoSphere|
+|8|38.145.218.101|8450|United States|Redondo Beach|Enzu Inc|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
+|11|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
+|13|38.145.208.181|8445|United States|Redondo Beach|Enzu Inc|
+|14|38.145.203.41|8453|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
+|16|38.145.218.113|8446|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.31|8444|United States|Redondo Beach|Enzu Inc|
+|18|38.145.203.35|8450|United States|Redondo Beach|Enzu Inc|
+|19|38.34.179.19|8448|United States|Redondo Beach|Enzu Inc|
+|20|38.145.208.243|8447|United States|Redondo Beach|Enzu Inc|
 
 
 
