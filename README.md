@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4883** proxies at the latest update. Usable proxies are below.
+> Scraper found **4877** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|865|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|859|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2673|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|116.80.49.168|3172|Japan|Kita|InfoSphere|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|8|45.136.131.28|8449|United States|Redondo Beach|Enzu Inc|
-|9|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|10|45.136.130.187|8449|United States|Redondo Beach|Enzu Inc|
-|11|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|14|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
-|15|38.145.218.232|8446|United States|Redondo Beach|Enzu Inc|
-|16|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|17|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|18|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|45.136.130.180|8452|United States|Redondo Beach|Enzu Inc|
-|20|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|116.80.49.168|3172|Japan|Kita|InfoSphere|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
+|8|212.113.102.190|33362|Sweden|Stockholm|xorek.cloud International LTD|
+|9|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|11|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|180.191.59.10|8081|Philippines|Tarlac City|Globe Telecom|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
+|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
