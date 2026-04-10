@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|5|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|103.165.123.109|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|103.218.183.133|8080|Indonesia|Metro|PT Inhqi Media Infotek|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|6|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
+|9|101.32.163.17|7890|Singapore|Singapore|Aceville Pte.ltd|
+|10|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|177.184.195.168|8080|Brazil|Goiânia|Wireless Comm Services LTDA|
+|13|110.93.231.21|8082|Pakistan|Karachi|TRANSWORLD ASSOCIATES (PVT) LIMITED|
+|14|103.244.4.34|8081|India|Kolkata|Indinet Service Private Limited|
 |15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
