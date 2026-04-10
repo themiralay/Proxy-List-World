@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.76|3172|Japan|Kita|InfoSphere|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|4|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|5|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|10|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
-|12|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|13|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|38.145.218.161|8445|United States|Redondo Beach|Enzu Inc|
+|2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|3|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
+|6|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
+|9|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|157.15.112.41|8080|Indonesia|Banjar Jabejero|HEBIT|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|19|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|185.76.240.150|10001|Russia|Moscow|GIR SER|
 
 
 
