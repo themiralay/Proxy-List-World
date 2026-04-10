@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|38.34.179.152|8444|United States|Redondo Beach|Enzu Inc|
-|4|45.136.130.168|8447|United States|Redondo Beach|Enzu Inc|
-|5|45.136.131.64|8445|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|38.145.218.160|8448|United States|Redondo Beach|Enzu Inc|
-|10|38.145.218.162|8448|United States|Redondo Beach|Enzu Inc|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|38.34.179.94|8444|United States|Redondo Beach|Enzu Inc|
-|14|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|15|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
-|16|38.34.179.179|8449|United States|Redondo Beach|Enzu Inc|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|19|45.136.130.173|8448|United States|Redondo Beach|Enzu Inc|
-|20|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|38.145.218.162|8448|United States|Redondo Beach|Enzu Inc|
+|6|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
+|7|38.145.218.160|8448|United States|Redondo Beach|Enzu Inc|
+|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|11|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|15|103.242.105.82|8080|Indonesia|Pamanukan|PT Lintas Jaringan Nusantara|
+|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|45.136.131.64|8445|United States|Redondo Beach|Enzu Inc|
+|18|103.245.109.57|39355|Bangladesh|Dhaka|ACE IT Networks Limited|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|103.139.99.230|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
 
 
 
