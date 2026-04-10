@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5230** proxies at the latest update. Usable proxies are below.
+> Scraper found **5463** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|872|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3013|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3246|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|5|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|8|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|3|38.145.208.169|8452|United States|Redondo Beach|Enzu Inc|
+|4|175.106.15.189|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|7|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|8|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|11|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|12|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
-|13|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|210.16.85.42|8080|India|Chennai|Sri Vari Network Private Limited|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|185.76.240.140|10001|Russia|Moscow|GIR SER|
-|19|185.76.240.134|10001|Russia|Moscow|GIR SER|
-|20|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|10|103.157.116.147|1111|Indonesia|Probolinggo|PT Cloud Teknologi Nusantara|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|14|89.208.106.138|10808|The Netherlands|Amsterdam|Aeza International LTD|
+|15|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|16|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
