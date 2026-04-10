@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|3|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|187.190.114.60|999|Mexico|Papantla de Olarte|Total Play Telecomunicaciones SA De CV|
-|9|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|10|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|157.66.172.26|8080|Indonesia|South Tangerang|PT Digital Nusantara Sejati Group|
-|12|185.76.240.194|10001|Russia|Moscow|GIR SER|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|185.76.240.146|10001|Russia|Moscow|GIR SER|
-|15|185.76.240.46|10001|Russia|Moscow|GIR SER|
-|16|185.76.240.47|10001|Russia|Moscow|GIR SER|
-|17|185.76.241.162|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|185.76.240.142|10001|Russia|Moscow|GIR SER|
-|20|185.76.241.161|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|4|103.153.135.116|8080|Indonesia|Cikupa|WMINET|
+|5|42.200.125.44|8080|Hong Kong|Central|PCCW IMSBiz|
+|6|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.184.67.119|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
+|9|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|10|103.38.104.173|8080|Indonesia|Wonosobo|PT Tunas Media Data|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|111.95.155.225|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|14|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|16|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|147.45.167.84|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|18|118.179.151.57|5020|Bangladesh|Dhaka|Amber IT Limited|
+|19|103.92.218.121|9514|Bangladesh|Rāmganj|Md Rezaul Karim|
+|20|185.76.240.196|10001|Russia|Moscow|GIR SER|
 
 
 
