@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.145.203.87|8444|United States|Redondo Beach|Enzu Inc|
-|3|38.34.179.177|8446|United States|Redondo Beach|Enzu Inc|
-|4|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|5|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.11|8447|United States|Redondo Beach|Enzu Inc|
-|7|38.145.218.218|8451|United States|Redondo Beach|Enzu Inc|
-|8|38.34.179.101|8453|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.28|8449|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.21|8452|United States|Redondo Beach|Enzu Inc|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|38.145.203.111|8450|United States|Redondo Beach|Enzu Inc|
-|13|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
-|14|38.145.208.169|8452|United States|Redondo Beach|Enzu Inc|
-|15|45.136.131.25|8453|United States|Redondo Beach|Enzu Inc|
-|16|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|17|38.145.218.14|8446|United States|Redondo Beach|Enzu Inc|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|38.145.203.97|8446|United States|Redondo Beach|Enzu Inc|
-|20|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|3|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|185.76.240.184|10001|Russia|Moscow|GIR SER|
+|11|185.76.240.196|10001|Russia|Moscow|GIR SER|
+|12|185.76.241.160|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|13|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|14|185.76.240.47|10001|Russia|Moscow|GIR SER|
+|15|185.76.240.194|10001|Russia|Moscow|GIR SER|
+|16|185.76.240.46|10001|Russia|Moscow|GIR SER|
+|17|185.76.241.225|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|18|185.76.240.42|10001|Russia|Moscow|GIR SER|
+|19|185.76.241.162|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|20|185.76.241.161|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
 
 
 
