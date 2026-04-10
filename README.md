@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.65.76|3172|Japan|Kita|InfoSphere|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.145.218.161|8445|United States|Redondo Beach|Enzu Inc|
+|4|103.132.52.32|8080|Indonesia|Kajen|PT Adeaksa Indo Jayatama|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|38.34.179.105|8447|United States|Redondo Beach|Enzu Inc|
+|7|45.136.131.68|8451|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.199|8452|United States|Redondo Beach|Enzu Inc|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|38.145.208.226|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
-|13|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|15|185.76.241.234|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|16|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|185.76.240.113|10001|Russia|Moscow|GIR SER|
+|10|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|38.34.179.199|8452|United States|Redondo Beach|Enzu Inc|
+|13|38.145.208.226|8448|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
+|15|147.45.167.84|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
+|18|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|20|185.76.240.169|10001|Russia|Moscow|GIR SER|
 
 
 
