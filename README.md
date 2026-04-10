@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.240.6.22|16498|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
+|3|103.240.6.22|16498|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|4|103.180.122.64|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|45.136.130.178|8453|United States|Redondo Beach|Enzu Inc|
-|8|103.113.70.189|1082|United States|Secaucus|WorkTitans B.V.|
-|9|194.58.47.219|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
-|10|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|15|45.136.131.33|8452|United States|Redondo Beach|Enzu Inc|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|6|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|45.136.130.178|8453|United States|Redondo Beach|Enzu Inc|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|15|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|16|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|45.136.131.33|8452|United States|Redondo Beach|Enzu Inc|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
