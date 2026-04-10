@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|9|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|11|185.76.240.146|10001|Russia|Moscow|GIR SER|
-|12|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|185.76.240.142|10001|Russia|Moscow|GIR SER|
-|15|185.76.241.94|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|16|185.76.241.160|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|17|185.76.241.162|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|18|185.76.241.113|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|19|185.76.241.225|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|20|185.76.240.47|10001|Russia|Moscow|GIR SER|
+|3|45.136.130.176|8451|United States|Redondo Beach|Enzu Inc|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|12|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|185.76.240.123|10001|Russia|Moscow|GIR SER|
+|17|185.76.240.21|10001|Russia|Moscow|GIR SER|
+|18|185.76.240.146|10001|Russia|Moscow|GIR SER|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|185.76.241.160|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
 
 
 
