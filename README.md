@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|157.66.172.26|8080|Indonesia|South Tangerang|PT Digital Nusantara Sejati Group|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|11|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|103.116.82.150|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|15|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|16|82.114.228.67|1080|Russia|Saratov|SCTS|
-|17|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|18|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|20|38.145.218.161|8445|United States|Redondo Beach|Enzu Inc|
+|1|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|7|45.136.131.36|8450|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
+|11|45.136.131.36|8450|United States|Redondo Beach|Enzu Inc|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
+|14|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|115.127.176.210|2327|Bangladesh|Dhaka|BRACNet Limited|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 
 
 
