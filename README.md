@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|38.145.218.218|8451|United States|Redondo Beach|Enzu Inc|
-|3|38.34.179.177|8446|United States|Redondo Beach|Enzu Inc|
-|4|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|5|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.21|8452|United States|Redondo Beach|Enzu Inc|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|9|38.34.179.30|8448|United States|Redondo Beach|Enzu Inc|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.202|8448|United States|Redondo Beach|Enzu Inc|
-|13|38.145.218.161|8445|United States|Redondo Beach|Enzu Inc|
-|14|38.34.183.219|8446|United States|Redondo Beach|Enzu Inc|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
-|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|38.34.179.30|8448|United States|Redondo Beach|Enzu Inc|
-|19|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|38.145.203.87|8444|United States|Redondo Beach|Enzu Inc|
+|4|38.145.218.218|8451|United States|Redondo Beach|Enzu Inc|
+|5|45.136.131.54|8448|United States|Redondo Beach|Enzu Inc|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|8|38.34.179.24|8447|United States|Redondo Beach|Enzu Inc|
+|9|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
+|10|38.34.179.30|8448|United States|Redondo Beach|Enzu Inc|
+|11|38.145.220.77|8453|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.57|8448|United States|Redondo Beach|Enzu Inc|
+|13|45.136.130.178|8453|United States|Redondo Beach|Enzu Inc|
+|14|38.34.179.21|8452|United States|Redondo Beach|Enzu Inc|
+|15|38.145.203.111|8450|United States|Redondo Beach|Enzu Inc|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|18|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|19|38.34.179.75|8447|United States|Redondo Beach|Enzu Inc|
+|20|38.145.218.234|8447|United States|Redondo Beach|Enzu Inc|
 
 
 
