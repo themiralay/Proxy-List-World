@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|7|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|38.145.203.110|8447|United States|Redondo Beach|Enzu Inc|
-|9|38.145.203.106|8447|United States|Redondo Beach|Enzu Inc|
-|10|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|11|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|38.145.203.107|8448|United States|Redondo Beach|Enzu Inc|
-|13|200.201.134.184|8787|Brazil|São Paulo|Telium TelecomunicaÔÔes Ltda|
-|14|49.48.40.108|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|15|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
-|20|38.191.218.54|999|Colombia|Tame|Terawi S.A.S|
+|1|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|2|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|38.34.179.78|8448|United States|Redondo Beach|Enzu Inc|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|38.34.179.8|8443|United States|Redondo Beach|Enzu Inc|
+|13|185.76.240.254|10001|Russia|Moscow|GIR SER|
+|14|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|103.68.215.57|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
+|19|185.76.240.169|10001|Russia|Moscow|GIR SER|
+|20|38.34.179.39|8452|United States|Redondo Beach|Enzu Inc|
 
 
 
