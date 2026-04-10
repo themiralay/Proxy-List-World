@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|478|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|478|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|478|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.49.168|3172|Japan|Kita|InfoSphere|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|38.34.179.99|8446|United States|Redondo Beach|Enzu Inc|
-|6|38.34.179.101|8453|United States|Redondo Beach|Enzu Inc|
-|7|38.145.208.182|8452|United States|Redondo Beach|Enzu Inc|
-|8|38.145.203.34|8444|United States|Redondo Beach|Enzu Inc|
-|9|38.145.208.247|8452|United States|Redondo Beach|Enzu Inc|
-|10|45.136.131.28|8449|United States|Redondo Beach|Enzu Inc|
-|11|38.34.179.14|8450|United States|Redondo Beach|Enzu Inc|
-|12|38.34.179.7|8444|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.25|8449|United States|Redondo Beach|Enzu Inc|
-|14|38.34.179.19|8448|United States|Redondo Beach|Enzu Inc|
-|15|38.145.220.77|8453|United States|Redondo Beach|Enzu Inc|
-|16|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|17|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
-|19|38.34.179.22|8449|United States|Redondo Beach|Enzu Inc|
-|20|38.34.179.179|8449|United States|Redondo Beach|Enzu Inc|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|8|45.136.131.28|8449|United States|Redondo Beach|Enzu Inc|
+|9|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|10|45.136.130.187|8449|United States|Redondo Beach|Enzu Inc|
+|11|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|154.40.137.209|55965|United States|Chicago|Cogent Communications|
+|14|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
+|15|38.145.218.232|8446|United States|Redondo Beach|Enzu Inc|
+|16|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|17|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|18|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|45.136.130.180|8452|United States|Redondo Beach|Enzu Inc|
+|20|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
