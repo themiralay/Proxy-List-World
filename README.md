@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|38.34.179.46|8448|United States|Redondo Beach|Enzu Inc|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|38.145.203.35|8450|United States|Redondo Beach|Enzu Inc|
-|10|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|11|45.136.131.43|8447|United States|Redondo Beach|Enzu Inc|
-|12|45.136.131.37|8447|United States|Redondo Beach|Enzu Inc|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|190.15.194.72|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|1|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|2|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
+|3|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|4|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|38.34.183.224|8448|United States|Redondo Beach|Enzu Inc|
+|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|10|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
+|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|12|38.92.10.152|57579|United States|Los Angeles|Cogent Communications|
+|13|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
+|14|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|20|199.66.157.41|8080|United States|Blanchard|SCT Broadband|
+|17|185.76.240.118|10001|Russia|Moscow|GIR SER|
+|18|190.15.194.72|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|19|160.119.69.7|8080|United States|Los Angeles|HostUS|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
