@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.252.89.130|8080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|4|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|9|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|103.48.71.6|83|India|Lal Bahadur Nagar|Country Online Services PVT LTD|
-|12|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|116.80.95.231|3172|Japan|Kita|InfoSphere|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|180.180.123.40|8080|Thailand|Si Racha|TOT Public Company Limited|
+|5|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|101.32.163.17|7890|Singapore|Singapore|Aceville Pte.ltd|
+|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|189.112.143.132|8080|Brazil|Concórdia|ALGAR TELECOM S/A|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|103.135.102.161|8081|Hong Kong|Wan Chai|ASSN-AKRN|
+|13|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
