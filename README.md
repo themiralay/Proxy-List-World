@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|6|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
-|9|38.92.10.98|20058|United States|Los Angeles|Cogent Communications|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
-|13|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|161.35.70.36|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|166.1.18.178|7890|United States|Los Angeles|Baxet Group Inc|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|38.92.10.139|33985|United States|Los Angeles|Cogent Communications|
+|8|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|101.32.163.17|7890|Singapore|Singapore|Aceville Pte.ltd|
+|11|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|12|180.250.219.58|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|185.76.240.184|10001|Russia|Moscow|GIR SER|
+|14|185.76.240.21|10001|Russia|Moscow|GIR SER|
 |15|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|16|185.76.240.235|10001|Russia|Moscow|GIR SER|
-|17|185.76.240.21|10001|Russia|Moscow|GIR SER|
-|18|185.76.240.123|10001|Russia|Moscow|GIR SER|
-|19|185.76.240.130|10001|Russia|Moscow|GIR SER|
-|20|185.76.240.184|10001|Russia|Moscow|GIR SER|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|185.76.240.118|10001|Russia|Moscow|GIR SER|
+|19|185.76.240.196|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.47|10001|Russia|Moscow|GIR SER|
 
 
 
