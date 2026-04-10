@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|7|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
-|8|194.58.47.219|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
-|9|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|84.36.35.206|1981|Egypt|El Shorouk|Etisalat|
-|13|124.105.180.29|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|14|185.76.240.203|10001|Russia|Moscow|GIR SER|
-|15|182.47.255.83|9090|China|Jinan|Chinanet|
-|16|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|7|222.228.171.92|8080|Japan|Nerima City|ARTERIA Networks Corporation|
+|8|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|9|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|185.76.240.169|10001|Russia|Moscow|GIR SER|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|77.91.77.220|3128|Georgia||Cloud Hosting Solutions, Limited.|
+|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|17|120.28.193.165|5050|Philippines|Cagayan de Oro|Globe Telecom|
 |18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|20|136.239.209.125|8080|Philippines|Iloilo City|Converge Information and Communications Technology Solutions|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
 
 
 
