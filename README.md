@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|2|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|38.145.218.9|8445|United States|Redondo Beach|Enzu Inc|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|103.101.193.38|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
-|6|103.126.86.98|7777|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|7|154.40.137.209|55965|United States|Chicago|Cogent Communications|
-|8|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|3|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|116.80.65.82|3172|Japan|Kita|InfoSphere|
+|6|77.93.89.128|47146|Singapore|Singapore|Bage Cloud LLC|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|103.126.86.98|7777|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
 |9|38.34.179.194|8451|United States|Redondo Beach|Enzu Inc|
-|10|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
-|11|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|13|38.34.179.73|8453|United States|Redondo Beach|Enzu Inc|
-|14|103.76.107.13|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|15|185.76.240.193|10001|Russia|Moscow|GIR SER|
-|16|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|10|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|103.70.122.147|8080|Indonesia|Kudus|PT Menara Digital Salama|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |17|185.76.241.86|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|18|45.136.131.45|8451|United States|Redondo Beach|Enzu Inc|
-|19|185.76.240.194|10001|Russia|Moscow|GIR SER|
-|20|185.76.240.157|10001|Russia|Moscow|GIR SER|
+|18|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|19|185.76.240.157|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.193|10001|Russia|Moscow|GIR SER|
 
 
 
