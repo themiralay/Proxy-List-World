@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5351** proxies at the latest update. Usable proxies are below.
+> Scraper found **5326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|678|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3364|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|3|38.34.179.178|8444|United States|Redondo Beach|Enzu Inc|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|6|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|7|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|14|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|15|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|16|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|17|103.172.120.111|8090|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
-|20|185.76.240.61|10001|Russia|Moscow|GIR SER|
+|5|38.34.179.178|8444|United States|Redondo Beach|Enzu Inc|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|9|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.126.87.203|8082|Indonesia|Jatiroto|PT. Rasi Bintang Perkasa|
+|12|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|38.145.220.77|8453|United States|Redondo Beach|Enzu Inc|
+|16|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
+|17|38.145.203.109|8449|United States|Redondo Beach|Enzu Inc|
+|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|38.145.208.204|8446|United States|Redondo Beach|Enzu Inc|
+|20|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
