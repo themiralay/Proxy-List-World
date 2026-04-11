@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|6|109.224.242.151|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
-|7|38.34.179.60|8450|United States|Redondo Beach|Enzu Inc|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|181.79.86.161|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-|12|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|13|185.76.240.143|10001|Russia|Moscow|GIR SER|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|103.171.241.14|8080|Indonesia|Ciputat|PT Abs Multimedia Indonesia|
+|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|12|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|181.79.86.161|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
 |14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|185.76.240.115|10001|Russia|Moscow|GIR SER|
-|16|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|17|185.76.240.134|10001|Russia|Moscow|GIR SER|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|18|103.76.149.162|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|185.76.240.254|10001|Russia|Moscow|GIR SER|
 
 
 
