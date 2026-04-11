@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.92|7777|Japan|Kita|InfoSphere|
-|2|157.20.207.141|3128|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|3|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|10|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|195.26.224.49|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|200.106.124.83|999|Peru|Tacna|Telefonica del Peru|
-|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|103.124.138.149|8080|Indonesia|Ungaran|Global Media Data Prima|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|45.136.131.28|8449|United States|Redondo Beach|Enzu Inc|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|116.80.82.92|7777|Japan|Kita|InfoSphere|
+|8|38.34.179.38|8447|United States|Redondo Beach|Enzu Inc|
+|9|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|10|38.34.179.46|8448|United States|Redondo Beach|Enzu Inc|
+|11|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
+|13|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|14|38.34.179.38|8447|United States|Redondo Beach|Enzu Inc|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|45.136.131.28|8449|United States|Redondo Beach|Enzu Inc|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
