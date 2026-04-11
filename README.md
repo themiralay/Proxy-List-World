@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|38.34.179.213|8443|United States|Redondo Beach|Enzu Inc|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.151.226.133|8080|Indonesia|Soreang|URBANACCESS|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|9|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|15|38.34.179.213|8443|United States|Redondo Beach|Enzu Inc|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|147.45.166.46|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|1|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|103.175.80.202|8080|Indonesia|Purwodadi Grobogan|PT Panglima Kamayo Media|
+|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|9|103.122.0.151|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|10|110.232.92.49|8080|Indonesia|Ciparay|PT. Media Antar Nusa|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|13|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|196.251.241.54|8080|Equatorial Guinea|Malabo|Office Tech|
+|19|38.145.208.169|8452|United States|Redondo Beach|Enzu Inc|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
