@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.34.183.13|8449|United States|Redondo Beach|Enzu Inc|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
-|10|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|77.91.77.220|3128|Georgia||Cloud Hosting Solutions, Limited.|
-|15|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|16|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|17|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|18|185.76.240.203|10001|Russia|Moscow|GIR SER|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|5|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|11|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|12|38.34.179.99|8446|United States|Redondo Beach|Enzu Inc|
+|13|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|17|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|116.80.92.114|3172|Japan|Kita|InfoSphere|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
