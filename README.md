@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
+|3|38.34.179.17|8446|United States|Redondo Beach|Enzu Inc|
+|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|5|38.34.179.17|8446|United States|Redondo Beach|Enzu Inc|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|38.145.208.217|8450|United States|Redondo Beach|Enzu Inc|
+|8|45.136.130.252|8453|United States|Redondo Beach|Enzu Inc|
+|9|38.145.218.234|8447|United States|Redondo Beach|Enzu Inc|
 |10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|11|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
-|12|38.145.218.234|8447|United States|Redondo Beach|Enzu Inc|
-|13|38.34.179.94|8444|United States|Redondo Beach|Enzu Inc|
-|14|38.145.218.234|8447|United States|Redondo Beach|Enzu Inc|
-|15|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
-|16|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|17|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|19|101.32.163.17|7890|Singapore|Singapore|Aceville Pte.ltd|
-|20|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|11|38.34.179.102|8444|United States|Redondo Beach|Enzu Inc|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|38.145.208.220|8448|United States|Redondo Beach|Enzu Inc|
+|18|38.145.220.49|8444|United States|Redondo Beach|Enzu Inc|
+|19|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
