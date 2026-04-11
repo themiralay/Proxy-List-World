@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.64.158|7777|Japan|Kita|InfoSphere|
 |2|116.80.63.178|3172|Japan|Kita|InfoSphere|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|45.136.130.174|8449|United States|Redondo Beach|Enzu Inc|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.34.179.13|8451|United States|Redondo Beach|Enzu Inc|
-|7|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|9|38.34.183.47|8452|United States|Redondo Beach|Enzu Inc|
+|10|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|11|180.149.232.33|8080|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
 |12|45.136.130.174|8449|United States|Redondo Beach|Enzu Inc|
-|13|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|38.145.208.211|8453|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.13|8451|United States|Redondo Beach|Enzu Inc|
-|16|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|17|45.136.130.172|8449|United States|Redondo Beach|Enzu Inc|
-|18|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|13|38.34.179.7|8444|United States|Redondo Beach|Enzu Inc|
+|14|45.136.130.174|8449|United States|Redondo Beach|Enzu Inc|
+|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|38.145.208.187|8449|United States|Redondo Beach|Enzu Inc|
+|19|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
