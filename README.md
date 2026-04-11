@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.16|7777|Japan|Kita|InfoSphere|
 |2|116.80.65.217|3172|Japan|Kita|InfoSphere|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|47.86.57.71|30963|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |8|46.30.46.133|3128|The Netherlands|Amsterdam|EUROBYTE|
-|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
-|11|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|103.173.162.201|8080|Indonesia|Cirebon|Paket Data Andal|
-|14|85.117.56.43|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|15|38.145.218.161|8445|United States|Redondo Beach|Enzu Inc|
-|16|38.145.218.14|8446|United States|Redondo Beach|Enzu Inc|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|103.155.198.163|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|9|103.46.186.161|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
+|10|103.56.115.156|7890|Hong Kong|San Po Kong|Colocation at Shatin China Telecom|
+|11|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|45.179.201.40|999|Colombia|Bogotá|NET&COM LTDA.|
+|14|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
+|15|77.91.77.220|3128|Georgia||Cloud Hosting Solutions, Limited.|
+|16|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|45.167.124.248|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|186.33.5.13|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|20|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
 
 
 
