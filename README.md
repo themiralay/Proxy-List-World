@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.136.130.173|8448|United States|Redondo Beach|Enzu Inc|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|38.34.179.81|8443|United States|Redondo Beach|Enzu Inc|
-|4|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|5|38.34.179.73|8453|United States|Redondo Beach|Enzu Inc|
-|6|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|38.145.208.224|8445|United States|Redondo Beach|Enzu Inc|
-|8|45.136.131.27|8444|United States|Redondo Beach|Enzu Inc|
-|9|38.34.179.99|8446|United States|Redondo Beach|Enzu Inc|
-|10|38.145.203.96|8451|United States|Redondo Beach|Enzu Inc|
-|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|12|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
-|13|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|14|38.145.203.98|8446|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.85|8444|United States|Redondo Beach|Enzu Inc|
-|16|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|17|38.34.179.94|8444|United States|Redondo Beach|Enzu Inc|
-|18|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|38.145.203.98|8446|United States|Redondo Beach|Enzu Inc|
-|20|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|116.80.64.158|7777|Japan|Kita|InfoSphere|
+|3|116.80.63.178|3172|Japan|Kita|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|7|38.34.179.46|8448|United States|Redondo Beach|Enzu Inc|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|38.145.203.97|8446|United States|Redondo Beach|Enzu Inc|
+|11|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|12|103.134.245.21|3172|Indonesia|Banjar Kayangan|Wisuandha Network Globalindo|
+|13|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|123.253.96.213|3214|Bangladesh|Dhaka|Md Rezaul Karim|
+|15|38.34.179.87|8447|United States|Redondo Beach|Enzu Inc|
+|16|45.136.130.188|8449|United States|Redondo Beach|Enzu Inc|
+|17|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|18|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|19|38.34.179.199|8452|United States|Redondo Beach|Enzu Inc|
+|20|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
