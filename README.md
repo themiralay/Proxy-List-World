@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|38.145.208.171|8452|United States|Redondo Beach|Enzu Inc|
-|7|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|12|38.34.179.154|8444|United States|Redondo Beach|Enzu Inc|
-|13|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|14|38.145.208.169|8452|United States|Redondo Beach|Enzu Inc|
-|15|38.34.179.40|8446|United States|Redondo Beach|Enzu Inc|
-|16|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
-|17|38.145.208.242|8444|United States|Redondo Beach|Enzu Inc|
-|18|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|38.145.203.86|8449|United States|Redondo Beach|Enzu Inc|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|38.34.179.51|8449|United States|Redondo Beach|Enzu Inc|
+|11|38.145.208.171|8452|United States|Redondo Beach|Enzu Inc|
+|12|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|13|170.106.137.214|7890|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|194.58.47.219|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|38.145.203.86|8449|United States|Redondo Beach|Enzu Inc|
+|19|38.145.218.161|8445|United States|Redondo Beach|Enzu Inc|
+|20|38.145.220.65|8444|United States|Redondo Beach|Enzu Inc|
 
 
 
