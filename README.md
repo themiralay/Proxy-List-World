@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|38.34.179.97|8446|United States|Redondo Beach|Enzu Inc|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |9|185.76.241.108|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
 |10|185.76.240.147|10001|Russia|Moscow|GIR SER|
-|11|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|12|185.76.240.242|10001|Russia|Moscow|GIR SER|
-|13|185.76.240.167|10001|Russia|Moscow|GIR SER|
-|14|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|15|185.76.240.241|10001|Russia|Moscow|GIR SER|
-|16|185.76.241.152|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|17|185.76.240.254|10001|Russia|Moscow|GIR SER|
-|18|185.76.240.169|10001|Russia|Moscow|GIR SER|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|185.76.240.137|10001|Russia|Moscow|GIR SER|
+|11|185.76.240.167|10001|Russia|Moscow|GIR SER|
+|12|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|185.76.240.254|10001|Russia|Moscow|GIR SER|
+|15|185.76.240.242|10001|Russia|Moscow|GIR SER|
+|16|185.76.240.169|10001|Russia|Moscow|GIR SER|
+|17|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|18|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|19|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|202.148.13.182|8080|Indonesia|Jakarta|DNET-SBY|
 
 
 
