@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|116.80.82.92|7777|Japan|Kita|InfoSphere|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|171.225.114.219|55417|Vietnam|Hanoi|Viettel Corporation|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|38.145.220.168|8453|United States|Redondo Beach|Enzu Inc|
-|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|13|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|147.45.167.84|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
-|20|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
+|1|116.80.82.92|7777|Japan|Kita|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|171.225.114.219|55417|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|160.19.18.253|8097|Indonesia|Nangkasari|PT Indo Telemedia Solusi|
+|13|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|157.20.253.194|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|16|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
