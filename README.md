@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5291** proxies at the latest update. Usable proxies are below.
+> Scraper found **5257** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|603|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3364|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|45.136.131.64|8445|United States|Redondo Beach|Enzu Inc|
-|5|45.136.131.58|8445|United States|Redondo Beach|Enzu Inc|
-|6|38.145.218.160|8448|United States|Redondo Beach|Enzu Inc|
-|7|38.145.218.162|8448|United States|Redondo Beach|Enzu Inc|
-|8|38.145.220.39|8449|United States|Redondo Beach|Enzu Inc|
-|9|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
-|10|185.76.240.134|10001|Russia|Moscow|GIR SER|
-|11|185.76.240.238|10001|Russia|Moscow|GIR SER|
-|12|185.76.240.132|10001|Russia|Moscow|GIR SER|
-|13|38.34.179.22|8449|United States|Redondo Beach|Enzu Inc|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|16|185.76.240.131|10001|Russia|Moscow|GIR SER|
-|17|185.76.241.168|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|18|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|19|38.145.208.229|8453|United States|Redondo Beach|Enzu Inc|
-|20|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|4|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|38.145.220.196|8446|United States|Redondo Beach|Enzu Inc|
+|7|38.145.220.56|8446|United States|Redondo Beach|Enzu Inc|
+|8|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
+|9|38.145.220.39|8449|United States|Redondo Beach|Enzu Inc|
+|10|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|38.145.208.229|8453|United States|Redondo Beach|Enzu Inc|
+|14|77.91.77.220|3128|Georgia||Cloud Hosting Solutions, Limited.|
+|15|38.34.179.83|8448|United States|Redondo Beach|Enzu Inc|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|46.16.229.254|8079|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|18|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|38.145.220.196|8446|United States|Redondo Beach|Enzu Inc|
+|20|38.145.220.56|8446|United States|Redondo Beach|Enzu Inc|
 
 
 
