@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.92|7777|Japan|Kita|InfoSphere|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|7|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|185.76.240.61|10001|Russia|Moscow|GIR SER|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|38.34.179.155|8453|United States|Redondo Beach|Enzu Inc|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|190.2.214.137|9992|Colombia|Puerto Gaitán|TV AZTECA SUCURSAL COLOMBIA|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|116.80.82.92|7777|Japan|Kita|InfoSphere|
+|3|103.172.120.111|8090|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|4|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|38.34.179.38|8447|United States|Redondo Beach|Enzu Inc|
+|7|38.34.179.77|8448|United States|Redondo Beach|Enzu Inc|
+|8|38.34.179.23|8451|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.46|8448|United States|Redondo Beach|Enzu Inc|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|12|38.145.208.187|8449|United States|Redondo Beach|Enzu Inc|
+|13|38.34.179.38|8447|United States|Redondo Beach|Enzu Inc|
+|14|45.136.130.247|8448|United States|Redondo Beach|Enzu Inc|
+|15|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|18|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|195.26.224.49|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
