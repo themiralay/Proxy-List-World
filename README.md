@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.16|7777|Japan|Kita|InfoSphere|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|116.80.65.217|3172|Japan|Kita|InfoSphere|
+|2|116.80.65.217|3172|Japan|Kita|InfoSphere|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|45.167.124.248|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|9|46.30.46.133|3128|The Netherlands|Amsterdam|EUROBYTE|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|181.78.194.249|999|Ecuador|Valencia|Ufinet Panama S.A.|
+|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|7|203.190.46.159|8080|Indonesia|Baturaden|PT Jaring Lintas Utara|
+|8|186.33.5.13|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|9|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|195.26.224.49|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|46.30.46.133|3128|The Netherlands|Amsterdam|EUROBYTE|
 |16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|116.80.65.75|3172|Japan|Kita|InfoSphere|
-|19|116.80.96.4|3172|Japan|Kita|InfoSphere|
-|20|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|116.80.65.75|3172|Japan|Kita|InfoSphere|
+|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|20|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
