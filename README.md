@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.34.179.105|8447|United States|Redondo Beach|Enzu Inc|
-|3|38.34.179.105|8447|United States|Redondo Beach|Enzu Inc|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|38.145.220.39|8449|United States|Redondo Beach|Enzu Inc|
+|4|45.136.130.249|8446|United States|Redondo Beach|Enzu Inc|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|7|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
-|8|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|9|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|38.34.179.58|8446|United States|Redondo Beach|Enzu Inc|
-|11|38.194.250.66|999|Mexico|Jalpan de Serra|IENTC S de RL de CV|
-|12|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|38.34.179.58|8446|United States|Redondo Beach|Enzu Inc|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|185.76.240.61|10001|Russia|Moscow|GIR SER|
-|19|79.137.204.101|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|6|38.34.179.105|8447|United States|Redondo Beach|Enzu Inc|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|38.34.179.186|8444|United States|Redondo Beach|Enzu Inc|
+|9|38.34.179.19|8448|United States|Redondo Beach|Enzu Inc|
+|10|38.145.208.240|8451|United States|Redondo Beach|Enzu Inc|
+|11|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|12|45.136.131.31|8451|United States|Redondo Beach|Enzu Inc|
+|13|38.145.208.247|8451|United States|Redondo Beach|Enzu Inc|
+|14|38.145.208.244|8446|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.63|8452|United States|Redondo Beach|Enzu Inc|
+|16|38.34.179.105|8447|United States|Redondo Beach|Enzu Inc|
+|17|38.34.179.79|8449|United States|Redondo Beach|Enzu Inc|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
