@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.92|7777|Japan|Kita|InfoSphere|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|103.124.138.149|8080|Indonesia|Ungaran|Global Media Data Prima|
-|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|10|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
-|11|163.223.116.246|7777|Indonesia|Kuningan|PT Signall Network Nusantara|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|38.34.183.222|8453|United States|Redondo Beach|Enzu Inc|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.14.2.89|2020|Indonesia|Bengkalis|MADA|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|16|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|202.58.77.194|8031|Indonesia|Surabaya|PT Data Buana Nusantara|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|38.34.179.46|8448|United States|Redondo Beach|Enzu Inc|
+|15|38.34.179.46|8448|United States|Redondo Beach|Enzu Inc|
+|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|17|157.15.82.92|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|18|104.129.202.127|12354|United States|San Jose|ZSCALER, INC.|
+|19|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|185.76.240.61|10001|Russia|Moscow|GIR SER|
 
 
 
