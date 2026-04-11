@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|4|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|5|38.145.220.20|8450|United States|Redondo Beach|Enzu Inc|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|4|38.145.220.20|8450|United States|Redondo Beach|Enzu Inc|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|8|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|9|154.19.39.151|8090|Indonesia|Tangerang|PT Lintas Network Solusi|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|38.145.218.51|8444|United States|Redondo Beach|Enzu Inc|
+|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 |11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
-|14|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|45.136.131.37|8447|United States|Redondo Beach|Enzu Inc|
-|17|182.253.44.9|3128|Indonesia|Jakarta|BIZNET|
-|18|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|103.75.96.70|8080|Indonesia|Jakarta|MORATELINDO|
+|12|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
+|13|38.34.179.105|8447|United States|Redondo Beach|Enzu Inc|
+|14|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|16|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|17|203.171.252.7|8080|Cambodia|Phnom Penh|MEKONGNET|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|123.253.93.192|8082|Pakistan|Rawalpindi|Pace Telecom and Brodcasting Private Limited|
+|20|190.99.192.158|999|Colombia|Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
 
 
 
