@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.65.217|3172|Japan|Kita|InfoSphere|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|103.46.186.161|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|103.173.162.201|8080|Indonesia|Cirebon|Paket Data Andal|
-|9|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|11|190.97.254.254|999|Venezuela|Mérida|Viginet C.A|
-|12|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|19|154.18.255.137|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|189.72.85.254|8080|Brazil|Itajaí|V tal|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|5|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|6|104.129.202.127|10810|United States|San Jose|ZSCALER, INC.|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|24.144.86.173|1080|United States|Santa Clara|DigitalOcean, LLC|
+|10|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|11|154.126.213.5|8080|South Africa|Potchefstroom|JENNY Network|
+|12|202.58.73.10|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|195.62.50.2|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|15|212.108.115.39|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|16|116.80.48.217|7777|Japan|Kita|InfoSphere|
+|17|116.80.82.234|3172|Japan|Kita|InfoSphere|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
