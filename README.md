@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|3|38.145.208.228|8452|United States|Redondo Beach|Enzu Inc|
-|4|38.145.208.235|8447|United States|Redondo Beach|Enzu Inc|
-|5|146.56.182.165|3128|South Korea|Seoul|Oracle Corporation|
-|6|38.145.208.237|8447|United States|Redondo Beach|Enzu Inc|
-|7|38.145.208.226|8448|United States|Redondo Beach|Enzu Inc|
-|8|38.145.208.227|8447|United States|Redondo Beach|Enzu Inc|
-|9|45.136.131.67|8448|United States|Redondo Beach|Enzu Inc|
-|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|11|38.145.208.239|8452|United States|Redondo Beach|Enzu Inc|
-|12|45.136.131.61|8448|United States|Redondo Beach|Enzu Inc|
-|13|103.189.139.254|8080|Indonesia|Bandung|PT. Nexa Media Pratama|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|202.47.185.2|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|45.136.131.67|8448|United States|Redondo Beach|Enzu Inc|
+|6|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|8|45.136.131.61|8448|United States|Redondo Beach|Enzu Inc|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
+|12|103.175.80.202|8080|Indonesia|Purwodadi Grobogan|PT Panglima Kamayo Media|
+|13|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|16|147.45.166.46|3128|The Netherlands|Amsterdam|Timeweb, LLP|
 |17|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|18|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|45.136.131.37|8447|United States|Redondo Beach|Enzu Inc|
-|20|38.145.218.14|8446|United States|Redondo Beach|Enzu Inc|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
