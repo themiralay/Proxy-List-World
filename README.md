@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|101.255.209.249|3128|Indonesia|Jakarta|PT Remala Abadi|
-|4|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|7|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|8|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|9|192.232.48.2|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|14|185.76.241.94|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|15|116.80.63.67|7777|Japan|Kita|InfoSphere|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|19|116.80.65.76|3172|Japan|Kita|InfoSphere|
-|20|223.206.55.242|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|185.76.241.94|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|8|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|109.224.242.151|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
+|11|147.45.136.99|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|185.76.240.241|10001|Russia|Moscow|GIR SER|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|185.76.240.238|10001|Russia|Moscow|GIR SER|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|103.80.118.33|8080|India|Ahilyanagar|Multicraft Digital Technologies Private Limited|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
