@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|185.76.241.94|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|8|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|109.224.242.151|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
-|11|147.45.136.99|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|12|185.76.240.241|10001|Russia|Moscow|GIR SER|
-|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|185.76.240.238|10001|Russia|Moscow|GIR SER|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|19|103.80.118.33|8080|India|Ahilyanagar|Multicraft Digital Technologies Private Limited|
-|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|3|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|46.16.229.254|8079|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|6|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|7|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|8|38.145.218.160|8448|United States|Redondo Beach|Enzu Inc|
+|9|38.145.218.162|8448|United States|Redondo Beach|Enzu Inc|
+|10|124.83.114.43|8081|Philippines|San Jose|Philippine Long Distance Telephone Co.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|195.26.224.49|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|103.188.173.152|8080|Indonesia|Jakarta|PT Satria Digital Media|
+|14|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
