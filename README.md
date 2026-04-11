@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.188.169.160|7777|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
-|5|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|6|107.172.102.234|40621|United States|Santa Clara|HostPapa|
-|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
-|9|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
-|18|101.32.163.17|7890|Singapore|Singapore|Aceville Pte.ltd|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|209.126.84.232|8888|United States|St Louis|Contabo Inc.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|11|38.145.218.232|8446|United States|Redondo Beach|Enzu Inc|
+|12|155.117.18.36|25388|United States|Los Angeles|Bage Cloud LLC|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|101.32.163.17|7890|Singapore|Singapore|Aceville Pte.ltd|
+|16|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|13.36.243.194|9899|France|Paris|Amazon Technologies Inc.|
+|18|85.112.65.130|8080|Lebanon|Beirut|TerraNet sal|
+|19|45.123.142.82|1111|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
