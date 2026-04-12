@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|116.80.82.234|3172|Japan|Kita|InfoSphere|
+|1|116.80.82.234|3172|Japan|Kita|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|171.227.167.109|1004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|185.76.240.189|10001|Russia|Moscow|GIR SER|
-|15|185.76.240.39|10001|Russia|Moscow|GIR SER|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|17|185.76.240.191|10001|Russia|Moscow|GIR SER|
-|18|185.76.240.254|10001|Russia|Moscow|GIR SER|
-|19|185.76.241.132|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|20|185.76.240.31|10001|Russia|Moscow|GIR SER|
+|8|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|202.58.77.77|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|14|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|171.227.167.109|1003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|185.76.240.189|10001|Russia|Moscow|GIR SER|
 
 
 
