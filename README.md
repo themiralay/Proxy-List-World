@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4420** proxies at the latest update. Usable proxies are below.
+> Scraper found **4397** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|648|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|625|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2793|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|4|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|5|84.255.40.228|8998|Malta|Msida|Melita plc|
-|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|8|116.80.95.226|3172|Japan|Kita|InfoSphere|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|12|116.80.82.239|3172|Japan|Kita|InfoSphere|
-|13|116.80.82.234|3172|Japan|Kita|InfoSphere|
-|14|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|17|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|6|34.231.145.203|7000|United States|Ashburn|Amazon.com, Inc.|
+|7|36.67.114.94|8187|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|8|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|9|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|10|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|38.156.72.29|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
+|13|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|116.80.65.217|3172|Japan|Kita|InfoSphere|
+|15|116.80.95.227|3172|Japan|Kita|InfoSphere|
+|16|181.209.108.218|999|Argentina|Campo Gallo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|116.80.82.92|7777|Japan|Kita|InfoSphere|
+|19|116.80.82.234|3172|Japan|Kita|InfoSphere|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
