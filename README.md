@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5010** proxies at the latest update. Usable proxies are below.
+> Scraper found **5019** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|750|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|759|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2922|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|7|186.96.180.17|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|8|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|10|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|11|103.245.109.57|39355|Bangladesh|Dhaka|ACE IT Networks Limited|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|14|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|15|103.97.224.223|8841|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|38.34.179.81|8443|United States|Redondo Beach|Enzu Inc|
+|4|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|103.189.250.89|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|10|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|113.11.75.153|9107|Bangladesh|Dhaka|BDCOM Online Limited|
+|13|45.249.122.198|8080|India|Puducherry|Airconnect Services|
+|14|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|19|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|20|81.201.56.208|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
 
 
 
