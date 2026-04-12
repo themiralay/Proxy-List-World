@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|116.80.65.82|3172|Japan|Kita|InfoSphere|
-|10|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|11|116.80.95.250|3172|Japan|Kita|InfoSphere|
-|12|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|116.80.64.44|7777|Japan|Kita|InfoSphere|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|103.166.158.99|8080|Indonesia|Telagaselaba|PT Timor Lintas Nusantara|
+|8|116.80.95.250|3172|Japan|Kita|InfoSphere|
+|9|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|10|103.181.255.219|7777|Indonesia|Den Timur|PT Giga Digital Nusantara|
+|11|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|13|75.109.189.86|8080|United States|College Station|Suddenlink Communications|
+|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|15|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|116.80.96.4|3172|Japan|Kita|InfoSphere|
+|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|19|103.50.25.59|8080|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
+|20|160.19.19.7|8080|Indonesia|Kambingan|PT Indo Telemedia Solusi|
 
 
 
