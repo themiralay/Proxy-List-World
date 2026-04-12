@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|103.154.152.104|8090|Indonesia|Bogor|MORATELINDONAP|
-|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|116.80.92.114|3172|Japan|Kita|InfoSphere|
+|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|163.61.254.104|1111|Indonesia|Rantau Panjang|PT HEXA TELEMATIKA INDONESIA|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|9|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|116.80.96.4|3172|Japan|Kita|InfoSphere|
-|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|116.80.92.114|3172|Japan|Kita|InfoSphere|
+|16|103.181.255.219|7777|Indonesia|Den Timur|PT Giga Digital Nusantara|
+|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|116.80.96.4|3172|Japan|Kita|InfoSphere|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
