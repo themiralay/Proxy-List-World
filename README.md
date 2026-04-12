@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4427** proxies at the latest update. Usable proxies are below.
+> Scraper found **4846** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|654|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2793|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3212|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|182.253.109.182|8080|Indonesia|Semarang|Biznet Metronet|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|7|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|8|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|9|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|102.0.10.6|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|13|116.80.92.114|3172|Japan|Kita|InfoSphere|
-|14|116.80.95.250|3172|Japan|Kita|InfoSphere|
-|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|16|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|103.222.255.140|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
-|18|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|19|116.80.82.92|7777|Japan|Kita|InfoSphere|
-|20|186.33.5.13|8080|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|160.187.174.249|80|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|38.210.179.33|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
+|11|165.101.254.110|8088|Philippines|Cainta|DC FIBER NETWORK WIRED INTERNET SERVICES|
+|12|103.122.0.52|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|103.97.140.110|8080|Indonesia|Bojongduren|PT Jembatan Data Pangrango|
+|16|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|17|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|45.123.142.83|1111|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|20|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
