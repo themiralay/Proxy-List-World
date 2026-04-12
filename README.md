@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|157.180.50.70|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|14|91.218.142.28|3128|Latvia|Riga|RETN Limited|
-|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|193.233.171.92|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|88.1.150.79|3128|Spain|Venturada|Telefonica de Espana SAU|
+|17|103.229.127.31|7890|Hong Kong|San Po Kong|Hosted in Cloudie Limited|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
