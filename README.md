@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.95|3172|Japan|Kita|InfoSphere|
-|2|186.96.15.86|8080|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|3|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
-|9|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
-|10|223.206.62.135|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|11|136.239.91.201|3128|United States|Tuscaloosa|C Spire Fiber|
-|12|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
-|13|68.62.138.143|3128|United States|Tuscaloosa|Comcast Cable Communications, LLC|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|17|210.61.216.63|60808|Taiwan|Wugu District|Chunghwa Telecom Co., Ltd.|
-|18|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|180.72.72.58|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
+|8|38.145.218.238|8450|United States|Redondo Beach|Enzu Inc|
+|9|38.145.208.208|8444|United States|Redondo Beach|Enzu Inc|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|38.145.220.82|8448|United States|Redondo Beach|Enzu Inc|
+|15|45.136.131.25|8453|United States|Redondo Beach|Enzu Inc|
+|16|157.180.50.70|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|18|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 
 
 
