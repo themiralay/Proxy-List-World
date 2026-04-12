@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|7|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|9|116.80.82.234|3172|Japan|Kita|InfoSphere|
-|10|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|75.109.189.86|8080|United States|College Station|Suddenlink Communications|
-|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|13|116.80.64.41|7777|Japan|Kita|InfoSphere|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|116.80.82.239|3172|Japan|Kita|InfoSphere|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|4|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|116.80.82.234|3172|Japan|Kita|InfoSphere|
+|8|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|11|116.80.64.41|7777|Japan|Kita|InfoSphere|
+|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|13|116.80.82.239|3172|Japan|Kita|InfoSphere|
+|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|103.93.93.207|8080|Indonesia|Kertosono|MYRISE|
+|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|103.154.146.74|8080|Indonesia|Surabaya|MORATELINDONAP|
+|20|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
 
 
 
