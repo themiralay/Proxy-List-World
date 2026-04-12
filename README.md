@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|185.76.240.231|10001|Russia|Moscow|GIR SER|
-|9|103.180.122.64|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|10|185.76.240.116|10001|Russia|Moscow|GIR SER|
-|11|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|12|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|185.76.240.115|10001|Russia|Moscow|GIR SER|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|185.76.240.203|10001|Russia|Moscow|GIR SER|
-|16|103.145.46.79|1452|Indonesia|Kedaton|Dinas Komunikasi Informatika dan Statistik Provinsi Lampung|
-|17|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|186.65.106.90|2024|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|20|185.76.240.79|10001|Russia|Moscow|GIR SER|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|185.76.240.167|10001|Russia|Moscow|GIR SER|
+|5|185.76.240.244|10001|Russia|Moscow|GIR SER|
+|6|185.76.240.254|10001|Russia|Moscow|GIR SER|
+|7|185.76.240.123|10001|Russia|Moscow|GIR SER|
+|8|185.76.240.145|10001|Russia|Moscow|GIR SER|
+|9|185.76.240.169|10001|Russia|Moscow|GIR SER|
+|10|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|11|185.76.240.233|10001|Russia|Moscow|GIR SER|
+|12|185.76.240.127|10001|Russia|Moscow|GIR SER|
+|13|185.76.240.242|10001|Russia|Moscow|GIR SER|
+|14|185.76.240.234|10001|Russia|Moscow|GIR SER|
+|15|185.76.240.124|10001|Russia|Moscow|GIR SER|
+|16|185.76.240.142|10001|Russia|Moscow|GIR SER|
+|17|185.76.240.245|10001|Russia|Moscow|GIR SER|
+|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|185.76.240.64|10001|Russia|Moscow|GIR SER|
 
 
 
