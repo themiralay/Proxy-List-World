@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|38.145.220.41|8444|United States|Redondo Beach|Enzu Inc|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.153.135.116|8080|Indonesia|Cikupa|WMINET|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.145.220.41|8444|United States|Redondo Beach|Enzu Inc|
+|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|6|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|7|102.209.18.68|8080|Kenya|Nairobi|Vennet Solutions Limited|
+|8|103.70.122.81|8085|Indonesia|Kudus|PT Menara Digital Salama|
 |9|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|10|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|103.105.76.19|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|36.95.155.74|3126|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|19|81.196.74.147|8080|Romania|Drobeta-Turnu Severin|RCS & RDS|
+|20|201.184.68.220|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
