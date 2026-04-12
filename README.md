@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|116.80.64.96|3172|Japan|Kita|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|185.76.240.146|10001|Russia|Moscow|GIR SER|
-|8|185.76.240.145|10001|Russia|Moscow|GIR SER|
-|9|185.76.240.244|10001|Russia|Moscow|GIR SER|
-|10|185.76.240.245|10001|Russia|Moscow|GIR SER|
-|11|185.76.240.147|10001|Russia|Moscow|GIR SER|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|14|185.76.240.143|10001|Russia|Moscow|GIR SER|
-|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|17|38.145.220.60|8450|United States|Redondo Beach|Enzu Inc|
-|18|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|1|116.80.64.96|3172|Japan|Kita|InfoSphere|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|38.34.179.69|8447|United States|Redondo Beach|Enzu Inc|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|12|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|13|185.76.240.254|10001|Russia|Moscow|GIR SER|
+|14|185.76.240.167|10001|Russia|Moscow|GIR SER|
+|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|16|38.34.179.57|8448|United States|Redondo Beach|Enzu Inc|
+|17|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|20|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
