@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|160.187.174.249|80|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|160.187.174.249|80|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|165.101.254.110|8088|Philippines|Cainta|DC FIBER NETWORK WIRED INTERNET SERVICES|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|185.198.27.38|3128|France|Lauterbourg|Contabo GmbH|
-|12|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|185.76.240.254|10001|Russia|Moscow|GIR SER|
-|16|185.76.240.167|10001|Russia|Moscow|GIR SER|
-|17|38.34.179.13|8451|United States|Redondo Beach|Enzu Inc|
-|18|185.76.240.169|10001|Russia|Moscow|GIR SER|
-|19|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|20|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|103.113.70.189|1082|United States|Secaucus|WorkTitans B.V.|
+|9|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|10|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|11|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|38.210.179.33|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
+|14|103.151.17.201|8080|India|Aurangabad|Riyaz Internet Service Private Limited|
+|15|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|16|103.113.70.189|1082|United States|Secaucus|WorkTitans B.V.|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|19|116.80.60.44|7777|Japan|Kita|InfoSphere|
+|20|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
 
 
 
