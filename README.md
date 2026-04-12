@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|11|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|12|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|13|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|15|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|41.128.72.194|1976|Egypt|Cairo|LINKdotNET AS number|
-|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|202.58.77.194|8031|Indonesia|Surabaya|PT Data Buana Nusantara|
+|1|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|38.171.255.84|3128|Venezuela|Maracaibo|Cogent Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|10|185.41.152.110|3128|France|Valenciennes|global|
+|11|189.196.18.150|999|Mexico|Guadalupe|Mega Cable, S.A. de C.V.|
+|12|171.232.43.57|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|93.182.23.94|6060|Russia|Moscow|Kvidex-Telecom|
+|14|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|192.232.48.2|8181|Indonesia|Pringsewu|PT Axindo Infinitas Network|
+|16|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|17|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
