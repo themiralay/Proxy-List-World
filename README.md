@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.95|3172|Japan|Kita|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.128.220.217|3128|Hong Kong|Hong Kong|xTom Hong Kong Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|136.239.91.201|3128|United States|Tuscaloosa|C Spire Fiber|
-|6|223.206.62.135|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|7|68.62.138.143|3128|United States|Tuscaloosa|Comcast Cable Communications, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|136.239.91.201|3128|United States|Tuscaloosa|C Spire Fiber|
+|5|171.227.167.109|1004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|68.62.138.143|3128|United States|Tuscaloosa|Comcast Cable Communications, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|10|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|9|103.102.12.105|8080|Indonesia|Rembang|FISNET|
+|10|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|170.239.18.157|1830|Brazil|Salvador|I B T|
-|14|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
-|15|147.45.166.46|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|17|157.180.50.70|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
-|20|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|13|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|171.227.167.109|1004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|18|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|19|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|178.212.12.162|3128|Russia|St Petersburg|Hostland LTD|
 
 
 
