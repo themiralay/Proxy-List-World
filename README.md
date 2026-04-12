@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|6|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|8|116.80.82.234|3172|Japan|Kita|InfoSphere|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|116.80.95.227|3172|Japan|Kita|InfoSphere|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|130.61.30.221|8080|Germany|Frankfurt am Main|Oracle Corporation|
-|18|202.154.18.72|8084|Indonesia|Babat|DIGITNET|
-|19|116.80.63.194|3172|Japan|Kita|InfoSphere|
-|20|176.118.196.3|8080|Russia|Nizhnyaya Salda|Svinin Mihail Yurievich|
+|3|103.165.250.81|8181|Indonesia|Kotawaringin|PT Aulia Sentral Multidata|
+|4|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|160.25.197.67|3128|Indonesia|Blora|PT Rnet Mitra Sentosa|
+|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|116.80.82.234|3172|Japan|Kita|InfoSphere|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|116.80.95.227|3172|Japan|Kita|InfoSphere|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|103.154.146.74|8080|Indonesia|Surabaya|MORATELINDONAP|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|19|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|20|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
 
 
 
