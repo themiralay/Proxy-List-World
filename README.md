@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|15|185.41.152.110|3128|France|Valenciennes|global|
-|16|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|18|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|19|103.245.109.57|39355|Bangladesh|Dhaka|ACE IT Networks Limited|
-|20|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|11|185.76.240.244|10001|Russia|Moscow|GIR SER|
+|12|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|185.76.240.167|10001|Russia|Moscow|GIR SER|
+|16|185.76.240.254|10001|Russia|Moscow|GIR SER|
+|17|185.76.240.169|10001|Russia|Moscow|GIR SER|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|185.76.240.145|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.242|10001|Russia|Moscow|GIR SER|
 
 
 
