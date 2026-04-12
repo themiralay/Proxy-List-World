@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|116.80.81.13|7777|Japan|Kita|InfoSphere|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
-|12|45.136.131.30|8446|United States|Redondo Beach|Enzu Inc|
-|13|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|14|38.34.179.74|8447|United States|Redondo Beach|Enzu Inc|
-|15|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|17|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|103.136.171.145|8080|Indonesia|Jakarta|PT UNZA VITALI|
-|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
+|5|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|6|107.172.102.234|40621|United States|Santa Clara|HostPapa|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|11|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|17|107.172.102.234|40621|United States|Santa Clara|HostPapa|
+|18|103.240.6.22|16498|Vietnam|Ho Chi Minh City|GIZANETWORK|
+|19|103.17.246.60|1080|Indonesia|Ubud|PT Media Sarana Data|
+|20|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
 
 
 
