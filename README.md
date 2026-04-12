@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|3|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|8|122.54.147.110|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|9|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|10|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|11|107.172.102.234|40621|United States|Santa Clara|HostPapa|
-|12|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|157.66.173.254|8080|Indonesia|South Tangerang|PT Digital Nusantara Sejati Group|
-|17|103.97.224.223|8841|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|18|167.234.251.155|8880|Brazil|São Paulo|Oracle Corporation|
-|19|107.172.102.234|40621|United States|Santa Clara|HostPapa|
-|20|38.171.255.84|3128|Venezuela|Maracaibo|Cogent Communications|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|148.222.238.50|999|Colombia|Toledo|Edgeuno S.A.S|
+|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|190.119.90.114|8080|Peru|Las Nazarenas|America Movil Peru S.A.C.|
+|15|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|103.145.30.46|1452|Indonesia|Utan|ICONPLN|
+|18|103.36.11.21|8080|Indonesia|Serang|PT Awinet Global Mandiri|
+|19|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
 
 
 
