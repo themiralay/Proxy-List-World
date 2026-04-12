@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.96|3172|Japan|Kita|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|5|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|6|185.76.240.254|10001|Russia|Moscow|GIR SER|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|9|185.76.240.167|10001|Russia|Moscow|GIR SER|
-|10|185.76.240.169|10001|Russia|Moscow|GIR SER|
-|11|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|103.174.161.6|8082|India|Vuyyūru|Speed Link Communications|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|116.80.65.217|3172|Japan|Kita|InfoSphere|
-|17|116.80.82.234|3172|Japan|Kita|InfoSphere|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|185.76.240.242|10001|Russia|Moscow|GIR SER|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|202.58.77.73|8800|Indonesia|Surabaya|PT Data Buana Nusantara|
+|9|185.76.240.169|10001|Russia|Moscow|GIR SER|
+|10|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|185.76.240.244|10001|Russia|Moscow|GIR SER|
+|14|185.76.240.134|10001|Russia|Moscow|GIR SER|
+|15|185.76.240.146|10001|Russia|Moscow|GIR SER|
+|16|185.76.240.245|10001|Russia|Moscow|GIR SER|
+|17|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|18|181.115.67.3|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|19|185.76.240.229|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.209|10001|Russia|Moscow|GIR SER|
 
 
 
