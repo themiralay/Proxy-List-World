@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
-|6|38.145.208.241|8447|United States|Redondo Beach|Enzu Inc|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|185.76.240.169|10001|Russia|Moscow|GIR SER|
-|9|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|10|185.76.240.254|10001|Russia|Moscow|GIR SER|
-|11|185.76.240.167|10001|Russia|Moscow|GIR SER|
-|12|103.39.70.68|1452|Indonesia|Sambas|PT Gateway media Zafira|
-|13|89.43.132.233|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|14|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|15|181.94.197.37|8080|Paraguay|Fernando de la Mora|Núcleo S.A.|
-|16|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|20|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|185.76.240.169|10001|Russia|Moscow|GIR SER|
+|3|185.76.240.254|10001|Russia|Moscow|GIR SER|
+|4|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|5|185.76.240.167|10001|Russia|Moscow|GIR SER|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|10|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|103.70.122.81|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|17|175.106.14.126|3128|Indonesia|Jakarta|Quantum Dist POP GC|
+|18|116.80.95.250|3172|Japan|Kita|InfoSphere|
+|19|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
