@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
 |6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|79.132.136.58|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|116.80.64.158|7777|Japan|Kita|InfoSphere|
-|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|12|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|13|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|205.164.46.6|3145|United States|Santa Clara|Grass DataCo (BVI) Ltd.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|9|116.80.64.158|7777|Japan|Kita|InfoSphere|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|12|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|13|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|14|130.61.30.221|8080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|36.103.198.235|7890|China|Suzhou|CHINANET NINGXIA province ZHONGWEI IDC network|
+|16|184.57.87.36|80|United States|Cambridge|Charter Communications|
+|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|18|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
