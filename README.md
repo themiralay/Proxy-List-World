@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|116.80.82.234|3172|Japan|Kita|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|116.80.82.234|3172|Japan|Kita|InfoSphere|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.236.142.18|8080|Indonesia|Pati Regency|PT. Jaringan Internet Tayu|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
 |11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|12|116.80.63.67|7777|Japan|Kita|InfoSphere|
-|13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|15|116.80.95.250|3172|Japan|Kita|InfoSphere|
+|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|13|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|116.80.63.67|7777|Japan|Kita|InfoSphere|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |16|116.80.92.114|3172|Japan|Kita|InfoSphere|
 |17|116.80.64.158|7777|Japan|Kita|InfoSphere|
-|18|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|143.44.191.21|8082|Philippines|Pasig|Converge ICT Network|
+|18|116.80.95.250|3172|Japan|Kita|InfoSphere|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
