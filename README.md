@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.64.95|3172|Japan|Kita|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|36.91.115.133|80|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|7|38.34.179.13|8451|United States|Redondo Beach|Enzu Inc|
-|8|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|9|38.34.179.13|8451|United States|Redondo Beach|Enzu Inc|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
-|12|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
-|18|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|20|38.145.208.209|8447|United States|Redondo Beach|Enzu Inc|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|34.50.41.219|3128|South Korea|Seoul|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
 
 
 
