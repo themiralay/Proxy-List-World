@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4765** proxies at the latest update. Usable proxies are below.
+> Scraper found **4750** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|689|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|674|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|51|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2793|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|187.190.114.60|999|Mexico|Papantla de Olarte|Total Play Telecomunicaciones SA De CV|
-|5|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|8|185.76.240.169|10001|Russia|Moscow|GIR SER|
-|9|185.76.240.254|10001|Russia|Moscow|GIR SER|
-|10|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|185.76.240.167|10001|Russia|Moscow|GIR SER|
-|12|185.76.241.110|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|13|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|84.255.40.228|8998|Malta|Msida|Melita plc|
-|17|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|18|185.76.240.91|10001|Russia|Moscow|GIR SER|
-|19|38.34.178.245|8446|United States|Redondo Beach|Enzu Inc|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|218.153.163.186|8976|South Korea|Gangdong-gu|Korea Telecom|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|38.34.179.105|8447|United States|Redondo Beach|Enzu Inc|
+|7|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|8|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|38.34.179.174|8453|United States|Redondo Beach|Enzu Inc|
+|12|38.34.179.105|8447|United States|Redondo Beach|Enzu Inc|
+|13|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|14|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|38.7.195.55|999|Chile|Santiago|Grupo ZGH SpA|
+|18|1.1.220.100|8080|Thailand|Udon Thani|TOT Public Company Limited|
+|19|180.191.14.144|8081|Philippines|Cabanatuan City|Globe Telecom|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
