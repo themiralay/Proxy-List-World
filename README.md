@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|103.245.109.57|39355|Bangladesh|Dhaka|ACE IT Networks Limited|
-|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
-|11|185.41.152.110|3128|France|Valenciennes|global|
-|12|113.11.75.153|9107|Bangladesh|Dhaka|BDCOM Online Limited|
-|13|109.224.242.209|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
-|14|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|15|38.145.208.246|8445|United States|Redondo Beach|Enzu Inc|
-|16|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|17|93.182.23.94|6060|Russia|Moscow|Kvidex-Telecom|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|200.201.134.184|8787|Brazil|São Paulo|Telium TelecomunicaÔÔes Ltda|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|7|186.96.180.17|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|8|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|10|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|11|103.245.109.57|39355|Bangladesh|Dhaka|ACE IT Networks Limited|
+|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|14|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|15|103.97.224.223|8841|Indonesia|Kudus|PT Sistem Interkoneksi Data|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|195.175.31.222|8080|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
+|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
