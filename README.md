@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|104.168.93.120|8080|United States|Buffalo|HostPapa|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|12|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|201.159.99.37|8081|Mexico|Monterrey|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|11|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|37.46.18.65|3128|Germany|Frankfurt am Main|Cloud Hosting Solutions, Limited.|
+|18|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|19|45.136.131.47|8447|United States|Redondo Beach|Enzu Inc|
+|20|5.196.101.18|3128|France|Chemillé-en-Anjou|OVH SAS|
 
 
 
