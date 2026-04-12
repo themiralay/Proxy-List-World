@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|160.187.174.249|80|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|103.97.140.110|8080|Indonesia|Bojongduren|PT Jembatan Data Pangrango|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|16|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
-|17|38.210.179.33|999|Mexico|Zimapan|Jair Lozano / Intercom Internet|
-|18|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|11|181.78.25.251|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|12|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|15|116.80.92.114|3172|Japan|Kita|InfoSphere|
+|16|165.101.254.110|8088|Philippines|Cainta|DC FIBER NETWORK WIRED INTERNET SERVICES|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|116.80.82.92|7777|Japan|Kita|InfoSphere|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
