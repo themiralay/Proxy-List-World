@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.95|3172|Japan|Kita|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|45.128.220.217|3128|Hong Kong|Hong Kong|xTom Hong Kong Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|136.239.91.201|3128|United States|Tuscaloosa|C Spire Fiber|
-|6|68.62.138.143|3128|United States|Tuscaloosa|Comcast Cable Communications, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.136.130.181|8445|United States|Redondo Beach|Enzu Inc|
-|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
-|12|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|116.80.63.194|3172|Japan|Kita|InfoSphere|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|6|223.206.62.135|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|7|68.62.138.143|3128|United States|Tuscaloosa|Comcast Cable Communications, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|10|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|170.239.18.157|1830|Brazil|Salvador|I B T|
+|14|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
+|15|147.45.166.46|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|17|157.180.50.70|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
+|20|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
 
 
 
