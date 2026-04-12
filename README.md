@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|5|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|171.227.167.109|1009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|171.227.167.109|1009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
-|11|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|13|116.80.92.114|3172|Japan|Kita|InfoSphere|
-|14|116.80.48.38|7777|Japan|Kita|InfoSphere|
-|15|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|7|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|8|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|9|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|10|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|13|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
+|14|116.80.92.114|3172|Japan|Kita|InfoSphere|
+|15|116.80.48.38|7777|Japan|Kita|InfoSphere|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|116.80.64.95|3172|Japan|Kita|InfoSphere|
+|18|116.80.82.234|3172|Japan|Kita|InfoSphere|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
 
 
 
