@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.234|3172|Japan|Kita|InfoSphere|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|16|116.80.92.114|3172|Japan|Kita|InfoSphere|
-|17|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|18|202.58.77.77|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|116.80.92.114|3172|Japan|Kita|InfoSphere|
+|8|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|11|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|12|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|19|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
 |20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
