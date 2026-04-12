@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|4|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|116.80.96.4|3172|Japan|Kita|InfoSphere|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|79.132.136.58|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|9|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|116.80.96.4|3172|Japan|Kita|InfoSphere|
+|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |11|116.80.48.38|7777|Japan|Kita|InfoSphere|
 |12|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|103.229.127.31|7890|Hong Kong|San Po Kong|Hosted in Cloudie Limited|
-|14|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
-|15|150.241.106.173|8080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|5.104.87.17|8050|Japan|Tokyo|Contabo Asia Private Limited|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|104.168.93.120|8080|United States|Buffalo|HostPapa|
-|19|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|116.80.95.250|3172|Japan|Kita|InfoSphere|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
