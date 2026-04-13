@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|5|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|6|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|103.153.62.162|8090|Indonesia|Teluknaga|PT Ikhlas Cipta Teknologi|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|3|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|4|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
+|11|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |14|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|15|154.19.39.213|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|18|204.152.223.225|9050|United States|Washington|HostPapa|
-|19|202.129.185.187|8080|Indonesia|Jakarta|PT Media Akses Global Indo|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|45.123.142.83|1111|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|17|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|18|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
