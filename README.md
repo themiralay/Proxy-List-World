@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|38.35.247.157|999|Mexico|Tacámbaro de Codallos|Optoenlaces SA de CV|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|10|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 |11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|203.207.56.57|8080|Indonesia|Cileunyi|STARNET|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|103.71.162.32|8181|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|160.191.173.51|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|16|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|17|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|103.130.182.41|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
-|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|19|116.80.95.250|3172|Japan|Kita|InfoSphere|
+|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 
 
 
