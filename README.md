@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4015** proxies at the latest update. Usable proxies are below.
+> Scraper found **3993** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|83|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|452|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|430|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2508|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|116.203.112.97|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|103.180.118.174|6789|Indonesia|Mojoagung|PT Persada Data Multimedia|
-|11|103.155.64.220|8080|Indonesia|Desa Mangkubumi|PT Media Access Telematika|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|103.144.102.231|8085|Indonesia|Jatibarang|PANDAWANET|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|120.28.216.166|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|4|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|160.187.174.114|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|10|103.162.63.71|8080|Indonesia|Dukuhturi|PT Ring Media Nusantara|
+|11|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
+|13|203.207.56.175|1452|Indonesia|Paseh|STARNET|
+|14|116.80.64.96|3172|Japan|Kita|InfoSphere|
+|15|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.65.82|3172|Japan|Kita|InfoSphere|
+|18|116.80.63.178|3172|Japan|Kita|InfoSphere|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
