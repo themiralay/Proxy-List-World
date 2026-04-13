@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|5.196.101.18|3128|France|Chemillé-en-Anjou|OVH SAS|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|185.76.241.124|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|185.76.241.99|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|16|185.76.240.61|10001|Russia|Moscow|GIR SER|
-|17|185.76.241.158|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|18|185.76.240.179|10001|Russia|Moscow|GIR SER|
-|19|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|46.30.46.133|3128|The Netherlands|Amsterdam|EUROBYTE|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|185.76.241.232|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|14|185.76.240.31|10001|Russia|Moscow|GIR SER|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|185.76.240.33|10001|Russia|Moscow|GIR SER|
+|17|185.76.240.195|10001|Russia|Moscow|GIR SER|
+|18|185.76.240.39|10001|Russia|Moscow|GIR SER|
+|19|185.76.240.196|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.190|10001|Russia|Moscow|GIR SER|
 
 
 
