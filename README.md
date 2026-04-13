@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|6|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|7|185.76.240.39|10001|Russia|Moscow|GIR SER|
-|8|185.76.240.201|10001|Russia|Moscow|GIR SER|
-|9|185.76.241.132|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|10|185.76.240.42|10001|Russia|Moscow|GIR SER|
-|11|185.76.240.31|10001|Russia|Moscow|GIR SER|
-|12|185.76.240.58|10001|Russia|Moscow|GIR SER|
-|13|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|14|103.247.13.75|8181|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
-|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|115.127.181.114|6969|Bangladesh|Dhaka|BRACNet Limited|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|185.76.240.64|10001|Russia|Moscow|GIR SER|
+|8|185.76.240.203|10001|Russia|Moscow|GIR SER|
+|9|185.76.240.61|10001|Russia|Moscow|GIR SER|
+|10|185.76.240.75|10001|Russia|Moscow|GIR SER|
+|11|185.76.240.210|10001|Russia|Moscow|GIR SER|
+|12|185.76.240.193|10001|Russia|Moscow|GIR SER|
+|13|185.76.240.188|10001|Russia|Moscow|GIR SER|
+|14|185.76.240.189|10001|Russia|Moscow|GIR SER|
+|15|185.76.240.39|10001|Russia|Moscow|GIR SER|
+|16|185.76.241.191|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|17|185.76.241.161|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|18|185.76.240.55|10001|Russia|Moscow|GIR SER|
+|19|185.76.240.196|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.60|10001|Russia|Moscow|GIR SER|
 
 
 
