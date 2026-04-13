@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|4|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|5|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|6|116.80.92.114|3172|Japan|Kita|InfoSphere|
-|7|185.76.240.61|10001|Russia|Moscow|GIR SER|
-|8|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|9|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|15|116.80.64.158|7777|Japan|Kita|InfoSphere|
-|16|185.76.240.201|10001|Russia|Moscow|GIR SER|
-|17|116.80.82.234|3172|Japan|Kita|InfoSphere|
-|18|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|19|116.80.64.95|3172|Japan|Kita|InfoSphere|
-|20|185.76.241.161|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.227.187.1|6080|Indonesia|Curahjati|PT Master Star Network|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|5.134.48.59|8080|Azerbaijan|Baku|SUPERONLAYN|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|11|185.76.240.33|10001|Russia|Moscow|GIR SER|
+|12|116.80.92.114|3172|Japan|Kita|InfoSphere|
+|13|103.136.171.145|8080|Indonesia|Jakarta|PT UNZA VITALI|
+|14|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
+|15|185.76.240.189|10001|Russia|Moscow|GIR SER|
+|16|24.152.58.108|999|Colombia|Bucaramanga|Atenea Telecomunicaciones S.A.S|
+|17|185.76.240.194|10001|Russia|Moscow|GIR SER|
+|18|185.76.240.47|10001|Russia|Moscow|GIR SER|
+|19|185.76.240.91|10001|Russia|Moscow|GIR SER|
+|20|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
 
 
 
