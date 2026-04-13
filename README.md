@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|8|181.94.197.37|8080|Paraguay|Fernando de la Mora|Núcleo S.A.|
-|9|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|10|119.92.70.232|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|11|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|104.168.93.120|8080|United States|Buffalo|HostPapa|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|205.164.46.6|3127|United States|Santa Clara|Grass DataCo (BVI) Ltd.|
-|18|185.76.240.56|10001|Russia|Moscow|GIR SER|
-|19|157.15.40.251|7777|Indonesia|Ponorogo|TRISARI|
-|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|6|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|8|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|9|185.76.240.45|10001|Russia|Moscow|GIR SER|
+|10|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|11|168.222.254.88|3128|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|12|185.76.240.64|10001|Russia|Moscow|GIR SER|
+|13|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|14|185.76.240.61|10001|Russia|Moscow|GIR SER|
+|15|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|16|58.69.194.227|5050|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|18|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|185.76.240.64|10001|Russia|Moscow|GIR SER|
 
 
 
