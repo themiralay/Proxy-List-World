@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|1.231.81.166|3128|South Korea|Dongdaemun|SK Broadband Co Ltd|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|46.30.46.133|3128|The Netherlands|Amsterdam|EUROBYTE|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|13|185.76.240.19|10001|Russia|Moscow|GIR SER|
-|14|185.76.241.99|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|15|185.76.240.18|10001|Russia|Moscow|GIR SER|
-|16|168.222.254.88|3128|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|17|185.76.240.179|10001|Russia|Moscow|GIR SER|
-|18|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|19|185.76.240.57|10001|Russia|Moscow|GIR SER|
-|20|185.76.240.61|10001|Russia|Moscow|GIR SER|
+|8|79.132.136.58|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|103.183.19.34|3128|Indonesia|Karet Semanggi|PT iForte Global Internet|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|103.157.116.147|1111|Indonesia|Probolinggo|PT Cloud Teknologi Nusantara|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|46.30.46.133|3128|The Netherlands|Amsterdam|EUROBYTE|
+|20|185.76.240.64|10001|Russia|Moscow|GIR SER|
 
 
 
