@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|116.80.63.178|3172|Japan|Kita|InfoSphere|
-|3|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|116.80.63.178|3172|Japan|Kita|InfoSphere|
+|2|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|11|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|12|79.132.136.58|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|17|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|18|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|19|171.227.167.109|1008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|79.132.136.58|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|19|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
