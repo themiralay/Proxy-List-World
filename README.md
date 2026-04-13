@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.101.216.66|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|1|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |5|116.203.112.97|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|8|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|103.97.140.17|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|11|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|12|103.141.244.139|8080|Indonesia|Kahala|PT PATRIA LINTAS JAYA|
-|13|116.80.64.96|3172|Japan|Kita|InfoSphere|
-|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|15|116.80.63.194|3172|Japan|Kita|InfoSphere|
-|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|94.72.109.214|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|116.80.64.158|7777|Japan|Kita|InfoSphere|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|6|103.247.23.120|1111|Indonesia|Purbalingga|PT wifian Solution|
+|7|171.5.139.144|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
+|8|45.123.142.77|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|9|163.227.244.243|8080|Philippines|Rodriguez|Rdnaks Network and Data Solution|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|157.20.244.194|7777|Indonesia|Jakarta|PT.Global Media Data Prima|
+|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|103.76.151.129|8181|Indonesia|Jabalan|PT. Java Digital Nusantara|
+|14|45.173.6.169|999|Colombia|Bogotá|Liberty Networks De Colombia S.A.S|
+|15|194.87.215.166|9443|Russia|St Petersburg|JSC "TIMEWEB"|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|116.80.64.96|3172|Japan|Kita|InfoSphere|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|116.80.63.194|3172|Japan|Kita|InfoSphere|
+|20|103.72.191.146|8082|Philippines|Majayjay|Community Cable Vision Corporation|
 
 
 
