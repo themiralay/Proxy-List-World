@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|12|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|14|116.80.65.82|3172|Japan|Kita|InfoSphere|
-|15|193.181.35.106|8118|Sweden|Stockholm|PVDataNet AB|
-|16|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|147.45.186.28|3128|Russia|St Petersburg|Timeweb, LLP|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|6|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
+|7|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|8|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|116.80.65.82|3172|Japan|Kita|InfoSphere|
+|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 |17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|202.58.77.194|8031|Indonesia|Surabaya|PT Data Buana Nusantara|
-|19|103.173.162.201|8080|Indonesia|Cirebon|Paket Data Andal|
-|20|131.0.91.117|8080|Brazil|Vitória da Conquista|Henet Telecomunicacoes Ltda|
+|18|185.76.241.100|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
 
 
 
