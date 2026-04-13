@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|107.172.102.234|40621|United States|Santa Clara|HostPapa|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.245.109.57|39355|Bangladesh|Dhaka|ACE IT Networks Limited|
 |4|204.152.223.225|9050|United States|Washington|HostPapa|
-|5|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|7|101.255.211.110|8080|Indonesia|Jakarta|PT Remala Abadi|
-|8|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|9|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|10|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|15|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|175.111.96.157|3128|Indonesia|Jatimulyo|PT Wifipedia Sinergi Telematika|
-|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|20|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|5|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|107.172.102.234|40621|United States|Santa Clara|HostPapa|
+|8|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|16|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
