@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|7|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|185.76.240.203|10001|Russia|Moscow|GIR SER|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|12|123.200.6.205|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|116.80.64.157|7777|Japan|Kita|InfoSphere|
-|16|185.76.240.196|10001|Russia|Moscow|GIR SER|
-|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|49.156.44.10|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|6|103.174.214.206|8090|Bangladesh|Kafrul|IP Communications Limited|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|58.69.125.145|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|9|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|10|49.147.88.11|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|185.76.240.61|10001|Russia|Moscow|GIR SER|
+|16|185.76.240.64|10001|Russia|Moscow|GIR SER|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|116.80.64.157|7777|Japan|Kita|InfoSphere|
+|20|185.76.241.226|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
 
 
 
