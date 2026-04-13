@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|49.156.44.10|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|5|168.222.254.88|3128|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|6|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|89.104.102.209|58080|Uzbekistan|Bukhara|"Uzbektelekom" Joint Stock Company|
-|9|103.147.230.130|8090|Bangladesh|Joypur Hāt|Friends BroadBand Network|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|116.80.95.250|3172|Japan|Kita|InfoSphere|
-|12|116.80.96.4|3172|Japan|Kita|InfoSphere|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|1|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.19.78.242|1080|Indonesia|Randuboto|PT Persada Data Multimedia|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
+|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|6|49.147.88.11|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
+|7|138.68.20.38|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|116.80.95.250|3172|Japan|Kita|InfoSphere|
+|11|116.80.96.4|3172|Japan|Kita|InfoSphere|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|103.179.253.11|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
 |15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|58.69.125.145|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 |18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|103.193.145.46|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|20|91.236.15.66|8080|Russia|Kultayevo|Individual Entrepreneur Nenyus Dmitry Vladasovich|
 
 
 
