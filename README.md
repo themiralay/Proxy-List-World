@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|12|185.76.240.177|10001|Russia|Moscow|GIR SER|
-|13|185.76.240.18|10001|Russia|Moscow|GIR SER|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|185.76.240.61|10001|Russia|Moscow|GIR SER|
-|16|185.76.240.203|10001|Russia|Moscow|GIR SER|
-|17|185.76.241.161|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|18|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|19|185.76.241.162|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|20|185.76.240.72|10001|Russia|Moscow|GIR SER|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|195.200.31.45|3128|The Netherlands|Amsterdam|MISTRAL|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|5.102.109.41|999|Mexico|San Juan del Río|IPXO|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|20|116.80.95.250|3172|Japan|Kita|InfoSphere|
 
 
 
