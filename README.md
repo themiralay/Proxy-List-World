@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|160.187.174.114|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|7|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|10|103.162.63.71|8080|Indonesia|Dukuhturi|PT Ring Media Nusantara|
-|11|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|103.134.220.122|1080|Indonesia|Sleman|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|13|203.207.56.175|1452|Indonesia|Paseh|STARNET|
-|14|116.80.64.96|3172|Japan|Kita|InfoSphere|
-|15|116.80.64.44|7777|Japan|Kita|InfoSphere|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|116.80.65.82|3172|Japan|Kita|InfoSphere|
-|18|116.80.63.178|3172|Japan|Kita|InfoSphere|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|2|202.43.162.2|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
+|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|157.180.50.70|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|114.141.54.221|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|15|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|103.102.12.134|1111|Indonesia|Rembang|FISNET|
+|18|116.80.64.96|3172|Japan|Kita|InfoSphere|
+|19|116.80.64.44|7777|Japan|Kita|InfoSphere|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
