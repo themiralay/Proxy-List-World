@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|103.174.122.217|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
 |11|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|12|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|13|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|12|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|20|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
 
 
 
