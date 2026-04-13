@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|113.11.76.233|30226|Bangladesh|Dhaka|BDCOM Online Limited|
-|7|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|160.191.173.51|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|38.52.135.96|8181|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
-|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|16|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|17|180.94.23.51|8090|Indonesia|Cianjur|KAHAJA|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|116.80.64.96|3172|Japan|Kita|InfoSphere|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|103.162.63.71|8080|Indonesia|Dukuhturi|PT Ring Media Nusantara|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|188.0.167.195|8080|Russia|Grozny|Vainah Telecom|
+|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|180.94.23.51|8090|Indonesia|Cianjur|KAHAJA|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|20|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
