@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|222.127.63.18|8082|Philippines|Lahug|Globe Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|103.156.86.131|1080|Indonesia|Watampone|PT Chacha Networking System|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|103.176.94.234|1080|Indonesia|Sekupang|PT Mitra Internet Indonesia|
-|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|10|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|61.29.96.146|8000|Australia|Albury|AAPT Limited|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|16|103.19.78.136|1111|Indonesia|Randuboto|PT Persada Data Multimedia|
-|17|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|204.152.223.225|9050|United States|Washington|HostPapa|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|185.76.240.167|10001|Russia|Moscow|GIR SER|
+|15|185.76.240.169|10001|Russia|Moscow|GIR SER|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|82.114.228.67|1080|Russia|Saratov|SCTS|
+|20|192.232.48.20|8080|Indonesia|Pringsewu|PT Axindo Infinitas Network|
 
 
 
