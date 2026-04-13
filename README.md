@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|38.194.251.246|999|Mexico|Mesas de Acosta|IENTC S de RL de CV|
-|5|203.207.56.175|1452|Indonesia|Paseh|STARNET|
-|6|103.163.80.25|8081|Indonesia|Caruban|PT Data Arta Sedaya|
-|7|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|203.207.56.57|8080|Indonesia|Cileunyi|STARNET|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|180.94.23.51|8090|Indonesia|Cianjur|KAHAJA|
-|11|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|12|160.22.90.90|8080|Indonesia|Cirebon|PT Lintas Data Kita|
-|13|103.139.98.69|8080|Indonesia|Bandar Lampung|Digital Network Setiawan|
-|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|171.5.139.144|8080|Thailand|Si Sa Ket|Triple T Broadband Public Company Limited|
-|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|103.66.47.25|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|5|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|6|202.43.162.2|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 |19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |20|116.80.48.38|7777|Japan|Kita|InfoSphere|
 
