@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|5|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|6|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|103.19.78.242|1080|Indonesia|Randuboto|PT Persada Data Multimedia|
-|10|185.76.241.94|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|11|185.76.240.177|10001|Russia|Moscow|GIR SER|
-|12|185.76.240.18|10001|Russia|Moscow|GIR SER|
-|13|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
-|14|185.76.240.145|10001|Russia|Moscow|GIR SER|
-|15|185.76.240.203|10001|Russia|Moscow|GIR SER|
-|16|185.76.241.113|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
-|17|185.76.240.107|10001|Russia|Moscow|GIR SER|
-|18|185.76.240.49|10001|Russia|Moscow|GIR SER|
-|19|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|20|185.76.241.132|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|5|185.76.240.203|10001|Russia|Moscow|GIR SER|
+|6|185.76.240.177|10001|Russia|Moscow|GIR SER|
+|7|185.76.240.18|10001|Russia|Moscow|GIR SER|
+|8|185.76.240.29|10001|Russia|Moscow|GIR SER|
+|9|185.76.240.55|10001|Russia|Moscow|GIR SER|
+|10|168.222.254.88|3128|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|11|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|5.102.109.41|999|Mexico|San Juan del Río|IPXO|
+|14|185.76.240.240|10001|Russia|Moscow|GIR SER|
+|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|19|89.43.134.12|8085|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|20|185.76.240.106|10001|Russia|Moscow|GIR SER|
 
 
 
