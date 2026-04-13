@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5043** proxies at the latest update. Usable proxies are below.
+> Scraper found **5041** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|47|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|676|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|674|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3335|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|160.19.19.125|8080|Indonesia|Cileungsir|PT Indo Telemedia Solusi|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|103.163.80.108|8080|Indonesia|Caruban|PT Data Arta Sedaya|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|202.93.244.66|1111|Indonesia|Sidoarjo|PT. Dutakom Wibawa Putra|
-|11|103.55.22.236|8080|Indonesia|Kisaran|PT General Media Network|
-|12|180.148.25.182|8085|Indonesia|Cianjur|PT GIGA NETWORK INDONESIA|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|36.95.55.207|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|103.147.230.130|8090|Bangladesh|Joypur Hāt|Friends BroadBand Network|
-|18|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|143.255.85.180|999|Venezuela|El Vigía|Viginet C.A|
-|20|167.71.196.28|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|6|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|7|185.76.240.64|10001|Russia|Moscow|GIR SER|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|185.76.240.203|10001|Russia|Moscow|GIR SER|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|12|123.200.6.205|2314|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|116.80.64.157|7777|Japan|Kita|InfoSphere|
+|16|185.76.240.196|10001|Russia|Moscow|GIR SER|
+|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|20|65.108.159.129|5678|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
