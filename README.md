@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|79.132.136.58|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|185.76.240.61|10001|Russia|Moscow|GIR SER|
-|9|185.76.240.92|10001|Russia|Moscow|GIR SER|
-|10|185.76.240.64|10001|Russia|Moscow|GIR SER|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|185.76.240.56|10001|Russia|Moscow|GIR SER|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|172.236.140.124|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|18|185.76.240.12|10001|Russia|Moscow|GIR SER|
-|19|185.76.240.47|10001|Russia|Moscow|GIR SER|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|9|185.76.241.99|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|10|185.76.240.178|10001|Russia|Moscow|GIR SER|
+|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|185.76.240.61|10001|Russia|Moscow|GIR SER|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|95.214.9.93|3128|Finland|Helsinki|First Server Limited|
+|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|17|185.76.241.191|10001|Russia|Mayachnaya|Global Internet Solutions LLC|
+|18|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|19|185.76.240.92|10001|Russia|Moscow|GIR SER|
+|20|185.76.240.97|10001|Russia|Moscow|GIR SER|
 
 
 
