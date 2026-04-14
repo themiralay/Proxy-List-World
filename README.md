@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|167.71.196.178|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|11|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|12|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|13|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|104.168.93.120|8080|United States|Buffalo|HostPapa|
-|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|18|144.124.227.145|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|10|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|138.2.47.198|5858|Japan|Osaka|Oracle Corporation|
+|15|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|16|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
