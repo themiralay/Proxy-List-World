@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
 |3|116.80.49.175|3172|Japan|Wakabayashi|InfoSphere|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
-|9|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|12|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|13|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|14|185.76.240.95|10002|Russia|Moscow|GIR SER|
-|15|93.185.156.89|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|16|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|107.174.93.117|7890|United States|Dallas|HostPapa|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|11|185.76.240.95|10002|Russia|Moscow|GIR SER|
+|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|178.212.12.162|3128|Russia|St Petersburg|Hostland LTD|
+|14|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|15|103.242.105.76|80|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|16|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
 |17|138.2.47.198|5858|Japan|Osaka|Oracle Corporation|
-|18|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|19|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|20|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
