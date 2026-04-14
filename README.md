@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|204.152.223.225|9050|United States|Washington|HostPapa|
-|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|16|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|18|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|19|103.165.155.196|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
-|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|5|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|7|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|12|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|14|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|15|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|16|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|83.222.7.205|3128|Uzbekistan|Samarkand|"Uzbektelekom" Joint Stock Company|
+|19|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
