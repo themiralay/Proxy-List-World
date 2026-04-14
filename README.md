@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|5|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|4|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|6|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|7|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|8|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|9|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
 |10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|17|78.11.96.22|8888|Poland|Zielonka|Netia SA|
-|18|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|12|78.11.96.22|8888|Poland|Zielonka|Netia SA|
+|13|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|15|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|38.156.89.76|999|Dominican Republic|Esperanza|Openconnection Fernandez s.r.l|
 |20|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
