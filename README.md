@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|4|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|5|52.59.51.29|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|7|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|8|13.53.139.178|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|54.253.183.151|3128|Australia|Sydney|Amazon.com, Inc.|
-|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|79.132.136.58|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|144.124.227.88|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|18|13.235.42.151|3129|India|Mumbai|Amazon Technologies Inc.|
-|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|20|177.234.211.151|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|223.16.170.103|80|Hong Kong|Tsing Yi|HGC Global Communications Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|9|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|10|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|101.255.137.2|80|Indonesia|Jakarta|PT Remala Abadi|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|16|13.53.139.178|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|19|103.181.255.219|7777|Indonesia|Den Timur|PT Giga Digital Nusantara|
+|20|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
 
 
 
