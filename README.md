@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|45.32.39.135|1080|Japan|Minamishinagawa|The Constant Company|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|6|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|10|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|178.212.12.162|3128|Russia|St Petersburg|Hostland LTD|
-|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|13|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|14|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|93.185.156.89|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
+|9|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 |20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
