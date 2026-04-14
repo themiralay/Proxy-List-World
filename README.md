@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|7|185.76.240.95|10002|Russia|Moscow|GIR SER|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
-|11|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|13|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|14|181.209.110.27|999|Argentina|Quimilí|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|18|78.11.96.22|8888|Poland|Zielonka|Netia SA|
-|19|185.76.240.95|10002|Russia|Moscow|GIR SER|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|6|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|8|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|9|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
+|10|82.114.228.67|1080|Russia|Saratov|SCTS|
+|11|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|12|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|15|185.76.240.95|10002|Russia|Moscow|GIR SER|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|18|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|78.11.96.22|8888|Poland|Zielonka|Netia SA|
 
 
 
