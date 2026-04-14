@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|4|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|5|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|6|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|7|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.120.221.41|8090|Bangladesh|Kafrul|Touhidul Islam Polash|
+|5|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|6|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|7|103.147.118.67|8080|Indonesia|Boyolali|PT.Bestcamp Prima Data|
+|8|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
 |9|52.59.51.29|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|11|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|12|13.235.42.151|3129|India|Mumbai|Amazon Technologies Inc.|
-|13|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|14|13.53.139.178|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|116.80.49.174|3172|Japan|Kita|InfoSphere|
+|10|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|144.124.227.145|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|15|13.235.42.151|3129|India|Mumbai|Amazon Technologies Inc.|
+|16|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
 |17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|116.80.50.48|3172|Japan|Kita|InfoSphere|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|54.253.183.151|3128|Australia|Sydney|Amazon.com, Inc.|
+|18|116.80.49.174|3172|Japan|Kita|InfoSphere|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|116.80.50.48|3172|Japan|Kita|InfoSphere|
 
 
 
