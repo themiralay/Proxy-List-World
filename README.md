@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|5|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|9|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|12|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|13|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|14|185.76.240.95|10002|Russia|Moscow|GIR SER|
-|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|7|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|13|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|14|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|15|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
 |16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|17|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
+|17|144.124.227.145|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
+|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
 
 
 
