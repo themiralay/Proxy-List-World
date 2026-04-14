@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|129.154.48.5|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|129.154.48.5|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|7|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
 |8|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|54.241.232.209|3128|United States|San Jose|Amazon.com, Inc.|
-|13|177.73.155.246|999|Colombia|Cajibío|Dobleclick Software E Ingeneria|
-|14|16.112.129.118|3856|India|Hyderabad|Amazon.com, Inc.|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|77.91.77.220|3128|Georgia||Cloud Hosting Solutions, Limited.|
-|18|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|82.114.228.67|1080|Russia|Saratov|SCTS|
+|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|14|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|171.227.167.109|1002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|18|192.145.28.25|3128|Poland|Warsaw|Baykov Ilya Sergeevich|
+|19|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
