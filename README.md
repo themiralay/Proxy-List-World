@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 |4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |5|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|8|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|9|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|10|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|6|2.27.8.54|1080|United States|Orem|Ace Data Centers II|
+|7|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|8|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|9|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|10|78.11.96.22|8888|Poland|Zielonka|Netia SA|
+|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|12|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 |13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|15|78.11.96.22|8888|Poland|Zielonka|Netia SA|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|116.80.64.158|7777|Japan|Kita|InfoSphere|
+|17|116.80.49.174|3172|Japan|Kita|InfoSphere|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|20|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
 
 
 
