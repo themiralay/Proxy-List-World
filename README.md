@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|5|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
 |7|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|8|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|9|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|10|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
-|13|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|14|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|201.77.14.239|50806|Brazil|Pinheiros|RG PROVIDER LTDA ME|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|201.77.14.239|50806|Brazil|Pinheiros|RG PROVIDER LTDA ME|
+|14|16.62.123.236|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|15|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|16|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|17|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
