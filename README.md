@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.16|7777|Japan|Kita|InfoSphere|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|4|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|7|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|3|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|6|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|8|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|9|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|13|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|14|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|15|163.223.78.163|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|16|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|20|116.80.48.16|7777|Japan|Kita|InfoSphere|
+|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|14|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|15|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
+|18|103.122.67.135|8080|Indonesia|Kedalon|PT. Jinom Network Indonesia|
+|19|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|20|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
 
 
 
