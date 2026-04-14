@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|3|93.185.156.89|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|4|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|6|185.76.240.95|10002|Russia|Moscow|GIR SER|
-|7|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
-|9|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|10|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|171.227.167.109|1002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|103.134.27.129|8080|Bangladesh|Dhaka|Md Abdur Rouf|
-|15|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|16|162.133.132.191|80|Japan|Chiyoda City|IBM Cloud|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|116.80.81.13|7777|Japan|Kita|InfoSphere|
-|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|11|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|12|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|16|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|17|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|18|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|19|105.159.134.139|4123|Morocco|Casablanca|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|20|116.80.81.13|7777|Japan|Kita|InfoSphere|
 
 
 
