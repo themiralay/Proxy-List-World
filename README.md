@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4535** proxies at the latest update. Usable proxies are below.
+> Scraper found **4660** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|572|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|50|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2875|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|2|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |4|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|5|116.80.63.194|3172|Japan|Kita|InfoSphere|
-|6|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|7|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|8|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|11|218.153.163.186|8800|South Korea|Gangdong-gu|Korea Telecom|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|103.172.70.167|8088|Indonesia|Karawang|AZNET|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|19|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|20|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
+|9|175.158.63.166|1111|Indonesia|South Tangerang|CBNNAP|
+|10|103.135.102.161|8081|Hong Kong|Wan Chai|ASSN-AKRN|
+|11|45.77.246.231|80|Singapore|Singapore|The Constant Company|
+|12|116.80.63.67|7777|Japan|Kita|InfoSphere|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|16|116.80.49.174|3172|Japan|Kita|InfoSphere|
+|17|78.11.96.22|8888|Poland|Zielonka|Netia SA|
+|18|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|157.20.252.154|1111|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
 
 
 
