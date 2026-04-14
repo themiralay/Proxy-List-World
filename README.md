@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4178** proxies at the latest update. Usable proxies are below.
+> Scraper found **4097** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|95|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|547|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|465|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2515|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|10|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|11|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|12|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|13|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
-|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|6|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|7|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
+|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|9|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|10|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|13|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|116.80.63.67|7777|Japan|Kita|InfoSphere|
+|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|18|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|19|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|185.114.73.2|1080|Spain|Madrid|First Server Limited|
 
 
 
