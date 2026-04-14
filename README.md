@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|708|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|95|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|709|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3063|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|12|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|13|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|14|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
-|15|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|223.205.91.136|8080|Thailand|Tak|Triple T Broadband Public Company Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|7|103.148.184.82|8080|Timor Leste|Dom Aleixo|METROLINK, LDA.|
+|8|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|9|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|16|103.165.155.196|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
 |17|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|18|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|20|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
