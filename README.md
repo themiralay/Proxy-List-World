@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|17|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|18|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|19|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|16|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
 
 
 
