@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|7|107.172.102.234|40621|United States|Santa Clara|HostPapa|
-|8|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
-|9|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|12|103.171.241.14|8080|Indonesia|Ciputat|PT Abs Multimedia Indonesia|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|17|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|18|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|19|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|20|103.82.23.118|5205|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|4|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|5|138.2.47.198|5858|Japan|Osaka|Oracle Corporation|
+|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|7|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|13|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|14|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|15|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
+|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|17|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
 
 
 
