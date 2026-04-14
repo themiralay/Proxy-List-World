@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.95.238|7777|Japan|Kita|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|17|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
-|18|78.11.96.22|8888|Poland|Zielonka|Netia SA|
-|19|52.66.191.112|42105|India|Mumbai|Amazon Technologies Inc.|
-|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|8|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|14|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|103.169.254.75|6080|Indonesia|Ciputat|PT Master Star Network|
+|20|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
 
 
 
