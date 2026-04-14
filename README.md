@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.48.16|7777|Japan|Kita|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|5|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|6|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|7|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|8|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|14|171.227.167.109|1004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|17|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|18|116.80.77.99|7777|Japan|Kita|InfoSphere|
-|19|116.80.65.217|3172|Japan|Kita|InfoSphere|
-|20|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|6|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|7|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|8|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|180.191.23.171|8081|Philippines|Cabanatuan City|Globe Telecom|
+|13|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|14|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|116.80.77.99|7777|Japan|Kita|InfoSphere|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|19|154.220.66.87|40061|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
+|20|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
