@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|4|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|4|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
 |5|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|7|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|8|13.53.139.178|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|9|190.52.110.79|999|Venezuela|Caracas|Gold Data USA Inc|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|13|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|14|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|13|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |15|116.80.48.38|7777|Japan|Kita|InfoSphere|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|78.11.96.22|8888|Poland|Zielonka|Netia SA|
-|19|94.72.109.214|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|16|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
+|17|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|18|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|78.11.96.22|8888|Poland|Zielonka|Netia SA|
 
 
 
