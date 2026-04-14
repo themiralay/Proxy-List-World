@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.48.16|7777|Japan|Kita|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|14.248.84.131|8080|Vietnam|Hanoi|VNPT|
-|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|2|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|7|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
-|9|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|12|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
-|13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|18|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|9|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
+|10|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|13|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|89.43.133.197|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
+|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|2.27.32.81|3128|United Kingdom|Bristol|DpkgSoft International Limited|
 |19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
