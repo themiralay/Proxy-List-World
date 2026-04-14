@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|6|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|7|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
-|8|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|4|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
+|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 |9|187.86.59.122|80|Brazil|Toledo|Opcao Telecom|
-|10|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
-|16|194.67.99.223|1080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|17|128.14.92.89|3128|Vietnam|Hanoi|Zenlayer Inc|
-|18|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|19|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|11|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|17|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|18|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
