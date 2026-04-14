@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|5|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|6|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|7|45.143.99.15|41000|Türkiye|Bakırköy|Markahost Telekomunikasyon Ve Ticaret Limited Sirketi|
-|8|43.99.54.80|7890|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|12|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|54.253.183.151|3128|Australia|Sydney|Amazon.com, Inc.|
-|16|72.56.84.21|1080|The Netherlands|Amsterdam|Timeweb, LLP|
-|17|203.205.49.2|10091|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|103.93.93.207|8080|Indonesia|Kertosono|MYRISE|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|3|43.99.54.80|7890|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|6|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|7|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|103.66.47.66|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|11|13.53.139.178|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|12|34.246.183.20|8081|Ireland|Dublin|Amazon Technologies Inc.|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|13.235.42.151|3129|India|Mumbai|Amazon Technologies Inc.|
+|16|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|17|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 
 
 
