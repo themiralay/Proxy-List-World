@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
-|2|116.80.49.175|3172|Japan|Wakabayashi|InfoSphere|
+|1|116.80.49.175|3172|Japan|Wakabayashi|InfoSphere|
+|2|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
 |7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|11|103.97.88.47|3128|Netherlands|Amsterdam|Melbikomas UAB|
-|12|185.76.240.95|10002|Russia|Moscow|GIR SER|
-|13|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|14|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|15|107.174.93.117|7890|United States|Dallas|HostPapa|
-|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|17|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|18|107.173.42.121|7890|United States|Buffalo|HostPapa|
-|19|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|20|107.173.42.121|7890|United States|Buffalo|HostPapa|
+|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|103.97.88.47|3128|Netherlands|Amsterdam|Melbikomas UAB|
+|11|185.76.240.95|10002|Russia|Moscow|GIR SER|
+|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|138.2.47.198|5858|Japan|Osaka|Oracle Corporation|
+|17|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|18|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|19|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
 
 
 
