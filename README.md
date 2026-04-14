@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|5|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|6|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|7|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|13.53.139.178|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|11|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|12|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.134.246.42|3172|Indonesia|Banjar Triwangsakelusa|Wisuandha Network Globalindo|
+|4|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|5|159.223.225.118|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
+|7|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|8|103.152.238.179|1080|Indonesia|Cikarang|APRIN|
+|9|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
+|10|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|200.174.198.32|8888|Brazil|Indaiatuba|Claro S.A.|
+|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|16|41.65.163.84|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|17|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|18|201.77.14.239|50806|Brazil|Pinheiros|RG PROVIDER LTDA ME|
+|19|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|20|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
 
 
 
