@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|129.154.48.5|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|129.154.48.5|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|124.243.150.41|3128|Singapore|Singapore|Huawei International Pte. LTD|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|9|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|10|5.255.123.43|1080|The Netherlands|Dronten|The Infrastructure Group B.V.|
-|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|5|43.156.132.113|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|7|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
 |13|2.27.18.184|1080|United Kingdom|London|IPTransit Business LTD|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|167.103.31.122|8800|India|New Delhi|ZSCALER, INC.|
 |19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 |20|46.101.126.84|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
