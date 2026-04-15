@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|113.11.126.238|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
-|7|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|3.239.171.226|38854|United States|Ashburn|Amazon Technologies Inc.|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
-|14|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|15|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
-|16|103.92.218.121|9514|Bangladesh|Rāmganj|Md Rezaul Karim|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|82.114.228.67|1080|Russia|Saratov|SCTS|
+|3|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
+|6|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|8|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|11|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|15|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|16|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|17|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
+|18|116.80.63.178|3172|Japan|Wakabayashi|InfoSphere|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
