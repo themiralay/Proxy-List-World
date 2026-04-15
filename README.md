@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|103.155.116.238|3030|Indonesia|Jakarta|IOSYS|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|8|124.107.15.43|8082|Philippines|Baliuag|Philippine Long Distance Telephone Co.|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|103.242.104.60|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|12|103.157.79.230|8080|Indonesia|Jakarta|EASTMEDIA|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|15|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|16|103.93.93.242|8181|Indonesia|Caruban|MYRISE|
-|17|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|18|160.19.19.193|8080|Indonesia|Subang|PT Indo Telemedia Solusi|
-|19|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|20|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|10|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|15|117.247.233.62|8080|India|Rohtak|BSNL Internet|
+|16|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|17|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|20|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
