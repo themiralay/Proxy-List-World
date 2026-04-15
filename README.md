@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
 |10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|12|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|13|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|185.76.240.95|10002|Russia|Moscow|GIR SER|
+|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
 |14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|17|185.76.240.95|10002|Russia|Moscow|GIR SER|
+|15|41.57.63.1|8080|South Africa|Johannesburg|FTH SCR P9|
+|16|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
 |18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|20|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|19|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|20|103.19.58.151|8080|Indonesia|Karangampel|BITSNET|
 
 
 
