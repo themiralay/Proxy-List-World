@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|104.168.93.120|8080|United States|Buffalo|HostPapa|
-|7|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|8|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|49.146.48.50|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|10|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|11|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|13|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|14|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|15|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|16|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|19|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|20|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|10|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|16|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|20|104.168.93.120|8080|United States|Buffalo|HostPapa|
 
 
 
