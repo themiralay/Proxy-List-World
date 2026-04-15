@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|8|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |9|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|12|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|13|82.114.228.67|1080|Russia|Saratov|SCTS|
-|14|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|15|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|10|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|17|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
 |18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|83.222.7.205|3128|Uzbekistan|Samarkand|"Uzbektelekom" Joint Stock Company|
-|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
 
