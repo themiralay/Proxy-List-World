@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4125** proxies at the latest update. Usable proxies are below.
+> Scraper found **4127** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|116|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|118|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|431|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 |9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|10|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|11|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|12|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
 |13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|17|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|19|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
 |20|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
 
 
