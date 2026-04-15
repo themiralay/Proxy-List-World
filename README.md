@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
-|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|9|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|14|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|15|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
-|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|157.15.62.23|8085|Indonesia|Malang|AMAN ISP Customer Malang|
-|19|82.114.228.67|1080|Russia|Saratov|SCTS|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|8|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|103.40.226.126|26100|Bangladesh|Dhaka|Triangle Services|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|15|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|16|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|201.159.126.133|8081|Mexico|San Nicolás de los Garza|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|18|41.65.163.85|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|157.20.207.115|8080|Indonesia|Kudus|PT Erajaya Telco Indonesia|
 |20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
