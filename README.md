@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|13|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|14|103.122.64.213|8080|Indonesia|Sungaigerong|PT. Jinom Network Indonesia|
-|15|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|16|103.157.79.230|8080|Indonesia|Jakarta|EASTMEDIA|
-|17|160.19.41.60|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
-|18|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|84.51.0.61|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|10|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|16.162.105.116|3129|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|19|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|20|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
