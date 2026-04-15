@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|9|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
-|12|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|15|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|16|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|17|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|11|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
+|14|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|15|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
 |19|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|20|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|20|116.80.49.174|3172|Japan|Wakabayashi|InfoSphere|
 
 
 
