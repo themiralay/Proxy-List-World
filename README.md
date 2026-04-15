@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|43.156.32.224|8081|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|17|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
+|18|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
