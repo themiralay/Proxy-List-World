@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|107.173.42.121|7890|United States|Buffalo|HostPapa|
 |7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|9|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
-|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|11|116.80.82.234|3172|Japan|Wakabayashi|InfoSphere|
-|12|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|14|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|15|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|16|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
-|17|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|38.191.213.160|999|Colombia|Villavicencio|Reintech SAS|
-|20|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
+|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|11|107.173.42.121|7890|United States|Buffalo|HostPapa|
+|12|82.114.228.67|1080|Russia|Saratov|SCTS|
+|13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|20|116.80.82.234|3172|Japan|Wakabayashi|InfoSphere|
 
 
 
