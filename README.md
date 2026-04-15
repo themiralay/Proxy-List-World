@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|15|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|16|185.76.241.214|10002|Russia|Moscow|Global Internet Solutions LLC|
-|17|185.76.240.224|10002|Russia|Moscow|GIR SER|
-|18|185.76.240.16|10002|Russia|Moscow|GIR SER|
-|19|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|20|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|14|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|17|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
