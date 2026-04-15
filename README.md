@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
 |3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|13|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|14|16.162.105.116|3129|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|16|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|16|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|16.162.105.116|3129|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|20|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
 
 
 
