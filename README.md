@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|12|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|8|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|9|72.56.105.251|3128|Germany|Frankfurt am Main|Timeweb, LLP|
+|10|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
+|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|144.124.227.145|8080|Netherlands|Amsterdam|Servers Tech Fzco|
 |13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|16|24.152.58.154|999|Colombia|Concepción|Atenea Telecomunicaciones|
-|17|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|16|107.173.42.121|7890|United States|Buffalo|HostPapa|
+|17|157.100.69.19|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|19|157.15.117.74|8080|Indonesia|Medan|INFRANET|
 |20|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 
 
