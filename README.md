@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
-|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|8|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
+|9|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
 |11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
-|18|3.239.171.226|38854|United States|Ashburn|Amazon Technologies Inc.|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|71.42.125.218|4444|United States|Leander|Spectrum|
+|18|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|19|167.103.115.102|8800|Singapore|Singapore|ZSCALER, INC.|
+|20|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
 
 
 
