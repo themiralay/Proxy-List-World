@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|113.192.1.66|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|13|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|14|71.42.125.218|4444|United States|Leander|Spectrum|
-|15|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|185.76.240.224|10002|Russia|Moscow|GIR SER|
-|17|185.76.241.214|10002|Russia|Moscow|Global Internet Solutions LLC|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|9|122.144.4.226|57413|Indonesia|Bekasi|Maxindo|
+|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|13|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|185.76.240.134|10002|Russia|Moscow|GIR SER|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|185.76.240.224|10002|Russia|Moscow|GIR SER|
+|19|71.42.125.218|4444|United States|Leander|Spectrum|
+|20|185.76.240.16|10002|Russia|Moscow|GIR SER|
 
 
 
