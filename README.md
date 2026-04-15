@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|185.76.240.190|10002|Russia|Moscow|GIR SER|
-|12|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|17|116.80.82.92|7777|Japan|Wakabayashi|InfoSphere|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
+|8|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|116.80.49.175|3172|Japan|Wakabayashi|InfoSphere|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
