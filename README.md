@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|12|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|15|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|16|78.11.96.22|8888|Poland|Zielonka|Netia SA|
-|17|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|18|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|78.11.96.22|8888|Poland|Zielonka|Netia SA|
+|11|168.222.254.88|3128|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|12|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|13|13.60.163.108|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|14|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|15|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|13.53.139.178|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|20|144.124.227.145|8080|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
