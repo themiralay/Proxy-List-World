@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.66.20.106|8080|Indonesia|Delanggu|PT. GEMILANG SARANA MANDIRI|
-|2|103.169.38.242|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|104.36.236.101|8080|United States|Pasco|Desert Winds Wireless|
 |3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|9|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|171.227.167.109|1008|Vietnam|Nha Trang|Viettel Corporation|
-|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|16|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|19|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|20|188.132.150.46|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|8|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|9|103.156.96.69|8088|Indonesia|East Luwu Regency|PT Karya Panca Telekomunikasi|
+|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|13|103.172.35.40|8080|Indonesia|Muntilan|PT Lintas Jaringan Nusantara|
+|14|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|15|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|16|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|19|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|20|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
