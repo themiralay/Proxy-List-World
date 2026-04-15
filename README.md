@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|171.227.167.109|1009|Vietnam|Nha Trang|Viettel Corporation|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|103.175.202.138|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|11|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|17|177.125.208.1|8080|Brazil|Campo Mourão|Giga Mais Fibra Telecomunicacoes S.A.|
-|18|154.19.39.133|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
-|19|61.29.96.146|8000|Australia|Albury|AAPT Limited|
-|20|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|51.145.178.158|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|16|82.114.228.67|1080|Russia|Saratov|SCTS|
+|17|104.168.93.120|8080|United States|Buffalo|HostPapa|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|20|160.20.38.102|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
 
 
 
