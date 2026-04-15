@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|10|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|11|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
-|12|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|38.46.233.249|3127|Indonesia|Boyolali|PT CYB Media Group|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|8|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|82.114.228.67|1080|Russia|Saratov|SCTS|
+|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 |14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|82.114.228.67|1080|Russia|Saratov|SCTS|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|18|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|15|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|18|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|158.160.254.144|1080|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
