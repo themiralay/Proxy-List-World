@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|6|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|11|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|12|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|15|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|82.114.228.67|1080|Russia|Saratov|SCTS|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|5|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|10|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|16|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|19|2.27.8.54|1080|United States|Orem|Ace Data Centers II|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
