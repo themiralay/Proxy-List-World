@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|8|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|9|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|10|103.180.123.229|8181|Indonesia|South Jakarta|PT Indo Telemedia Solusi|
-|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|20|157.20.207.61|9090|Indonesia|Kudus|PT Erajaya Telco Indonesia|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|15|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
+|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|17|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|18|116.80.95.250|3172|Japan|Wakabayashi|InfoSphere|
+|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
 
 
 
