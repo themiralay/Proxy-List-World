@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.193.145.32|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|15|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|16|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
-|17|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
-|20|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|14|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|18|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
