@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|103.24.214.190|8082|Indonesia|Weleri|PT. ADAU PUTRA NETWORK|
+|11|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|12|103.39.51.113|8099|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|13|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |14|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|15|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|16|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|17|8.212.177.126|8080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|20|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|15|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|185.76.240.95|10002|Russia|Moscow|GIR SER|
+|18|16.162.105.116|3129|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|19|103.157.83.231|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|20|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
 
 
 
