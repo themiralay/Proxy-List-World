@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|116.80.47.58|3128|Japan|Wakabayashi|InfoSphere|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|116.80.47.58|3128|Japan|Wakabayashi|InfoSphere|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|9|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|15|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
+|8|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
+|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|11|217.217.249.160|8080|India|Mumbai|Contabo Asia Private Limited|
+|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|13|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|16|171.247.171.210|8080|Vietnam|Phú Thọ Hòa|Viettel Corporation|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|222.127.55.214|5050|Philippines|Lahug|INNOVE|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|103.147.98.122|8080|India|Bengaluru|Onquee Networks Pvt Ltd.|
 
 
 
