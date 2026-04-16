@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|10|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|1|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|12|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|16|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|20|44.255.8.243|80|United States|Portland|Amazon.com, Inc.|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|14|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|17|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|202.129.185.187|8080|Indonesia|East Jakarta|PT Media Akses Global Indo|
 
 
 
