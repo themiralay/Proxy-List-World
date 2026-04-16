@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |7|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|12|116.80.64.95|3172|Japan|Wakabayashi|InfoSphere|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|11|116.80.64.95|3172|Japan|Wakabayashi|InfoSphere|
+|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|15|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
