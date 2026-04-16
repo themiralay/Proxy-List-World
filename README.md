@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.234|3172|Japan|Wakabayashi|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|14|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|16.50.210.199|8438|Australia|Melbourne|Amazon.com|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|116.80.48.217|7777|Japan|Wakabayashi|InfoSphere|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|103.161.153.177|1080|Bangladesh|Hāthazāri|Click Earth Online|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|19|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|20|116.80.48.217|7777|Japan|Wakabayashi|InfoSphere|
 
 
 
