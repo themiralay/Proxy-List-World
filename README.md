@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4484** proxies at the latest update. Usable proxies are below.
+> Scraper found **4461** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|594|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2576|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|9|18.100.254.193|80|Spain|Zaragoza|Amazon Technologies Inc.|
-|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
-|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|212.175.61.31|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|3.110.197.155|9085|India|Mumbai|Amazon Technologies Inc.|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|19|91.218.142.28|3128|Latvia|Riga|RETN Limited|
-|20|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|9|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|10|18.162.200.96|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|11|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|16|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
+|17|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|18|203.207.56.175|1452|Indonesia|Paseh|STARNET|
+|19|18.100.127.30|37256|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
 
 
 
