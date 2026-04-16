@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4536** proxies at the latest update. Usable proxies are below.
+> Scraper found **4452** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|655|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|571|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2576|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 |7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|10|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|13|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|13.56.247.117|3128|United States|San Jose|Amazon.com, Inc.|
-|16|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|17|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|20|16.26.99.200|80|Australia|Melbourne|Amazon.com, Inc.|
 
 
 
