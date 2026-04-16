@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.82.234|3172|Japan|Wakabayashi|InfoSphere|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|16.50.210.199|8438|Australia|Melbourne|Amazon.com|
-|14|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|77.91.77.220|3128|Georgia||Cloud Hosting Solutions, Limited.|
-|20|38.191.42.201|999|Colombia|Cúcuta|Servinet Comunicaciones S.A.S.|
+|11|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|15|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|18|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 
 
 
