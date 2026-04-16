@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|13|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|14|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|15|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|16|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|17|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|11|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|12|37.187.92.9|1029|France|Roubaix|OVH SAS|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|15|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|16|103.131.19.51|8080|Indonesia|Babat|PT Global Media Data Prima|
+|17|150.107.141.242|8080|Indonesia|Legian|PT. Jala Lintas Media|
+|18|38.191.193.203|999|Colombia|Paispamba|TV&MÁS S.A.S|
+|19|103.138.70.165|3129|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|20|116.80.96.121|3128|Japan|Wakabayashi|InfoSphere|
 
 
 
