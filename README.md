@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|103.157.79.73|8080|Indonesia|Jakarta|EASTMEDIA|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|18.162.200.96|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|12|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|14|13.60.181.61|3129|Sweden|Stockholm|Amazon.com, Inc.|
-|15|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|16|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|14|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|17|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|192.73.243.98|3128|United States|Miami|NetActuate, Inc|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
