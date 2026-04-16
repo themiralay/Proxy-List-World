@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.64.95|3172|Japan|Wakabayashi|InfoSphere|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|15|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|17|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|116.80.64.95|3172|Japan|Wakabayashi|InfoSphere|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|15|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|16|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |18|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
