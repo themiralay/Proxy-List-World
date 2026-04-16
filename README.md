@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.121|3128|Japan|Wakabayashi|InfoSphere|
-|2|121.130.199.80|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|3|159.223.45.119|8000|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|14|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|15|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|18|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|19|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|103.31.235.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|8|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|9|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|10|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|11|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|13|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|15|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|16|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
