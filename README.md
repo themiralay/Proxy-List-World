@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|10|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
-|16|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
-|17|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|158.160.85.248|3128|Russia|Moscow|Yandex.Cloud LLC|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|13|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|17|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|18|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
