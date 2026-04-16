@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|1|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|14|91.218.142.28|3128|Latvia|Riga|RETN Limited|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
-|17|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|18|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|19|116.80.96.121|3128|Japan|Wakabayashi|InfoSphere|
-|20|45.133.107.192|81|Russia|Tul'skiy|Art-net LLC|
+|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|13|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
+|14|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|15|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|16|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|19|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|20|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
