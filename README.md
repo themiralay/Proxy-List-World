@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5094** proxies at the latest update. Usable proxies are below.
+> Scraper found **5145** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|252|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3136|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|16|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|17|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|18|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|19|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
-|20|1.225.116.115|1080|South Korea|Goyang-si|SK Broadband Co Ltd|
+|12|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|13|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
+|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|20|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
 
 
 
