@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|150.230.249.50|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|12|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|16|13.53.139.178|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|17|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|18|91.218.142.28|3128|Latvia|Riga|RETN Limited|
-|19|176.12.78.141|3128|Kazakhstan|Almaty|Netfire TEC|
-|20|77.91.77.220|3128|Georgia||Cloud Hosting Solutions, Limited.|
+|8|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|11|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|18|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 
 
 
