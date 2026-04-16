@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|10|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|11|38.191.161.187|999|Dominican Republic|Santo Domingo Este|Three Networks SRL|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|10|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 |14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|15|202.129.185.187|8080|Indonesia|East Jakarta|PT Media Akses Global Indo|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|15|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|19|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
