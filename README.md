@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|3.110.197.155|9085|India|Mumbai|Amazon Technologies Inc.|
+|8|18.162.200.96|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|18.100.254.193|80|Spain|Zaragoza|Amazon Technologies Inc.|
-|12|18.162.200.96|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|14|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|13.60.181.61|3129|Sweden|Stockholm|Amazon.com, Inc.|
-|17|91.218.142.28|3128|Latvia|Riga|RETN Limited|
-|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|19|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|15|3.110.197.155|9085|India|Mumbai|Amazon Technologies Inc.|
+|16|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|17|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|18|18.100.254.193|80|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
 |20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
