@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.64.95|3172|Japan|Wakabayashi|InfoSphere|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|15|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|16|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|17|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|19|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|20|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 
 
 
