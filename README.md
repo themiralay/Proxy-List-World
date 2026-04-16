@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|10|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|12|158.160.85.248|3128|Russia|Moscow|Yandex.Cloud LLC|
+|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|11|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|12|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
 |13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|15|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
-|19|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
-|20|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|14|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|15|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|19|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
