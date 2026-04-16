@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|9|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|10|18.100.254.193|80|Spain|Zaragoza|Amazon Technologies Inc.|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|13.60.181.61|3129|Sweden|Stockholm|Amazon.com, Inc.|
-|14|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|16|3.110.197.155|9085|India|Mumbai|Amazon Technologies Inc.|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|18.100.127.30|37256|Spain|Zaragoza|Amazon Technologies Inc.|
-|20|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|7|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|15|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
+|16|124.105.230.147|8080|Philippines|Sampaloc|Philippine Long Distance Telephone Co.|
+|17|103.168.44.101|8080|Indonesia|Jakarta|PT CYB Media Group|
+|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
