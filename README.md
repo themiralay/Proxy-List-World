@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4265** proxies at the latest update. Usable proxies are below.
+> Scraper found **4250** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|270|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|566|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|86|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2396|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|7|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|9|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|179.1.147.136|999|Peru|Chao|Internexa Peru S.A|
 |12|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|13|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
 |14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|16|116.80.48.217|7777|Japan|Wakabayashi|InfoSphere|
-|17|179.1.147.136|999|Peru|Chao|Internexa Peru S.A|
-|18|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|5.104.87.17|8051|Japan|Tokyo|Contabo Asia Private Limited|
+|19|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
