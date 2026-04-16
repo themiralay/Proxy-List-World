@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.234|3172|Japan|Wakabayashi|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|185.212.119.154|3128|Finland|Helsinki|Hostkey B.V.|
-|15|15.204.151.141|3128|United States|Reston|OVH SAS|
+|1|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|13|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
 |16|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|19|16.50.210.199|8438|Australia|Melbourne|Amazon.com|
-|20|91.218.142.28|3128|Latvia|Riga|RETN Limited|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
 
 
 
