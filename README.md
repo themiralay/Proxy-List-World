@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
-|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|18|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|11|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
+|12|217.28.220.104|1080|Russia|Moscow|JSC IOT|
+|13|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|14|37.187.92.9|1029|France|Roubaix|OVH SAS|
+|15|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|20|83.118.60.147|8213|Thailand|Bang Rak|Symphony Communication Public Company Limited|
 
 
 
