@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4542** proxies at the latest update. Usable proxies are below.
+> Scraper found **4439** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|264|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|748|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|263|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|63|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2535|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.121|3128|Japan|Wakabayashi|InfoSphere|
-|2|159.223.45.119|8000|Singapore|Singapore|DigitalOcean, LLC|
-|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|9|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|10|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|11|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|12|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|13|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
-|14|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|16|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|118.69.186.75|1452|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|19|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|20|103.188.169.95|8080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|3|159.223.45.119|8000|Singapore|Singapore|DigitalOcean, LLC|
+|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|6|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|7|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
+|8|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|9|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|10|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|11|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|12|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|16|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|44.255.8.243|80|United States|Portland|Amazon.com, Inc.|
+|19|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|20|167.103.34.108|8800|India|Chennai|ZSCALER, INC.|
 
 
 
