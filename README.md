@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4859** proxies at the latest update. Usable proxies are below.
+> Scraper found **4725** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|255|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|764|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|630|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|105|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2803|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.49.175|3172|Japan|Wakabayashi|InfoSphere|
-|2|116.80.63.64|7777|Japan|Wakabayashi|InfoSphere|
-|3|116.80.48.16|7777|Japan|Wakabayashi|InfoSphere|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|15|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|17|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|18|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|116.80.96.121|3128|Japan|Wakabayashi|InfoSphere|
+|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|4|159.223.45.119|8000|Singapore|Singapore|DigitalOcean, LLC|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|115.178.53.114|8080|Indonesia|Lembang|NOC SIMAYA|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|134.209.27.75|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|11|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|5.255.123.43|1080|Netherlands|Dronten|The Infrastructure Group B.V.|
+|14|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|15|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|5.249.162.219|8197|Germany|Münster|ZAP-Hosting GmbH|
+|17|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|18|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
 
 
 
