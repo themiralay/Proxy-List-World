@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.96.121|3128|Japan|Wakabayashi|InfoSphere|
-|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |3|121.130.199.80|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|4|159.223.45.119|8000|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.174.122.217|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
-|10|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|11|5.249.162.219|8197|Germany|Münster|ZAP-Hosting GmbH|
-|12|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|15|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|16|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
-|17|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|20|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|185.132.178.178|1080|Netherlands|Naaldwijk|WorldStream B.V.|
+|7|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|8|85.239.59.252|7890|Russia|Moscow|JSC "TIMEWEB"|
+|9|147.161.210.140|8800|Japan|Tokyo|ZSCALER, INC.|
+|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|17|167.103.144.127|8800|Australia|Sydney|ZSCALER, INC.|
+|18|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|19|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
+|20|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
