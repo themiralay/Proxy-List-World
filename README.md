@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|34.246.183.20|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|17|78.12.139.178|3129|Mexico|Querétaro City|Amazon.com|
-|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|19|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|118.69.176.114|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|12|52.47.115.41|52305|France|Paris|Amazon Technologies Inc.|
+|13|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|13.51.196.44|34589|Sweden|Stockholm|Amazon Technologies Inc.|
+|17|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|18|112.209.62.215|8082|Philippines|San Carlos|Philippine Long Distance Telephone Co.|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
