@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4137** proxies at the latest update. Usable proxies are below.
+> Scraper found **4133** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2230|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|13|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|14|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
 |15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|13.208.166.217|3129|Japan|Osaka|Amazon Technologies Inc.|
-|17|202.5.37.104|17382|Bangladesh|Dhaka|BBTS-NEW|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|121.101.130.181|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
-|20|89.109.23.80|3128|Russia|Nizhniy Novgorod|PJSC Rostelecom|
+|16|27.72.56.184|1452|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|107.191.58.81|1080|United States|Los Angeles|Choopa|
+|20|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
 
 
 
