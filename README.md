@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|210.87.125.57|8080|Indonesia|Pare|CV Brawijaya Giga Network|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|7|13.208.166.217|3129|Japan|Osaka|Amazon Technologies Inc.|
-|8|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|222.127.76.123|8082|Philippines|Lahug|INNOVE|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|17|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|20|66.186.199.33|8080|Albania|Durrës|Vodafone Albania Sh.A.|
+|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|16|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|17|139.135.141.12|8095|Philippines|Puerto Princesa City|ComClark Network & Technology Corp|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|163.223.172.29|1080|Indonesia|Jorong|PT FAFI UIFI NETWORK|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
