@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|103.109.173.170|80|Indonesia|Jakarta|PT Cyberindo Aditama|
 |7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|52.56.167.111|8906|United Kingdom|London|Amazon Technologies Inc.|
-|14|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|15|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|17|94.131.93.238|3128|Kazakhstan|Almaty|"Cloud Services Kazakhstan" LLP|
-|18|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|20|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|11|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|34.246.183.20|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
+|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|20|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
 
 
 
