@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|11|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|12|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|19|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|20|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|17|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|116.80.64.44|7777|Japan|Wakabayashi|InfoSphere|
+|20|116.80.95.238|7777|Japan|Wakabayashi|InfoSphere|
 
 
 
