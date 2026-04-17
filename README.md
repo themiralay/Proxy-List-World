@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
 |11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|13|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|197.248.204.231|8080|Kenya|Nairobi|Safaricom Limited|
-|18|122.3.156.201|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|168.222.254.88|3128|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|16|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|18|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |19|5.102.109.41|999|Mexico|San Juan del Río|IPXO|
-|20|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
