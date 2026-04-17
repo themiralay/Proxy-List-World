@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4873** proxies at the latest update. Usable proxies are below.
+> Scraper found **5202** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|978|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2576|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2905|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |8|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|10|154.27.196.213|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|103.81.194.165|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|194.87.105.13|40000|Germany|Frankfurt (Oder)|Baxet Group Inc.|
-|20|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|16|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|17|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|18|163.223.116.209|8080|Indonesia|Kuningan|PT Signall Network Nusantara|
+|19|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
+|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
