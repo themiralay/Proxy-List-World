@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4095** proxies at the latest update. Usable proxies are below.
+> Scraper found **4111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2230|✅|
 
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|9|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|15|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|16|89.109.23.80|3128|Russia|Nizhniy Novgorod|PJSC Rostelecom|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|11|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|12|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|13|103.230.63.107|19201|Bangladesh|Chittagong|Next Online Ltd|
+|14|103.80.82.112|8090|Indonesia|Ponorogo|Jaringanku Sarana Nusantara|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|66.186.199.33|8080|Albania|Durrës|Vodafone Albania Sh.A.|
+|18|103.199.215.43|6262|India|Bhadohi|RailTel Corporation of India Ltd.|
+|19|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
 |20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
