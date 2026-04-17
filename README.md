@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4016** proxies at the latest update. Usable proxies are below.
+> Scraper found **3982** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|560|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|517|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2159|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|2|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|10|103.141.174.54|11411|Bangladesh|Dhaka|ICC Communication Ltd|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|13|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|11|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|15|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
+|16|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
 |17|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|20|84.255.40.228|8998|Malta|Sliema|Melita plc|
 
 
 
