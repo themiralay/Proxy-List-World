@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4141** proxies at the latest update. Usable proxies are below.
+> Scraper found **4127** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|618|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2230|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |7|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |8|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|9|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|150.107.141.242|8080|Indonesia|Legian|PT. Jala Lintas Media|
-|15|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
-|16|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|203.196.8.6|3128|Hong Kong|Hong Kong|CTHKI|
-|19|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|15|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 
 
 
