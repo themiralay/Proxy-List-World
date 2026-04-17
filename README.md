@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|43.205.242.234|12013|India|Mumbai|Amazon.com, Inc.|
-|12|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
-|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|108.131.109.106|3129|Ireland|Dublin|BellSouth.net Inc.|
-|20|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|9|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
+|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|19|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
+|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 
 
 
