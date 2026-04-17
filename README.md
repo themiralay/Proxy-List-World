@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|223.206.56.207|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|1|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|8|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|223.206.56.207|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|11|43.156.32.224|8081|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
 |13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|103.167.23.139|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
+|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|19|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
