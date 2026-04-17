@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|161.248.226.7|80|Indonesia|Babakan Baru|PT Intan Digital Internet|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|11|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|15|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
-|16|190.121.157.41|999|Colombia|Cúcuta|Media Commerce Partners S.A|
+|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|11|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|12|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|16|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
 |17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|82.114.228.67|1080|Russia|Saratov|SCTS|
-|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|18|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|19|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|20|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
