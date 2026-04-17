@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|2|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|12|103.156.248.14|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|13|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|17|116.80.48.217|7777|Japan|Wakabayashi|InfoSphere|
-|18|103.227.186.209|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|16.162.105.116|18913|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|11|103.92.218.121|9514|Bangladesh|Rāmganj|Md Rezaul Karim|
+|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|14|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|15|43.208.134.144|3128|Thailand|Bangkok|Amazon.com, Inc.|
+|16|35.180.75.159|80|France|Paris|Amazon Technologies Inc.|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|116.80.48.217|7777|Japan|Wakabayashi|InfoSphere|
 |19|78.12.139.178|3129|Mexico|Querétaro City|Amazon.com|
-|20|18.142.120.165|80|Singapore|Singapore|Amazon Technologies Inc.|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
