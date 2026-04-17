@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|13|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |14|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
 |15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|43.203.112.163|3128|South Korea|Seoul|Amazon.com, Inc.|
+|16|52.56.167.111|8906|United Kingdom|London|Amazon Technologies Inc.|
 |17|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 |18|35.180.75.159|80|France|Paris|Amazon Technologies Inc.|
-|19|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|16.162.105.116|18913|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|19|16.162.105.116|18913|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|20|43.203.112.163|3128|South Korea|Seoul|Amazon.com, Inc.|
 
 
 
