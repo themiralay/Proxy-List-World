@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|7|163.223.117.255|8888|Indonesia|Kuningan|PT Signall Network Nusantara|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|12|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|18|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|13|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|14|217.28.220.104|1080|Russia|Moscow|JSC IOT|
+|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|16|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|18|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|19|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
 |20|162.240.154.26|3128|United States|Phoenix|Unified Layer|
 
 
