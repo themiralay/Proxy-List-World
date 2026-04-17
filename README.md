@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 |6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|10|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|14|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|98.130.124.119|9075|India|Hyderabad|Amazon.com|
-|20|18.171.232.214|3129|United Kingdom|London|Amazon Technologies Inc.|
+|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|11|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|94.131.93.238|3128|Kazakhstan|Almaty|"Cloud Services Kazakhstan" LLP|
+|16|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|17|34.246.183.20|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
