@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|12|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|15|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|17|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|104.36.236.101|8080|United States|Pasco|Desert Winds Wireless|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|15|157.230.178.216|8088|United States|North Bergen|DigitalOcean, LLC|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|18|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|158.255.5.210|1080|Russia|Moscow|Hostkey B.V.|
 
 
 
