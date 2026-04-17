@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|14|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|16|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|17|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|108.131.109.106|3129|Ireland|Dublin|BellSouth.net Inc.|
+|1|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|8|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|103.155.196.20|8080|Indonesia|Sukabumi|JEMBATANDATA|
 
 
 
