@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|14|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|15|124.217.8.80|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|1|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
 |16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|17|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
-|20|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|17|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|18|103.231.239.137|58080|Bangladesh|Baniachang|Carnival Internet|
+|19|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
