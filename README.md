@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|12|104.248.211.46|7890|United States|Santa Clara|DigitalOcean, LLC|
-|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|14|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|82.114.228.67|1080|Russia|Saratov|SCTS|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|13.56.247.117|3128|United States|San Jose|Amazon.com, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|2.27.11.170|3128|United States|Orem|Ace Data Centers II|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
+|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 
 
 
