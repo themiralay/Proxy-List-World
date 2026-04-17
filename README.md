@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|72.56.105.251|3128|Germany|Frankfurt am Main|Timeweb, LLP|
-|10|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|13|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|8|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|9|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|15|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
+|16|89.109.23.80|3128|Russia|Nizhniy Novgorod|PJSC Rostelecom|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|103.230.63.105|19201|Bangladesh|Chittagong|Next Online Ltd|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
