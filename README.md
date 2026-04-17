@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|7|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|15|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|16|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|18|16.62.123.236|3129|Switzerland|Zurich|Amazon.com, Inc.|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|43.203.140.58|49266|South Korea|Seoul|Amazon.com, Inc.|
+|11|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|13|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|15.152.75.215|9050|Japan|Osaka|Amazon Technologies Inc.|
+|16|94.131.93.238|3128|Kazakhstan|Almaty|"Cloud Services Kazakhstan" LLP|
+|17|116.80.47.137|3128|Japan|Wakabayashi|InfoSphere|
+|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|19|160.119.69.7|8080|United States|Los Angeles|HostUS|
+|20|116.80.48.16|7777|Japan|Wakabayashi|InfoSphere|
 
 
 
