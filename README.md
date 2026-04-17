@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.149.92.147|5001|Hong Kong|Hong Kong|WAP.AC LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|104.168.93.120|8080|United States|Buffalo|HostPapa|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|11|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|20|93.85.87.50|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
 
 
 
