@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|103.92.218.121|9514|Bangladesh|Rāmganj|Md Rezaul Karim|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |11|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|13|18.142.120.165|80|Singapore|Singapore|Amazon Technologies Inc.|
-|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|15|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|147.45.167.84|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|14|13.36.243.194|303|France|Paris|Amazon Technologies Inc.|
+|15|35.180.75.159|80|France|Paris|Amazon Technologies Inc.|
+|16|78.12.139.178|3129|Mexico|Querétaro City|Amazon.com|
+|17|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|20|188.132.249.242|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
 
 
 
