@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|10|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|11|3.79.194.222|345|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|103.144.102.231|8085|Indonesia|Jatibarang|PANDAWANET|
-|15|124.107.39.186|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|16|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
+|11|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|16|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|17|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|18|18.100.127.123|4889|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
