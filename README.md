@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 |6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|14|103.120.221.41|8090|Bangladesh|Kafrul|Touhidul Islam Polash|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |15|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|18|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|19|217.182.195.221|30003|France|Roubaix|OVH SAS|
+|20|150.241.116.228|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
