@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|1|149.104.4.88|10809|Singapore|Singapore|Cogent Communications|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|13|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|103.160.69.181|8080|Indonesia|Jakarta|PT Gayatri Lintas Nusantara|
-|17|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|217.182.195.221|30003|France|Roubaix|OVH SAS|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|16|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|18|194.87.85.207|1080|Netherlands|Amsterdam|xorek.cloud International LTD|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 |20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
