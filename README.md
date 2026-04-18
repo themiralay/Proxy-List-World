@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|11|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|10|103.229.124.12|7890|Hong Kong|San Po Kong|Dingke human resource co.LTD|
+|11|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|16|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |17|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|18|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|19|103.163.80.25|8081|Indonesia|Caruban|PT Data Arta Sedaya|
-|20|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
