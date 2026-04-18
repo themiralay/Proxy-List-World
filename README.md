@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|14|160.238.65.2|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|15|178.63.155.151|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|16|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|17|38.59.240.157|12345|United States|San Jose|Kirino LLC|
-|18|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.76.109.203|80|Indonesia|Utan|PT Mahawira Nusantara Grup|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|157.20.253.163|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|16|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|17|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
