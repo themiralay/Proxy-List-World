@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|5|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |12|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|13|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|89.111.174.221|8080|Russia|Moscow|CENTER|
-|19|104.194.95.90|8080|United States|Los Angeles|IT7 Networks Inc|
-|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|15|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|16|89.111.174.221|8080|Russia|Moscow|CENTER|
+|17|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|19|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
