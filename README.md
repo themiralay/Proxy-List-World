@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|3|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|4|116.80.95.150|3128|Japan|Wakabayashi|InfoSphere|
-|5|103.172.70.75|3126|Indonesia|Karawang|AZNET|
-|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
+|2|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|3|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
+|4|116.80.47.137|3128|Japan|Wakabayashi|InfoSphere|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|10|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |12|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|13|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|16|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|18|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|19|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|20|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|13|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|14|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|15|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|16|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|17|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|18|157.120.32.86|3128|Japan|Minato|NTT PC Communications, Inc.|
+|19|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|20|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
