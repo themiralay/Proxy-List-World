@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5125** proxies at the latest update. Usable proxies are below.
+> Scraper found **5154** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|826|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|855|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|111|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2956|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
 |2|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|150.249.255.91|3128|Japan|Tokyo|Sony Network Communications Inc|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|157.120.32.86|3128|Japan|Minato|NTT PC Communications, Inc.|
+|5|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|6|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
 |7|116.80.47.137|3128|Japan|Wakabayashi|InfoSphere|
-|8|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|8|157.120.32.86|3128|Japan|Minato|NTT PC Communications, Inc.|
 |9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|12|38.59.240.157|12345|United States|San Jose|Kirino LLC|
-|13|38.59.240.157|12345|United States|San Jose|Kirino LLC|
-|14|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|15|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|16|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|18|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|19|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|20|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|11|103.157.61.247|1111|Indonesia|Purwokerto|PT. Eka Mas Republik|
+|12|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|13|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|14|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|15|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|16|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|17|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|103.155.199.68|7777|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|20|38.59.240.157|12345|United States|San Jose|Kirino LLC|
 
 
 
