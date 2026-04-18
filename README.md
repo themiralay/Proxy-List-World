@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
 |4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|148.135.119.12|3128|United States|Los Angeles|Multacom Corporation|
-|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|116.80.96.121|3128|Japan|Wakabayashi|InfoSphere|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|15|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|17|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|45.67.202.178|1080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S|
-|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|116.80.96.121|3128|Japan|Wakabayashi|InfoSphere|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|12|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|45.67.202.178|1080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S|
+|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|15|45.32.39.135|1080|Japan|Minamishinagawa|The Constant Company|
+|16|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
 
 
 
