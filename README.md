@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4897** proxies at the latest update. Usable proxies are below.
+> Scraper found **4942** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|780|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|99|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2831|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
 |2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|8|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|13|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|20|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|103.76.109.203|80|Indonesia|Utan|PT Mahawira Nusantara Grup|
+|17|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|18|43.209.173.229|10000|Thailand|Bangkok|Amazon.com, Inc.|
+|19|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
