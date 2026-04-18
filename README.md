@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|18|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|19|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|20|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|14|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|82.148.18.242|443|Russia|Moscow|JSC Selectel|
 
 
 
