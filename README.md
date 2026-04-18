@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|38.59.240.157|12345|United States|San Jose|Kirino LLC|
-|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|12|38.59.240.157|12345|United States|San Jose|Kirino LLC|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|19|35.178.250.178|1880|United Kingdom|London|Amazon Technologies Inc.|
-|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|103.235.67.190|80|Indonesia|Jakarta|PT Artha Media Lintas Nusa|
+|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|12|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|15|43.205.125.76|34880|India|Mumbai|Amazon.com, Inc.|
+|16|52.199.97.69|20079|Japan|Tokyo|Amazon Technologies Inc.|
+|17|94.131.93.238|3128|Kazakhstan|Almaty|"Cloud Services Kazakhstan" LLP|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|116.80.47.137|3128|Japan|Wakabayashi|InfoSphere|
+|20|15.152.75.215|9050|Japan|Osaka|Amazon Technologies Inc.|
 
 
 
