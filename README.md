@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|116.80.64.95|3172|Japan|Wakabayashi|InfoSphere|
-|3|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|1|116.80.64.95|3172|Japan|Wakabayashi|InfoSphere|
+|2|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|38.59.240.157|12345|United States|San Jose|Kirino LLC|
-|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
-|17|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|19|81.31.245.202|4890|The Netherlands|Amsterdam|Timeweb, LLP|
-|20|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|12|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|13|43.209.173.229|10000|Thailand|Bangkok|Amazon.com, Inc.|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 
 
 
