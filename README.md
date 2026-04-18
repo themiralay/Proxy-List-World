@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|17|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|18|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|19|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|10|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|11|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|12|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|13|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|14|182.253.151.8|8080|Indonesia|Sukabumi|BIZNET|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|20|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
