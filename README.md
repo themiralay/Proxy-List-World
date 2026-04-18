@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|18|45.67.202.178|1080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S|
-|19|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|10|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|11|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|19|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 
 
 
