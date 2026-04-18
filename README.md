@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|2|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|38.59.240.157|12345|United States|San Jose|Kirino LLC|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|3|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|10|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |12|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|14|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|15|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |16|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|17|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
