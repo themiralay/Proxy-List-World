@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|12|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|147.45.214.210|1080|Russia|Moscow|JSC "TIMEWEB"|
-|14|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
+|6|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|14|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
 |15|154.193.243.86|40000|Malaysia|Kuala Lumpur|Fastmos Co Limited|
-|16|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|16|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
 |17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|19|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|20|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|18|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
