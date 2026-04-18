@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
 |3|116.80.82.234|3172|Japan|Wakabayashi|InfoSphere|
-|4|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|5|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|6|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|103.171.183.255|1111|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|8|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|49.151.177.202|8082|Philippines|Clark Freeport Zone|Philippine Long Distance Telephone Co.|
-|12|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|13|38.183.146.170|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|14|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|11|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|14|38.59.240.157|12345|United States|San Jose|Kirino LLC|
+|15|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |16|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|17|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|18|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|19|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|17|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
