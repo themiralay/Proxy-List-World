@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.163.103.208|8080|Indonesia|Bungkal|PT Mamura Inter Media|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
 |10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|15|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|16|119.93.14.61|8082|Philippines|Villadolid|Philippine Long Distance Telephone Co.|
-|17|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|11|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|14|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
-|20|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|19|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|20|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
 
 
 
