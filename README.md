@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|133.18.123.225|26021|Japan|Chiyoda City|KAGOYA JAPAN Inc.|
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|38.59.240.157|12345|United States|San Jose|Kirino LLC|
-|5|47.84.131.156|8100|Singapore|Singapore|Alibaba.com LLC|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|116.58.161.203|26021|Japan|Toshima City|INTERLINK|
+|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|103.179.218.5|8080|Indonesia|Ciruas|WIMATE|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|154.193.243.86|40000|Malaysia|Kuala Lumpur|Fastmos Co Limited|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|154.193.243.86|40000|Malaysia|Kuala Lumpur|Fastmos Co Limited|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|19|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|20|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
+|14|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|16|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|17|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
+|18|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|19|116.80.83.90|3128|Japan|Wakabayashi|InfoSphere|
+|20|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
