@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|15|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|16|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|17|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|18|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
-|19|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|6|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|13|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|16|194.87.130.16|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|18|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
