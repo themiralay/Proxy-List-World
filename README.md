@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|103.113.70.189|1082|United States|Secaucus|WorkTitans B.V.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 |10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|14|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|13|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|82.148.18.242|443|Russia|Moscow|JSC Selectel|
 |15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.30.30.226|20326|Bangladesh|Chittagong|Broad Band Telecom Services Ltd|
-|18|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|19|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|16|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|17|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
