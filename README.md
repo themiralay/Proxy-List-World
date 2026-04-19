@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|166.88.61.54|8000|Hong Kong|Hong Kong|Ace Data Centers II|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.55.106.208|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|12|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|16|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|17|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|18|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|20|218.153.163.186|8944|South Korea|Gangdong-gu|Korea Telecom|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|10|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|11|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|15|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|16|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|17|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|18|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|19|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
