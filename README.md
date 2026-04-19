@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5006** proxies at the latest update. Usable proxies are below.
+> Scraper found **5005** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|44|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|736|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3232|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
 |2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|5|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|6|107.191.58.81|1080|United States|Los Angeles|Choopa|
-|7|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|16|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|17|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|19|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|94.131.93.238|3128|Kazakhstan|Almaty|"Cloud Services Kazakhstan" LLP|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
