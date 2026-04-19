@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
 |2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|103.88.91.103|8090|Indonesia|Malang|PT Paket Switch Bersama|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|170.205.39.31|1080|Japan|Tokyo|HostHatch|
+|7|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|8|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|11|108.181.201.118|1234|United States|Dallas|Psychz Networks|
 |12|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|13|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|13|192.3.248.190|8014|United States|Seattle|HostPapa|
 |14|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|15|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|16|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|17|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|20|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|17|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|18|192.3.248.190|8014|United States|Seattle|HostPapa|
+|19|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
 
 
 
