@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |10|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|11|166.88.61.54|8000|Hong Kong|Hong Kong|Ace Data Centers II|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|14|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|17|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|166.88.61.54|8000|Hong Kong|Hong Kong|Ace Data Centers II|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 
 
 
