@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |5|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|11|192.3.248.190|8014|United States|Seattle|HostPapa|
+|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|15|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
 |16|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|17|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|18|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|18|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|19|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
