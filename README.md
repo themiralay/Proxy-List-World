@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|38.55.106.208|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|38.55.106.208|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|103.113.70.189|1082|United States|Secaucus|WorkTitans B.V.|
-|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |11|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
 |12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |15|38.55.106.208|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|16|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|20|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|18|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|19|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 
 
 
