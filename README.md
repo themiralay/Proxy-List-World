@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
 |5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|13|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
-|16|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|103.165.250.30|8181|Indonesia|Tebet Barat|PT Aulia Sentral Multidata|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|11|103.156.17.39|8818|Indonesia|Jatibarang|RSTNET|
+|12|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|14|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|16|103.153.246.142|8181|Indonesia|Purwakarta|PRIMAHOME|
+|17|103.66.12.225|8080|India|Tirunelveli|Alacriy Net System Service Private Limited|
 |18|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|19|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|20|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|19|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|20|185.114.73.2|1080|Spain|Madrid|First Server Limited|
 
 
 
