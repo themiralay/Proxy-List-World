@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4601** proxies at the latest update. Usable proxies are below.
+> Scraper found **4587** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|753|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|732|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|103|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2520|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|5|103.88.91.103|8090|Indonesia|Malang|PT Paket Switch Bersama|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|8|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|8|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|9|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|12|192.3.248.190|8014|United States|Seattle|HostPapa|
 |13|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|14|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|15|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|14|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|17|192.3.248.190|8014|United States|Seattle|HostPapa|
+|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|19|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
