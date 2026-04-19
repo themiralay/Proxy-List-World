@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|166.88.61.54|8000|Hong Kong|Hong Kong|Ace Data Centers II|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|166.88.61.54|8000|Hong Kong|Hong Kong|Ace Data Centers II|
+|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|116.80.63.64|7777|Japan|Wakabayashi|InfoSphere|
-|16|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|17|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
-|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|19|38.55.106.208|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|20|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|13|116.80.63.64|7777|Japan|Wakabayashi|InfoSphere|
+|14|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|116.80.48.217|7777|Japan|Wakabayashi|InfoSphere|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|116.80.82.234|3172|Japan|Wakabayashi|InfoSphere|
 
 
 
