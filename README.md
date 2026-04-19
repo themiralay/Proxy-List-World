@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
 |2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|8|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|10|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|16|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|17|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|11|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|14|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|17|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 |20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
