@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5264** proxies at the latest update. Usable proxies are below.
+> Scraper found **5110** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|699|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|92|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3087|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|5|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|192.3.248.190|8014|United States|Seattle|HostPapa|
-|9|165.101.102.206|8088|Philippines|Quezon City|iRateNet Solutions|
-|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|192.3.248.190|8014|United States|Seattle|HostPapa|
-|12|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|8|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|15|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|16|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|17|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|14|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|19|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
