@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|466|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|11|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|465|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2724|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|14|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|15|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
-|19|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|4|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|5|192.3.248.190|8014|United States|Seattle|HostPapa|
+|6|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|192.3.248.190|8014|United States|Seattle|HostPapa|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|15|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|16|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|17|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|18|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|193.23.194.147|3128|Netherlands|Amsterdam|Play2go International Limited|
 
 
 
