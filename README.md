@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|4|202.58.77.112|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
 |5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|7|103.113.70.189|1082|United States|Secaucus|WorkTitans B.V.|
-|8|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|13|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|103.126.87.137|8079|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|16|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|20|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 
 
 
