@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|166.88.61.54|8000|Hong Kong|Hong Kong|Ace Data Centers II|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.55.106.208|6005|Hong Kong|Hong Kong|Xnnet LLC|
 |3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |12|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|15|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|20|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|13|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|14|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|15|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|38.55.106.208|6005|Hong Kong|Hong Kong|Xnnet LLC|
 
 
 
