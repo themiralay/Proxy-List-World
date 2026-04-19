@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.194|3172|Japan|Wakabayashi|InfoSphere|
 |2|116.80.64.157|7777|Japan|Wakabayashi|InfoSphere|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|5|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|3|170.205.39.31|1080|Japan|Tokyo|HostHatch|
+|4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|192.3.248.190|8014|United States|Seattle|HostPapa|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|13|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 |17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|19|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|20|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
 
 
 
