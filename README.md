@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|11|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|13|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|17|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|222.127.206.145|8085|Philippines|Makati City|GLBB|
 
 
 
