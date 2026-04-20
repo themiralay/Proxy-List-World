@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|192.3.248.190|8014|United States|Seattle|HostPapa|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|103.93.93.100|8081|Indonesia|Kertosono|MYRISE|
-|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|5|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|15|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|18|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|19|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|14|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
 
 
 
