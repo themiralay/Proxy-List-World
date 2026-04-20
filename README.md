@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4276** proxies at the latest update. Usable proxies are below.
+> Scraper found **4278** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|47|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|603|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2617|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
 |4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|182.253.109.101|8080|Indonesia|Semarang|Biznet Metronet|
-|12|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|13|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|14|130.162.53.123|50960|Germany|Frankfurt am Main|Oracle Corporation|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
