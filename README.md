@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|9|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|10|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|14|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|16|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|19|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|10|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|11|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|18|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 
 
 
