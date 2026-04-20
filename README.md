@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|64|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|830|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|816|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|108|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2769|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|12|103.156.17.137|8080|Indonesia|Jatibarang|RSTNET|
-|13|38.252.213.69|999|Peru|Bajo Pichanaqui|Telcom Mikrotik Peru S.A.C|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|16|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|61.73.158.215|1080|South Korea|Seodaemun-gu|Korea Telecom|
+|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|12|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|13|103.93.93.100|8081|Indonesia|Kertosono|MYRISE|
+|14|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|17|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|82.114.228.67|1080|Russia|Saratov|SCTS|
 
 
 
