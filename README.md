@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
 |8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|12|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|16|82.114.228.67|1080|Russia|Saratov|SCTS|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|19|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
