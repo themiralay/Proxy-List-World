@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4550** proxies at the latest update. Usable proxies are below.
+> Scraper found **4480** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|64|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|607|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|108|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2769|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
-|2|116.80.77.99|7777|Japan|Wakabayashi|InfoSphere|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|61.73.158.215|1080|South Korea|Seodaemun-gu|Korea Telecom|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|147.75.202.36|10007|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|7|116.80.77.99|7777|Japan|Wakabayashi|InfoSphere|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|11|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|12|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
 |13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|15|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|19|83.219.250.8|62920|Sweden|Stockholm|Baykov Ilya Sergeevich|
-|20|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|16|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|20|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 
 
 
