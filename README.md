@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|1|38.55.105.94|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|38.55.105.94|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|6|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|12|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|14|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|15|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|16|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|11|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|17|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|18|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
