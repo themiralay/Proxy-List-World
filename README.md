@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
 |3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|5|192.3.248.190|8014|United States|Seattle|HostPapa|
 |6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|12|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|16|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|194.150.220.97|3128|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|19|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|20|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|12|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|18|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|19|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
