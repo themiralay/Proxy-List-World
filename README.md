@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|8|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|38.55.105.94|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|11|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|192.3.248.190|8014|United States|Seattle|HostPapa|
-|14|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|192.3.248.190|8014|United States|Seattle|HostPapa|
-|17|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|19|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|38.55.105.94|6005|Hong Kong|Hong Kong|Xnnet LLC|
+|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|10|192.3.248.190|8014|United States|Seattle|HostPapa|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|18|192.3.248.190|8014|United States|Seattle|HostPapa|
+|19|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|20|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
 
 
 
