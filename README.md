@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|12|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|17|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|18|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|2|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|107.150.41.226|18080|United States|Kansas City|Nocix, LLC|
+|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|10|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|19|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
 
 
 
