@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|5|160.25.237.130|1111|Indonesia|Cikarang|PT Nada Freedom Indonesia|
 |6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
 |9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
-|13|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|14|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|15|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|223.25.106.206|8181|Indonesia|Ambarawa|SinergiNet|
-|19|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|192.3.248.190|8014|United States|Seattle|HostPapa|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|18|168.222.254.88|3128|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|20|202.179.2.250|8080|Mongolia|Ulan Bator|Mongolia Telecom|
 
 
 
