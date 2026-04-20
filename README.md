@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|192.3.248.190|8014|United States|Seattle|HostPapa|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|192.3.248.190|8014|United States|Seattle|HostPapa|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|12|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|13|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
-|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|116.80.64.41|7777|Japan|Wakabayashi|InfoSphere|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|11|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|13|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|14|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|16|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|178.63.155.151|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|58.11.15.17|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 
 
 
