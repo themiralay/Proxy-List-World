@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|9|38.55.105.94|6005|Hong Kong|Hong Kong|Xnnet LLC|
-|10|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|103.183.19.34|3128|Indonesia|Bandung|PT iForte Global Internet|
-|17|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|19|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|20|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|11|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|14.247.76.52|8080|Vietnam|Kẻ Sặt|VNPT|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|19|171.249.163.170|1452|Vietnam|Can Tho|Viettel Corporation|
+|20|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
