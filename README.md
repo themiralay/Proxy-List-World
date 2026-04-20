@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.73.158.215|1080|South Korea|Seodaemun-gu|Korea Telecom|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.156.17.137|8080|Indonesia|Jatibarang|RSTNET|
-|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|5|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|6|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
-|18|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|19|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|61.73.158.215|1080|South Korea|Seodaemun-gu|Korea Telecom|
+|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.156.17.137|8080|Indonesia|Jatibarang|RSTNET|
+|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|7|192.3.248.190|8014|United States|Seattle|HostPapa|
+|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|192.3.248.190|8014|United States|Seattle|HostPapa|
+|12|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
 
 
 
