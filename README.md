@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|194.104.9.38|3128|Netherlands|Dronten|Baykov Ilya Sergeevich|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|103.156.248.78|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
 |12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|19|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
