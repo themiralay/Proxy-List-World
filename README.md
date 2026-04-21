@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|5|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|11|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|12|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|17|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|18|103.229.127.31|7890|Hong Kong|San Po Kong|Hosted in Cloudie Limited|
-|19|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|10|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|14|45.188.125.49|999|Mexico|Ciudad Valles|Digy Networks|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|18|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|20|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
 
 
 
