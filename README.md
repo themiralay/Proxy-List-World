@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4233** proxies at the latest update. Usable proxies are below.
+> Scraper found **4220** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|66|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|641|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2516|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
-|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|14|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|15|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|19|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|20|195.62.50.30|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|12|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|20|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
