@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|202.138.240.249|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|9|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|15|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
+|17|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
