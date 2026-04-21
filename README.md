@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4616** proxies at the latest update. Usable proxies are below.
+> Scraper found **4755** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|745|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2769|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2908|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|3|192.3.248.190|8014|United States|Seattle|HostPapa|
+|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|3|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|5|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|116.80.64.44|7777|Japan|Wakabayashi|InfoSphere|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|116.80.64.44|7777|Japan|Wakabayashi|InfoSphere|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
 |8|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|9|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|9|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|10|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|13|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|12|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|15|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|17|185.214.108.23|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
+|18|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
 
 
 
