@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.77.99|7777|Japan|Wakabayashi|InfoSphere|
-|2|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
-|3|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|1|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
+|2|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|3|116.80.77.99|7777|Japan|Wakabayashi|InfoSphere|
 |4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
 |6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|192.3.248.190|8014|United States|Seattle|HostPapa|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |13|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|14|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|17|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|18|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|19|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 
 
 
