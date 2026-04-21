@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|213.32.85.26|3128|France|Roubaix|OVH SAS|
-|8|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|9|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|12|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|16|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|17|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|7|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|10|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|11|213.32.85.26|3128|France|Roubaix|OVH SAS|
+|12|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
