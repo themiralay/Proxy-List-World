@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|108.181.201.118|1234|United States|Dallas|Psychz Networks|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
-|6|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|10|103.188.169.95|8080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|192.3.248.190|8014|United States|Seattle|HostPapa|
+|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
 |11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
 |15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|19|192.3.248.190|8014|United States|Seattle|HostPapa|
-|20|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
+|16|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
+|20|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 
 
 
