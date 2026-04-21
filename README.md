@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|192.3.248.190|8014|United States|Seattle|HostPapa|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|192.3.248.190|8014|United States|Seattle|HostPapa|
+|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
 |4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|7|188.253.125.38|28798|Singapore|Singapore|Akari Networks Limited|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|12|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|15|158.160.215.167|8127|Russia|Moscow|Yandex.Cloud LLC|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|19|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|20|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|5|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|7|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|8|147.75.202.36|10007|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|9|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|147.75.202.36|10007|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|147.75.202.36|10007|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|147.75.202.36|10007|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|17|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
