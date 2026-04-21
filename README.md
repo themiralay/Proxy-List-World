@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|5|147.75.202.36|10007|United States|San Jose|Equinix (EMEA) Acquisition Enterprises B.V.|
 |6|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|185.214.108.23|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
-|10|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|23.95.76.201|8443|Canada|Montreal|BrainStorm Network Inc.|
-|14|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
-|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|139.159.97.82|10900|China|Guangzhou|Guangdong LITONG Network Technology Limited|
-|17|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|18|205.164.46.6|3166|United States|Santa Clara|Grass DataCo (BVI) Ltd.|
-|19|14.143.222.113|57788|India|Chennai|Tata Communications Limited|
-|20|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|185.214.108.23|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
+|12|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|2.27.18.184|1080|Germany|Frankfurt am Main|IPTransit Business LTD|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|16|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|139.159.97.82|10900|China|Guangzhou|Guangdong LITONG Network Technology Limited|
+|18|78.11.96.22|8888|Poland|Zielonka|Netia SA|
+|19|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|20|103.39.51.184|8088|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 
 
 
