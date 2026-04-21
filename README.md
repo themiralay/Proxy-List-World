@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|6|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|8|103.156.17.137|8080|Indonesia|Jatibarang|RSTNET|
-|9|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|14|78.11.96.22|8888|Poland|Zielonka|Netia SA|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|17|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|18|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|19|103.139.139.70|8181|Indonesia|Toba|PT. TOBA JAYA NET|
-|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|2|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|4|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|9|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|15|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|20|78.11.96.22|8888|Poland|Zielonka|Netia SA|
 
 
 
