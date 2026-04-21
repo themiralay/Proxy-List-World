@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|6|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|7|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|10|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
-|11|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|17|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|1|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|2|103.113.70.189|1081|United States|Secaucus|WorkTitans B.V.|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
+|5|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|11|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|12|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 |20|116.80.48.16|7777|Japan|Wakabayashi|InfoSphere|
 
 
