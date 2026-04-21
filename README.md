@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|3|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
+|2|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|159.89.191.221|3128|United States|Clifton|DigitalOcean, LLC|
-|12|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
-|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|18|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|19|103.82.246.25|6080|Indonesia|Ciputat|PT Master Star Network|
-|20|45.4.202.147|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|8|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|11|162.19.253.202|8443|Germany|Limburg an der Lahn|OVH SAS|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|185.138.116.150|8080|France|Paris|Artic Solutions SARL|
+|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
+|19|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
