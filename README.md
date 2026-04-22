@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|10|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|103.97.88.47|3128|Netherlands|Amsterdam|Melbikomas UAB|
-|13|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|14|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|11|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|47.242.185.54|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|113.192.1.98|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|19|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|20|209.14.108.98|999|United States|Lima|Corporacion Tarazona Catv S.A.C|
+|16|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|17|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|18|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
