@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
-|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
 |9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.119.67.27|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|16|78.11.96.22|8888|Poland|Zielonka|Netia SA|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|19|94.72.109.169|8080|United Kingdom|Portsmouth|Contabo GmbH|
-|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|14|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|16|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
+|17|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|20|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 
 
 
