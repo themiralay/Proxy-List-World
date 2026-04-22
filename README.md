@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.217|7777|Japan|Wakabayashi|InfoSphere|
-|2|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
-|3|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
+|1|116.80.64.158|7777|Japan|Wakabayashi|InfoSphere|
+|2|116.80.48.217|7777|Japan|Wakabayashi|InfoSphere|
+|3|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
 |4|116.80.77.99|7777|Japan|Wakabayashi|InfoSphere|
-|5|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|17|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
-|18|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|19|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|20|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|5|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
+|6|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|7|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|8|160.187.221.182|8080|Philippines|City of Kidapawan|Imtech Solution and Data Providers|
+|9|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|12|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|13|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|103.185.250.142|1452|Bangladesh|Sonargaon|L.J Broadband Network|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|103.125.174.233|7777|Indonesia|Kota Tengah|PT Trinity Teknologi Nusantara|
+|19|149.86.140.197|8080|Türkiye|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
 
 
 
