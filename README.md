@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|108.181.0.167|3128|United States|Los Angeles|Psychz Networks|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|4|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
 |5|149.51.42.10|3128|United States|Ashburn|Cogent Communications|
-|6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|103.189.249.143|1111|Indonesia|Jepara|PT Berkah Media Kusuma Vision|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|18|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|43.129.204.12|10001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
+|17|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|185.214.108.46|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
+|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 
 
 
