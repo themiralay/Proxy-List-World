@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|112.203.34.250|8082|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
-|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|8|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|9|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|101.255.136.42|80|Indonesia|Karawang|PT Remala Abadi|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|18|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|19|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|202.154.19.55|8080|Indonesia|Kertosono|DIGITNET|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|112.203.34.250|8082|Philippines|Caloocan|Philippine Long Distance Telephone Co.|
+|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|20|148.230.4.233|999|Mexico|Naranjos|Digy Networks|
 
 
 
