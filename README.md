@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.175.236.112|3125|Indonesia|Batu|PT Marva Global Telekomunikasi|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|12|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|8|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|82.114.228.67|1080|Russia|Saratov|SCTS|
+|15|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|16|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|18|109.224.242.26|8080|Turkey|Antakya|High Speed For Internet Services L.L.C|
+|19|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
