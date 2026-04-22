@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |6|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
 |8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|10|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|12|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|16|101.51.120.228|8080|Thailand|Surin|TOT Public Company Limited|
-|17|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|65.21.201.149|8080|Finland|Helsinki|Hetzner Online GmbH|
+|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|20|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
