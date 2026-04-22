@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4082** proxies at the latest update. Usable proxies are below.
+> Scraper found **4009** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -28,11 +28,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|150|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|151|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|50|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2374|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2340|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
 |5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
-|13|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|14|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|10|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|16|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
 
 
 
