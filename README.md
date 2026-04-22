@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4410** proxies at the latest update. Usable proxies are below.
+> Scraper found **4469** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|108|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|865|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|924|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|82|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2423|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
 |4|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|149.51.42.10|8080|United States|Ashburn|Cogent Communications|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|15.204.151.143|3128|United States|Reston|OVH SAS|
-|16|45.12.151.226|2829|Finland|Helsinki|WorkTitans B.V.|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
-|19|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
-|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|10|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|116.80.81.13|7777|Japan|Wakabayashi|InfoSphere|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|17|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|20|162.240.154.26|3128|United States|Phoenix|Unified Layer|
 
 
 
