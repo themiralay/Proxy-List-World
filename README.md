@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|8|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|9|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|104.128.228.69|8118|United States|Los Angeles|HostUS|
-|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|15|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|6|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|16|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
