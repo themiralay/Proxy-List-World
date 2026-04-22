@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|6|103.224.65.89|8080|Indonesia|Jember|BLAMBANGAN|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|12|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|85.208.51.165|443|France|Lauterbourg|Contabo GmbH|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|9|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|20|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
 
 
 
