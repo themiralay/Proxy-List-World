@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|9|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
-|10|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|11|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|12|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|185.114.73.2|1080|Spain|Madrid|First Server Limited|
-|16|144.31.27.49|1080|Finland|Helsinki|U1 DIGITAL SERVICES LTD|
-|17|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|188.246.224.49|7890|Russia|St Petersburg|JSC Selectel|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|11|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|116.80.77.99|7777|Japan|Wakabayashi|InfoSphere|
+|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|19|36.95.245.7|8090|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|20|157.15.62.23|8085|Indonesia|Malang|AMAN ISP Customer Malang|
 
 
 
