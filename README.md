@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.136|3128|Japan|Wakabayashi|InfoSphere|
-|2|116.80.82.138|3128|Japan|Wakabayashi|InfoSphere|
-|3|116.80.82.181|3128|Japan|Wakabayashi|InfoSphere|
-|4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|116.80.82.181|3128|Japan|Wakabayashi|InfoSphere|
+|3|116.80.82.138|3128|Japan|Wakabayashi|InfoSphere|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|17|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|18|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|19|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 
 
 
