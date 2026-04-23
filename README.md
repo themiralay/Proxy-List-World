@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|119.92.70.75|8082|Philippines|Ugong Norte|Philippine Long Distance Telephone Co.|
-|15|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|16|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
 
 
 
