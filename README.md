@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
+|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|11|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|12|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|92.113.149.172|8080|Denmark|Nørre Åby|Webdock.io ApS|
-|16|103.188.173.101|1080|Indonesia|Jakarta|PT Satria Digital Media|
-|17|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|18|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|19|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|20|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|8|92.113.149.172|8080|Denmark|Nørre Åby|Webdock.io ApS|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|27.79.246.252|8080|Vietnam|Hanoi|Viettel Corporation|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|14|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|94.183.189.12|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
