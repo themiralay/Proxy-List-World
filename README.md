@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|8|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|6|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|7|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|11|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|12|148.222.137.99|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|117.247.233.50|8080|India|Rohtak|BSNL Internet|
-|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|17|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|20|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
 
 
 
