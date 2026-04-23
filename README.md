@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|10|101.109.60.255|8080|Thailand|Bang Lamung|TOT Public Company Limited|
-|11|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|36.92.60.234|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|17|103.160.182.33|8080|Indonesia|Karangpeton|PT Internusa Duta Makmur|
-|18|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|202.58.73.6|1111|Indonesia|Surabaya|PT Data Buana Nusantara|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|103.143.197.38|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|19|46.55.143.145|8080|Bulgaria|Kardzhali|DCC|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
