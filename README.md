@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|38.79.118.202|33858|United States|Los Angeles|Cogent Communications|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|38.79.118.202|33858|United States|Los Angeles|Cogent Communications|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|14|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|15|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|18|103.133.26.45|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|16|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|17|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|18|103.152.239.29|1080|Indonesia|Bekasi|APRIN|
+|19|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
