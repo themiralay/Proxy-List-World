@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|13|8.209.239.31|30000|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|20|103.203.234.46|8080|Indonesia|Banyumas|PT Nesta Indo Media|
 
 
 
