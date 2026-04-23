@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.67|7777|Japan|Wakabayashi|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
 |9|38.79.118.202|33858|United States|Los Angeles|Cogent Communications|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|15|185.118.51.163|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|16|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|94.183.189.12|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
-|19|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|16|94.183.189.12|1080|Finland|Helsinki|CGI GLOBAL LIMITED|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|181.129.183.19|53281|Colombia|Floridablanca|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
