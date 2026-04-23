@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.62.136|3128|Japan|Wakabayashi|InfoSphere|
-|5|116.80.82.181|3128|Japan|Wakabayashi|InfoSphere|
-|6|116.80.82.138|3128|Japan|Wakabayashi|InfoSphere|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|116.80.82.138|3128|Japan|Wakabayashi|InfoSphere|
+|9|116.80.82.181|3128|Japan|Wakabayashi|InfoSphere|
+|10|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|11|116.80.62.136|3128|Japan|Wakabayashi|InfoSphere|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|15|108.181.201.118|1234|United States|Dallas|Psychz Networks|
 |16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|19|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|20|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|20|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 
 
 
