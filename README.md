@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3765** proxies at the latest update. Usable proxies are below.
+> Scraper found **3728** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|469|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|197|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|429|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2133|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|103.160.182.80|1111|Indonesia|Karangpeton|PT Internusa Duta Makmur|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|17|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|103.188.169.202|7777|Indonesia|Purwakarta|PT Lintas Jaringan Nusantara|
-|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|103.66.197.2|8080|Indonesia|Serpong|PT. Mora Telematika Indonesia|
+|15|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|202.165.232.238|8080|Pakistan|Lahore|Optix Pakistan (Pvt.) Limited|
+|19|5.102.109.41|999|Mexico|San Juan del Río|IPXO|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
