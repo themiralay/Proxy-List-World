@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3925** proxies at the latest update. Usable proxies are below.
+> Scraper found **3942** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|294|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|528|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|545|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2131|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|103.80.214.194|8888|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|124.121.2.131|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|9|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|16|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|17|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|18|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|19|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
