@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|38.79.118.202|33858|United States|Los Angeles|Cogent Communications|
-|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|5|38.79.118.202|33858|United States|Los Angeles|Cogent Communications|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|193.181.35.103|8118|Sweden|Stockholm|PVDataNet AB|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|103.214.82.92|8090|Bangladesh|Bājitpur|Jhongkar IT|
 |15|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|16|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|202.166.217.188|2121|Nepal|Kathmandu|WorldLink Communications|
 |17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|170.80.203.45|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|20|202.154.18.11|9091|Indonesia|Babat|DIGITNET|
+|18|202.162.213.178|8080|Indonesia|Depok|PT Indonesia Comnets Plus|
+|19|103.152.238.21|3125|Indonesia|Bekasi|APRIN|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
