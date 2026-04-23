@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|18|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 
 
 
