@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.82.181|3128|Japan|Wakabayashi|InfoSphere|
 |3|116.80.82.138|3128|Japan|Wakabayashi|InfoSphere|
 |4|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|103.242.104.60|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|16|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|18|103.122.65.242|8080|Indonesia|Banjar Dauhmarga|PT. Jinom Network Indonesia|
+|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|16|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
 |19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|20|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
 
 
 
