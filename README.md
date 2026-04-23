@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|116.80.95.150|3128|Japan|Wakabayashi|InfoSphere|
+|1|116.80.95.150|3128|Japan|Wakabayashi|InfoSphere|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|152.42.208.139|8118|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|10|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|11|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|12|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|49.148.138.194|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
-|16|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|116.0.53.34|8080|Pakistan|Karachi|Supernet|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|185.138.120.109|8080|Iraq|Baghdad|Horizon Scope Mobile Telecom WLL - Vercara|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|161.97.184.191|8080|France|Lauterbourg|Contabo GmbH|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|88.255.63.161|8080|Turkey|Alanya|Turk Telekomunikasyon Anonim Sirketi|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
