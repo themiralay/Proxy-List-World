@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4173** proxies at the latest update. Usable proxies are below.
+> Scraper found **4123** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|368|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|318|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2545|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|4|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|6|157.15.40.250|7777|Indonesia|Ponorogo|TRISARI|
-|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|82.114.228.67|1080|Russia|Saratov|SCTS|
-|10|180.191.231.47|8080|Philippines|Mandaue City|Globe Telecom|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|103.250.69.226|50505|Bangladesh|Bhatara|Next Online Ltd.|
-|13|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|14|223.207.103.99|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|18|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
-|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
+|7|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|8|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|9|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
