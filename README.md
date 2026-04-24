@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
 |6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|7|157.66.36.130|8080|Indonesia|Rangkasbitung|PT Trik Media Data|
-|8|118.97.137.68|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|10|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|11|103.220.23.57|3128|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|12|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|13|106.44.155.90|2222|China|Qingyuan|Chinanet|
-|14|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|223.207.103.99|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|177.234.211.151|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|177.234.211.151|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|19|103.217.224.75|3125|Indonesia|Ungaran|PT Nesta Indo Media|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
