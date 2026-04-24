@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|7|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|9|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
 |10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|118.97.137.68|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
-|18|180.191.52.179|8082|Philippines|Tarlac City|Globe Telecom|
-|19|103.142.69.169|8885|Bangladesh|Magura District|MIR INFO SYSTEMS LTD.|
-|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|12|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|14|83.97.79.114|8443|Spain|Madrid|BlueVPS OU|
+|15|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|16|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|19|8.243.162.34|3128|Colombia|Angelópolis|Cirion Technologies Solutions|
+|20|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
