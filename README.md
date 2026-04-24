@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|9|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
-|12|190.188.131.87|8080|Argentina|Mar del Plata|Telecom Argentina S.A.|
-|13|160.20.165.9|6248|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|17|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|11|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|163.223.78.107|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|16|181.209.125.237|999|Argentina|Yuto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|176.12.78.141|3128|Kazakhstan|Almaty|Netfire TEC|
+|18|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|19|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|20|190.144.238.66|8080|Colombia|Medellín|Telmex Colombia S.A.|
 
 
 
