@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|82.114.228.67|1080|Russia|Saratov|SCTS|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|70.61.188.34|3128|United States|Louisville|Spectrum|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|16|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
 |17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
