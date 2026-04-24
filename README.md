@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|5|45.198.20.173|8080|Indonesia|Jakarta|PT IKHLAS CIPTA TEKNOLOGI|
-|6|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|7|154.18.255.131|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|9|209.62.196.68|8080|United States|Cut Off|EATEL|
-|10|160.25.196.30|8090|Indonesia|Bojonegoro|PT Rnet Mitra Sentosa|
-|11|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|122.144.6.42|3888|Indonesia|Pengarengan|Maxindo|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|18|119.92.142.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|180.191.231.47|8080|Philippines|Mandaue City|Globe Telecom|
+|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|15|103.154.230.74|8090|Indonesia|Lamongan|DIGITNET|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|18|157.66.36.130|8080|Indonesia|Rangkasbitung|PT Trik Media Data|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
