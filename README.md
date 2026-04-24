@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
 |9|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|11|203.189.96.232|80|Japan|Chiyoda City|GMO Internet Group, Inc.|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|103.193.145.137|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|16|103.105.176.232|8080|India|Hyderabad|Rohan Media Private Ltd|
-|17|157.66.36.130|8080|Indonesia|Rangkasbitung|PT Trik Media Data|
-|18|177.73.155.242|999|Colombia|Morales|Dobleclick Software E Ingeneria|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|176.88.166.163|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|103.125.117.54|8080|Indonesia|Bekasi|PT Baraya Telematika Nusantara|
+|14|188.132.249.249|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|15|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|18|217.182.195.221|30001|France|Roubaix|OVH SAS|
+|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|20|45.167.126.216|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
