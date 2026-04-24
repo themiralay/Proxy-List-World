@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
-|6|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|103.180.126.114|8080|Indonesia|Jakarta|PT Alam Media Data|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|12|60.53.39.201|8123|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|13|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|14|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|15|103.171.161.96|9090|Indonesia|Cikarang|MYREPUBLIC|
-|16|160.238.65.9|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|17|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
+|20|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
