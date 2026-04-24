@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|7|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|12|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|93.182.23.94|6060|Russia|Moscow|Kvidex-Telecom|
-|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|15|124.106.223.162|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|16|83.97.79.114|8443|Spain|Madrid|BlueVPS OU|
-|17|101.255.107.129|8080|Indonesia|Jakarta|PT Remala Abadi|
-|18|157.66.36.130|8080|Indonesia|Rangkasbitung|PT Trik Media Data|
-|19|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|20|169.239.85.121|8080|South Africa|Sasolburg|Mezobyte (Pty) LTD|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|15|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|17|82.114.228.67|1080|Russia|Saratov|SCTS|
+|18|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|128.0.7.12|8080|Syria|Shuyūkh Taḩtānī|High Speed For Internet Services L.L.C|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
