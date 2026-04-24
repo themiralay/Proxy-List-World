@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4031** proxies at the latest update. Usable proxies are below.
+> Scraper found **4036** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|380|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|385|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2388|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|5|35.180.127.14|1001|France|Paris|Amazon Technologies Inc.|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|8|103.102.12.86|1111|Indonesia|Rembang|FISNET|
-|9|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|10|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|16|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|17|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|18|131.222.251.86|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|131.222.251.246|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|12|150.241.116.41|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|45.15.10.174|3128|Hong Kong|Ha Kwai Chung|HK Kwaifong Group Limited|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|60.53.39.201|8123|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|20|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 
 
 
