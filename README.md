@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4143** proxies at the latest update. Usable proxies are below.
+> Scraper found **4106** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|393|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|356|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|37|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2481|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|3|129.159.224.106|8080|India|Hyderabad|Oracle Corporation|
-|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|8|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|14|102.0.17.48|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|15|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|118.97.75.83|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|19|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|129.159.224.106|8080|India|Hyderabad|Oracle Corporation|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|18|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
 
 
 
