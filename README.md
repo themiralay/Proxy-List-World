@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.46|7777|Japan|Wakabayashi|InfoSphere|
-|2|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|5|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|11|86.109.3.28|9400|United States|Chicago|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|202.129.206.239|3128|Thailand|Samphanthawong|NIPA Technology Co., Ltd|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
 |14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|16|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|70.61.188.34|3128|United States|Louisville|Spectrum|
-|19|84.36.35.199|1981|Egypt|El Shorouk|Etisalat|
-|20|103.36.11.245|8181|Indonesia|Kota Serang|PT Awinet Global Mandiri|
+|15|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|16|94.241.173.165|1080|The Netherlands|Amsterdam|Timeweb, LLP|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|20|103.173.140.133|1111|Indonesia|Kroya|WIFIAN ID|
 
 
 
