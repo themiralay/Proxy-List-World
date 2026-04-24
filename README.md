@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
 |12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |13|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
-|17|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|19|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|20|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|17|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 
 
 
