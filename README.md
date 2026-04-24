@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
-|9|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|5|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|6|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 |11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|15|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|8.243.162.34|3128|Colombia|Angelópolis|Cirion Technologies Solutions|
-|20|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|12|181.224.175.240|999|Ecuador|Naranjal|Micarmita S.A.S|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|82.114.228.67|1080|Russia|Saratov|SCTS|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.66.47.25|8080|Indonesia|Bogor|PT Iconmedia Lintas Nusantara|
+|19|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|20|38.158.83.241|999|Peru|Arequipa|Fiberred SAC|
 
 
 
