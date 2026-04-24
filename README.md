@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|2|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|6|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
-|7|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|8|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|9|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|4|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|190.242.60.137|999|Colombia|Bogotá|Liberty Networks De Colombia|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|49.156.44.10|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|16|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|17|136.228.128.248|8080|Cambodia|Phnom Penh|S.I Group|
+|18|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
