@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|6|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|1|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|2|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|3|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 |7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|12|144.31.140.92|1080|United States|Orem|DpkgSoft International Limited|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
-|18|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|19|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|20|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|12|103.183.8.59|8181|Indonesia|Jakarta|PT Cepat Multi Data|
+|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|18|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|19|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
