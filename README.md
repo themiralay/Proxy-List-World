@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.185.248.155|8888|Hong Kong|Ho Man Tin|cognetcloud INC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|3|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|5|129.159.224.106|8080|India|Hyderabad|Oracle Corporation|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|157.15.40.250|7777|Indonesia|Ponorogo|TRISARI|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|82.114.228.67|1080|Russia|Saratov|SCTS|
-|15|103.218.183.133|8080|Indonesia|Metro|PT Inhqi Media Infotek|
-|16|38.156.238.77|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
-|17|188.132.150.47|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|222.252.14.70|8443|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|192.203.0.62|999|Puerto Rico|Comunas|Boom NET|
+|15|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|82.114.228.67|1080|Russia|Saratov|SCTS|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
