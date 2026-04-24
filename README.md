@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|9|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|103.125.117.54|8080|Indonesia|Bekasi|PT Baraya Telematika Nusantara|
-|14|188.132.249.249|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|15|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|14|103.125.117.54|8080|Indonesia|Bekasi|PT Baraya Telematika Nusantara|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|193.43.140.129|8080|Syria|Latakia|Syrian Telecom|
 |17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|18|217.182.195.221|30001|France|Roubaix|OVH SAS|
-|19|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|20|45.167.126.216|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|19|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|20|78.155.64.122|8080|Syria|Damascus|ISP-TARASSUL|
 
 
 
