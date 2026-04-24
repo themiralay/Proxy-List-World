@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|2|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|119.92.142.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 |14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|131.222.251.144|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|119.2.52.40|8080|Indonesia|Pugeran Maguwoharjo|GMEDIA|
+|15|103.107.79.249|8080|Bangladesh|Brāhmanbāria|bbariaNet|
+|16|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
+|17|103.193.145.46|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|18|103.105.176.232|8080|India|Hyderabad|Rohan Media Private Ltd|
+|19|24.173.217.114|55443|United States|Mesquite|Spectrum|
+|20|103.238.232.38|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
 
 
 
