@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|4|190.52.108.8|999|Venezuela|Caracas|Gold Data USA Inc|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|14|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|203.210.85.215|3128|Indonesia|Bandung|Infrastruktur STARNET|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|20|157.100.53.103|999|Ecuador|Machala|Ufinet Panama S.A.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|103.122.64.222|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
 
 
 
