@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4069** proxies at the latest update. Usable proxies are below.
+> Scraper found **4050** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|321|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|302|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|35|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2481|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|10|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|192.203.0.62|999|Puerto Rico|Comunas|Boom NET|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|103.156.221.229|8080|Indonesia|Cirebon|PT Gading Bhakti Utama|
+|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|177.73.155.242|999|Colombia|Morales|Dobleclick Software E Ingeneria|
-|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|183.87.160.62|83|India|Mumbai|JPR Digital Pvt Ltd|
-|17|129.159.224.106|8080|India|Hyderabad|Oracle Corporation|
+|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|170.78.208.251|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|17|59.36.239.108|21133|China|Guangzhou|Chinanet|
 |18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|20|102.0.17.48|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|19|188.121.168.60|8080|Slovakia|Pezinok|Slovanet a.s.|
+|20|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
 
 
 
