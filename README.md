@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|20.204.228.118|8080|India|Pune|Microsoft Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|131.222.251.91|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|13|103.71.162.32|8181|Indonesia|Trenggalek|PT. Menaksopal Link Nusantara|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|150.107.104.46|1111|Indonesia|Karawang|PT Graha Multimedia Nusantara|
-|16|177.234.211.151|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|17|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|18|103.83.80.70|8080|India|Dhanpuri|Syntego Technologies India Private Limited|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|136.228.128.248|8080|Cambodia|Phnom Penh|S.I Group|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|17|180.191.231.231|8080|Philippines|Mandaue City|Globe Telecom|
+|18|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|19|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
