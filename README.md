@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|8|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|9|180.191.231.231|8080|Philippines|Mandaue City|Globe Telecom|
-|10|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|12|172.233.49.176|9658|Netherlands|Amsterdam|Akamai Technologies, Inc.|
-|13|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|14|202.58.77.194|8031|Indonesia|Surabaya|PT Data Buana Nusantara|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|181.78.194.249|999|Ecuador|Milagro|Ufinet Panama S.A.|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|19|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
-|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|157.20.239.23|8080|Indonesia|Buduran|PT Era Network Indonesia|
+|3|103.72.89.22|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|8|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|103.169.38.240|8080|Indonesia|Wonosobo|PT Boombas Carlo Medianet|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|19|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|20|180.180.218.250|8080|Thailand|Rayong|TOT Public Company Limited|
 
 
 
