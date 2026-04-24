@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|129.159.224.106|8080|India|Hyderabad|Oracle Corporation|
 |5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|103.121.199.138|62797|Indonesia|Caringin|PT Parsaoran Global Datatrans|
-|8|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|9|176.12.78.141|3128|Kazakhstan|Almaty|Netfire TEC|
-|10|1.52.126.167|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|11|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
+|12|185.166.24.191|1981|Iraq|Sulaymaniyah|Online Company Ltd|
 |13|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|160.20.39.51|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|19|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|20|176.88.166.163|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
 
 
 
