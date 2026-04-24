@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|7|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|14|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|16|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|103.193.145.155|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|103.175.240.87|8090|Indonesia|Banyumas|LDP|
 
 
 
