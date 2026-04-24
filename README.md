@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|20.204.228.118|8080|India|Pune|Microsoft Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|157.15.40.250|7777|Indonesia|Ponorogo|TRISARI|
-|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|10|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|129.159.224.106|8080|India|Hyderabad|Oracle Corporation|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|157.15.40.250|7777|Indonesia|Ponorogo|TRISARI|
+|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|12|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|147.45.186.28|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|18|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|19|160.25.222.205|8181|Indonesia|Kurungannyawa|PT Telemedia Prima Nusantara|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
