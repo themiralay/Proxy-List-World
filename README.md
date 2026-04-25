@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
 |5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|10|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|11|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|18|82.114.228.67|1080|Russia|Saratov|SCTS|
-|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|7|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|8|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|18|103.242.105.76|80|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|19|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
