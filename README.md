@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|38.180.79.182|1080|Brazil|São Paulo|M247 Europe SRL|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|11|103.171.245.137|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|12|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|180.191.231.231|8080|Philippines|Mandaue City|Globe Telecom|
-|15|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
-|16|103.105.176.232|8080|India|Hyderabad|Rohan Media Private Ltd|
-|17|193.43.140.129|8080|Syria|Latakia|Syrian Telecom|
-|18|212.108.115.74|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|19|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|20|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|4|103.234.35.166|8080|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|5|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|38.180.79.182|1080|Brazil|São Paulo|M247 Europe SRL|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|13|103.157.83.231|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
+|17|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
