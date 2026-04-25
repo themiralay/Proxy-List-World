@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|103.222.255.161|8055|Indonesia|Wates|PT Iktiar Doa Tawakal|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|82.148.18.242|443|Russia|Moscow|JSC Selectel|
 |8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|13|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
-|14|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|103.222.255.161|8055|Indonesia|Wates|PT Iktiar Doa Tawakal|
-|17|103.171.240.170|8090|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|18|186.250.63.125|8080|Brazil|São Miguel do Iguaçu|PTI TELECOMUNICAÇÕES EIRELI|
-|19|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|94.131.122.129|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|13|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|14|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
