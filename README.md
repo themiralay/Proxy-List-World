@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.181|3128|Japan|Wakabayashi|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|10|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|11|82.114.228.67|1080|Russia|Saratov|SCTS|
-|12|103.51.205.185|1080|Indonesia|Surakarta|Lintas Data Prima, PT|
-|13|193.43.140.255|8080|Syria|Homs|Syrian Telecom|
-|14|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|103.175.224.131|8080|Indonesia|Sungguminasa|MYREPUBLIC|
+|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|15|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|16|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|17|195.158.10.99|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
 
 
 
