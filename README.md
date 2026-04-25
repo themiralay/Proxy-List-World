@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|120.28.194.248|8282|Philippines|Quezon|Globe Telecom|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.133.25.99|8787|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
-|9|112.209.48.150|8082|Philippines|San Carlos|Philippine Long Distance Telephone Co.|
-|10|103.133.223.22|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|11|103.109.96.77|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
-|12|202.150.141.98|3128|Indonesia|Bandung|PT Comtronics Systems|
-|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|14|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|16|103.130.182.41|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
-|17|103.220.23.57|3128|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|18|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|45.184.124.33|1985|Mexico|Chihuahua City|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
+|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|7|122.53.34.6|8082|Philippines|Tanza|Philippine Long Distance Telephone Co.|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|12|43.230.129.230|8080|Indonesia|Legian|Internet Ini Saja|
+|13|103.156.86.131|1080|Indonesia|Watampone|PT Chacha Networking System|
+|14|103.109.96.77|6321|Bangladesh|Kafrul|Digi Jadoo Broadband Ltd|
+|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|16|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|17|113.160.241.196|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
+|18|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|101.255.138.82|80|Indonesia|Karawang|PT Remala Abadi|
+|20|88.1.150.79|3128|Spain|Alovera|Telefonica de Espana SAU|
 
 
 
