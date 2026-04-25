@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.82.181|3128|Japan|Wakabayashi|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|103.174.161.6|8082|India|Visakhapatnam|Speed Link Communications|
-|15|103.156.75.42|8989|Indonesia|Gianyar|PT Trika Global Media|
-|16|85.172.39.247|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|17|136.228.128.248|8080|Cambodia|Phnom Penh|S.I Group|
-|18|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|19|223.25.106.206|8181|Indonesia|Ambarawa|SinergiNet|
-|20|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|13|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|16|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.82.246.249|8080|Indonesia|Ciputat|PT Master Star Network|
+|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
