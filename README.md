@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|14|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|15|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|18|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
