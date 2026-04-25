@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |7|38.180.79.182|1080|Brazil|São Paulo|M247 Europe SRL|
-|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|16|189.127.167.136|8080|Venezuela|Barquisimeto|RED SERVITEL, CA|
 |17|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|18|202.138.240.249|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|19|192.203.0.62|999|Puerto Rico|Comunas|Boom NET|
-|20|157.20.253.164|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|18|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|45.116.230.79|8080|India|Kochi|Dwan Supports P LTD|
 
 
 
