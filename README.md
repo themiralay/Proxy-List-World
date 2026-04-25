@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4561** proxies at the latest update. Usable proxies are below.
+> Scraper found **4563** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|409|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|411|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2878|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|3|103.188.169.95|8080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
 |4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|38.180.79.182|1080|Brazil|São Paulo|M247 Europe SRL|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|16|189.127.167.136|8080|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|17|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
-|18|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|45.116.230.79|8080|India|Kochi|Dwan Supports P LTD|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|11|103.172.120.184|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|12|62.103.66.18|3128|Greece|Athens|OTEnet|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|38.58.170.10|999|Mexico|Nuevo Laredo|Terameg SA De CV|
+|15|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|38.180.79.182|1080|Brazil|São Paulo|M247 Europe SRL|
+|19|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|20|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
