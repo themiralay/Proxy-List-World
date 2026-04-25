@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|12|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|13|171.236.200.73|8080|Vietnam|Haiphong|Viettel Corporation|
-|14|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
-|20|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|11|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|14|202.62.75.241|83|India|Prakāshamnagar|CityOnline Services|
+|15|35.194.4.51|3128|United States|Council Bluffs|Google LLC|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|19|121.101.131.40|8080|Indonesia|Trucuk|PT SELARAS CITRA TERABIT|
+|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 
 
 
