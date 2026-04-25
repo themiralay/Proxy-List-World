@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|51.159.125.63|8080|France|Paris|SCALEWAY|
-|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|7|103.87.169.204|32650|India|Jaipur|and ROA|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|14|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|15|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|16|202.47.185.2|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|51.159.125.63|8080|France|Paris|SCALEWAY|
+|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|103.87.169.204|32650|India|Jaipur|and ROA|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
+|14|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|15|202.78.193.58|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
+|16|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|17|103.187.147.242|8181|Indonesia|Jakarta|Cloud Host Pte Ltd|
+|18|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
+|19|103.139.139.70|8181|Indonesia|Toba|PT. TOBA JAYA NET|
+|20|119.92.142.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
