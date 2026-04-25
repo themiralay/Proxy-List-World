@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|13|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|14|213.199.41.15|3128|France|Lauterbourg|Contabo GmbH|
-|15|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|16|103.205.223.30|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
-|17|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|18|176.88.166.202|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|19|176.100.39.55|3128|Germany|Frankfurt am Main|Florian Kolb|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|13|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|15|120.28.216.197|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|16|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
+|17|103.165.155.195|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|18|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|19|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|20|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
 
 
 
