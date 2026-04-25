@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|82.114.228.67|1080|Russia|Saratov|SCTS|
+|11|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
 |12|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|13|103.242.105.76|80|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|38.183.146.143|8090|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
-|16|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
-|17|51.159.125.63|8080|France|Paris|SCALEWAY|
-|18|177.234.211.151|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|19|103.142.69.169|8885|Bangladesh|Magura District|MIR INFO SYSTEMS LTD.|
-|20|103.193.145.137|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|51.159.125.63|8080|France|Paris|SCALEWAY|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|18|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|19|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|20|190.128.134.66|999|Paraguay|Mariano Roque Alonso|Telecel S.A.|
 
 
 
