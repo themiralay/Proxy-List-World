@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|10|176.196.157.83|10808|Russia|Kemerovo|Goodline.info|
 |11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|14|176.196.157.83|10808|Russia|Kemerovo|Goodline.info|
-|15|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|16|2.27.11.170|3128|United States|Orem|Ace Data Centers II|
-|17|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
-|19|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|20|119.93.139.196|8082|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|14|103.97.140.17|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|15|136.228.128.248|8080|Cambodia|Phnom Penh|S.I Group|
+|16|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
+|17|149.86.140.212|8080|Türkiye|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|18|213.199.41.15|3128|France|Lauterbourg|Contabo GmbH|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|103.125.117.154|8080|Indonesia|Bekasi|PT Baraya Telematika Nusantara|
 
 
 
