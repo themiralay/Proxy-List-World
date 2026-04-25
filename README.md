@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|8|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|9|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
 |10|38.180.79.182|1080|Brazil|São Paulo|M247 Europe SRL|
 |11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|13|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|93.77.181.116|8888|Russia|Moscow|Yandex.Cloud LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|19|84.47.150.126|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|20|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|103.97.224.239|8841|Indonesia|Kudus|PT Sistem Interkoneksi Data|
+|18|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
+|20|103.126.87.137|8079|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
 
 
 
