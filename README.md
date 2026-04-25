@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|5|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
 |6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|8|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|164.138.205.206|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|17|103.214.82.92|8090|Bangladesh|Bājitpur|Jhongkar IT|
-|18|103.238.232.38|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
-|19|185.225.40.70|8080|Syria|Qadsayyā|sy-samaweb|
-|20|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|13|173.212.246.157|3128|France|Lauterbourg|Contabo GmbH|
+|14|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|17|180.191.52.179|8082|Philippines|Tarlac City|Globe Telecom|
+|18|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|20|36.64.193.226|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
