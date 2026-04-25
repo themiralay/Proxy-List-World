@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|6|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|7|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
 |10|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|13|103.133.223.22|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
-|20|45.126.250.46|8080|Indonesia|Ciruas|PT WIFIKCB LINTAS DATA|
+|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
