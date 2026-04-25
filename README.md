@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
+|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|4|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
 |5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|62.140.233.192|41258|Russia|Moscow|Fryazino.net|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|101.255.107.34|8080|Indonesia|Jakarta|PT Remala Abadi|
-|17|101.128.107.36|1111|Indonesia|Tangerang|CBN|
-|18|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|19|103.180.119.166|8090|Indonesia|Kemendung|PT Persada Data Multimedia|
-|20|192.203.0.62|999|Puerto Rico|Comunas|Boom NET|
+|8|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|93.125.3.22|8080|Belarus|Minsk|Unitary enterprise A1|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|17|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
