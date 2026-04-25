@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|5|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|6|94.131.122.128|1081|United Kingdom|Holborn|WorkTitans B.V.|
-|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|202.154.18.11|9091|Indonesia|Babat|DIGITNET|
-|15|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|17|103.124.137.99|8080|Indonesia|Ungaran|Global Media Data Prima|
-|18|103.247.23.202|8080|Indonesia|Ngawi|PT wifian Solution|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|16|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|17|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|20|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
