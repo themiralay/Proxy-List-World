@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4107** proxies at the latest update. Usable proxies are below.
+> Scraper found **4081** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|392|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|366|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|34|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2481|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
 |5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 |8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|10|82.114.228.67|1080|Russia|Saratov|SCTS|
-|11|45.231.223.252|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|12|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|51.159.125.63|8080|France|Paris|SCALEWAY|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|19|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
-|20|190.128.134.66|999|Paraguay|Mariano Roque Alonso|Telecel S.A.|
+|9|82.209.251.53|45678|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|139.28.49.109|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|13|94.131.106.231|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|14|36.64.193.226|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|51.159.125.63|8080|France|Paris|SCALEWAY|
+|17|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|18|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
 
 
 
