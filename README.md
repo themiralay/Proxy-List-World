@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|8|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|103.166.9.50|3128|Indonesia|Bekasi|PT Akses Bersama Sedaya|
-|13|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|91.233.223.147|3128|Russia|Sochi|Radist LTD|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|101.255.107.34|8080|Indonesia|Jakarta|PT Remala Abadi|
-|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|19|49.147.103.93|8082|Philippines|Macaas|Philippine Long Distance Telephone Co.|
-|20|42.101.8.101|8888|China|Harbin|China Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|176.196.157.83|10808|Russia|Kemerovo|Goodline.info|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|11|203.175.103.25|8080|Indonesia|Nagarakembang|PT. Mitra Kita Brilian|
+|12|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|13|91.233.223.147|3128|Russia|Sochi|Radist LTD|
+|14|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
+|15|106.10.55.212|1121|South Korea|Seongnam-si|NAVER Cloud Corp|
+|16|213.199.41.15|3128|France|Lauterbourg|Contabo GmbH|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|20|149.86.140.212|8080|Türkiye|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
 
 
 
