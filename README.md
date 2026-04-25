@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.62.136|3128|Japan|Wakabayashi|InfoSphere|
-|2|116.80.92.29|3128|Japan|Wakabayashi|InfoSphere|
-|3|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|103.76.91.122|9090|Indonesia|Bekasi|PT Kampung Dua Net|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|116.80.92.29|3128|Japan|Wakabayashi|InfoSphere|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|116.80.62.136|3128|Japan|Wakabayashi|InfoSphere|
+|8|60.249.94.208|3128|Taiwan|Changhua|Chunghwa Telecom Co., Ltd.|
 |9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|10|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 |11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|13|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|13|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|14|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
 |16|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|19|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|20|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
