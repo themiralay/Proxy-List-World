@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.136|3128|Japan|Wakabayashi|InfoSphere|
 |2|116.80.92.29|3128|Japan|Wakabayashi|InfoSphere|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|7|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|8|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|10|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|11|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|13|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
 |14|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|18|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|20|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
