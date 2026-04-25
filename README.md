@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|7|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|4|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 |8|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|10|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|11|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|16|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|223.207.103.99|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|10|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|49.156.44.10|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|13|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
+|14|36.66.195.148|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|89.43.134.12|8085|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
