@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.229.127.31|7890|Hong Kong|San Po Kong|Hosted in Cloudie Limited|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|103.134.245.127|8090|Indonesia|Banjar Kayangan|Wisuandha Network Globalindo|
-|5|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|38.180.79.182|1080|Brazil|São Paulo|M247 Europe SRL|
-|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|82.114.228.67|1080|Russia|Saratov|SCTS|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|16|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|19|89.43.132.215|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
-|20|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|38.180.79.182|1080|Brazil|São Paulo|M247 Europe SRL|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|36.93.163.219|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|17|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|82.114.228.67|1080|Russia|Saratov|SCTS|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
