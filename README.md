@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.181|3128|Japan|Wakabayashi|InfoSphere|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|8|35.225.22.61|80|United States|Council Bluffs|Google LLC|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|14|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|49.148.138.194|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
-|18|103.175.224.131|8080|Indonesia|Sungguminasa|MYREPUBLIC|
-|19|82.114.228.67|1080|Russia|Saratov|SCTS|
-|20|176.235.182.72|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|12|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
+|13|200.24.130.148|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|103.82.246.249|8080|Indonesia|Ciputat|PT Master Star Network|
+|18|210.87.92.139|8080|Indonesia|Krajan Wetan Wonojoyo|PT Indo Telemedia Solusi|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|137.59.47.73|3128|Vietnam|Mai Dich|MOBIFONECNTT|
 
 
 
