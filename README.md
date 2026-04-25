@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|14|36.92.24.12|9100|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|112.211.55.65|8080|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|6|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|119.2.52.40|8080|Indonesia|Pugeran Maguwoharjo|GMEDIA|
+|14|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|103.152.238.21|3125|Indonesia|Bekasi|APRIN|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|37.238.63.39|8080|Iraq|Ramadi|Hulum|
-|20|103.175.238.138|8085|Indonesia|Pamanukan|PT Uliz Netmedia Solusindo|
+|19|42.101.8.101|8888|China|Harbin|China Telecom|
+|20|14.103.9.129|7890|China|Beijing|BITNET|
 
 
 
