@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|4|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
 |5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|6|103.188.170.149|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|7|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|8|124.158.184.21|64999|Indonesia|Bogor|PT Jala Lintas Media|
+|9|154.18.255.131|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|180.191.231.47|8080|Philippines|Mandaue City|Globe Telecom|
+|11|122.144.6.42|3888|Indonesia|Pengarengan|Maxindo|
+|12|202.183.236.220|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
 |13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|15|103.139.139.70|8181|Indonesia|Toba|PT. TOBA JAYA NET|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|158.160.215.167|8123|Russia|Moscow|Yandex.Cloud LLC|
-|18|157.15.63.126|8080|Indonesia|Malang|AMAN ISP Customer Malang|
-|19|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
-|20|103.220.23.57|3128|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|14|185.200.38.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|103.214.82.92|8090|Bangladesh|Bājitpur|Jhongkar IT|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|103.139.139.70|8181|Indonesia|Toba|PT. TOBA JAYA NET|
+|18|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|19|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
+|20|148.230.4.229|999|Mexico|Naranjos|Digy Networks|
 
 
 
