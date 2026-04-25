@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.62.136|3128|Japan|Wakabayashi|InfoSphere|
 |2|116.80.92.29|3128|Japan|Wakabayashi|InfoSphere|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|10|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|20|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.76.91.122|9090|Indonesia|Bekasi|PT Kampung Dua Net|
+|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|8|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|116.102.38.65|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|15|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|18|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
