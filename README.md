@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|35.225.22.61|80|United States|Council Bluffs|Google LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|180.191.231.47|8080|Philippines|Mandaue City|Globe Telecom|
-|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|10|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|112.198.18.206|8080|Philippines|Angeles City|Globe Telecom|
-|15|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|18|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|19|103.247.23.202|8080|Indonesia|Ngawi|PT wifian Solution|
-|20|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|14|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|15|190.97.243.2|999|Venezuela|Punto Fijo|Viginet C.A|
+|16|43.132.188.134|443|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|17|188.132.150.45|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|18|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|19|186.226.167.191|3128|Brazil|Eunápolis|Infortel Comunicacoes Ltda|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
