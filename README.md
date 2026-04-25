@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|5|82.148.18.242|443|Russia|Moscow|JSC Selectel|
 |6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|11|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|10|103.31.235.102|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|103.217.224.75|3125|Indonesia|Ungaran|PT Nesta Indo Media|
-|14|94.131.106.231|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|15|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|18|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|202.78.193.58|8080|Indonesia|Jakarta|Dwi Tunggal Putra|
-|20|209.62.196.68|8080|United States|Cut Off|EATEL|
+|13|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|14|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|15|180.191.14.210|8081|Philippines|Cabanatuan City|Globe Telecom|
+|16|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|17|131.255.227.104|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
+|18|201.139.115.38|8082|Mexico|Puebla City|Transtelco Inc|
+|19|51.159.125.63|8080|France|Paris|SCALEWAY|
+|20|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
 
 
 
