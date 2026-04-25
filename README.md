@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|35.225.22.61|80|United States|Council Bluffs|Google LLC|
+|4|38.191.213.170|999|Colombia|Villavicencio|Reintech SAS|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|8|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|16|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
-|17|103.122.65.11|8080|Indonesia|Banjar Dauhmarga|PT. Jinom Network Indonesia|
-|18|177.234.211.151|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|13|38.194.253.30|999|Mexico|Apaseo el Alto|IENTC S de RL de CV|
+|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|185.200.36.108|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|49.156.44.10|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|17|89.43.134.34|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|8.222.141.248|8899|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|38.7.21.116|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 
