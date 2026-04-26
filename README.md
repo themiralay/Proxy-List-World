@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
-|9|190.60.47.60|999|Colombia|Malambo|IFX NETWORKS COLOMBIA|
-|10|160.19.146.87|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|103.94.251.91|8085|Indonesia|Dalududalu|PT Centronet Data Indonesia|
-|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|203.150.113.198|8080|Thailand|Ang Thong|Internet Thailand Company Ltd.|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
+|14|154.18.255.137|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|177.135.190.101|8080|Brazil|Recife|TELEFÔNICA BRASIL S.A|
+|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|17|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
