@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|4|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|6|167.71.245.33|3128|United States|Clifton|DigitalOcean, LLC|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|9|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|103.156.217.101|1111|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
-|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|14|103.172.70.195|1111|Indonesia|Karawang|AZNET|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|103.125.117.54|8080|Indonesia|Bekasi|PT Baraya Telematika Nusantara|
-|17|103.244.107.150|8080|Indonesia|Rengasdengklok|PT Sahabat Fiber Indonesia|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|86.109.3.28|10010|United States|Chicago|Equinix (EMEA) Acquisition Enterprises B.V.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|9|157.100.53.103|999|Ecuador|Machala|Ufinet Panama S.A.|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|103.247.14.38|8080|Indonesia|Magelang|TERABIT|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|16|188.121.168.60|8080|Slovakia|Pezinok|Slovanet a.s.|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|122.144.6.42|3888|Indonesia|Pengarengan|Maxindo|
+|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |20|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
 
 
