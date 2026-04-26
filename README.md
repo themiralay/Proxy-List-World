@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|6|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|10|124.106.173.56|8082|Philippines|San Jose del Monte|Philippine Long Distance Telephone Co.|
-|11|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|4|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|5|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|10|176.88.166.196|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|185.214.108.46|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
-|14|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|160.191.63.29|8080|Indonesia|Mekarsari|PT Alsavanet Global Media|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|222.252.14.70|8443|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|14|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|17|223.207.103.99|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|18|103.247.23.202|8080|Indonesia|Ngawi|PT wifian Solution|
+|19|27.124.80.58|82|Indonesia|Magelang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
