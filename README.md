@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|5|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|103.155.168.163|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|8|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|213.199.41.15|3128|France|Lauterbourg|Contabo GmbH|
-|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
-|17|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|18|179.1.113.129|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|19|103.124.251.12|8081|Bangladesh|Jessore|Earth Telecommunication|
-|20|188.132.222.148|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|5|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|154.27.196.13|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|212.108.115.55|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
