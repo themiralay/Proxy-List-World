@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|4|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|103.55.22.52|8090|Indonesia|Kisaran|PT General Media Network|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|202.154.18.11|9091|Indonesia|Babat|DIGITNET|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|185.225.41.129|8080|Syria|Damascus|sy-samaweb|
+|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|103.220.23.57|3128|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
