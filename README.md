@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|202.162.195.157|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|103.155.168.162|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|13|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|4|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|5|103.250.69.145|50505|Bangladesh|Bhatara|Next Online Ltd.|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|10|103.237.134.242|7777|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|11|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|12|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|16|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|115.190.91.223|7897|China|Beijing|GWBN-WUHAN's IP|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|103.250.70.195|50505|Bangladesh|Gaibandha|Next Online Ltd|
+|20|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
