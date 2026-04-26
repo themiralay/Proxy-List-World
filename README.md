@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4015** proxies at the latest update. Usable proxies are below.
+> Scraper found **4093** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|24|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|291|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|337|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|16|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2784|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|9|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|13|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|14|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|3|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
+|7|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|38.156.235.236|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L|
+|9|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|103.189.250.47|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|14|122.224.198.218|808|China|Hangzhou|Chinanet|
+|15|38.7.195.55|999|Chile|Santiago|Grupo ZGH SpA|
+|16|191.103.216.234|8085|Colombia|Tolú|EPM Telecomunicaciones S.A. E.S.P.|
+|17|103.92.218.121|9514|Bangladesh|Rāmganj|Md Rezaul Karim|
 |18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|58.147.186.131|8080|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 
 
 
