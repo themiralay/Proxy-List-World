@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|3|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|203.150.113.104|8080|Thailand|Ang Thong|Internet Thailand Company Ltd.|
-|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|6|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|87.76.1.80|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|9|139.28.49.106|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|103.155.169.200|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|15|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|103.250.69.145|50505|Bangladesh|Bhatara|Next Online Ltd.|
-|18|88.216.98.214|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|3|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|103.180.118.99|8044|Indonesia|Mojoagung|PT Persada Data Multimedia|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.175.202.178|8090|Indonesia|Pagatan|PT Ameera Mega Buana|
+|17|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|20|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
