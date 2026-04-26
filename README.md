@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|8|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|15|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|182.253.235.139|3128|Indonesia|Jakarta|BIZNET|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|5|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|7|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|8|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|9|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|14|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|201.23.119.74|3128|Brazil|São Paulo|Directnet Prestacao de Servicos Ltda.|
 
 
 
