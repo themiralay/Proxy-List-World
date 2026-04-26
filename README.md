@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3832** proxies at the latest update. Usable proxies are below.
+> Scraper found **3801** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|30|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|337|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|31|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|299|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|34|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2537|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|4|49.147.104.127|8082|Philippines|Ocaña|Philippine Long Distance Telephone Co.|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|6|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|1|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|8|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|209.62.196.68|8080|United States|Cut Off|EATEL|
-|14|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|88.216.98.189|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|17|115.190.91.223|7897|China|Beijing|GWBN-WUHAN's IP|
-|18|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|103.97.140.110|8080|Indonesia|Bojongduren|PT Jembatan Data Pangrango|
+|13|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|15|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|189.50.45.46|1995|Brazil|Goianira|Total Telecom LTDA-ME|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|182.253.235.139|3128|Indonesia|Jakarta|BIZNET|
 
 
 
