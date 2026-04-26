@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.41.32.182|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|5|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|11|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|8|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|9|217.182.195.221|30000|France|Roubaix|OVH SAS|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
 |13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|103.81.194.126|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|19|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|20|115.190.91.223|7897|China|Beijing|GWBN-WUHAN's IP|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
 
 
 
