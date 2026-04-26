@@ -1,4 +1,3 @@
-
 # Free HTTP Proxy List 🌍
 
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
@@ -23,7 +22,7 @@ Click the file format that you want and copy the URL.
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
-|[proxydb.net](http://proxydb.net)|0|🚫|
+|[proxydb.net](http://proxydb.net)|2|✅|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
@@ -33,7 +32,6 @@ Click the file format that you want and copy the URL.
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|29|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2950|✅|
-
 
 ## Sample Proxies With Geolocation Info
 
@@ -59,7 +57,6 @@ Click the file format that you want and copy the URL.
 |18|158.160.215.167|8126|Russia|Moscow|Yandex.Cloud LLC|
 |19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 |20|181.79.86.161|999|Colombia|Cartagena|IFX Networks Argentina S.R.L|
-
 
 
 ## Contributing
