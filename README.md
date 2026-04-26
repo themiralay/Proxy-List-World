@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
-|9|103.238.232.126|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|11|103.85.53.78|8080|Indonesia|Kajen|PT Binerkahan Digital Telco|
-|12|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|13|148.222.137.99|999|Dominican Republic|Santo Domingo|BITNET DOMINICANA, S.R.L.|
-|14|91.144.30.93|8080|Syria|Damascus|STE Public Data Network Backbone and LIR|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|176.12.78.141|3128|Kazakhstan|Almaty|Netfire TEC|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|103.185.250.142|1452|Bangladesh|Sonargaon|L.J Broadband Network|
-|20|103.231.236.234|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|36.64.157.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|13|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|103.85.194.229|8888|Bangladesh|Dhaka|Automation System|
 
 
 
