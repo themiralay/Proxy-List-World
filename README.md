@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|16.163.173.29|1080|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|160.19.18.45|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|13|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
-|14|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|14|45.238.20.212|999|Chile|Quillota|Airpoint Telecomunicaciones Limitada|
 |15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|16|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.189.249.145|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
+|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|222.127.76.123|8082|Philippines|Lahug|INNOVE|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
