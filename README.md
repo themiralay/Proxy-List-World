@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4697** proxies at the latest update. Usable proxies are below.
+> Scraper found **4716** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|389|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|408|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|33|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3075|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|5|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
-|6|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|7|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|8|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|9|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
-|10|180.191.231.231|8080|Philippines|Mandaue City|Globe Telecom|
-|11|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|201.150.6.201|8081|Mexico|San Nicolás de los Garza|Administradora de Servicios de Internet Sandur S.A. de C.V.|
-|14|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
+|4|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|5|115.147.39.121|8181|Philippines|General Trias|Philippine Long Distance Telephone Co.|
+|6|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|10|185.234.66.87|1081|Turkey|Izmir|WorkTitans B.V.|
+|11|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|15|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|18|197.255.125.190|7777|Ghana|Accra|UG 2|
-|19|45.167.126.216|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|38.7.16.194|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|17|103.238.232.38|8080|Indonesia|Banjaran|PT Digital Netcom Solution|
+|18|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
+|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 
 
 
