@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |3|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|4|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
 |7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|164.138.205.67|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
-|11|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|103.138.70.165|3129|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|119.93.139.196|8082|Philippines|Rodriguez|Philippine Long Distance Telephone Co.|
-|16|203.20.42.13|8082|Philippines|Valenzuela|RNDS Network|
-|17|103.193.144.41|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|18|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|37.111.53.31|8080|Myanmar|Yangon|Atom Myanmar Limited|
+|12|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|101.255.166.134|1111|Indonesia|West Jakarta|PT Remala Abadi|
+|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|17|202.58.77.18|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|18|95.84.164.92|8998|Russia|Moscow|NCNET|
+|19|193.43.140.129|8080|Syria|Latakia|Syrian Telecom|
+|20|203.190.55.134|8090|Indonesia|West Jakarta|PT POWER TELECOM|
 
 
 
