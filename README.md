@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
-|12|5.102.109.41|999|Mexico|San Juan del Río|IPXO|
-|13|95.181.83.3|3128|Russia|Kemerovo|Goodline.info|
-|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|27.124.80.58|82|Indonesia|Magelang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|20|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|2.27.54.161|1080|The Netherlands|Amsterdam|DpkgSoft International Limited|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
+|8|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|138.0.207.246|8082|Brazil|Monte Aprazível|Nets Telecomunicacoes Ltda|
+|16|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|117.236.124.166|3128|India|Gandhinagar|BSNL Internet|
 
 
 
