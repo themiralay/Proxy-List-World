@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|5|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|10|103.175.245.204|8080|Bangladesh|Rāmganj|Orange Communication|
-|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|12|179.1.113.129|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|13|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
-|14|103.84.177.124|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|120.92.108.97|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|20|121.101.130.137|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|2|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|3|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|14|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|15|157.20.239.211|80|Indonesia|Sidodadi|PT Era Network Indonesia|
+|16|131.222.251.95|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|17|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|18|189.127.167.136|8080|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|19|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
