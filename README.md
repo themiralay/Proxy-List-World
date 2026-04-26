@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4438** proxies at the latest update. Usable proxies are below.
+> Scraper found **4419** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|394|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|375|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|33|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2811|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|5|201.150.6.201|8081|Mexico|San Nicolás de los Garza|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|1|103.109.174.43|8080|Indonesia|Medan|Indonesia Network Information Center|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|103.179.180.134|8080|Indonesia|Bebedahan|PT Karya Aneka Persada|
+|5|82.148.18.242|443|Russia|Moscow|JSC Selectel|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|11|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
-|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|185.234.66.87|1081|Turkey|Izmir|WorkTitans B.V.|
-|19|41.203.83.242|8080|Nigeria|Lagos|Globacom Limited|
-|20|169.239.85.121|8080|South Africa|Sasolburg|Mezobyte (Pty) LTD|
+|7|129.213.162.27|17777|United States|Ashburn|Oracle Corporation|
+|8|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
+|10|222.252.14.70|8443|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|103.174.122.244|1111|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|185.41.152.110|3128|France|Valenciennes|global|
+|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|15|68.183.199.89|1080|Canada|Toronto|DigitalOcean, LLC|
+|16|192.203.0.70|999|Puerto Rico|Comunas|Boom NET|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
