@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|2|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|3|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|1|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|5|103.191.196.212|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|6|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|7|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|9|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|10|122.3.103.17|8082|Philippines|Pasig|Philippine Long Distance Telephone Co.|
 |11|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|18|94.68.245.147|8080|Greece|Thessaloniki|OTEnet|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|15|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
+|16|103.150.254.80|9108|Bangladesh|Kafrul|RED ONLINE|
+|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|18|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
