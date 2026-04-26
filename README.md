@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|103.251.8.255|8282|Indonesia|Ubud|PT Trika Global Media|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|94.131.106.231|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|10|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|11|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|14|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|19|77.110.113.24|40000|Russia|Moscow|Global Internet Solutions LLC|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|9|154.18.255.99|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|94.131.122.129|1081|United Kingdom|Holborn|WorkTitans B.V.|
+|12|124.121.2.225|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|45.4.58.222|8080|Brazil|Recife|VN TELECOM PROVEDORES A.R.C EIRELI|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
