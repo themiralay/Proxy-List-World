@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|7|154.73.29.205|8080|Libya|Tripoli|Rawafed|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|14|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|165.16.46.1|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
-|16|179.1.113.129|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|17|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|12|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|38.7.23.138|999|Mexico|Huetamo de Núñez|Internet Telefonia Y TV De Michoacan SA De CV|
+|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|19|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|20|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
