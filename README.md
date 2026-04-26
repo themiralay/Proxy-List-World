@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|2|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|5|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|103.193.144.99|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|9|103.97.140.96|8080|Indonesia|Ciwaru|PT Jembatan Data Pangrango|
-|10|163.227.146.38|8080|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|11|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|13|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|16|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|133.18.110.87|1081|Japan|Kyoto|KAGOYA JAPAN Inc.|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|103.184.167.66|8080|Indonesia|Getengan|PT Pricom Media Solusi|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
+|15|185.234.66.82|1081|Turkey|Izmir|WorkTitans B.V.|
+|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|19|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|20|188.132.222.165|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
