@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|82.148.18.242|443|Russia|Moscow|JSC Selectel|
 |4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|180.191.124.201|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|10|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|11|103.138.70.165|3129|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|9|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|10|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|13|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
 |14|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|15|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|179.1.113.129|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|18|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|18|103.138.70.165|3129|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|38.52.222.77|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
 
 
 
