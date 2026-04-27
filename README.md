@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|3|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|4|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|5|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|103.192.174.154|8080|Indonesia|Kabupaten Bandung|PT JKB Telematika Indonesia|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|192.203.0.78|999|Puerto Rico|Comunas|Boom NET|
-|12|163.61.254.104|1111|Indonesia|Rantau Panjang|PT HEXA TELEMATIKA INDONESIA|
-|13|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|14|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
+|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|7|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|11|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|12|103.192.174.154|8080|Indonesia|Kabupaten Bandung|PT JKB Telematika Indonesia|
+|13|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|16|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|17|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
 |18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|201.77.110.129|999|Mexico|Cuauhtémoc|Nidix Networks S.a. De C.V.|
-|20|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|19|126.209.73.156|8082|Philippines|Makati City|Infinivan Incorporated|
+|20|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
 
 
 
