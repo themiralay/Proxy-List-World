@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3411** proxies at the latest update. Usable proxies are below.
+> Scraper found **3333** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|364|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|116|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|287|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|29|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2001|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|179.228.99.92|8085|Brazil|Porto Alegre|Vivo|
-|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|179.228.99.92|8085|Brazil|Porto Alegre|Vivo|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|160.19.18.29|8080|Indonesia|Semarang|PT Indo Telemedia Solusi|
-|16|190.7.28.36|8080|Argentina|Buenos Aires|Gigared S.A|
-|17|103.105.76.49|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|18|14.241.133.207|8080|Vietnam|Tra Que Vegetable Village|VNPT|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|103.111.136.82|34564|Indonesia|Banjarmasin|PT Mitra Lintas Multimedia|
+|6|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|9|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|45.123.142.69|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
+|19|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
