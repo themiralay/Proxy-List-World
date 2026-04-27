@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3990** proxies at the latest update. Usable proxies are below.
+> Scraper found **4016** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|41|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|328|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|354|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|30|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2691|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|210.79.141.126|8080|Indonesia|Margahayukencana|PT Reueus Sumber Data|
-|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|9|38.156.89.76|999|Dominican Republic|Esperanza|Openconnection Fernandez s.r.l|
-|10|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|11|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
-|12|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|15|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
-|16|160.19.41.61|80|India|New Delhi|ATC INFOCOM SOLUTIONS PVT LTD|
-|17|181.119.103.237|999|Guatemala|San José Acatempa|Ufinet Panama S.A.|
-|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|19|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
-|20|160.191.192.45|8090|Indonesia|Bondowoso|PT Sigma Data Nusa|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
+|8|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|11|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|12|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|13|202.74.77.12|8080|Indonesia|Jepara|PT Giga Patra Multimedia|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|8.209.238.110|47701|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|19|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|20|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
 
 
 
