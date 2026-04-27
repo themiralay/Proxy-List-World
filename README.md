@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|201.76.9.115|8080|Brazil|Tubarão|Contato Internet EIRELI|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|4|212.252.39.100|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|6|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|10|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|11|179.48.25.1|8095|Brazil|Timon|Viana Telecom LTDA|
+|12|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|16|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
-|17|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|113.11.2.213|8080|Bangladesh|Pābna|BDCOM Online Limited|
-|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|212.112.121.130|8080|Kyrgyzstan|Bishkek|AKNET Ltd|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
+|20|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
 
 
 
