@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3914** proxies at the latest update. Usable proxies are below.
+> Scraper found **3927** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|44|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|396|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|409|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|24|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2550|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
-|4|103.22.98.69|8080|Indonesia|Magetan|CV. KHALISTA GROUP|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|160.238.65.7|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|11|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
-|12|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|124.158.190.130|64999|Indonesia|Bogor|PT Jala Lintas Media|
-|15|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|16|103.17.88.215|8080|Vietnam|Thu Dau Mot|VNTT|
-|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|19|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|20|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|6|124.83.117.31|8081|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|7|128.14.92.88|3128|Vietnam|Hanoi|Zenlayer Inc|
+|8|86.102.77.67|1080|Russia|Vladivostok|PRIMORYE|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
+|12|49.147.111.75|8082|Philippines|Tubod|Philippine Long Distance Telephone Co.|
+|13|103.231.236.234|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|14|149.86.140.244|8080|Türkiye|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|15|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|16|58.147.186.226|8097|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
+|17|103.82.246.249|8080|Indonesia|Ciputat|PT Master Star Network|
+|18|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|19|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|20|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
 
 
 
