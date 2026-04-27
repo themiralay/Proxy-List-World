@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |3|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
-|8|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|9|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
-|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|154.18.255.131|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|89.43.134.40|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|18|163.61.55.119|8887|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|193.43.140.253|8080|Syria|Dārayyā|Syrian Telecom|
+|4|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|10|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|13|38.191.194.18|999|Colombia|Cali|TV&MÁS S.A.S|
+|14|188.132.249.242|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|15|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|16|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
 
 
 
