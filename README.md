@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|6|103.180.126.138|8080|Indonesia|Jakarta|PT Alam Media Data|
-|7|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|140.238.254.5|8080|India|Mumbai|Oracle Corporation|
-|13|122.52.34.247|8082|Philippines|Biñan|Philippine Long Distance Telephone Co.|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|10|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|13|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
 |14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|15|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|15|103.159.96.146|3128|Indonesia|Kertosono|PT Jinde Grup Indonesia|
 |16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|19|88.216.98.233|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|20|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|17|27.79.247.3|8080|Vietnam|Hanoi|Viettel Corporation|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|27.124.80.58|82|Indonesia|Magelang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
