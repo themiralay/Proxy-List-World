@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.51.106.229|8080|Indonesia|East Jakarta|PT Solusi Infostruktur Nusantara|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|4|157.20.207.61|9090|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|5|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|194.31.87.77|3128|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
-|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|11|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
+|1|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|2|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|36.88.111.250|8787|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|194.31.87.77|3128|Turkey|Istanbul|SFCTEK Bilisim Yazilim ve Telekomunikasyon Hiz. San. ve Tic. LTD. STI.|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|14|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |16|1.20.169.200|8080|Thailand|Pattaya|TOT Public Company Limited|
-|17|58.147.187.20|8080|Indonesia|Kota Sambas|PT. Transhybrid Communication|
-|18|201.182.85.122|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
