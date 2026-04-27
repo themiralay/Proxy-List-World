@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|6|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|9|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|8|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|45.123.142.69|8181|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
-|19|103.167.170.70|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|178.57.107.143|8080|Russia|Cherepovets|Cherepovec Telecom|
+|20|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
