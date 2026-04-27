@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|3|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|5|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|160.191.130.131|8080|Indonesia|Kebumen|PT Jaringan Lintas Maritim|
-|8|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|10|196.216.134.71|8865|South Africa|Mahikeng|HERO TELECOMS (PTY) LTD|
-|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|12|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|1|163.223.78.69|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|2|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
+|12|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
 |13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|124.217.72.26|8082|Philippines|Cabiao|Philippine Long Distance Telephone Co.|
+|14|88.216.98.221|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|160.20.165.13|6248|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
