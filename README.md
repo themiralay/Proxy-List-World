@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|2|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|3|115.147.171.114|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
-|14|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|38.7.195.53|999|Chile|Santiago|Grupo ZGH SpA|
-|17|189.195.30.210|8080|Mexico|Zacatecas City|Mega Cable, S.A. de C.V.|
-|18|103.171.240.77|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|19|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|4|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|10|103.148.45.60|8833|Indonesia|Bangko|PT BUANA VISUALNET SENTRA|
+|11|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|15|103.30.31.209|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|16|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|17|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|18|103.231.236.234|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
