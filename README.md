@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|3|112.78.181.91|3128|Indonesia|Tegal|BIZNET|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |4|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|6|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
-|7|101.255.211.90|8080|Indonesia|Jakarta|PT Remala Abadi|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
 |8|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|190.242.181.61|999|Colombia|Villa Rica|Columbus Networks USA, Inc.|
-|11|45.168.238.193|8443|Mexico|San Juan del Río|Wantelco SAS de CV|
-|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|13|47.83.3.52|26426|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|16|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
-|17|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|18|172.233.49.176|9658|Netherlands|Amsterdam|Akamai Technologies, Inc.|
-|19|190.97.232.182|999|Venezuela|Barinas|Viginet C.A|
-|20|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|15|170.238.38.15|8080|Brazil|Maringá|Hilink Comunicações|
+|16|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|27.147.245.189|7735|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|20|8.243.126.136|8801|Peru|Ventanilla|Corporacion Tarazona Catv Sociedad Anonima Cerrada - .A.C.|
 
 
 
