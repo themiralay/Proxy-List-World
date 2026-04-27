@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|4|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|6|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|9|147.45.60.34|1082|Estonia|Tallinn|Global Connectivity Solutions LLP|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
-|17|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|18|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|49.148.138.194|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
+|10|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|12|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|17|36.95.55.207|3128|Indonesia|East Jakarta|PT. Telekomunikasi Indonesia|
+|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|19|190.119.90.114|8080|Peru|Las Nazarenas|America Movil Peru S.A.C.|
+|20|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
 
 
 
