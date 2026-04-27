@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4275** proxies at the latest update. Usable proxies are below.
+> Scraper found **4276** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|41|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|353|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|27|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2954|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|203.28.67.74|8080|Philippines|Cebu City|Responsible Internet Sustainability Effort|
-|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|9|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
-|12|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|2|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|3|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|7|196.216.134.71|8865|South Africa|Mahikeng|HERO TELECOMS (PTY) LTD|
+|8|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|50.200.166.130|8080|United States|Cypress|Comcast Cable Communications|
+|12|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|15|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|16|122.3.156.201|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|103.227.187.13|6080|Indonesia|Kendalrejo|PT Master Star Network|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
