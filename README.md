@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.83.3.52|26426|Hong Kong|Hong Kong|Alibaba.com LLC|
 |2|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|140.238.254.5|8080|India|Mumbai|Oracle Corporation|
-|11|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|177.10.145.24|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|16|47.83.3.52|26426|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|103.168.149.48|8181|Indonesia|Sarimatondang|TORSADA|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|6|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|103.144.102.82|8080|Indonesia|Majalengka|PANDAWANET|
+|11|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|47.83.3.52|26426|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|18|103.31.235.183|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|19|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|20|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
 
 
 
