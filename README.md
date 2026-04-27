@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|4|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|202.58.77.9|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|8|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
-|9|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|103.178.21.104|3125|Indonesia|Malang|PT Trisna Mega Abadi|
-|15|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|16|38.191.194.18|999|Colombia|Cali|TV&MÁS S.A.S|
-|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|176.88.166.171|8080|Turkey|Malıköy|Superonline Iletisim Hizmetleri A.S.|
+|11|45.134.14.169|8081|Germany|Frankfurt am Main|First Server Limited|
+|12|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|13|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|18|80.234.104.229|3128|Russia|Oktyabr'sk|Commerce Network|
+|19|131.222.251.204|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
