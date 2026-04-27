@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|42|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|42|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|42|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|3|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|4|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|8|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|9|36.37.251.137|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
-|11|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|103.97.140.96|8080|Indonesia|Ciwaru|PT Jembatan Data Pangrango|
-|15|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|43.133.90.161|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.250.69.145|50505|Bangladesh|Bhatara|Next Online Ltd.|
-|18|190.43.92.213|999|Peru|Tacna|Telefonica Del Peru|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|179.1.146.21|999|Peru|Sicuani|Internexa Peru S.A|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|94.131.106.230|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|6|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|160.191.130.243|8080|Indonesia|Kebumen|PT Jaringan Lintas Maritim|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|17|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
