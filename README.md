@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|202.180.21.213|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|11|185.214.108.46|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
-|12|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|13|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|4|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|202.154.37.162|8080|Indonesia|Pabyongan|RADNET|
+|6|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|7|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|103.124.110.233|8090|Bangladesh|Nagar Naluakot|Delta Software and Communication Limited|
+|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|181.209.108.226|999|Argentina|El Hoyo|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|103.158.28.132|8090|Indonesia|Purwokerto|PT Puskomedia Indonesia Kreatif|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|19|103.156.233.41|8080|Indonesia|Citeureup|MULTIMEDIALINKTECH|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
