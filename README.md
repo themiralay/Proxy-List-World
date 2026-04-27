@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|4|181.174.228.22|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|5|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|202.58.77.131|6666|Indonesia|Surabaya|PT Data Buana Nusantara|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
-|12|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|13|154.18.255.137|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|4|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|5|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|6|103.85.194.229|8888|Bangladesh|Dhaka|Automation System|
+|7|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
+|8|181.78.207.50|999|Ecuador|Vinces|Ufinet Panama S.A.|
+|9|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|10|103.22.99.26|8080|Indonesia|Magetan|KHALISTAGROUP|
+|11|95.0.100.40|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|14|112.208.234.164|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|36.91.115.133|80|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|17|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
+|18|187.84.176.20|8080|Brazil|Brasília|Allrede Telecom Ltda|
+|19|202.58.77.131|6666|Indonesia|Surabaya|PT Data Buana Nusantara|
+|20|202.6.206.2|8082|Philippines|Surigao City|JAT I.T. SERVICES|
 
 
 
