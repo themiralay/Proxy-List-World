@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.165.179.193|8118|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |3|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
-|6|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
-|12|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|13|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|38.7.195.53|999|Chile|Santiago|Grupo ZGH SpA|
+|5|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
+|6|103.76.107.3|8085|Indonesia|Patuk|PT Geka Solusi Utama|
+|7|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|8|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|94.139.204.51|8081|Bulgaria|Lukovit|Lukovitnet Ltd.|
+|11|103.118.102.98|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|12|203.175.103.9|3125|Indonesia|Cikananga|PT. Mitra Kita Brilian|
+|13|103.147.247.193|8080|Indonesia|Sepatan|PLBNET|
+|14|23.143.160.193|999|Puerto Rico|Marueño|Unonet Corp|
+|15|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|16|103.231.177.120|5020|Bangladesh|Dhaka|Sayed Farhad Ahmed|
+|17|126.209.73.156|8082|Philippines|Makati City|Infinivan Incorporated|
+|18|157.20.128.186|8080|Indonesia|Bojonegara|PT Citra Meta Data|
+|19|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|20|101.255.158.173|1111|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
