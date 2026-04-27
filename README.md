@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4242** proxies at the latest update. Usable proxies are below.
+> Scraper found **4262** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|41|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|319|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|339|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2954|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|5|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|202.74.77.12|8080|Indonesia|Jepara|PT Giga Patra Multimedia|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|14|185.234.66.87|1081|Turkey|Izmir|WorkTitans B.V.|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
+|1|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|103.157.83.231|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|6|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|8|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|13|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |17|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|19|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|20|181.78.4.149|999|Colombia|Margarita|IFX Networks Argentina S.R.L|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|20|202.47.185.4|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
 
 
 
