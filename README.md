@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|4|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|5|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|10|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|13|103.68.214.175|8080|Indonesia|Cikupa|PT Media Grasi Internet|
-|14|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.135.165.102|443|Germany|Frankfurt am Main|Big Data Host LLC|
-|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|17|194.124.36.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|195.87.182.10|9090|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetleri A.S.|
-|19|112.198.128.171|8083|Philippines|Nasugbu|Globe Telecom|
-|20|179.1.113.129|999|Colombia|Popayán|Internexa S.a. E.S.P|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|4|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|5|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|7|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|202.74.77.12|8080|Indonesia|Jepara|PT Giga Patra Multimedia|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|14|185.234.66.87|1081|Turkey|Izmir|WorkTitans B.V.|
+|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|16|41.57.7.190|6060|South Africa|Rustenburg|Rust Scr|
+|17|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|19|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|20|181.78.4.149|999|Colombia|Margarita|IFX Networks Argentina S.R.L|
 
 
 
