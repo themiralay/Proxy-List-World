@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|42|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|376|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|44|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|374|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|20|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2691|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|3|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|6|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|9|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|13|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|15|157.15.41.138|8080|Indonesia|Madiun|TRISARI|
-|16|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|103.35.191.173|1081|United States|Secaucus|WorkTitans B.V.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|7|103.19.58.151|8080|Indonesia|Karangampel|BITSNET|
+|8|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|9|223.207.103.99|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|10|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
+|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|121.101.130.137|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|15|103.172.42.105|1111|Indonesia|Kabupaten Musi Banyuasin|PT Media Solusi Sukses|
+|16|103.68.215.75|8181|Indonesia|Pasarkemis|PT Media Grasi Internet|
+|17|190.60.58.236|999|Colombia|Saldaña|IFX NETWORKS COLOMBIA|
+|18|124.83.117.44|8082|Philippines|Meycauayan|Philippine Long Distance Telephone Co.|
+|19|45.186.209.47|999|Venezuela|Caracas|Viginet C.A|
+|20|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
 
 
 
