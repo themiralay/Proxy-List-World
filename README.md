@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
-|2|202.58.77.131|6666|Indonesia|Surabaya|PT Data Buana Nusantara|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|5|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|6|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|8|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|13|177.229.218.54|999|Mexico|Apodaca|Mega Cable, S.A. de C.V.|
-|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|17|154.64.219.61|8888|United States|Jacksonville|OSNET Wireless|
-|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|19|223.25.110.185|8080|Indonesia|Purbalingga|SinergiNet|
-|20|200.24.130.144|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|4|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|5|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|6|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
+|7|202.74.77.12|8080|Indonesia|Jepara|PT Giga Patra Multimedia|
+|8|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|9|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
+|10|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|176.88.65.187|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|13|103.193.145.155|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
+|14|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|187.190.58.152|80|Mexico|Mazatlán|Total Play Telecomunicaciones SA De CV|
+|17|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|103.141.150.147|8080|Indonesia|Bandung|PRIMACOM|
 
 
 
