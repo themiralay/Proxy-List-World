@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|103.122.64.222|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|3|82.148.18.242|443|Russia|Moscow|JSC Selectel|
-|4|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
 |7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|139.99.238.95|8080|Australia|Sydney|OVH SAS|
-|9|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
-|10|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|217.113.235.181|443|Poland|Lodz|Toya sp. z o.o.|
-|13|112.208.234.164|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|14|154.27.196.131|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
-|15|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
-|16|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|139.99.238.95|8080|Australia|Sydney|OVH SAS|
+|11|91.99.15.45|2095|Germany|Falkenstein|Hetzner Online GmbH|
+|12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|18|186.33.40.17|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|1.20.207.40|8080|Thailand|Ban Chang|TOT Public Company Limited|
 
 
 
