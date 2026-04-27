@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|154.18.255.131|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|6|138.84.65.117|8081|Philippines|Cabanatuan City|Globe Telecom|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.144.102.82|8080|Indonesia|Majalengka|PANDAWANET|
-|9|183.98.143.134|8070|South Korea|Incheon|Korea Telecom|
-|10|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|11|177.241.119.191|8080|Mexico|Grajales|Mega Cable, S.A. de C.V.|
-|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|188.132.150.253|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|16|212.252.39.100|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|17|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|19|49.48.66.54|8080|Thailand|Prasat|Triple T Broadband Public Company Limited|
-|20|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
+|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|7|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|11|47.83.3.52|26426|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|14|49.48.66.54|8080|Thailand|Prasat|Triple T Broadband Public Company Limited|
+|15|103.158.121.245|7777|Indonesia|Jatibarang|CDN|
+|16|103.150.254.80|9108|Bangladesh|Kafrul|RED ONLINE|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|85.117.56.115|8080|Georgia||Caucasus Online Ltd.|
+|19|37.238.40.153|8080|Iraq|Baghdad|EarthLink Ltd. Communications&|
+|20|212.252.39.103|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
 
 
 
