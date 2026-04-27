@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|163.223.78.163|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|3|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|5|185.234.64.62|1081|France|Paris|WorkTitans B.V.|
-|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|9|201.23.119.74|3128|Brazil|São Paulo|Directnet Prestacao de Servicos Ltda.|
-|10|103.122.0.151|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|58.187.104.170|2033|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|14|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
-|15|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
-|16|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|103.68.214.164|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|20|188.132.150.45|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|12|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|13|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|14|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|16|103.178.86.93|8080|Indonesia|Bogor|PT Adhi Pradana Makayasa|
+|17|202.74.77.12|8080|Indonesia|Jepara|PT Giga Patra Multimedia|
+|18|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
+|19|202.58.77.131|6666|Indonesia|Surabaya|PT Data Buana Nusantara|
+|20|212.182.119.149|8080|Poland|Lublin|non-academic part of Lublin MAN|
 
 
 
