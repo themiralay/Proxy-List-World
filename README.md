@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3953** proxies at the latest update. Usable proxies are below.
+> Scraper found **4054** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|45|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|296|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|397|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|21|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2691|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|84.47.150.125|1080|Russia|Moscow|LLC "Nauka-Svyaz"|
-|3|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|5|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
-|6|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|7|188.132.249.242|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|9|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
-|10|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|103.153.149.138|8080|Indonesia|Weleri|JARINGANKU|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|45.186.209.47|999|Venezuela|Caracas|Viginet C.A|
-|19|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|20|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|8|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|185.234.64.66|1081|France|Paris|WorkTitans B.V.|
+|13|103.160.69.181|8080|Indonesia|Jakarta|PT Gayatri Lintas Nusantara|
+|14|103.185.43.242|8080|Indonesia|Pandaan|PT Awinet Global Mandiri|
+|15|103.19.58.151|8080|Indonesia|Karangampel|BITSNET|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|89.43.132.233|8080|Syria|Ad Dānā|High Speed For Internet Services L.L.C|
+|18|168.222.254.26|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|19|202.159.35.84|9933|Indonesia|Jakarta|PT IndoInternet|
+|20|185.234.64.66|1081|France|Paris|WorkTitans B.V.|
 
 
 
