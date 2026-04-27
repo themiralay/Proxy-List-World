@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|2|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|3|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|4|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|43.240.83.70|8080|Indonesia|Cianjur|PT Indonesia Comnets Plus|
-|7|102.213.179.194|8081|Kenya|Nairobi|NEXT THING NETWORKS Limited|
-|8|38.7.23.118|999|Mexico|Huetamo de Núñez|Internet Telefonia Y TV De Michoacan SA De CV|
-|9|201.182.85.122|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|10|103.147.247.193|8080|Indonesia|Sepatan|PLBNET|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|4|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|164.138.205.67|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|9|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|10|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
+|11|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
 |12|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|13|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|94.131.122.125|1081|United Kingdom|Holborn|WorkTitans B.V.|
-|16|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|13|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|36.141.21.200|7890|China|Guangzhou|China Mobile Communications Corporation|
-|20|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|18|112.204.101.110|8082|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
