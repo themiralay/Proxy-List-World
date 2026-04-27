@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|38.244.52.152|26678|United States|Los Angeles|Cogent Communications|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|103.61.16.9|8097|Indonesia|Suryabakti|TWINSDATAPRATAMA|
-|15|103.97.140.17|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|16|103.205.223.30|8080|Indonesia|Jakarta|PT Cipta Trimitra Perkasa|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|124.16.93.233|7890|China|Chaowai|CNIC-CAS|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|5|43.133.90.161|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|14|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|103.147.247.193|8080|Indonesia|Sepatan|PLBNET|
+|16|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|17|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|103.139.46.70|37777|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
