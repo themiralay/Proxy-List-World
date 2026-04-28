@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|2|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|4|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|6|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|7|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|12|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|13|38.156.72.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|16|181.209.96.157|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|103.120.221.129|8083|Bangladesh|Kafrul|Touhidul Islam Polash|
-|18|103.164.231.243|8080|Indonesia|Bendungan|PT Global Media Telekomunikasi Network|
-|19|185.225.40.236|8080|Syria|Qadsayyā|sy-samaweb|
-|20|85.114.54.3|8080|Croatia|Dubrovnik|Telemach Hrvatska d.o.o.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|4|103.130.182.85|8080|Indonesia|Jakarta|PT SUPRA BOGA INDONESIA|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|7|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|9|200.49.99.78|9991|Argentina|Avellaneda|Telecom Argentina S.A|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|177.135.190.101|8080|Brazil|Recife|TELEFÔNICA BRASIL S.A|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|19|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 
 
 
