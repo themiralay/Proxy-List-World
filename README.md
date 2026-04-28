@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|3|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|8|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|9|103.126.86.27|8010|Indonesia|Wates|PT. Rasi Bintang Perkasa|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|103.76.107.13|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|38.194.224.26|999|Mexico|San Cristóbal de las Casas|IENTC S de RL de CV|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|185.234.64.66|1081|France|Paris|WorkTitans B.V.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|5|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|6|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|10|103.224.65.89|8080|Indonesia|Jember|BLAMBANGAN|
+|11|49.147.127.38|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|12|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|13|103.155.168.179|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|47.83.3.52|26426|Hong Kong|Hong Kong|Alibaba.com LLC|
 |17|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|19|212.252.71.9|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|20|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|18|103.16.118.12|8070|Indonesia|Caruban|CV Trustnet Media|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
