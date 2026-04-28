@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|4|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|5|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
 |6|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|7|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|9|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|10|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|16|223.206.59.192|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|15.204.230.28|3128|United States|Reston|OVH SAS|
-|19|103.142.61.183|8080|Indonesia|Klaten|UTARAMEDIANET|
-|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|82.114.228.67|1080|Russia|Saratov|SCTS|
+|12|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|15|15.204.230.28|3128|United States|Reston|OVH SAS|
+|16|36.50.92.7|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
