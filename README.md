@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|122.248.45.54|8080|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
-|5|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|7|161.248.176.2|8080|India|Firozpur|SNA INTERNET PRIVATE LIMITED|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|200.107.142.36|3128|Peru|Huarango|Telefonica del Peru S.A.A.|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|12|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|120.92.211.211|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|103.158.155.99|8080|Indonesia|Bakalan|CUBIESPOT|
-|15|118.97.75.82|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|203.150.166.170|8080|Thailand|Khon Kaen|Internet Thailand Company Ltd.|
-|18|179.1.113.113|999|Colombia|Popayán|Internexa S.a. E.S.P|
-|19|121.101.130.137|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
-|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|119.93.198.210|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|13|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|15|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|16|121.101.130.137|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
+|17|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
