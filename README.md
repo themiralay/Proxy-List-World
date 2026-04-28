@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|4|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|5|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|6|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|6|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|8|185.234.64.66|1081|France|Paris|WorkTitans B.V.|
+|9|23.26.156.57|40000|United States|New York|Baxet Group Inc|
+|10|38.188.63.111|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|11|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|12|103.166.9.50|3128|Indonesia|Bekasi|PT Akses Bersama Sedaya|
 |13|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|14|200.39.137.210|999|Chile|Valparaíso|Iconex SPA|
-|15|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|49.0.27.175|1111|Indonesia|Soko|SIMS Jabar Banten Medianet|
-|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|19|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
