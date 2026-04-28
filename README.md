@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|3|72.56.87.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|4|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|5|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|6|103.87.170.202|32650|India|Jaipur|and ROA|
-|7|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|8|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|200.106.124.245|999|Peru|Tacna|Telefonica del Peru|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|103.87.170.202|32650|India|Jaipur|and ROA|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|185.234.64.65|1081|France|Paris|WorkTitans B.V.|
-|15|103.126.86.27|8010|Indonesia|Wates|PT. Rasi Bintang Perkasa|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|38.156.72.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|18|200.125.170.222|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|19|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|20|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|2|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|3|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|4|103.214.82.92|8090|Bangladesh|Bājitpur|Jhongkar IT|
+|5|103.183.10.208|8080|Indonesia|Madiun|PT Yasmin Amanah Media|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|103.105.76.49|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|176.235.182.71|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|12|185.234.64.66|1081|France|Paris|WorkTitans B.V.|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|36.95.176.38|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|15|157.15.172.30|8080|Indonesia|Andoolo|MITRATELEKOMUNIKASINUSANTARA|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|103.250.69.145|50505|Bangladesh|Bhatara|Next Online Ltd.|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|103.76.107.13|8080|Indonesia|Patuk|PT Geka Solusi Utama|
 
 
 
