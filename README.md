@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3641** proxies at the latest update. Usable proxies are below.
+> Scraper found **3581** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|175|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|392|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|332|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|15|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2127|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|5|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|6|103.82.246.23|6080|Indonesia|Ciputat|PT Master Star Network|
-|7|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|164.92.166.127|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|23.26.156.57|40000|United States|New York|Baxet Group Inc|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|8|103.156.75.213|8091|Indonesia|Gianyar|PT Trika Global Media|
+|9|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 |14|103.234.35.132|3128|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|15|85.120.229.86|8080|Romania|Năvodari|Hostingbit SRL|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|89.43.134.94|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
-|20|38.7.195.49|999|Chile|Santiago|Grupo ZGH SpA|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|180.190.187.41|5050|Philippines|Lahug|Globe Telecom|
+|18|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
