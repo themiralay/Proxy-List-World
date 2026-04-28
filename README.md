@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|5|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|6|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|7|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|202.154.18.88|8081|Indonesia|Babat|DIGITNET|
-|10|177.10.145.24|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
-|11|15.204.151.144|3128|United States|Reston|OVH SAS|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|91.204.190.140|81|Armenia|Yerevan|BioNet LLC|
-|15|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|16|186.5.94.206|999|Ecuador|Santo Domingo de los Colorados|Telconet S.A|
-|17|131.222.251.203|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|101.255.211.90|8080|Indonesia|Jakarta|PT Remala Abadi|
+|13|176.88.166.162|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|14|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|15|45.198.20.173|8080|Indonesia|Jakarta|PT IKHLAS CIPTA TEKNOLOGI|
+|16|103.138.70.165|3129|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|17|58.147.186.31|3125|Indonesia|Sungai Pinyuh|PT. Transhybrid Communication|
 |18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|183.236.232.160|8080|China|Guangzhou|China Mobile|
-|20|179.1.146.23|999|Peru|Sicuani|Internexa Peru S.A|
+|19|223.205.72.13|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|20|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 
 
 
