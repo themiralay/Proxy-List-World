@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|2|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|7|190.217.17.10|999|Colombia|Bogotá|Level 3 Colombia S.A|
-|8|103.171.255.170|8080|Indonesia|Sleman|ZKI|
-|9|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|10|200.39.153.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|103.150.254.80|9108|Bangladesh|Kafrul|RED ONLINE|
-|13|200.39.137.210|999|Chile|Valparaíso|Iconex SPA|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|38.252.215.109|999|Peru|Independencia|Cogent Communications|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|203.150.166.170|8080|Thailand|Khon Kaen|Internet Thailand Company Ltd.|
+|11|165.101.254.29|8088|Philippines|Cainta|DC FIBER NETWORK WIRED INTERNET SERVICES|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|103.174.161.6|8082|India|Visakhapatnam|Speed Link Communications|
+|15|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|17|103.160.182.33|8080|Indonesia|Karangpeton|PT Internusa Duta Makmur|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|188.132.150.44|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|20|103.178.176.62|82|India|Noida|Megatel Networks Private Limited|
 
 
 
