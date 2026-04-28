@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|2|81.26.179.64|1080|Russia|Murmansk|OOO ComLine|
-|3|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|4|162.240.154.26|3128|United States|Phoenix|Unified Layer|
-|5|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|6|203.150.166.170|8080|Thailand|Khon Kaen|Internet Thailand Company Ltd.|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|179.185.75.94|8080|Brazil|Brasília|TELEFÔNICA BRASIL S.A|
-|11|129.213.139.179|8080|United States|Ashburn|Oracle Corporation|
-|12|117.2.224.43|30106|Vietnam|Huế|Viettel Corporation|
-|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|14|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|8.208.85.87|8080|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|4|81.26.179.64|1080|Russia|Murmansk|OOO ComLine|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|103.188.169.95|8080|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|7|154.73.28.253|8080|Libya|Tripoli|Rawafed|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|13|157.20.253.163|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|16|36.94.149.149|8090|Indonesia|Cipinang Melayu|PT. Telekomunikasi Indonesia|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|38.7.195.53|999|Chile|Santiago|Grupo ZGH SpA|
 |19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
 
 
 
