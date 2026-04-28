@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|49.147.127.38|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|3|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|4|103.234.35.132|3128|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|9|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|31.56.78.170|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|18|202.5.53.145|9355|Bangladesh|Dhaka|Broad Band Telecom Services Ltd|
+|1|36.37.155.160|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
+|2|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|6|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|7|177.73.155.245|999|Colombia|Piendamo|Dobleclick Software E Ingeneria|
+|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|14|160.19.19.170|3125|Indonesia|Subang|PT Indo Telemedia Solusi|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|17|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
 |19|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|20|115.231.181.40|8128|China|Hangzhou|China Telecom|
 
 
 
