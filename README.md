@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|4|103.184.67.119|8080|Indonesia|Cidahu|PT Siber Tech Indonesia|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|9|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|143.198.223.214|1084|Singapore|Singapore|DigitalOcean, LLC|
-|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|15|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|209.14.68.68|8888|Brazil|Barueri|Qnax Ltda|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|20|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|7|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|12|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|13|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|14|49.147.79.154|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
+|15|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|18|103.46.186.161|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
+|19|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|20|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
 
 
 
