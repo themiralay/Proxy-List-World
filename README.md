@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|1|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|2|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|81.26.179.64|1080|Russia|Murmansk|OOO ComLine|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|103.168.149.48|8181|Indonesia|Sarimatondang|TORSADA|
-|12|5.175.151.66|8080|Iraq|Baghdad|Super Cell Network for Internet Services LTD|
-|13|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|15|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|9|222.127.68.126|8080|Philippines|Lahug|INNOVE|
+|10|120.28.194.47|5050|Philippines|Cagayan de Oro|Globe Telecom|
+|11|82.148.18.242|443|Russia|Moscow|JSC Selectel|
+|12|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|13|58.63.109.230|10817|China|Guangzhou|Chinanet|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|201.62.82.4|8080|Brazil|Marília|Life Tecnologia Ltda.|
 |17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
-|19|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|20|36.66.195.148|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|59.153.83.186|8080|Indonesia|Ciputat|ATSINDO|
+|19|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
