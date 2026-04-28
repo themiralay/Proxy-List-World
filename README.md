@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|38.10.90.119|8084|Philippines|Iloilo City|Cogent Communications|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|157.10.184.201|8080|Indonesia|Cikampek|PT Internet Tjepat Indonesia|
-|8|113.192.1.98|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|9|201.150.6.201|8081|Mexico|San Nicolás de los Garza|Administradora de Servicios de Internet Sandur S.A. de C.V.|
-|10|126.209.73.156|8082|Philippines|Makati City|Infinivan Incorporated|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|81.26.179.64|1080|Russia|Murmansk|OOO ComLine|
-|13|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|15|183.236.232.160|8080|China|Guangzhou|China Mobile|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|38.19.36.38|999|Mexico|Villa de Cos|TV CABLE DEL GUADIANA S.A DE C.V.|
-|18|202.58.77.131|6666|Indonesia|Surabaya|PT Data Buana Nusantara|
-|19|157.20.252.15|8833|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|3|85.190.99.143|443|Germany|Leipzig|dogado GmbH|
+|4|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|91.121.63.51|1080|France|Roubaix|OVH SAS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|13|202.183.236.219|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
+|14|103.191.196.154|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|103.156.15.129|8080|Indonesia|Garisul|PT Lintas Jaringan Nusantara|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|177.10.145.24|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
 
 
 
