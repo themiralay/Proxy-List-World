@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3672** proxies at the latest update. Usable proxies are below.
+> Scraper found **3658** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|179|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|414|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|180|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|399|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|20|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2127|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|49.147.127.38|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|3|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|4|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|5|185.200.38.221|8085|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|10|78.187.42.187|3310|Turkey|Trabzon|Turk Telekomunikasyon A.S|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|7|184.57.87.36|80|United States|Cambridge|Charter Communications|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|83.97.79.114|8443|Spain|Madrid|BlueVPS OU|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|18|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|19|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|20|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|103.179.180.134|8080|Indonesia|Bebedahan|PT Karya Aneka Persada|
+|17|103.156.248.98|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|18|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
+|19|124.105.69.124|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|20|203.146.80.98|8080|Thailand|Nong Saeng|Advanced Wireless Network Company Limited|
 
 
 
