@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|5|15.204.230.28|3128|United States|Reston|OVH SAS|
-|6|93.185.156.89|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|15.204.230.28|3128|United States|Reston|OVH SAS|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|13|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|223.206.193.199|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|19|103.141.174.54|11411|Bangladesh|Dhaka|ICC Communication Ltd|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|7|15.204.230.28|3128|United States|Reston|OVH SAS|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|15.204.230.28|3128|United States|Reston|OVH SAS|
+|10|79.106.33.26|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|11|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
