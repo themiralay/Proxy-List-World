@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|8|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|179.1.146.23|999|Peru|Sicuani|Internexa Peru S.A|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|147.45.166.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
-|13|178.63.155.151|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|202.58.77.19|3127|Indonesia|Surabaya|PT Data Buana Nusantara|
-|17|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|20|103.138.70.165|3129|Indonesia|Pekanbaru|PT Centronet Data Indonesia|
+|3|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|11|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|12|113.192.48.37|8080|Indonesia|Batu|PT.Global Media Data Prima|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|91.121.63.51|1080|France|Roubaix|OVH SAS|
+|15|179.1.146.23|999|Peru|Sicuani|Internexa Peru S.A|
+|16|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|17|201.150.6.201|8081|Mexico|San Nicolás de los Garza|Administradora de Servicios de Internet Sandur S.A. de C.V.|
+|18|81.26.179.64|1080|Russia|Murmansk|OOO ComLine|
+|19|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
