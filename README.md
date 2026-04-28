@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.209.22.22|8083|Philippines|Manila|Philippine Long Distance Telephone Co.|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|7|15.204.230.28|3128|United States|Reston|OVH SAS|
-|8|15.204.230.28|3128|United States|Reston|OVH SAS|
-|9|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|12|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|14|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|15|188.132.150.253|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
-|16|41.57.35.211|6060|South Africa|Germiston|Screamer Telecommunications|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|19|165.154.235.211|7890|United States|Los Angeles|Scloud Pte Ltd|
-|20|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|9|15.204.230.28|3128|United States|Reston|OVH SAS|
+|10|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|112.209.22.22|8083|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|14|15.204.230.28|3128|United States|Reston|OVH SAS|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
