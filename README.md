@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|4|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|5|82.114.228.67|1080|Russia|Saratov|SCTS|
-|6|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
-|9|103.224.55.154|8090|Bangladesh|Hājīganj|Delta Software and Communication Limited|
-|10|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|181.209.111.149|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|15|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|164.138.205.67|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|5|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|82.114.228.67|1080|Russia|Saratov|SCTS|
+|8|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|9|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|203.128.71.92|8080|Indonesia|Jakarta|Neuviz|
+|13|103.172.0.69|8090|Indonesia|Pekanbaru|PT Cubiespot Pilar Data Nusantara|
+|14|190.43.92.98|999|Peru|Tacna|Telefonica Del Peru|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|164.138.205.67|8080|Syria|Damascus|High Speed For Internet Services L.L.C|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
