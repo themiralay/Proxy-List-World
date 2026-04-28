@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|3|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|4|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|7|131.72.69.209|8080|Brazil|Euclides da Cunha|TOP NET SERVIÇOS LTDA|
-|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|10|184.82.217.160|8080|Thailand|Bangkok|AIS-Fibre|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|38.7.21.118|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|59.46.216.131|30001|China|Shenyang|CHINANET Liaoning province Dalian MAN network|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|20|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|11|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|12|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
+|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|155.212.188.205|8080|Russia|Moscow|Beget LLC|
+|16|180.191.21.49|8081|Philippines|Cabanatuan City|Globe Telecom|
+|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|5.63.111.238|8080|Kazakhstan|Temirtau|JSC Kazakhtelecom|
 
 
 
