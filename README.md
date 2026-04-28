@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3606** proxies at the latest update. Usable proxies are below.
+> Scraper found **3639** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|171|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|378|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|379|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|30|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2127|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|163.227.146.17|8181|Indonesia|Cianjur|PT EXA TELEKOMUNIKASI NUSANTARA|
-|7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|140.238.254.5|8080|India|Mumbai|Oracle Corporation|
-|11|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
-|12|102.211.145.37|8080|Kenya|Nairobi|Unwired Communications Ltd|
-|13|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|14|193.181.35.180|8118|Sweden|Stockholm|PVDataNet AB|
-|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|217.182.195.221|30003|France|Roubaix|OVH SAS|
-|18|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|103.106.216.231|8097|Indonesia|Utan|PT. ARTHA LINTAS DATA MANDIRI|
+|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|4|72.56.87.46|3128|Netherlands|Amsterdam|Timeweb, LLP|
+|5|103.87.170.202|32650|India|Jaipur|and ROA|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|10|202.35.251.72|8080|Japan|Yamagata|Research Organization of Information and Systems, National Institute of Informa|
+|11|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|12|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|103.247.13.131|8085|Indonesia|Magelang|TERABIT|
+|15|36.95.245.7|8090|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|16|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|17|203.29.26.63|8080|Indonesia|Jember|PT. Java Digital Nusantara|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |19|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
-|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|188.132.221.169|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
