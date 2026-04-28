@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|3|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|4|38.172.129.168|999|Peru|Lima|Conex TV E.I.R.L|
-|5|45.123.142.83|1111|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
-|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|8|49.148.156.198|8082|Philippines|San Miguel|Philippine Long Distance Telephone Co.|
+|2|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|3|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|11|103.164.229.149|8080|Indonesia|Kudus|PT Muria Data Utama|
-|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|13|103.51.205.95|1080|Indonesia|Surakarta|Lintas Data Prima, PT|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|16|103.184.54.163|8080|Indonesia|Curahnongko|PT Proxi Jaringan Nusantara|
-|17|103.141.174.54|11411|Bangladesh|Dhaka|ICC Communication Ltd|
-|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|19|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|11|88.216.98.220|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
+|12|184.57.87.36|80|United States|Cambridge|Charter Communications|
+|13|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
+|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|15|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|43.252.144.72|8080|Indonesia|Jakarta|PT Asia Teknologi Solusi|
+|18|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|49.148.156.198|8082|Philippines|San Miguel|Philippine Long Distance Telephone Co.|
+|20|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
 
 
 
