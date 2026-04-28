@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3721** proxies at the latest update. Usable proxies are below.
+> Scraper found **3677** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|214|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|396|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|352|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|26|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2185|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.66.16.33|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|202.47.185.178|8080|Indonesia|Jakarta|PT Putra Garsel Interkoneksi|
-|4|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|5|103.160.40.10|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
-|6|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|11|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|12|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|13|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|14|185.234.66.87|1081|Turkey|Izmir|WorkTitans B.V.|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|17|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|18|103.162.221.4|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|19|195.26.243.76|3128|United States|St Louis|Contabo Inc.|
-|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|4|38.172.129.168|999|Peru|Lima|Conex TV E.I.R.L|
+|5|45.123.142.83|1111|Indonesia|Mekarsari|PT Anten Sarana Teknologi|
+|6|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|8|49.148.156.198|8082|Philippines|San Miguel|Philippine Long Distance Telephone Co.|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|11|103.164.229.149|8080|Indonesia|Kudus|PT Muria Data Utama|
+|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|13|103.51.205.95|1080|Indonesia|Surakarta|Lintas Data Prima, PT|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|16|103.184.54.163|8080|Indonesia|Curahnongko|PT Proxi Jaringan Nusantara|
+|17|103.141.174.54|11411|Bangladesh|Dhaka|ICC Communication Ltd|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
