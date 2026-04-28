@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|15.204.230.28|3128|United States|Reston|OVH SAS|
-|5|15.204.230.28|3128|United States|Reston|OVH SAS|
-|6|195.87.136.2|5331|Türkiye|Istanbul|VFNET|
-|7|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|8|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|9|202.47.67.145|8080|Indonesia|Tangerang|JETCOMSNET|
-|10|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|11|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|13|103.85.194.229|8888|Bangladesh|Dhaka|Automation System|
-|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|103.231.236.234|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|17|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|6|15.204.230.28|3128|United States|Reston|OVH SAS|
+|7|46.161.4.153|3333|Russia|St Petersburg|LLC "HORIZON"|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|195.26.224.49|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|10|149.50.231.196|8085|Türkiye|Istanbul|Cogent Communications|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|203.177.237.153|8080|Philippines|Iloilo City|Globe Telecom|
+|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|18|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|19|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|200.39.152.161|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
 
 
 
