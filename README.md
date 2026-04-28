@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |2|91.107.176.134|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|5|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|92.113.149.172|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|3|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|4|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|7|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|8|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
 |9|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|12|103.229.124.12|7890|Hong Kong|San Po Kong|Dingke human resource co.LTD|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|17|124.106.116.34|1337|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|18|187.49.83.162|53000|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
-|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|20|103.36.11.245|8181|Indonesia|Kota Serang|PT Awinet Global Mandiri|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|12|89.43.133.146|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|15|217.182.195.221|30003|France|Roubaix|OVH SAS|
+|16|196.250.239.229|8787|South Africa|Randburg|West Indian Ocean Cable Company|
+|17|38.156.72.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
+|18|202.74.77.12|8080|Indonesia|Jepara|PT Giga Patra Multimedia|
+|19|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
