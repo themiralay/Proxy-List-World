@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.149.53|1080|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 |4|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|88.216.98.189|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|10|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|202.5.33.33|1101|Bangladesh|Dhaka|BBTS-NEW|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|16|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|17|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
+|7|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|124.6.167.123|8085|Philippines|Lahug|INNOVE|
+|10|181.78.74.101|999|Colombia|Tierralta|IFX Networks Argentina S.R.L|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|13|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|103.171.240.174|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
+|15|218.108.131.186|17890|China|Hangzhou|Huashu media&Network Limited|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|160.22.92.24|8080|Indonesia|Bulakamba|PT Tiga Media Solusi|
+|18|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|19|200.69.83.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
