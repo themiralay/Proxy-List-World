@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4072** proxies at the latest update. Usable proxies are below.
+> Scraper found **4187** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|143|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|382|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|491|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2616|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2622|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|6|203.150.128.102|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|108.181.201.118|1234|United States|Dallas|Psychz Networks|
-|10|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|119.82.242.6|8080|Indonesia|Gubengairlangga|Indonesia Network Information Center|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|190.7.28.36|8080|Argentina|Buenos Aires|Gigared S.A|
-|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|20|120.28.193.126|8082|Philippines|Samal|Globe Telecom|
+|3|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|38.191.193.203|999|Colombia|Paispamba|TV&MÁS S.A.S|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|180.191.231.231|8080|Philippines|Mandaue City|Globe Telecom|
+|9|38.172.160.16|999|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|10|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|15|103.172.120.148|8989|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
+|16|190.60.61.204|999|Colombia|Baranoa|IFX NETWORKS COLOMBIA|
+|17|181.78.79.41|999|Colombia|Pamplona|IFX Networks Argentina S.R.L|
+|18|180.191.234.124|8080|Philippines|Kitango|Globe Telecom|
+|19|210.79.146.107|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|20|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
 
 
 
