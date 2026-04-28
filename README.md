@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4104** proxies at the latest update. Usable proxies are below.
+> Scraper found **3785** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,11 +28,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|378|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|204|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|431|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|33|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2559|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2185|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|5|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
-|6|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|11|38.19.36.38|999|Mexico|Villa de Cos|TV CABLE DEL GUADIANA S.A DE C.V.|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|37.35.65.190|8080|Kosovo|Gjilan|Artmotion Sh.P.K.|
-|19|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|20|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|3|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|84.22.48.28|8080|Kosovo|Malisheva|Artmotion Sh.P.K.|
+|8|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|9|103.105.76.49|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|11|112.204.101.110|8082|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|12|36.94.149.149|8090|Indonesia|Cipinang Melayu|PT. Telekomunikasi Indonesia|
+|13|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|15|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|16|154.27.196.103|999|Mexico|Ciudad de Villa de Álvarez|Cogent Communications|
+|17|203.150.113.156|8080|Thailand|Ang Thong|Internet Thailand Company Ltd.|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|62.201.217.243|40010|Iraq|Kelar|BAG|
+|20|38.211.24.146|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
 
 
 
