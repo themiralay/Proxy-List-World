@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3714** proxies at the latest update. Usable proxies are below.
+> Scraper found **3705** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|214|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|388|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|379|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|27|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2185|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|112.209.22.22|8083|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|4|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|7|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|8|62.201.217.243|40010|Iraq|Kelar|BAG|
-|9|15.204.230.28|3128|United States|Reston|OVH SAS|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|13|15.204.230.28|3128|United States|Reston|OVH SAS|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|112.209.22.22|8083|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|16|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|217.76.243.2|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|112.198.187.93|8082|Philippines|Nasugbu|Globe Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|15.204.230.28|3128|United States|Reston|OVH SAS|
+|8|15.204.230.28|3128|United States|Reston|OVH SAS|
+|9|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|11|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|12|157.15.82.181|8090|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|14|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
+|15|188.132.150.253|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|16|41.57.35.211|6060|South Africa|Germiston|Screamer Telecommunications|
+|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|18|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|19|165.154.235.211|7890|United States|Los Angeles|Scloud Pte Ltd|
+|20|59.153.16.105|20909|Bangladesh|Barishal|EUROtelbd Online Ltd.|
 
 
 
