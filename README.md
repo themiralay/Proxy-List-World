@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|103.193.144.13|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
-|7|103.162.54.251|8083|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|8|103.97.231.198|8080|Indonesia|Jakarta|PT Bina Solusi Sejahtera|
-|9|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
-|10|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|213.154.2.210|3128|Azerbaijan|Baku|AZTELEKOM-ISP|
+|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|7|138.204.95.166|8080|Brazil|São Paulo|Fibrion Internet Ltda|
+|8|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|188.132.150.44|8080|Turkey|Istanbul|High Speed For Internet Services L.L.C|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|202.43.162.2|8080|Indonesia|North Jakarta|Dwi Tunggal Putra|
-|14|81.26.179.64|1080|Russia|Murmansk|OOO ComLine|
-|15|103.229.185.157|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|24.157.174.163|8080|Canada|Sherbrooke|Le Groupe Videotron Ltee|
-|18|177.93.132.244|3128|Brazil|Franca|MAGAZINE LUIZA S/A|
-|19|5.175.151.66|8080|Iraq|Baghdad|Super Cell Network for Internet Services LTD|
-|20|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|16|89.43.134.94|8080|Syria|Aleppo|High Speed For Internet Services L.L.C|
+|17|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|110.76.147.25|8090|Indonesia|Kutoarjo|PT Pika Media Komunika|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
