@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3897** proxies at the latest update. Usable proxies are below.
+> Scraper found **3914** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|219|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|416|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|222|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|430|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|34|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2296|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|8|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|10|77.110.116.224|3128|Austria|Vienna|Aeza International LTD|
-|11|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|13|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|15.204.230.28|3128|United States|Reston|OVH SAS|
-|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|19|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|77.110.116.224|3128|Austria|Vienna|Aeza International LTD|
+|7|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|11|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|12|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|14|15.204.230.28|3128|United States|Reston|OVH SAS|
+|15|154.73.28.205|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
+|17|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|18|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
+|19|202.154.241.199|808|Pakistan|Islamabad|LINKdotNET Telecom Limited|
+|20|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
