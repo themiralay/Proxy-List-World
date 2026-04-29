@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|6|103.84.177.155|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|7|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|8|88.216.98.242|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|9|131.222.252.72|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|10|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|11|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|202.154.18.80|8082|Indonesia|Babat|DIGITNET|
-|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|200.106.124.144|999|Peru|Tacna|Telefonica del Peru|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|149.78.206.146|3600|Brazil|Porto Seguro|Cogent Communications|
+|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|6|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|7|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|10|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|12|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|16|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|17|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 
 
 
