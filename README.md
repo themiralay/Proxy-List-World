@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|15.204.230.28|3128|United States|Reston|OVH SAS|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|103.112.45.43|8085|Indonesia|Ciwaru|PT.Globalnet Multi Data|
-|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|122.54.193.69|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|9|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
+|10|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|12|15.204.230.28|3128|United States|Reston|OVH SAS|
 |13|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|14|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|16|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|17|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|123.200.16.126|19634|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
 
 
 
