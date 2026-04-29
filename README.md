@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|15|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|16|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|112.203.216.100|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.167.171.151|8097|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|7|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|185.182.187.49|3128|France|Lauterbourg|Contabo GmbH|
+|10|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|12|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|15|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|16|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|64.188.67.154|10808|Germany|Frankfurt am Main|Play2go International Limited|
-|20|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|19|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|14.241.231.13|8080|Vietnam|Ho Chi Minh City|VNPT|
 
 
 
