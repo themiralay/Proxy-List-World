@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|6|147.78.0.81|9443|United Arab Emirates|Muhadhdhib|ONEPROVIDER|
-|7|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|9|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|9|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
-|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|19|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|16|188.132.222.169|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|168.197.182.222|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
+|18|154.18.255.131|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|103.76.107.255|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
