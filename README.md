@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|143.198.223.214|1084|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|7|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
-|8|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
-|9|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
-|10|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
-|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|15|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
-|16|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|17|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|20|103.172.71.209|1080|Indonesia|Kampunganyar Krajan|AZNET|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
+|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|11|45.88.0.99|3128|Poland|Warsaw|Layer IT services|
+|12|45.88.0.111|3128|Poland|Warsaw|Layer IT services|
+|13|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
+|14|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|15|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
+|16|45.88.0.115|3128|Poland|Warsaw|Layer IT services|
+|17|45.88.0.116|3128|Poland|Warsaw|Layer IT services|
+|18|213.220.62.62|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
+|19|45.88.0.113|3128|Poland|Warsaw|Layer IT services|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
