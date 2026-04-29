@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|207.148.127.225|1234|Singapore|Singapore|Choopa|
-|5|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|4|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |8|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|103.72.89.28|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|18|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|19|152.42.228.140|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
 
 
 
