@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|4|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|7|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|9|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|1|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
+|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 |10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|11|217.60.252.32|13057|France|Paris|CGI GLOBAL LIMITED|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|14|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|17|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|19|45.171.111.255|999|Ecuador|Tena|Lagonet-tv Cia. Ltda.|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|13|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|14|103.126.86.27|8010|Indonesia|Wates|PT. Rasi Bintang Perkasa|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|17|207.248.108.129|20185|Mexico|Morelia|Redes y Comunicaciones de Michoacan S.A. de C.V.|
+|18|103.161.153.177|1080|Bangladesh|Hāthazāri|Click Earth Online|
+|19|23.26.156.57|40000|United States|New York|Baxet Group Inc|
+|20|185.214.108.46|40000|United Kingdom|City of London|Istqrar for Servers Services Ltd|
 
 
 
