@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|6|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|7|217.60.252.32|13057|France|Paris|CGI GLOBAL LIMITED|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|10|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|16|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|17|23.26.156.57|40000|United States|New York|Baxet Group Inc|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|217.60.252.32|13057|France|Paris|CGI GLOBAL LIMITED|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|43.133.90.161|8888|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|17|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|18|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|19|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
