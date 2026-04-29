@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|42.200.76.16|3888|Hong Kong|Cullinan West|PCCW IMSBiz|
+|3|143.198.223.214|1084|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|5|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
 |6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|9|4.247.152.147|3128|India|Pune|Microsoft Corporation|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|10|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|103.122.64.163|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
 |14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
 
 
 
