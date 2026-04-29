@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|1|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|2|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|8|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|11|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|12|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|8|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|9|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|10|45.140.147.82|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
+|13|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 |15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|17|103.166.213.250|8080|Indonesia|Samarinda|PT Lancar Jaya Network|
-|18|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|20|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|16|103.210.35.183|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|101.255.107.130|8080|Indonesia|Jakarta|PT Remala Abadi|
+|20|103.173.162.201|8080|Indonesia|Cirebon|Paket Data Andal|
 
 
 
