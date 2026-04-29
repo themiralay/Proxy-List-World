@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3946** proxies at the latest update. Usable proxies are below.
+> Scraper found **3921** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|214|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|471|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|217|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|443|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|33|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2296|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|4|45.88.0.114|3128|Poland|Warsaw|Layer IT services|
-|5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|6|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
-|7|103.156.15.129|8080|Indonesia|Garisul|PT Lintas Jaringan Nusantara|
-|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|9|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|10|103.97.140.96|8080|Indonesia|Ciwaru|PT Jembatan Data Pangrango|
-|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.88.0.117|3128|Poland|Warsaw|Layer IT services|
-|15|213.220.62.63|3128|The Netherlands|Amsterdam|YSZ Trading Co. Limited|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|190.60.61.42|8080|Colombia|Baranoa|IFX NETWORKS COLOMBIA|
-|18|103.222.255.214|8080|Indonesia|Wates|PT Iktiar Doa Tawakal|
-|19|116.12.46.121|9595|Indonesia|Jakarta|ADSNET|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|45.88.0.98|3128|Poland|Warsaw|Layer IT services|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|13|190.2.213.169|999|Colombia|El Carmen de Chucurí|TV AZTECA SUCURSAL COLOMBIA|
+|14|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|112.209.22.22|8083|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|19|36.93.15.50|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
