@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|146.56.110.131|8118|South Korea|Chuncheon|Oracle Corporation|
-|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|160.250.197.49|8080|Bangladesh|Rāikāli|Digicon Telecommunication Ltd|
-|14|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|181.204.190.236|999|Colombia|Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|36.94.149.149|8090|Indonesia|Cipinang Melayu|PT. Telekomunikasi Indonesia|
-|19|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|103.229.15.10|8080|Indonesia|Bandung|PT Arthaloka Reka Teknologi|
+|4|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|5|103.122.142.174|8080|Bangladesh|Natore|Carnival Internet|
+|6|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|7|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|8|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
+|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|193.233.171.92|3128|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
+|13|66.186.199.33|8080|Albania|Durrës|Vodafone Albania Sh.A.|
+|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|17|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
