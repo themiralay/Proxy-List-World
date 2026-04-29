@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|11|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 |15|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
 |16|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|103.167.171.151|8097|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|18|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|5.129.192.17|1080|Russia|Novosibirsk|Adman LLC|
 
 
 
