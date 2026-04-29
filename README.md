@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|10|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|12|190.97.241.10|999|Venezuela|Mérida|Viginet C.A|
-|13|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|11|103.122.64.163|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|15|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|18|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 |20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
