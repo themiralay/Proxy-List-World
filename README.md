@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3898** proxies at the latest update. Usable proxies are below.
+> Scraper found **3936** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|246|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|532|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|37|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2151|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|11|103.19.78.233|8090|Indonesia|Randuboto|PT Persada Data Multimedia|
-|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|103.124.137.150|20|Indonesia|Purworejo|Global Media Data Prima|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|103.189.197.79|8080|Indonesia|Karangtanjung|PT Graha Sumber Teknologi|
+|6|202.74.77.12|8080|Indonesia|Jepara|PT Giga Patra Multimedia|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|103.134.246.90|8080|Indonesia|Banjar Triwangsakelusa|Wisuandha Network Globalindo|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|210.87.92.139|8080|Indonesia|Krajan Wetan Wonojoyo|PT Indo Telemedia Solusi|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|110.76.147.29|1080|Indonesia|Kutoarjo|PT Pika Media Komunika|
+|13|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|45.229.17.163|999|Ecuador|Baba|Turbonet S.A.|
+|18|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
 
 
 
