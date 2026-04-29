@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|3|103.154.53.69|1111|Indonesia|Candimulya|WIFIKITA|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|217.60.252.32|13057|France|Paris|CGI GLOBAL LIMITED|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|11|188.132.249.242|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
-|12|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|13|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|14|200.107.142.39|3128|Peru|Huarango|Telefonica del Peru S.A.A.|
-|15|103.170.22.145|8080|Indonesia|Sidakaya|PT Puskomedia Indonesia Kreatif|
-|16|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|17|89.43.133.151|8080|Syria|Armanāz|High Speed For Internet Services L.L.C|
-|18|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|19|183.88.214.44|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
-|20|103.245.96.161|3214|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|11|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia Guinea Equatorial, S.L|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
