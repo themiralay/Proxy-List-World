@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|5|103.227.187.11|6090|Indonesia|Penganjuran Krajan|PT Master Star Network|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|3|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|4|15.204.230.28|3128|United States|Reston|OVH SAS|
+|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|8|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|7|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|8|15.204.230.28|3128|United States|Reston|OVH SAS|
 |9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|185.225.40.122|8080|Syria|Qadsayyā|sy-samaweb|
-|17|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
-|18|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|103.224.55.153|8090|Bangladesh|Hājīganj|Delta Software and Communication Limited|
+|16|103.122.64.148|8181|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|103.166.9.50|3128|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|19|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
