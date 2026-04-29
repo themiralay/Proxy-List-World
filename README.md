@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|3|45.10.71.107|8888|United States|Los Angeles|Zenlayer Inc|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|43.99.54.236|5555|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|45.10.71.107|8888|United States|Los Angeles|Zenlayer Inc|
 |8|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|9|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|147.78.0.81|9443|United Arab Emirates|Muhadhdhib|ONEPROVIDER|
-|17|77.110.116.224|3128|Austria|Vienna|Aeza International LTD|
-|18|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|19|38.188.247.12|999|Dominican Republic|Fantino|REYNOSO, S.R.L.|
-|20|45.10.71.107|8888|United States|Los Angeles|Zenlayer Inc|
+|9|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|10|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|12|77.110.116.224|3128|Austria|Vienna|Aeza International LTD|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|113.11.120.105|30226|Bangladesh|Jessore|BDCOM Online Limited|
+|15|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|16|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|17|45.10.71.107|8888|United States|Los Angeles|Zenlayer Inc|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
 
 
 
