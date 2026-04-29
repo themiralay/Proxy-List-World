@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|140.238.254.5|8080|India|Mumbai|Oracle Corporation|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|12|103.171.183.129|3125|Indonesia|Ngamprah|PT Hayat Teknologi Informatika|
-|13|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|14|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|16|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|17|124.121.2.218|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|18|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|19|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|20|103.144.146.5|8080|Indonesia|Tulungagung|Lexxa Data|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|4|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|5|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|10|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|17|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|19|103.154.230.104|8090|Indonesia|Lamongan|DIGITNET|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
