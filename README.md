@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|6|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
 |7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|8|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|16|175.106.15.186|8080|Indonesia|Jakarta|Quantum Dist Cyber|
-|17|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
-|18|85.114.54.4|8080|Croatia|Dubrovnik|Telemach Hrvatska d.o.o.|
-|19|101.255.211.90|8080|Indonesia|Jakarta|PT Remala Abadi|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|8|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|9|217.60.252.32|13057|France|Paris|CGI GLOBAL LIMITED|
+|10|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|11|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|12|176.88.166.164|8080|Turkey|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|13|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|16|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|17|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 
 
 
