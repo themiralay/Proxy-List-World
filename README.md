@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|2|15.204.230.28|3128|United States|Reston|OVH SAS|
-|3|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|10|15.204.230.28|3128|United States|Reston|OVH SAS|
-|11|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|20|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|1|129.212.224.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|10|103.18.77.14|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|15|45.76.207.177|40000|Japan|Minamishinagawa|Choopa|
+|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|17|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|20|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
 
 
 
