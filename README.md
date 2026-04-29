@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4348** proxies at the latest update. Usable proxies are below.
+> Scraper found **4255** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|235|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|557|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|471|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|48|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2576|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.122.64.148|8181|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|15.204.230.28|3128|United States|Reston|OVH SAS|
-|6|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|1|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|2|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|103.227.187.11|6090|Indonesia|Penganjuran Krajan|PT Master Star Network|
+|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 |7|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|12|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|13|103.168.149.48|8181|Indonesia|Sarimatondang|TORSADA|
-|14|103.155.169.62|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|15|103.215.60.66|8097|Indonesia|Pontianak|PT Uwais Borneo Group|
-|16|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|17|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|18|103.92.218.121|9514|Bangladesh|Rāmganj|Md Rezaul Karim|
+|8|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|15|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|16|185.225.40.122|8080|Syria|Qadsayyā|sy-samaweb|
+|17|103.178.88.102|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|18|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
 |19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|38.156.72.28|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
+|20|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
