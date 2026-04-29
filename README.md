@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|2|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|7|103.234.31.76|8080|Indonesia|Sepatan|PT Jenius Lintas Nusantara|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|121.101.131.40|8080|Indonesia|Trucuk|PT SELARAS CITRA TERABIT|
-|11|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|13|155.212.188.205|8080|Russia|Moscow|Beget LLC|
-|14|103.166.27.254|8080|Indonesia|Sukodono|PT Sanders Bersaudara Media|
-|15|187.49.176.141|8080|Brazil|Fortaleza|PBR SERVICOS DE TELECOMUNICACOES LTDA|
-|16|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|157.15.139.138|8080|Indonesia|Sleman|PT Ring Media Nusantara|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|47.253.71.133|8081|United States|Charlottesville|Alibaba Cloud LLC|
+|4|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|5|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|168.144.75.9|3128|India|Bengaluru|DigitalOcean|
+|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|14|103.189.117.82|1111|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|185.196.61.181|8081|Canada|Toronto|BrainStorm Network, Inc|
+|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|37.35.65.190|8080|Kosovo|Gjilan|Artmotion Sh.P.K.|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
