@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|3|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|6|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|7|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|11|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|12|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|158.160.215.167|8125|Russia|Moscow|Yandex.Cloud LLC|
-|16|185.234.66.82|1081|Turkey|Izmir|WorkTitans B.V.|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|131.222.250.237|8080|Türkiye|Antakya|High Speed For Internet Services L.L.C|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|101.36.105.101|9128|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|64.188.77.221|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
+|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|185.234.66.82|1081|Turkey|Izmir|WorkTitans B.V.|
+|20|103.162.63.166|1111|Indonesia|Dukuhturi|PT Ring Media Nusantara|
 
 
 
