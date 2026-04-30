@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |3|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|107.173.160.222|1080|United States|Los Angeles|HostPapa|
 |7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 |8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|10|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|11|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|15|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|16|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|17|185.118.51.230|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|18|103.97.224.219|8181|Indonesia|Kudus|PT Sistem Interkoneksi Data|
-|19|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|20|181.209.118.250|999|Argentina|General Güemes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|13|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|14|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|15|139.59.59.122|8118|India|Bengaluru|DigitalOcean, LLC|
+|16|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|17|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|20|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
