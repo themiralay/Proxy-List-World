@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|5|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|6|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|8|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|9|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
-|10|121.101.130.137|8080|Indonesia|Kebon Gunung|PT SELARAS CITRA TERABIT|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|13|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|14|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|15|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|16|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|17|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|18|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|1|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|2|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|4|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|5|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|10|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|5.255.126.157|10001|Netherlands|Dronten|The Infrastructure Group B.V.|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|189.195.30.210|8080|Mexico|Zacatecas City|Mega Cable, S.A. de C.V.|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|103.82.246.19|6080|Indonesia|Tulangan Utara|PT Master Star Network|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
