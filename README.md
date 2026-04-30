@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.36.105.101|9128|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|4|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|8|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|9|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|14|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|15|103.101.193.170|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
-|16|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|17|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|3|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|12|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|13|101.36.105.101|9128|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|18|172.233.49.176|9658|Netherlands|Amsterdam|Akamai Technologies, Inc.|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 
 
 
