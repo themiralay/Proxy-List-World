@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
 |2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
 |4|203.150.113.163|8080|Thailand|Ang Thong|Internet Thailand Company Ltd.|
-|5|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|203.217.169.26|8080|Cambodia|Phnom Penh|S.I Group|
-|12|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|37.111.53.31|8080|Myanmar|Yangon|Atom Myanmar Limited|
-|15|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|5|157.10.184.115|8080|Indonesia|Cikarang|PT Internet Tjepat Indonesia|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|16|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|103.248.9.81|8080|Indonesia|Garut|PT Flashnet Inovasi Teknologi|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
