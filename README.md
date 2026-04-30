@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -26,10 +26,10 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|297|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|472|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|299|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|438|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2899|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|4|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
+|1|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|2|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|3|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|14|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|16|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|17|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|18|123.200.16.126|19634|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|20|103.39.70.68|1452|Indonesia|Sambas|PT Gateway media Zafira|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|5.255.126.157|10001|Netherlands|Dronten|The Infrastructure Group B.V.|
+|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|12|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|14|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
+|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|17|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|18|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|19|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
