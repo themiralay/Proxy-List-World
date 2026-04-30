@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |11|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|14|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|15|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
-|19|207.148.127.225|1234|Singapore|Singapore|Choopa|
-|20|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|12|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
+|16|207.148.127.225|1234|Singapore|Singapore|Choopa|
+|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|18|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
 
 
 
