@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|4|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|8|86.104.72.219|1082|United States|Austin|WorkTitans B.V.|
-|9|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|5.255.126.157|10001|Netherlands|Dronten|The Infrastructure Group B.V.|
-|16|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|17|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|19|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|20|171.235.161.185|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|94.131.122.128|1082|United Kingdom|Holborn|WorkTitans B.V.|
+|14|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|17|91.107.124.215|3128|Russia|Novoivanovskoye|JSC IOT|
+|18|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|19|147.78.0.81|9443|United Arab Emirates|Muhadhdhib|ONEPROVIDER|
+|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
 
 
 
