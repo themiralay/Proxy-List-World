@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|3|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|8|77.110.107.80|1080|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|11|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|12|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|15|185.225.41.129|8080|Syria|Damascus|sy-samaweb|
-|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|18|123.253.96.213|3214|Bangladesh|Dhaka|Md Rezaul Karim|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|4|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|5|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|12|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|13|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|15|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|16|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|19|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|20|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 
