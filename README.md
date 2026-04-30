@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|107.173.160.222|1080|United States|Los Angeles|HostPapa|
 |2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|6|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|8|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|11|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|12|103.17.88.215|8080|Vietnam|Thu Dau Mot|VNTT|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|12|64.188.67.154|10808|Germany|Frankfurt am Main|Play2go International Limited|
 |13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|163.223.119.9|8085|Indonesia|Tanjung Palas|PT Dra Net Solution|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|15|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|16|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|20|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
 
 
 
