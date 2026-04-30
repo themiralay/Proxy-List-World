@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|6|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|8|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|9|86.102.77.67|1080|Russia|Vladivostok|PRIMORYE|
-|10|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
-|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
+|5|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
+|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|8|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
+|9|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|12|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|13|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|14|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|17|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|19|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
