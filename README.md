@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|121.130.199.80|3128|South Korea|Gwangjin-gu|Korea Telecom|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|36.50.56.211|8818|Indonesia|Sawangan|PT Andromega Data Nusantara|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|20|49.0.26.215|8080|Indonesia|Maduran|SIMS Jabar Banten Medianet|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
+|16|207.254.71.62|8088|Ireland|Dublin|MacStadium, Inc.|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|20|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
 
 
 
