@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4383** proxies at the latest update. Usable proxies are below.
+> Scraper found **4686** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|544|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2596|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2899|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|1|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|107.173.160.222|1080|United States|Los Angeles|HostPapa|
 |7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|9|58.69.217.221|5050|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|10|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|13|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|10|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|160.191.173.51|8080|Indonesia|Salatiga|PT Citra Angkasa Lintas Media|
-|17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|45.87.140.155|8080|Russia|Moscow|Teraline Telecom Ltd|
-|20|38.123.212.243|999|Mexico|Mexico City|Cogent Communications|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|17|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
 
 
 
