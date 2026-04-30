@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|154.19.38.121|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
-|3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|10|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
 |12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 |13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|16|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|123.200.26.38|5555|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|103.156.75.161|8080|Indonesia|Gianyar|PT Trika Global Media|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
+|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|19|154.19.38.121|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
