@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|8|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|9|20.78.213.56|80|Japan|Tokyo|Microsoft Corporation|
-|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|11|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|15|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|115.127.178.50|6969|Bangladesh|Dhaka|BRACNet Limited|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|5|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|6|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|45.140.147.155|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|15|46.249.98.211|3128|Germany|Frankfurt am Main|BitCommand LLC|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|19|103.122.67.135|8080|Indonesia|Kedalon|PT. Jinom Network Indonesia|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
