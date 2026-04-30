@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|3|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|6|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|7|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|5|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|6|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|7|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
 |8|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|9|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|13|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|14|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
-|17|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|18|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|19|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|17|34.71.229.255|3128|United States|Council Bluffs|Google LLC|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|20|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 
 
 
