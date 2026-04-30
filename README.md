@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|7|94.72.109.214|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|8|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|10|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|11|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|193.24.30.50|37777|Ukraine|Kharkiv|Ukrtechstroy Ltd|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|20|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|4|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|94.72.109.214|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|11|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|15|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|16|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|17|27.72.98.89|8443|Vietnam|Hanoi|Newass2011xDSLHN|
+|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|19|168.197.182.222|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
+|20|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
 
 
 
