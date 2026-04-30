@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|4|103.105.76.19|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |8|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|9|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|46.8.112.212|3128|Netherlands|Amsterdam|Mastersoft S.R.L.|
-|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|13|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|14|94.159.117.60|3128|Russia|Moscow|New Hosting Technologies LLC|
-|15|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|17|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|18|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|19|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|10|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
+|11|103.3.246.71|3128|Vietnam|Quận Tân Phú|VDATA|
+|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|206.206.126.177|2412|Singapore|Singapore|OVH SAS|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|91.233.223.147|3128|Russia|Sochi|Radist LTD|
 
 
 
