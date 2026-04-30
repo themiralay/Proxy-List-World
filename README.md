@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|119.205.232.162|13128|South Korea|Chuncheon|Korea Telecom|
-|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|10|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|11|108.181.201.118|1234|United States|Dallas|Psychz Networks|
-|12|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|13|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
-|14|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|16|136.244.67.217|1080|United Kingdom|Canary Wharf|Choopa|
-|17|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
-|18|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|10|103.166.159.115|1080|Indonesia|Bulakamba|PT Timor Lintas Nusantara|
+|11|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|12|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|20|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
