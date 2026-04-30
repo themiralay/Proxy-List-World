@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|8|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|13|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|17|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|19|77.110.116.224|3128|Austria|Vienna|Aeza International LTD|
-|20|94.72.109.214|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|9|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|10|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|11|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|17|103.173.162.51|8080|Indonesia|Cirebon|Paket Data Andal|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|20|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
