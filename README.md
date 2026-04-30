@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4437** proxies at the latest update. Usable proxies are below.
+> Scraper found **4460** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|590|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|51|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2596|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|1|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
 |2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|3|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|4|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
-|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|6|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|7|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|12|103.126.87.125|8090|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|15|103.238.232.202|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|16|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|6|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
+|7|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|8|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|9|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|14|103.231.236.235|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|15|103.172.70.47|1111|Indonesia|Tangerang|AZNET|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|18|103.76.107.13|8080|Indonesia|Patuk|PT Geka Solusi Utama|
+|19|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
