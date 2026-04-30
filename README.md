@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 |4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|7|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|12|103.126.87.251|8083|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|13|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|14|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|15|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|194.113.106.139|8080|Russia|Moscow|Aeza Group LLC|
-|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|18|38.7.195.49|999|Chile|Santiago|Grupo ZGH SpA|
-|19|88.216.98.201|53986|United States|New York|UAB Nacionalinis Telekomunikaciju Tinklas|
-|20|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|11|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|12|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|13|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|14|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|115.147.16.205|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
 
 
 
