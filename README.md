@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|3|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|4|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|5|163.61.254.104|1111|Indonesia|Rantau Panjang|PT HEXA TELEMATIKA INDONESIA|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|103.106.115.118|8097|Indonesia|Sidorejo|SMSNET|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|107.173.160.222|1080|United States|Los Angeles|HostPapa|
 |6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|15|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|16|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|19|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|20|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|7|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|8|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|11|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|12|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
+|14|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|16|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 
 
 
