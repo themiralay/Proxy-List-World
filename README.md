@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|6|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|7|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|8|45.81.130.90|8888|United States|Los Angeles|Zenlayer Inc|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|123.200.16.126|19634|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|45.81.130.90|8888|United States|Los Angeles|Zenlayer Inc|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
+|5|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|12|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
 |15|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|18|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|19|103.83.0.235|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|20|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|16|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|17|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|18|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|19|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|20|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
 
 
 
