@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|18|203.29.26.63|8080|Indonesia|Jember|PT. Java Digital Nusantara|
-|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|20|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|1|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|2|146.56.164.121|3128|South Korea|Seoul|Oracle Corporation|
+|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|4|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|12|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|77.110.116.224|3128|Austria|Vienna|Aeza International LTD|
+|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 
 
 
