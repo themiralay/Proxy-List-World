@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3749** proxies at the latest update. Usable proxies are below.
+> Scraper found **3781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|298|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|569|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|299|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|51|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1931|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|10|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|11|207.148.127.225|1234|Singapore|Singapore|Choopa|
-|12|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.18.193.135|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|10|207.148.127.225|1234|Singapore|Singapore|Choopa|
+|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|12|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|13|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|16|172.236.145.31|7890|Singapore|Singapore|Akamai Technologies, Inc.|
+|17|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|18|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|19|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 
 
 
