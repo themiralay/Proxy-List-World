@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|11|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|12|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|13|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|14|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|15|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|20|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|5|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|9|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|10|38.180.192.119|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|14|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|15|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|18|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|19|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|20|107.173.160.222|1080|United States|Los Angeles|HostPapa|
 
 
 
