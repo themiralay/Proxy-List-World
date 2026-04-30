@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|11|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|12|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
-|17|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|19|5.255.126.157|10001|Netherlands|Dronten|The Infrastructure Group B.V.|
-|20|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
+|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|7|132.226.235.199|1080|South Korea|Seoul|Oracle Corporation|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|10|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|11|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|12|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|216.180.127.45|1080|United States|Dallas|Host4nerd LLC|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
