@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|6|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|190.145.216.195|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|11|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|12|103.174.236.88|8080|Indonesia|Dukuhturi|PT Global Erasiber Teknologi|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|103.134.246.42|3172|Indonesia|Banjar Triwangsakelusa|Wisuandha Network Globalindo|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
-|20|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|9|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|10|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|14|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|16|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|20|161.49.89.217|8081|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
