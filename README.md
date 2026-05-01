@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |2|110.172.28.217|3128|Vietnam|Quận Mười Một|CONTABO|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|7|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|8|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|9|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|10|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|11|103.155.64.182|8080|Indonesia|Desa Mangkubumi|PT Media Access Telematika|
-|12|38.49.148.147|999|Mexico|Huamantla|IENTC S de RL de CV|
-|13|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|14|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|202.165.92.206|8080|Myanmar|Yangon|Telecom International Myanmar Company Limited|
-|18|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|6|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|7|103.82.23.118|5196|Vietnam|Dich Vong|Vietnam Posts and Telecommunications Group|
+|8|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|9|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|10|185.200.38.221|8085|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|12|139.135.81.163|8082|Philippines|Mahayag|Dito Telecommunity Corp.|
+|13|64.188.67.154|10808|Germany|Frankfurt am Main|Play2go International Limited|
+|14|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|16|38.49.152.195|999|Mexico|Irapuato|IENTC S de RL de CV|
+|17|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|18|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|19|199.66.157.41|8080|United States|Odessa|SCT Broadband|
+|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 
 
 
