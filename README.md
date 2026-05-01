@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|8|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|9|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|14|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|15|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|19|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|20|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|13|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
+|14|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|203.172.136.211|8080|Thailand|Hang Dong|Ministry of Education - EMISC|
+|17|203.76.98.21|45958|Bangladesh|Tangail|Link3 Technologies Limited|
+|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|19|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
+|20|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
