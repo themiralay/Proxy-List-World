@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|6|222.107.27.7|8050|South Korea|Gangdong-gu|Korea Telecom|
-|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
-|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|10|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|13|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|14|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|119.148.55.91|9108|Bangladesh|Dhaka|Agni Systems Limited|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|5|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|10|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|27.112.66.146|8181|Indonesia|Jakarta|GRAHANET|
+|15|103.247.21.204|1111|Indonesia|Cikarang|PT wifian Solution|
+|16|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
+|17|2.78.60.10|3129|Kazakhstan|Almaty|Kcell JSC|
+|18|85.117.62.70|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|20|202.183.236.220|8080|Thailand|Sikao|Advanced Wireless Network Company Limited|
 
 
 
