@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|2|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|7|64.188.77.26|3128|Netherlands|Amsterdam|OC NETWORKS LIMITED|
-|8|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|9|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|117.247.233.50|8080|India|Rohtak|BSNL Internet|
-|12|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|13|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|16|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|19|174.114.24.95|3128|Canada|Ottawa|Rogers Communications Canada Inc.|
-|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|9|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|11|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|14|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
+|15|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
+|16|185.234.64.66|1081|France|Paris|WorkTitans B.V.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|19|103.247.23.117|4317|Indonesia|Purbalingga|PT wifian Solution|
+|20|103.229.185.157|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
 
 
 
