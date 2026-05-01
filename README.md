@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
-|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|14|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|15|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|16|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|18|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|19|64.188.67.154|10808|Germany|Frankfurt am Main|Play2go International Limited|
-|20|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|12|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|13|64.188.67.154|10808|Germany|Frankfurt am Main|Play2go International Limited|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|18|120.92.212.16|8890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|103.72.89.30|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
 
 
 
