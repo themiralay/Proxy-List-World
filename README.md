@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.35.190.182|1081|United States|Secaucus|WorkTitans B.V.|
-|5|157.15.40.250|7777|Indonesia|Ponorogo|TRISARI|
-|6|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
-|9|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|10|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|11|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|12|23.131.56.169|999|Puerto Rico|Betances|Webiffi LLC|
-|13|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|14|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|17|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|18|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|19|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|129.226.81.110|7890|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|7|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|12|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|16|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 
 
 
