@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|103.248.9.93|8090|Indonesia|Garut|PT Flashnet Inovasi Teknologi|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|6|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
 |7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|8|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|14|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|15|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|16|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|17|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|18|110.77.246.175|8080|Thailand|Phuket|National Telecom Public Company Limited|
-|19|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
-|20|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|12.232.227.99|8080|United States|Traverse City|AT&T Enterprises, LLC|
+|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|16|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|17|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|19|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
 
 
 
