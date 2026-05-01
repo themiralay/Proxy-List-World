@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|103.131.232.9|8080|Australia|Goulburn|YLess4U Pty Ltd|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
+|7|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
+|11|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
+|12|103.35.191.138|1081|United States|Secaucus|WorkTitans B.V.|
 |13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|16|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|18|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|19|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|20|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|14|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|17|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|18|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|19|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
 
 
 
