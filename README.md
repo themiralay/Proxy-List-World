@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|6|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|9|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|12|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|158.160.215.167|8124|Russia|Moscow|Yandex.Cloud LLC|
-|15|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|16|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|9|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|10|138.68.153.144|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|12|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|13|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|17|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|18|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|19|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
