@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4687** proxies at the latest update. Usable proxies are below.
+> Scraper found **4759** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|636|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2852|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|5|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|203.150.128.183|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|5|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|9|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|10|103.30.31.217|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
-|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|12|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|13|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|14|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|7|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|8|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|9|200.106.124.139|999|Peru|Tacna|Telefonica del Peru|
+|10|103.155.64.182|8080|Indonesia|Desa Mangkubumi|PT Media Access Telematika|
+|11|103.203.234.103|8080|Indonesia|Salatiga|PT Nesta Indo Media|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|179.61.98.3|999|Chile|Talca|SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.|
+|14|202.58.77.76|3125|Indonesia|Surabaya|PT Data Buana Nusantara|
+|15|160.20.38.102|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
 |16|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|20|180.148.4.74|8080|Vietnam|Ho Chi Minh City|VNTT|
+|17|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|18|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|19|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
