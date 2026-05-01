@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|8|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|9|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|3|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|9|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|10|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|11|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 |12|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 |13|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|15|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|16|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|18|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|15|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|16|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|17|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|20|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
 
 
 
