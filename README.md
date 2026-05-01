@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4745** proxies at the latest update. Usable proxies are below.
+> Scraper found **4792** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|703|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2783|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|2|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
-|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|9|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
-|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|2.27.40.180|1080|Netherlands|Amsterdam|Play2go International Limited|
-|15|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
-|16|185.234.64.66|1081|France|Paris|WorkTitans B.V.|
-|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|18|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|19|103.247.23.117|4317|Indonesia|Purbalingga|PT wifian Solution|
-|20|103.229.185.157|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|8|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|9|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|12|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
+|13|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|14|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|16|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
 
 
 
