@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|8|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|9|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|107.173.160.222|1080|United States|Los Angeles|HostPapa|
-|11|110.232.87.251|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|12|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|13|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|14|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|15|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|16|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
-|17|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|18|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|8|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|9|213.35.113.150|6969|Singapore|Singapore|Oracle Corporation|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|12|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|13|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|14|182.53.202.208|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
+|16|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|17|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|19|77.110.116.224|3128|Austria|Vienna|Aeza International LTD|
+|20|190.145.216.195|8080|Colombia|Medellín|Telmex Colombia S.A.|
 
 
 
