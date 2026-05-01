@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
 |2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|4|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
 |6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
 |7|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
 |8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
 |12|160.238.65.5|3128|The Netherlands|Amsterdam|GZ REMITTANCE (CHINA) INDUSTRY LIMITED|
-|13|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|14|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
 |15|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|16|190.97.239.40|999|Venezuela|Maracaibo||
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti|
-|20|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|16|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|19|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|20|103.193.145.32|8080|Indonesia|Batam|PT Lintas Jaringan Nusantara|
 
 
 
