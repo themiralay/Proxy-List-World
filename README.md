@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|5|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|6|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|171.5.188.106|8080|Thailand|Amphoe Aranyaprathet|Triple T Broadband Public Company Limited|
-|9|212.58.132.5|8888|United Kingdom|London|NSFOCUS, Inc.|
-|10|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
-|11|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|12|193.43.140.101|8080|Syria|Dārayyā|Syrian Telecom|
-|13|103.158.253.163|1111|Indonesia|Brebes|Rapid Network|
-|14|103.179.252.74|3128|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|16|103.159.96.171|3122|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|17|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|18|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
-|19|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
+|1|110.172.28.217|3128|Vietnam|Quận Mười Một|CONTABO|
+|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|3|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|4|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|5|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|6|103.176.97.108|3128|Indonesia|Bekasi|PT Global Sarana Elektronika|
+|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|8|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|9|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|10|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
+|11|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|15|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|16|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|20|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
 
 
 
