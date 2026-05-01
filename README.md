@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|4|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|5|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|7|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|8|5.161.50.82|8118|United States|Ashburn|Hetzner Online GmbH|
-|9|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|10|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|11|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|12|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|103.238.232.70|8080|Indonesia|Purwakarta|PT Digital Netcom Solution|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|16|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|17|185.225.41.129|8080|Syria|Damascus|sy-samaweb|
-|18|36.94.149.149|8090|Indonesia|Cipinang Melayu|PT. Telekomunikasi Indonesia|
-|19|149.78.206.146|3600|Brazil|Porto Seguro|Cogent Communications|
-|20|162.255.110.107|8080|United States|Kennewick|Desert Winds Wireless|
+|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|86.104.74.110|1082|France|Paris|WorkTitans B.V.|
+|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|14|200.92.201.126|999|Mexico|San Felipe|Mega Cable, S.A. de C.V.|
+|15|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|17|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|154.64.232.135|7890|United States|Los Angeles|NetLab Global|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
