@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
-|7|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
-|10|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|11|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|12|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|3|107.173.160.222|1080|United States|Los Angeles|HostPapa|
+|4|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
+|7|94.131.118.129|1081|France|Paris|WorkTitans B.V.|
+|8|139.162.153.201|3128|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|9|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|160.187.220.38|8082|Philippines|City of Kidapawan|Imtech Solution and Data Providers|
 |13|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|14|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|144.124.227.88|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|17|95.181.83.3|3128|Russia|Kemerovo|Goodline.info|
-|18|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|19|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|17|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
+|18|103.35.191.244|1082|United States|Secaucus|WorkTitans B.V.|
+|19|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
+|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 
 
 
