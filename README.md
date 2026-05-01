@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|4|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|136.228.128.248|8080|Cambodia|Phnom Penh|S.I Group|
-|7|94.158.219.111|3128|Latvia|Riga|SIA VEESP|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|119.2.52.40|8080|Indonesia|Pugeran Maguwoharjo|GMEDIA|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|12|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|13|91.108.243.203|3128|Germany|Frankfurt am Main|DePowered Limited|
-|14|103.22.99.26|8080|Indonesia|Magetan|KHALISTAGROUP|
-|15|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|103.180.118.174|6789|Indonesia|Mojoagung|PT Persada Data Multimedia|
-|18|103.203.234.103|8080|Indonesia|Salatiga|PT Nesta Indo Media|
-|19|103.126.174.187|8080|Indonesia|Bandar Lampung|MEGARAP|
-|20|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
+|2|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|5|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|8|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|9|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
+|10|103.30.31.217|32323|Bangladesh|Paltan|Broad Band Telecom Services Ltd|
+|11|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|12|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|13|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|14|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|16|103.70.114.149|3128|Vietnam|Vinhomes Royal City|MOZ-TECH|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|19|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|20|180.148.4.74|8080|Vietnam|Ho Chi Minh City|VNTT|
 
 
 
