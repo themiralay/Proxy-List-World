@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|10|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|11|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
-|12|103.94.10.254|8080|Indonesia|South Tangerang|PT Widya Intersat Nusantara|
-|13|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|212.34.146.118|3128|Netherlands|Amsterdam|Servers Tech Fzco|
-|15|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|147.75.34.105|443|Netherlands|Amsterdam|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|115.147.16.205|5050|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|4|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|6|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|7|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|8|103.157.200.126|3128|Pakistan|Model Town|Logitech Cable (Private) Limited|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|11|147.78.0.81|9443|United Arab Emirates|Muhadhdhib|ONEPROVIDER|
+|12|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|14|180.191.233.230|8080|Philippines|Kauran|Globe Telecom|
+|15|103.157.79.82|1111|Indonesia|Jakarta|EASTMEDIA|
+|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|17|103.210.35.183|8080|Indonesia|Yogyakarta|Diskominfo DIY|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|186.96.67.40|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|182.253.109.126|8080|Indonesia|Semarang|Biznet Metronet|
 
 
 
