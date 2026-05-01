@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|5|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|103.160.40.254|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
-|8|103.145.132.184|8080|Bangladesh|Sonargaon|Md Raisul Islam|
-|9|175.158.63.166|1111|Indonesia|West Jakarta|CBNNAP|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|7|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
 |10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|12|103.138.145.130|8090|Bangladesh|Kishorganj|Neef IT Limited|
-|13|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|14|103.166.9.50|3128|Indonesia|Bekasi|PT Akses Bersama Sedaya|
-|15|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|16|23.95.76.201|8443|Canada|Montreal|BrainStorm Network Inc.|
-|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|18|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|19|103.142.61.183|8080|Indonesia|Klaten|UTARAMEDIANET|
-|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|135.125.97.184|32901|France|Wattrelos|OVH SAS|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|16|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|17|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
+|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
