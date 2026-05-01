@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|2|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|94.131.118.129|1082|France|Paris|WorkTitans B.V.|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|6|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|9|194.150.220.163|1082|The Netherlands|Eygelshoven|Global Connectivity Solutions LLP|
+|10|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
 |11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|15|64.188.67.154|10808|Germany|Frankfurt am Main|Play2go International Limited|
-|16|172.105.118.164|3128|Singapore|Singapore|Akamai Technologies|
-|17|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|103.155.167.62|8080|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
-|20|103.22.99.95|1111|Indonesia|Magetan|KHALISTAGROUP|
+|12|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|203.172.136.211|8080|Thailand|Hang Dong|Ministry of Education - EMISC|
+|17|181.204.81.179|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|18|172.105.118.164|3128|Singapore|Singapore|Akamai Technologies|
+|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|20|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
 
 
 
