@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
-|3|167.160.191.204|6005|Canada|Toronto|HostPapa|
-|4|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|4|72.11.151.159|6005|Canada|Toronto|HostPapa|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|119.18.146.65|10001|Bangladesh|Chittagong|BBTS Network|
-|7|167.160.191.204|6005|Canada|Toronto|HostPapa|
-|8|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|6|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
+|7|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
+|8|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
 |10|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|11|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|12|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|11|119.18.146.65|10001|Bangladesh|Chittagong|BBTS Network|
+|12|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
 |13|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
-|14|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|45.140.147.155|1082|The Netherlands|Meppel|WorkTitans B.V.|
-|18|202.148.18.178|8080|Indonesia|East Jakarta|PT. Core Mediatech|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|176.235.182.72|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|15|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
+|16|185.230.190.195|3128|Finland|Helsinki|Livi Hosting LTD|
+|17|124.217.77.143|5050|Philippines|Cabiao|Philippine Long Distance Telephone Co.|
+|18|103.189.197.79|8080|Indonesia|Karangtanjung|PT Graha Sumber Teknologi|
+|19|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|31.131.248.51|3129|Russia|St Petersburg|JSC Selectel|
 
 
 
