@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|45.32.39.135|1080|Japan|Minamishinagawa|The Constant Company|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|3|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
+|4|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
 |5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|8|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
-|9|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|12|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|45.63.88.46|1080|United States|Santa Clara|The Constant Company|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
-|17|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|18|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|19|38.7.24.175|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|20|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|8|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
+|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|16|189.127.167.136|8080|Venezuela|Barquisimeto|RED SERVITEL, CA|
+|17|202.58.77.195|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
+|18|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|19|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
