@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|3|43.133.44.89|8888|Singapore|Singapore|Aceville Pte.ltd|
-|4|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|5|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|7|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
-|8|122.3.207.67|8089|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|9|36.64.193.226|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
-|12|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|13|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|1|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|2|103.81.194.162|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|38.252.213.66|999|Peru|Perené|Telcom Mikrotik Peru S.A.C|
+|5|103.173.140.145|8080|Indonesia|Kroya|WIFIAN ID|
+|6|38.191.42.201|999|Colombia|Cúcuta|Servinet Comunicaciones S.A.S.|
+|7|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|8|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|9|103.35.190.69|1081|United States|Secaucus|WorkTitans B.V.|
+|10|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|11|203.76.220.126|16464|Bangladesh|Pīrgaaj|BUSINESSNETWORK|
+|12|102.68.128.214|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|13|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|14|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|15|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
 |16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
-|19|186.97.200.214|999|Colombia|Medellín|Colombia Móvil|
-|20|167.71.222.124|10001|Singapore|Singapore|DigitalOcean, LLC|
+|17|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|20|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
