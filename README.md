@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|2|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|5|34.101.184.164|3128|Indonesia|Jakarta|Google LLC|
+|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |7|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|8|86.102.77.67|1081|Russia|Vladivostok|PRIMORYE|
-|9|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
-|10|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
-|11|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.35.190.69|1082|United States|Secaucus|WorkTitans B.V.|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|96.227.245.221|999|United States|Philadelphia|Verizon Business|
-|16|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|17|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|18|103.133.26.119|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|20|185.234.64.63|1081|France|Paris|WorkTitans B.V.|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|10|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|14|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|15|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|103.35.191.174|1081|United States|Secaucus|WorkTitans B.V.|
+|19|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
+|20|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
