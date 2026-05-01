@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|2|119.18.146.65|10001|Bangladesh|Chittagong|BBTS Network|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|7|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|202.58.77.9|8080|Indonesia|Surabaya|PT Data Buana Nusantara|
-|10|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
-|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
-|18|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|19|124.217.77.143|5050|Philippines|Cabiao|Philippine Long Distance Telephone Co.|
-|20|188.132.249.234|8080|Turkey|Kilis|High Speed For Internet Services L.L.C|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|119.18.146.65|10001|Bangladesh|Chittagong|BBTS Network|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|6|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|7|113.192.1.154|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
+|8|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.26|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|14|162.240.154.26|3128|United States|Phoenix|Unified Layer|
+|15|45.59.122.132|80|Switzerland|Bern|RouterHosting LLC|
+|16|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|17|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.167.171.151|8097|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|19|38.252.213.69|999|Peru|Bajo Pichanaqui|Telcom Mikrotik Peru S.A.C|
+|20|150.107.140.238|3128|Indonesia|Caringin|PT. Jala Lintas Media|
 
 
 
