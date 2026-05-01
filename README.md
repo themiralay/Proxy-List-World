@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|11|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|12|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|13|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|14|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|15|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|16|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|17|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|18|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|19|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|6|86.104.72.219|1081|United States|Austin|WorkTitans B.V.|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|10|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|11|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|12|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|113.11.76.233|30226|Bangladesh|Rajshahi|BDCOM Online Limited|
+|15|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|17|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|18|177.93.59.66|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|19|38.156.23.169|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|20|103.153.149.139|8080|Indonesia|Weleri|JARINGANKU|
 
 
 
