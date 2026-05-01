@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|1|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|2|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|4|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|5|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|6|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
 |7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|9|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
-|11|103.172.121.26|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|12|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.13.35|8561|Japan|Tokyo|Microsoft Corporation|
-|15|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|18|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|19|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|11|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|12|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|15|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|16|185.118.51.133|3128|Azerbaijan|Baku|AzFiberNet LLC|
+|17|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|18|49.147.107.185|8082|Philippines|Iloilo City|Philippine Long Distance Telephone Co.|
+|19|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|20|62.60.231.71|56608|Sweden|Stockholm|Aeza International LTD|
 
 
 
