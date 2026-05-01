@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
 |3|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|4|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
 |5|103.35.191.138|1082|United States|Secaucus|WorkTitans B.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|8|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
-|9|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|10|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
-|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|12|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|91.217.81.131|1080|Russia|Moscow|First Server Limited|
-|14|86.104.72.220|1082|United States|Austin|WorkTitans B.V.|
-|15|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|16|103.161.69.17|2698|Bangladesh|Chittagong|MiME|
-|17|103.194.175.51|7777|Indonesia|Sempu|MYNET|
-|18|62.60.237.68|8080|Finland|Helsinki|Aeza International LTD|
-|19|77.110.119.136|3128|United States|Charlotte|Aeza International LTD|
-|20|144.31.25.69|21064|Germany|Frankfurt am Main|Kyonix Networks Limited|
+|6|154.64.232.35|8080|United States|Los Angeles|NetLab Global|
+|7|103.35.190.182|1082|United States|Secaucus|WorkTitans B.V.|
+|8|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|9|103.35.191.174|1082|United States|Secaucus|WorkTitans B.V.|
+|10|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|11|168.222.254.136|8888|Germany|Frankfurt am Main|Intezio Worldwide Limited|
+|12|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|13|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|14|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
+|15|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|16|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
+|17|130.61.174.200|1080|Germany|Frankfurt am Main|Oracle Corporation|
+|18|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|19|65.109.213.99|1080|Finland|Helsinki|Hetzner Online GmbH|
+|20|103.191.169.148|8080|Indonesia|Taccipi|PT Sugi Bintang Jaya|
 
 
 
