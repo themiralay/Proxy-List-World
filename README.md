@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|1|8.211.166.184|8081|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|3|222.107.27.7|8074|South Korea|Gangdong-gu|Korea Telecom|
-|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|5|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
-|6|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|7|89.208.106.138|10808|Netherlands|Amsterdam|Aeza International LTD|
-|8|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|13|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|14|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
-|15|120.92.212.16|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|16|103.160.40.254|8080|Indonesia|Cipacung Landeuh|PT Wistel Teknologi Solusi|
-|17|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
-|18|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|19|190.7.28.36|8080|Argentina|Buenos Aires|Gigared S.A|
-|20|91.217.81.131|1080|Russia|Moscow|First Server Limited|
+|3|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|4|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|5|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|6|86.104.72.220|1081|United States|Austin|WorkTitans B.V.|
+|7|72.11.150.178|6005|Canada|Toronto|HostPapa|
+|8|148.230.4.241|999|Mexico|Naranjos|Digy Networks|
+|9|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|10|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|11|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
+|12|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|13|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|14|64.188.67.154|1080|Germany|Frankfurt am Main|Play2go International Limited|
+|15|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|16|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|17|92.119.127.211|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|18|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|19|119.148.55.89|9108|Bangladesh|Dhaka|Agni Systems Limited|
+|20|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
 
 
 
