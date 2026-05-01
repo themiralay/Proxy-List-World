@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.132.190|7890|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|1.231.81.166|3128|South Korea|Jongno-gu|SK Broadband Co Ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|5|80.92.204.47|1081|Russia|Moscow|WorkTitans B.V.|
-|6|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|7|45.167.124.71|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|94.131.118.39|1081|France|Paris|WorkTitans B.V.|
-|9|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|10|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
-|11|185.230.191.240|3128|Finland|Helsinki|Livi Hosting LTD|
-|12|72.11.151.159|6005|Canada|Toronto|HostPapa|
-|13|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
-|14|103.209.36.58|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|15|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|16|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|176.235.182.72|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|72.11.150.178|6005|Canada|Toronto|HostPapa|
-|20|200.174.198.32|8888|Brazil|Estácio|Claro S.A.|
+|1|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|2|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|3|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|4|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|5|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|6|86.104.74.110|1081|France|Paris|WorkTitans B.V.|
+|7|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|9|45.153.231.229|8080|Russia|Moscow|UFO Hosting LLC|
+|10|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|11|45.140.147.82|1081|The Netherlands|Meppel|WorkTitans B.V.|
+|12|173.212.245.136|8888|France|Lauterbourg|Contabo GmbH|
+|13|81.26.190.143|1080|Russia|Murmansk|OOO ComLine|
+|14|92.119.127.208|6005|France|Strasbourg|velia.net Internetdienste GmbH|
+|15|94.131.118.39|1082|France|Paris|WorkTitans B.V.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|185.21.11.140|1080|Sweden|Falkenberg|Fornex Hosting S.L.|
+|18|178.156.224.42|3128|United States|Ashburn|Hetzner Online GmbH|
+|19|223.84.151.86|30005|China|Jinrongjie|China Mobile communications corporation|
+|20|27.147.137.234|9108|Bangladesh|Narayanganj|Link3 Technologies Limited|
 
 
 
