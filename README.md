@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|2|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
-|3|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|4|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|5|8.217.90.107|22520|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
-|7|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|47.238.203.170|50000|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|9|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
-|10|46.101.95.183|8888|United Kingdom|Slough|DigitalOcean, LLC|
-|11|62.113.119.14|8080|Russia|Moscow|Hosting technology LTD|
-|12|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
-|15|125.26.4.219|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|103.231.236.202|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|17|103.145.30.46|1452|Indonesia|Utan|ICONPLN|
-|18|92.255.110.140|1080|Russia|St Petersburg|JSC "TIMEWEB"|
-|19|2.27.32.81|3128|Finland|Helsinki|DpkgSoft International Limited|
-|20|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|1|210.223.44.230|3128|South Korea|Seoul|Korea Telecom|
+|2|103.231.236.202|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|3|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|4|113.160.132.26|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|5|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|6|34.96.238.40|8080|Hong Kong|Hong Kong|Google LLC|
+|7|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|8|113.160.130.82|443|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|9|159.223.225.118|8888|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|167.160.191.204|6005|Canada|Toronto|HostPapa|
+|11|20.164.75.153|8080|South Africa|Johannesburg|Microsoft Corporation|
+|12|47.85.51.197|1080|United States|Charlottesville|Alibaba.com LLC|
+|13|20.127.128.70|8080|United States|Boydton|Microsoft Corporation|
+|14|138.124.99.216|8888|Finland|Helsinki|Aeza International LTD|
+|15|91.184.241.12|443|Sweden|Stockholm|Aeza International LTD|
+|16|202.51.196.230|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|17|103.126.86.27|8010|Indonesia|Wates|PT. Rasi Bintang Perkasa|
+|18|103.145.30.46|1452|Indonesia|Utan|ICONPLN|
+|19|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|20|120.92.108.86|7890|China|Beijing|Beijing Kingsoft Cloud Internet Technology Co|
 
 
 
